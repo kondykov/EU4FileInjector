@@ -1,0 +1,1095 @@
+﻿l_english:
+ ###Ô¬®°°ª °©¢°ªþ ¥³¦²¢
+ #‚³¦²¢, ²¢¶½¸ª ° ¢± "¥?"
+ TAG_RD_JOM:0 "‡¯¢ª¬ª°¥¢" #GetTagRD
+ TAG_RD_HAH:0 "ª°¢" #GetTagRD
+ TAG_RD_ISR:0 "†©ª®¾" #GetTagRD
+ TAG_RD_TEM:0 "Ù¯±®ª¢" #GetTagRD
+ TAG_RD_TRL:0 "Ù±®°¦ªª" #GetTagRD
+ TAG_RD_CONVCK2:0 "¦¨¢º [Root.GetName]" #GetTagRD
+ #‚³¦²¢, ²¢¶½¸ª ° ¢± "³¦?"
+ TAG_VN_JOM:0 "¦¨¢³ ‡¯¢ª¬ª°¥¢" #GetTagVN
+ TAG_VN_HAH:0 "¦¨¢³ ª°¢" #GetTagVN
+ TAG_VN_ISR:0 "†©ª®¿" #GetTagVN
+ TAG_VN_TEM:0 "¦¨¢³ Ù¯±®ª¢" #GetTagVN
+ TAG_VN_TRL:0 "Ù±®°¦ª½" #GetTagVN
+ TAG_VN_CONVCK2:0 "¦¨¢³ [Root.GetName]" #GetTagVN
+ #‚³¦²¢, ²¢¶½¸ª ° ¢± "Ô¦®° ¶¯?"
+ TAG_TV_JOM:0 "‡¯¢ª¬ª°¥¯ª" #GetTagTV
+ TAG_TV_HAH:0 "ª°¯ª" #GetTagTV
+ TAG_TV_ISR:0 "†©ª®¯" #GetTagTV
+ TAG_TV_TEM:0 "Ù¯±®ª¯ª" #GetTagTV
+ TAG_TV_TRL:0 "Ù±®°¦ªþ" #GetTagTV
+ TAG_TV_CONVCK2:0 "¦¨¢þ [Root.GetName]" #GetTagTV
+ #‚³¦²¢, ²¢¶½¸ª ° ¢± "‚¦?"
+ TAG_PR_JOM:0 "¦¨¢ ‡¯¢ª¬ª°¥¢" #GetTagPR
+ TAG_PR_HAH:0 "¦¨¢ ª°¢" #GetTagPR
+ TAG_PR_ISR:0 "†©ª®" #GetTagPR
+ TAG_PR_TEM:0 "¦¨¢ Ù¯±®ª¢" #GetTagPR
+ TAG_PR_TRL:0 "Ù±®°¦ªª" #GetTagPR
+ TAG_PR_CONVCK2:0 "¦¨¢ [Root.GetName]" #GetTagPR
+ #‚³¦²¢, ²¢¶½¸ª ° ¢± "¯³?"
+ TAG_DT_JOM:0 "‡¯¢ª¬ª°¥¯" #GetTagDT
+ TAG_DT_HAH:0 "ª°¯" #GetTagDT
+ TAG_DT_ISR:0 "†©ª®½" #GetTagDT
+ TAG_DT_TEM:0 "Ù¯±®ª¯" #GetTagDT
+ TAG_DT_TRL:0 "Ù±®°¦ªª" #GetTagDT
+ TAG_DT_CONVCK2:0 "¦¨¢ [Root.GetName]" #GetTagDT
+ ###‰ª®¥²®¿°º ¥³¦²¢ ²¶°º¯ª ¡³¬¢¯ª
+ ADJ_JOM:0 "þ¯¢ª¬ª°¥¬" #GetAdjectiveSmall
+ ADJ_HAH:0 "ª°¬" #GetAdjectiveSmall
+ ADJ_ISR:0 "ª©ª®¿¬" #GetAdjectiveSmall
+ ADJ_TEM:0 "²¯±®ª¬" #GetAdjectiveSmall
+ ADJ_TRL:0 "²±®°¦¬" #GetAdjectiveSmall
+ ADJ_CONVCK2:0 "[Root.GetAdjective]" #GetAdjectiveSmall
+ ###³®¿²³º
+ norse_small:0 "¬°¦ª°¢¬"
+ german_small:0 "¥¯°¬"
+ old_lombard_small:0 "®¯¡¦¬"
+ frankish_small:0 "´°¬¬"
+ suebi_small:0 "¢¢¬"
+ anglo_saxon_small:0 "°¥®¬°¬"
+ italian_small:0 "ª²®¿¾°¬"
+ dalmatian_small:0 "¦®¯²¬"
+ outremer_small:0 "³²¯¬"
+ visigothic_small:0 "¢ª©ª¥²¬"
+ alan_small:0 "®°¬"
+ assyrian_small:0 "ªªþ¬"
+ coptic_cul_small:0 "¬±²¬"
+ pictish_small:0 "±ª¬²¬"
+ komi_small:0 "¬¯ª-©º¾°¬"
+ khanty_small:0 "°²ºþ¬"
+ mordvin_small:0 "¯¦¢¬"
+ meshchera_small:0 "¯¸¬"
+ old_prussian_small:0 "±³¬"
+ pecheneg_small:0 "±¶°¨¬"
+ cuman_small:0 "±®¢µ¬"
+ khazar_small:0 "©¬"
+ bolghar_small:0 "¡³®¥¬"
+ avar_small:0 "¢¬"
+ karluk_small:0 "¬®³¬¬"
+ khitan_small:0 "¬ª¦°¿¬"
+ russian_culture_small:0 "³¬"
+ ilmenian_small:0 "ª®¿¯°¿¬"
+ severian_small:0 "¢¬"
+ volhynian_small:0 "¢®º°¬"
+ carantanian_small:0 "³²°¬"
+ sogdian_small:0 "¥¦ªþ¬"
+ tocharian_small:0 "²¬"
+ saka_small:0 "¬¬"
+ daju_small:0 "¦¥³¬"
+ zaghawa_small:0 "©¥¢¬"
+ ashkenazi_small:0 "Œ¬°©¬"
+ sephardi_small:0 "´¦¬"
+ tangut_small:0 "²°¥³²¬"
+ zhangzhung_small:0 "Œ°¥Œ³°¥¬"
+ sumpa_small:0 "³¯±°¬"
+ equine_small:0 "®Œ¦ª°¬"
+ cat_small:0 "¬Œ¬ª°¬"
+ bear_small:0 "Œ¬³þ¬"
+ hedgehog_culture_small:0 "¦ª¬¡©¬"
+ duck_culture_small:0 "®©°¿¬"
+ dog_culture_small:0 "¡¶ª°¬"
+ elephant_culture_small:0 "¼®´°²¬"
+ dragon_culture_small:0 "¦¬°¢¬"
+ red_panda_small:0 "±°¦°¬"
+ ###Ð®ª¥ªª
+ #Ð®ª¥ª¾ ¢ ª¯°ª²®¿°¯ ±¦¨
+ cathar_small:0 "¬²ª©¯" #ReligionIM
+ fraticelli_small:0 "´²ª¶®®ª" #ReligionIM
+ waldensian_small:0 "¢®¿¦°ª©¯" #ReligionIM
+ lollard_small:0 "®®®¦ª©¯" #ReligionIM
+ monophysite_small:0 "¯°´ª©ª²²¢" #ReligionIM
+ bogomilist_small:0 "¡¥¯ª®¿²¢" #ReligionIM
+ monothelite_small:0 "¯°´®ª²²¢" #ReligionIM
+ iconoclast_small:0 "ª¬°¡¶²¢" #ReligionIM
+ paulician_small:0 "±¢®ª¬ª°²¢" #ReligionIM
+ nestorian_small:0 "°²ª°²¢" #ReligionIM
+ messalian_small:0 "¯®ª°²¢" #ReligionIM
+ zikri_small:0 "©ª¬ª©¯" #ReligionIM
+ yazidi_small:0 "©ª¦ª©¯" #ReligionIM
+ kharijite_small:0 "ª¦¨ª©¯" #ReligionIM
+ druze_small:0 "¦³©ª©¯" #ReligionIM
+ hurufi_small:0 "³³´ª©¯" #ReligionIM
+ baltic_pagan_reformed_small:0 "¡®²ªþ¬ ¾©º¶²¢" #ReligionIM
+ finnish_pagan_reformed_small:0 "´ª°¬ ¾©º¶²¢" #ReligionIM
+ slavic_pagan_reformed_small:0 "®¢¾°¬ ¾©º¶²¢" #ReligionIM
+ zun_pagan_reformed_small:0 "©³°¬ ¾©º¶²¢" #ReligionIM
+ hellenic_pagan_reformed_small:0 "¼®®ª°ª©¯" #ReligionIM
+ hellenic_pagan_small:0 "¼®®ª°¬ ¾©º¶²¢" #ReligionIM
+ bon_reformed_small:0 "¡°" #ReligionIM
+ bon_small:0 "¡°¬ ¾©º¶²¢" #ReligionIM
+ mazdaki_small:0 "¯©¦¬ª©¯" #ReligionIM
+ manichean_small:0 "¯°ªþ²¢" #ReligionIM
+ khurmazta_small:0 "¥¦¯©¦ª©¯" #ReligionIM
+ samaritan_faith_small:0 "¯ª²°ª©¯" #ReligionIM
+ karaite_faith_small:0 "¬ª©¯" #ReligionIM
+ jain_small:0 "¦¨þ°ª©¯" #ReligionIM
+ #Ð®ª¥ª¾ ¢ ¦ª²®¿°¯ ±¦¨
+ cathar_name_RD:0 "¬²ª©¯" #ReligionRD
+ fraticelli_name_RD:0 "´²ª¶®®ª" #ReligionRD
+ waldensian_name_RD:0 "¢®¿¦°ª©¯" #ReligionRD
+ lollard_name_RD:0 "®®®¦ª©¯" #ReligionRD
+ monophysite_name_RD:0 "¯°´ª©ª²²¢" #ReligionRD
+ bogomilist_name_RD:0 "¡¥¯ª®¿²¢" #ReligionRD
+ monothelite_name_RD:0 "¯°´®ª²²¢" #ReligionRD
+ iconoclast_name_RD:0 "ª¬°¡¶²¢" #ReligionRD
+ paulician_name_RD:0 "±¢®ª¬ª°²¢" #ReligionRD
+ nestorian_name_RD:0 "°²ª°²¢" #ReligionRD
+ messalian_name_RD:0 "¯®ª°²¢" #ReligionRD
+ zikri_name_RD:0 "©ª¬ª©¯" #ReligionRD
+ yazidi_name_RD:0 "©ª¦ª©¯" #ReligionRD
+ kharijite_name_RD:0 "ª¦¨ª©¯" #ReligionRD
+ druze_name_RD:0 "¦³©ª©¯" #ReligionRD
+ hurufi_name_RD:0 "³³´ª©¯" #ReligionRD
+ baltic_pagan_reformed_name_RD:0 "¡®²ªþ¬¥ ¾©º¶²¢" #ReligionRD
+ finnish_pagan_reformed_name_RD:0 "´ª°¬¥ ¾©º¶²¢" #ReligionRD
+ slavic_pagan_reformed_name_RD:0 "®¢¾°¬¥ ¾©º¶²¢" #ReligionRD
+ zun_pagan_reformed_name_RD:0 "©³°¬¥ ¾©º¶²¢" #ReligionRD
+ hellenic_pagan_reformed_name_RD:0 "¼®®ª°ª©¯" #ReligionRD
+ hellenic_pagan_name_RD:0 "¼®®ª°¬¥ ¾©º¶²¢" #ReligionRD
+ bon_reformed_name_RD:0 "¡°" #ReligionRD
+ bon_name_RD:0 "¡°¬¥ ¾©º¶²¢" #ReligionRD
+ mazdaki_name_RD:0 "¯©¦¬ª©¯" #ReligionRD
+ manichean_name_RD:0 "¯°ªþ²¢" #ReligionRD
+ khurmazta_name_RD:0 "¥¦¯©¦ª©¯" #ReligionRD
+ samaritan_faith_name_RD:0 "¯ª²°ª©¯" #ReligionRD
+ karaite_faith_name_RD:0 "¬ª©¯" #ReligionRD
+ jain_name_RD:0 "¦¨þ°ª©¯" #ReligionRD
+ #Ð®ª¥ª¾ ¢ ¦²®¿°¯ ±¦¨
+ cathar_name_DT:0 "¬²ª©¯³" #ReligionDT
+ fraticelli_name_DT:0 "´²ª¶®®ª" #ReligionDT
+ waldensian_name_DT:0 "¢®¿¦°ª©¯³" #ReligionDT
+ lollard_name_DT:0 "®®®¦ª©¯³" #ReligionDT
+ monophysite_name_DT:0 "¯°´ª©ª²²¢³" #ReligionDT
+ bogomilist_name_DT:0 "¡¥¯ª®¿²¢³" #ReligionDT
+ monothelite_name_DT:0 "¯°´®ª²²¢³" #ReligionDT
+ iconoclast_name_DT:0 "ª¬°¡¶²¢³" #ReligionDT
+ paulician_name_DT:0 "±¢®ª¬ª°²¢³" #ReligionDT
+ nestorian_name_DT:0 "°²ª°²¢³" #ReligionDT
+ messalian_name_DT:0 "¯®ª°²¢³" #ReligionDT
+ zikri_name_DT:0 "©ª¬ª©¯³" #ReligionDT
+ yazidi_name_DT:0 "©ª¦ª©¯³" #ReligionDT
+ kharijite_name_DT:0 "ª¦¨ª©¯³" #ReligionDT
+ druze_name_DT:0 "¦³©ª©¯³" #ReligionDT
+ hurufi_name_DT:0 "³³´ª©¯³" #ReligionDT
+ baltic_pagan_reformed_name_DT:0 "¡®²ªþ¬¯³ ¾©º¶²¢³" #ReligionDT
+ finnish_pagan_reformed_name_DT:0 "´ª°¬¯³ ¾©º¶²¢³" #ReligionDT
+ slavic_pagan_reformed_name_DT:0 "®¢¾°¬¯³ ¾©º¶²¢³" #ReligionDT
+ zun_pagan_reformed_name_DT:0 "©³°¬¯³ ¾©º¶²¢³" #ReligionDT
+ hellenic_pagan_reformed_name_DT:0 "¼®®ª°ª©¯³" #ReligionDT
+ hellenic_pagan_name_DT:0 "¼®®ª°¬¯³ ¾©º¶²¢³" #ReligionDT
+ bon_reformed_name_DT:0 "¡°³" #ReligionDT
+ bon_name_DT:0 "¡°¬¯³ ¾©º¶²¢³" #ReligionDT
+ mazdaki_name_DT:0 "¯©¦¬ª©¯³" #ReligionDT
+ manichean_name_DT:0 "¯°ªþ²¢³" #ReligionDT
+ khurmazta_name_DT:0 "¥¦¯©¦ª©¯³" #ReligionDT
+ samaritan_faith_name_DT:0 "¯ª²°ª©¯³" #ReligionDT
+ karaite_faith_name_DT:0 "¬ª©¯³" #ReligionDT
+ jain_name_DT:0 "¦¨þ°ª©¯³" #ReligionDT
+ #Ð®ª¥ª¾ ¢ ²¢ª²®¿°¯ ±¦¨
+ cathar_name_TV:0 "¬²ª©¯¯" #ReligionTV
+ fraticelli_name_TV:0 "´²ª¶®®ª" #ReligionTV
+ waldensian_name_TV:0 "¢®¿¦°ª©¯¯" #ReligionTV
+ lollard_name_TV:0 "®®®¦ª©¯¯" #ReligionTV
+ monophysite_name_TV:0 "¯°´ª©ª²²¢¯" #ReligionTV
+ bogomilist_name_TV:0 "¡¥¯ª®¿²¢¯" #ReligionTV
+ monothelite_name_TV:0 "¯°´®ª²²¢¯" #ReligionTV
+ iconoclast_name_TV:0 "ª¬°¡¶²¢¯" #ReligionTV
+ paulician_name_TV:0 "±¢®ª¬ª°²¢¯" #ReligionTV
+ nestorian_name_TV:0 "°²ª°²¢¯" #ReligionTV
+ messalian_name_TV:0 "¯®ª°²¢¯" #ReligionTV
+ zikri_name_TV:0 "©ª¬ª©¯¯" #ReligionTV
+ yazidi_name_TV:0 "©ª¦ª©¯¯" #ReligionTV
+ kharijite_name_TV:0 "ª¦¨ª©¯¯" #ReligionTV
+ druze_name_TV:0 "¦³©ª©¯¯" #ReligionTV
+ hurufi_name_TV:0 "³³´ª©¯¯" #ReligionTV
+ baltic_pagan_reformed_name_TV:0 "¡®²ªþ¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ finnish_pagan_reformed_name_TV:0 "´ª°¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ slavic_pagan_reformed_name_TV:0 "®¢¾°¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ zun_pagan_reformed_name_TV:0 "©³°¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ hellenic_pagan_reformed_name_TV:0 "¼®®ª°ª©¯¯" #ReligionTV
+ hellenic_pagan_name_TV:0 "¼®®ª°¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ bon_reformed_name_TV:0 "¡°¯" #ReligionTV
+ bon_name_TV:0 "¡°¬ª¯ ¾©º¶²¢¯" #ReligionTV
+ mazdaki_name_TV:0 "¯©¦¬ª©¯¯" #ReligionTV
+ manichean_name_TV:0 "¯°ªþ²¢¯" #ReligionTV
+ khurmazta_name_TV:0 "¥¦¯©¦ª©¯¯" #ReligionTV
+ samaritan_faith_name_TV:0 "¯ª²°ª©¯¯" #ReligionTV
+ karaite_faith_name_TV:0 "¬ª©¯¯" #ReligionTV
+ jain_name_TV:0 "¦¨þ°ª©¯¯" #ReligionTV
+ #Ð®ª¥ª¾ ¢ ±¦®¨°¯ ±¦¨
+ cathar_name_PR:0 "¬²ª©¯" #ReligionPR
+ fraticelli_name_PR:0 "´²ª¶®®ª" #ReligionPR
+ waldensian_name_PR:0 "¢®¿¦°ª©¯" #ReligionPR
+ lollard_name_PR:0 "®®®¦ª©¯" #ReligionPR
+ monophysite_name_PR:0 "¯°´ª©ª²²¢" #ReligionPR
+ bogomilist_name_PR:0 "¡¥¯ª®¿²¢" #ReligionPR
+ monothelite_name_PR:0 "¯°´®ª²²¢" #ReligionPR
+ iconoclast_name_PR:0 "ª¬°¡¶²¢" #ReligionPR
+ paulician_name_PR:0 "±¢®ª¬ª°²¢" #ReligionPR
+ nestorian_name_PR:0 "°²ª°²¢" #ReligionPR
+ messalian_name_PR:0 "¯®ª°²¢" #ReligionPR
+ zikri_name_PR:0 "©ª¬ª©¯" #ReligionPR
+ yazidi_name_PR:0 "©ª¦ª©¯" #ReligionPR
+ kharijite_name_PR:0 "ª¦¨ª©¯" #ReligionPR
+ druze_name_PR:0 "¦³©ª©¯" #ReligionPR
+ hurufi_name_PR:0 "³³´ª©¯" #ReligionPR
+ baltic_pagan_reformed_name_PR:0 "¡®²ªþ¬¯ ¾©º¶²¢" #ReligionPR
+ finnish_pagan_reformed_name_PR:0 "´ª°¬¯ ¾©º¶²¢" #ReligionPR
+ slavic_pagan_reformed_name_PR:0 "®¢¾°¬¯ ¾©º¶²¢" #ReligionPR
+ zun_pagan_reformed_name_PR:0 "©³°¬¯ ¾©º¶²¢" #ReligionPR
+ hellenic_pagan_reformed_name_PR:0 "¼®®ª°ª©¯" #ReligionPR
+ hellenic_pagan_name_PR:0 "¼®®ª°¬¯ ¾©º¶²¢" #ReligionPR
+ bon_reformed_name_PR:0 "¡°" #ReligionPR
+ bon_name_PR:0 "¡°¬¯ ¾©º¶²¢" #ReligionPR
+ mazdaki_name_PR:0 "¯©¦¬ª©¯" #ReligionPR
+ manichean_name_PR:0 "¯°ªþ²¢" #ReligionPR
+ khurmazta_name_PR:0 "¥¦¯©¦ª©¯" #ReligionPR
+ samaritan_faith_name_PR:0 "¯ª²°ª©¯" #ReligionPR
+ karaite_faith_name_PR:0 "¬ª©¯" #ReligionPR
+ jain_name_PR:0 "¦¨þ°ª©¯" #ReligionPR
+ 
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ª¯°ª²®¿°¯ ±¦¨
+ cathar_IM:0 "¬²ª¬" #BelieversIM
+ fraticelli_IM:0 "´²ª¶®®ª" #BelieversIM
+ waldensian_IM:0 "¢®¿¦°" #BelieversIM
+ lollard_IM:0 "®®®¦" #BelieversIM
+ monophysite_IM:0 "¯°´ª©ª²" #BelieversIM
+ bogomilist_IM:0 "¡¥¯ª®" #BelieversIM
+ monothelite_IM:0 "¯°´®ª²" #BelieversIM
+ iconoclast_IM:0 "ª¬°¡µ" #BelieversIM
+ paulician_IM:0 "±¢®ª¬ª°µ" #BelieversIM
+ nestorian_IM:0 "°²ª°ª°" #BelieversIM
+ messalian_IM:0 "¯®ª°ª°" #BelieversIM
+ zikri_IM:0 "©ª¬ª²" #BelieversIM
+ yazidi_IM:0 "©ª¦" #BelieversIM
+ kharijite_IM:0 "ª¦¨ª²" #BelieversIM
+ druze_IM:0 "¦³©ª¦" #BelieversIM
+ hurufi_IM:0 "³³´ª²" #BelieversIM
+ baltic_pagan_reformed_IM:0 "¡®²ªþµ" #BelieversIM
+ finnish_pagan_reformed_IM:0 "´ª°°" #BelieversIM
+ slavic_pagan_reformed_IM:0 "®¢¾°ª°" #BelieversIM
+ zun_pagan_reformed_IM:0 "©³°¡ª®" #BelieversIM
+ hellenic_pagan_reformed_IM:0 "¼®®ª°" #BelieversIM
+ hellenic_pagan_IM:0 "¼®®ª°" #BelieversIM
+ bon_reformed_IM:0 "¡°" #BelieversIM
+ bon_IM:0 "¡°" #BelieversIM
+ mazdaki_IM:0 "¯©¦¬ªþµ" #BelieversIM
+ manichean_IM:0 "¯°ªþµ" #BelieversIM
+ khurmazta_IM:0 "¥¦¯©¦ª²" #BelieversIM
+ samaritan_faith_IM:0 "¯ª²°ª²" #BelieversIM
+ karaite_faith_IM:0 "¬ª²" #BelieversIM
+ jain_IM:0 "¦¨þ°" #BelieversIM
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ¦ª²®¿°¯ ±¦¨
+ cathar_RD:0 "¬²ª¬" #BelieversRD
+ fraticelli_RD:0 "´²ª¶®®ª" #BelieversRD
+ waldensian_RD:0 "¢®¿¦°" #BelieversRD
+ lollard_RD:0 "®®®¦" #BelieversRD
+ monophysite_RD:0 "¯°´ª©ª²" #BelieversRD
+ bogomilist_RD:0 "¡¥¯ª®" #BelieversRD
+ monothelite_RD:0 "¯°´®ª²" #BelieversRD
+ iconoclast_RD:0 "ª¬°¡µ" #BelieversRD
+ paulician_RD:0 "±¢®ª¬ª°µ" #BelieversRD
+ nestorian_RD:0 "°²ª°ª°" #BelieversRD
+ messalian_RD:0 "¯®ª°ª°" #BelieversRD
+ zikri_RD:0 "©ª¬ª²" #BelieversRD
+ yazidi_RD:0 "©ª¦" #BelieversRD
+ kharijite_RD:0 "ª¦¨ª²" #BelieversRD
+ druze_RD:0 "¦³©ª¦" #BelieversRD
+ hurufi_RD:0 "³³´ª²" #BelieversRD
+ baltic_pagan_reformed_RD:0 "¡®²ªþµ" #BelieversRD
+ finnish_pagan_reformed_RD:0 "´ª°°" #BelieversRD
+ slavic_pagan_reformed_RD:0 "®¢¾°ª°" #BelieversRD
+ zun_pagan_reformed_RD:0 "©³°¡ª®" #BelieversRD
+ hellenic_pagan_reformed_RD:0 "¼®®ª°" #BelieversRD
+ hellenic_pagan_RD:0 "¼®®ª°" #BelieversRD
+ bon_reformed_RD:0 "¡°" #BelieversRD
+ bon_RD:0 "¡°" #BelieversRD
+ mazdaki_RD:0 "¯©¦¬ªþµ" #BelieversRD
+ manichean_RD:0 "¯°ªþµ" #BelieversRD
+ khurmazta_RD:0 "¥¦¯©¦ª²" #BelieversRD
+ samaritan_faith_RD:0 "¯ª²°ª²" #BelieversRD
+ karaite_faith_RD:0 "¬ª²" #BelieversRD
+ jain_RD:0 "¦¨þ°" #BelieversRD
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ¦²®¿°¯ ±¦¨
+ cathar_DT:0 "¬²ª¬³" #BelieversDT
+ fraticelli_DT:0 "´²ª¶®®ª" #BelieversDT
+ waldensian_DT:0 "¢®¿¦°³" #BelieversDT
+ lollard_DT:0 "®®®¦³" #BelieversDT
+ monophysite_DT:0 "¯°´ª©ª²³" #BelieversDT
+ bogomilist_DT:0 "¡¥¯ª®³" #BelieversDT
+ monothelite_DT:0 "¯°´®ª²³" #BelieversDT
+ iconoclast_DT:0 "ª¬°¡µ³" #BelieversDT
+ paulician_DT:0 "±¢®ª¬ª°µ³" #BelieversDT
+ nestorian_DT:0 "°²ª°ª°³" #BelieversDT
+ messalian_DT:0 "¯®ª°ª°³" #BelieversDT
+ zikri_DT:0 "©ª¬ª²³" #BelieversDT
+ yazidi_DT:0 "©ª¦³" #BelieversDT
+ kharijite_DT:0 "ª¦¨ª²³" #BelieversDT
+ druze_DT:0 "¦³©ª¦³" #BelieversDT
+ hurufi_DT:0 "³³´ª²³" #BelieversDT
+ baltic_pagan_reformed_DT:0 "¡®²ªþµ³" #BelieversDT
+ finnish_pagan_reformed_DT:0 "´ª°°³" #BelieversDT
+ slavic_pagan_reformed_DT:0 "®¢¾°ª°³" #BelieversDT
+ zun_pagan_reformed_DT:0 "©³°¡ª®³" #BelieversDT
+ hellenic_pagan_reformed_DT:0 "¼®®ª°³" #BelieversDT
+ hellenic_pagan_DT:0 "¼®®ª°³" #BelieversDT
+ bon_reformed_DT:0 "¡°³" #BelieversDT
+ bon_DT:0 "¡°³" #BelieversDT
+ mazdaki_DT:0 "¯©¦¬ªþµ³" #BelieversDT
+ manichean_DT:0 "¯°ªþµ³" #BelieversDT
+ khurmazta_DT:0 "¥¦¯©¦ª²³" #BelieversDT
+ samaritan_faith_DT:0 "¯ª²°ª²³" #BelieversDT
+ karaite_faith_DT:0 "¬ª²³" #BelieversDT
+ jain_DT:0 "¦¨þ°³" #BelieversDT
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ²¢ª²®¿°¯ ±¦¨
+ cathar_TV:0 "¬²ª¬¯" #BelieversTV
+ fraticelli_TV:0 "´²ª¶®®ª" #BelieversTV
+ waldensian_TV:0 "¢®¿¦°¯" #BelieversTV
+ lollard_TV:0 "®®®¦¯" #BelieversTV
+ monophysite_TV:0 "¯°´ª©ª²¯" #BelieversTV
+ bogomilist_TV:0 "¡¥¯ª®¯" #BelieversTV
+ monothelite_TV:0 "¯°´®ª²¯" #BelieversTV
+ iconoclast_TV:0 "ª¬°¡µ¯" #BelieversTV
+ paulician_TV:0 "±¢®ª¬ª°µ¯" #BelieversTV
+ nestorian_TV:0 "°²ª°ª°¯" #BelieversTV
+ messalian_TV:0 "¯®ª°ª°¯" #BelieversTV
+ zikri_TV:0 "©ª¬ª²¯" #BelieversTV
+ yazidi_TV:0 "©ª¦¯" #BelieversTV
+ kharijite_TV:0 "ª¦¨ª²¯" #BelieversTV
+ druze_TV:0 "¦³©ª¦¯" #BelieversTV
+ hurufi_TV:0 "³³´ª²¯" #BelieversTV
+ baltic_pagan_reformed_TV:0 "¡®²ªþµ¯" #BelieversTV
+ finnish_pagan_reformed_TV:0 "´ª°°¯" #BelieversTV
+ slavic_pagan_reformed_TV:0 "®¢¾°ª°¯" #BelieversTV
+ zun_pagan_reformed_TV:0 "©³°¡ª®¯" #BelieversTV
+ hellenic_pagan_reformed_TV:0 "¼®®ª°¯" #BelieversTV
+ hellenic_pagan_TV:0 "¼®®ª°¯" #BelieversTV
+ bon_reformed_TV:0 "¡°¯" #BelieversTV
+ bon_TV:0 "¡°¯" #BelieversTV
+ mazdaki_TV:0 "¯©¦¬ªþµ¯" #BelieversTV
+ manichean_TV:0 "¯°ªþµ¯" #BelieversTV
+ khurmazta_TV:0 "¥¦¯©¦ª²¯" #BelieversTV
+ samaritan_faith_TV:0 "¯ª²°ª²¯" #BelieversTV
+ karaite_faith_TV:0 "¬ª²¯" #BelieversTV
+ jain_TV:0 "¦¨þ°¯" #BelieversTV
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ±¦®¨°¯ ±¦¨
+ cathar_PR:0 "¬²ª¬" #BelieversPR
+ fraticelli_PR:0 "´²ª¶®®ª" #BelieversPR
+ waldensian_PR:0 "¢®¿¦°" #BelieversPR
+ lollard_PR:0 "®®®¦" #BelieversPR
+ monophysite_PR:0 "¯°´ª©ª²" #BelieversPR
+ bogomilist_PR:0 "¡¥¯ª®" #BelieversPR
+ monothelite_PR:0 "¯°´®ª²" #BelieversPR
+ iconoclast_PR:0 "ª¬°¡µ" #BelieversPR
+ paulician_PR:0 "±¢®ª¬ª°µ" #BelieversPR
+ nestorian_PR:0 "°²ª°ª°" #BelieversPR
+ messalian_PR:0 "¯®ª°ª°" #BelieversPR
+ zikri_PR:0 "©ª¬ª²" #BelieversPR
+ yazidi_PR:0 "©ª¦" #BelieversPR
+ kharijite_PR:0 "ª¦¨ª²" #BelieversPR
+ druze_PR:0 "¦³©ª¦" #BelieversPR
+ hurufi_PR:0 "³³´ª²" #BelieversPR
+ baltic_pagan_reformed_PR:0 "¡®²ªþµ" #BelieversPR
+ finnish_pagan_reformed_PR:0 "´ª°°" #BelieversPR
+ slavic_pagan_reformed_PR:0 "®¢¾°ª°" #BelieversPR
+ zun_pagan_reformed_PR:0 "©³°¡ª®" #BelieversPR
+ hellenic_pagan_reformed_PR:0 "¼®®ª°" #BelieversPR
+ hellenic_pagan_PR:0 "¼®®ª°" #BelieversPR
+ bon_reformed_PR:0 "¡°" #BelieversPR
+ bon_PR:0 "¡°" #BelieversPR
+ mazdaki_PR:0 "¯©¦¬ªþµ" #BelieversPR
+ manichean_PR:0 "¯°ªþµ" #BelieversPR
+ khurmazta_PR:0 "¥¦¯©¦ª²" #BelieversPR
+ samaritan_faith_PR:0 "¯ª²°ª²" #BelieversPR
+ karaite_faith_PR:0 "¬ª²" #BelieversPR
+ jain_PR:0 "¦¨þ°" #BelieversPR
+ 
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ª¯°ª²®¿°¯ ±¦¨
+ cathar_plural_IM:0 "¬²ª¬ª" #BelieversPluralIM
+ fraticelli_plural_IM:0 "´²ª¶®®ª" #BelieversPluralIM
+ waldensian_plural_IM:0 "¢®¿¦°º" #BelieversPluralIM
+ lollard_plural_IM:0 "®®®¦º" #BelieversPluralIM
+ monophysite_plural_IM:0 "¯°´ª©ª²º" #BelieversPluralIM
+ bogomilist_plural_IM:0 "¡¥¯ª®º" #BelieversPluralIM
+ monothelite_plural_IM:0 "¯°´®ª²º" #BelieversPluralIM
+ iconoclast_plural_IM:0 "ª¬°¡µº" #BelieversPluralIM
+ paulician_plural_IM:0 "±¢®ª¬ª°µº" #BelieversPluralIM
+ nestorian_plural_IM:0 "°²ª°" #BelieversPluralIM
+ messalian_plural_IM:0 "¯®ª°" #BelieversPluralIM
+ zikri_plural_IM:0 "©ª¬ª²º" #BelieversPluralIM
+ yazidi_plural_IM:0 "©ª¦º" #BelieversPluralIM
+ kharijite_plural_IM:0 "ª¦¨ª²º" #BelieversPluralIM
+ druze_plural_IM:0 "¦³©ª¦º" #BelieversPluralIM
+ hurufi_plural_IM:0 "³³´ª²º" #BelieversPluralIM
+ baltic_pagan_reformed_plural_IM:0 "¡®²ªþµº" #BelieversPluralIM
+ finnish_pagan_reformed_plural_IM:0 "´ª°°º" #BelieversPluralIM
+ slavic_pagan_reformed_plural_IM:0 "®¢¾°" #BelieversPluralIM
+ zun_pagan_reformed_plural_IM:0 "©³°¡ª®º" #BelieversPluralIM
+ hellenic_pagan_reformed_plural_IM:0 "¼®®ª°º" #BelieversPluralIM
+ hellenic_pagan_plural_IM:0 "¼®®ª°º" #BelieversPluralIM
+ bon_reformed_plural_IM:0 "¡°º" #BelieversPluralIM
+ bon_plural_IM:0 "¡°º" #BelieversPluralIM
+ mazdaki_plural_IM:0 "¯©¦¬ªþµº" #BelieversPluralIM
+ manichean_plural_IM:0 "¯°ªþµº" #BelieversPluralIM
+ khurmazta_plural_IM:0 "¥¦¯©¦ª²º" #BelieversPluralIM
+ samaritan_faith_plural_IM:0 "¯ª²°ª²º" #BelieversPluralIM
+ karaite_faith_plural_IM:0 "¬ª²º" #BelieversPluralIM
+ jain_plural_IM:0 "¦¨þ°º" #BelieversPluralIM
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ¦ª²®¿°¯ ±¦¨
+ cathar_plural_RD:0 "¬²ª¬¢" #BelieversPluralRD
+ fraticelli_plural_RD:0 "´²ª¶®®ª" #BelieversPluralRD
+ waldensian_plural_RD:0 "¢®¿¦°ªþµ¢" #BelieversPluralRD
+ lollard_plural_RD:0 "®®®¦¢" #BelieversPluralRD
+ monophysite_plural_RD:0 "¯°´ª©ª²¢" #BelieversPluralRD
+ bogomilist_plural_RD:0 "¡¥¯ª®¢" #BelieversPluralRD
+ monothelite_plural_RD:0 "¯°´®ª²¢" #BelieversPluralRD
+ iconoclast_plural_RD:0 "ª¬°¡µ¢" #BelieversPluralRD
+ paulician_plural_RD:0 "±¢®ª¬ª°µ¢" #BelieversPluralRD
+ nestorian_plural_RD:0 "°²ª°" #BelieversPluralRD
+ messalian_plural_RD:0 "¯®ª°" #BelieversPluralRD
+ zikri_plural_RD:0 "©ª¬ª²¢" #BelieversPluralRD
+ yazidi_plural_RD:0 "©ª¦¢" #BelieversPluralRD
+ kharijite_plural_RD:0 "ª¦¨ª²¢" #BelieversPluralRD
+ druze_plural_RD:0 "¦³©ª¦¢" #BelieversPluralRD
+ hurufi_plural_RD:0 "³³´ª²¢" #BelieversPluralRD
+ baltic_pagan_reformed_plural_RD:0 "¡®²ªþµ¢" #BelieversPluralRD
+ finnish_pagan_reformed_plural_RD:0 "´ª°°¢" #BelieversPluralRD
+ slavic_pagan_reformed_plural_RD:0 "®¢¾°" #BelieversPluralRD
+ zun_pagan_reformed_plural_RD:0 "©³°¡ª®¢" #BelieversPluralRD
+ hellenic_pagan_reformed_plural_RD:0 "¼®®ª°¢" #BelieversPluralRD
+ hellenic_pagan_plural_RD:0 "¼®®ª°¢" #BelieversPluralRD
+ bon_reformed_plural_RD:0 "¡°¢" #BelieversPluralRD
+ bon_plural_RD:0 "¡°¢" #BelieversPluralRD
+ mazdaki_plural_RD:0 "¯©¦¬ªþµ¢" #BelieversPluralRD
+ manichean_plural_RD:0 "¯°ªþµ¢" #BelieversPluralRD
+ khurmazta_plural_RD:0 "¥¦¯©¦ª²¢" #BelieversPluralRD
+ samaritan_faith_plural_RD:0 "¯ª²¾°" #BelieversPluralRD
+ karaite_faith_plural_RD:0 "¬ª²¢" #BelieversPluralRD
+ jain_plural_RD:0 "¦¨þ°" #BelieversPluralRD
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ¦²®¿°¯ ±¦¨
+ cathar_plural_DT:0 "¬²ª¬¯" #BelieversPluralDT
+ fraticelli_plural_DT:0 "´²ª¶®®ª" #BelieversPluralDT
+ waldensian_plural_DT:0 "¢®¿¦°¯" #BelieversPluralDT
+ lollard_plural_DT:0 "®®®¦¯" #BelieversPluralDT
+ monophysite_plural_DT:0 "¯°´ª©ª²¯" #BelieversPluralDT
+ bogomilist_plural_DT:0 "¡¥¯ª®¯" #BelieversPluralDT
+ monothelite_plural_DT:0 "¯°´®ª²¯" #BelieversPluralDT
+ iconoclast_plural_DT:0 "ª¬°¡µ¯" #BelieversPluralDT
+ paulician_plural_DT:0 "±¢®ª¬°¯" #BelieversPluralDT
+ nestorian_plural_DT:0 "°²ª°¯" #BelieversPluralDT
+ messalian_plural_DT:0 "¯®ª°¯" #BelieversPluralDT
+ zikri_plural_DT:0 "©ª¬ª²¯" #BelieversPluralDT
+ yazidi_plural_DT:0 "©ª¦¯" #BelieversPluralDT
+ kharijite_plural_DT:0 "ª¦¨ª²¯" #BelieversPluralDT
+ druze_plural_DT:0 "¦³©ª¦¯" #BelieversPluralDT
+ hurufi_plural_DT:0 "³³´ª²¯" #BelieversPluralDT
+ baltic_pagan_reformed_plural_DT:0 "¡®²ªþµ¯" #BelieversPluralDT
+ finnish_pagan_reformed_plural_DT:0 "´ª°°¯" #BelieversPluralDT
+ slavic_pagan_reformed_plural_DT:0 "®¢¾°¯" #BelieversPluralDT
+ zun_pagan_reformed_plural_DT:0 "©³°¡ª®¯" #BelieversPluralDT
+ hellenic_pagan_reformed_plural_DT:0 "¼®®ª°¯" #BelieversPluralDT
+ hellenic_pagan_plural_DT:0 "¼®®ª°¯" #BelieversPluralDT
+ bon_reformed_plural_DT:0 "¡°¯" #BelieversPluralDT
+ bon_plural_DT:0 "¡°¯" #BelieversPluralDT
+ mazdaki_plural_DT:0 "¯©¦¬ªþµ¯" #BelieversPluralDT
+ manichean_plural_DT:0 "¯°ªþµ¯" #BelieversPluralDT
+ khurmazta_plural_DT:0 "¥¦¯©¦ª²¯" #BelieversPluralDT
+ samaritan_faith_plural_DT:0 "¯ª²°ª²¯" #BelieversPluralDT
+ karaite_faith_plural_DT:0 "¬ª²¯" #BelieversPluralDT
+ jain_plural_DT:0 "¦¨þ°¯" #BelieversPluralDT
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ²¢ª²®¿°¯ ±¦¨
+ cathar_plural_TV:0 "¬²ª¬¯ª" #BelieversPluralTV
+ fraticelli_plural_TV:0 "´²ª¶®®ª" #BelieversPluralTV
+ waldensian_plural_TV:0 "¢®¿¦°¯ª" #BelieversPluralTV
+ lollard_plural_TV:0 "®®®¦¯ª" #BelieversPluralTV
+ monophysite_plural_TV:0 "¯°´ª©ª²¯ª" #BelieversPluralTV
+ bogomilist_plural_TV:0 "¡¥¯ª®¯ª" #BelieversPluralTV
+ monothelite_plural_TV:0 "¯°´®ª²¯ª" #BelieversPluralTV
+ iconoclast_plural_TV:0 "ª¬°¡µ¯ª" #BelieversPluralTV
+ paulician_plural_TV:0 "±¢®ª¬ª°µ¯ª" #BelieversPluralTV
+ nestorian_plural_TV:0 "°²ª°¯ª" #BelieversPluralTV
+ messalian_plural_TV:0 "¯®ª°¯ª" #BelieversPluralTV
+ zikri_plural_TV:0 "©ª¬ª²¯ª" #BelieversPluralTV
+ yazidi_plural_TV:0 "©ª¦¯ª" #BelieversPluralTV
+ kharijite_plural_TV:0 "ª¦¨ª²¯ª" #BelieversPluralTV
+ druze_plural_TV:0 "¦³©ª¦¯ª" #BelieversPluralTV
+ hurufi_plural_TV:0 "³³´ª²¯ª" #BelieversPluralTV
+ baltic_pagan_reformed_plural_TV:0 "¡®²ªþµ¯ª" #BelieversPluralTV
+ finnish_pagan_reformed_plural_TV:0 "´ª°°¯ª" #BelieversPluralTV
+ slavic_pagan_reformed_plural_TV:0 "®¢¾°¯ª" #BelieversPluralTV
+ zun_pagan_reformed_plural_TV:0 "©³°¡ª®¯ª" #BelieversPluralTV
+ hellenic_pagan_reformed_plural_TV:0 "¼®®ª°¯ª" #BelieversPluralTV
+ hellenic_pagan_plural_TV:0 "¼®®ª°¯ª" #BelieversPluralTV
+ bon_reformed_plural_TV:0 "¡°¯ª" #BelieversPluralTV
+ bon_plural_TV:0 "¡°¯ª" #BelieversPluralTV
+ mazdaki_plural_TV:0 "¯©¦¬ªþµ¯ª" #BelieversPluralTV
+ manichean_plural_TV:0 "¯°ªþµ¯ª" #BelieversPluralTV
+ khurmazta_plural_TV:0 "¥¦¯©¦ª²¯ª" #BelieversPluralTV
+ samaritan_faith_plural_TV:0 "¯ª²°ª²¯ª" #BelieversPluralTV
+ karaite_faith_plural_TV:0 "¬ª²¯ª" #BelieversPluralTV
+ jain_plural_TV:0 "¦¨þ°¯ª" #BelieversPluralTV
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ±¦®¨°¯ ±¦¨
+ cathar_plural_PR:0 "¬²ª¬" #BelieversPluralPR
+ fraticelli_plural_PR:0 "´²ª¶®®ª" #BelieversPluralPR
+ waldensian_plural_PR:0 "¢®¿¦°" #BelieversPluralPR
+ lollard_plural_PR:0 "®®®¦" #BelieversPluralPR
+ monophysite_plural_PR:0 "¯°´ª©ª²" #BelieversPluralPR
+ bogomilist_plural_PR:0 "¡¥¯ª®" #BelieversPluralPR
+ monothelite_plural_PR:0 "¯°´®ª²" #BelieversPluralPR
+ iconoclast_plural_PR:0 "ª¬°¡µ" #BelieversPluralPR
+ paulician_plural_PR:0 "±¢®ª¬ª°µ" #BelieversPluralPR
+ nestorian_plural_PR:0 "°²ª°" #BelieversPluralPR
+ messalian_plural_PR:0 "¯®ª°" #BelieversPluralPR
+ zikri_plural_PR:0 "©ª¬ª²" #BelieversPluralPR
+ yazidi_plural_PR:0 "©ª¦" #BelieversPluralPR
+ kharijite_plural_PR:0 "ª¦¨ª²" #BelieversPluralPR
+ druze_plural_PR:0 "¦³©ª¦" #BelieversPluralPR
+ hurufi_plural_PR:0 "³³´ª²" #BelieversPluralPR
+ baltic_pagan_reformed_plural_PR:0 "¡®²ªþµ" #BelieversPluralPR
+ finnish_pagan_reformed_plural_PR:0 "´ª°°" #BelieversPluralPR
+ slavic_pagan_reformed_plural_PR:0 "®¢¾°" #BelieversPluralPR
+ zun_pagan_reformed_plural_PR:0 "©³°¡ª®" #BelieversPluralPR
+ hellenic_pagan_reformed_plural_PR:0 "¼®®ª°" #BelieversPluralPR
+ hellenic_pagan_plural_PR:0 "¼®®ª°" #BelieversPluralPR
+ bon_reformed_plural_PR:0 "¡°" #BelieversPluralPR
+ bon_plural_PR:0 "¡°" #BelieversPluralPR
+ mazdaki_plural_PR:0 "¯©¦¬ªþµ" #BelieversPluralPR
+ manichean_plural_PR:0 "¯°ªþµ" #BelieversPluralPR
+ khurmazta_plural_PR:0 "¥¦¯©¦ª²" #BelieversPluralPR
+ samaritan_faith_plural_PR:0 "¯ª²°ª²" #BelieversPluralPR
+ karaite_faith_plural_PR:0 "¬ª²" #BelieversPluralPR
+ jain_plural_PR:0 "¦¨þ°" #BelieversPluralPR
+ 
+ #Ð®ª¥ª¾ ¢ ª¯°ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_name_IM_CAP:0 "²ª©¯" #ReligionIM_CAP
+ fraticelli_name_IM_CAP:0 "Ê²ª¶®®ª" #ReligionIM_CAP
+ waldensian_name_IM_CAP:0 "Ï®¿¦°ª©¯" #ReligionIM_CAP
+ lollard_name_IM_CAP:0 "ˆ®®¦ª©¯" #ReligionIM_CAP
+ monophysite_name_IM_CAP:0 "°´ª©ª²²¢" #ReligionIM_CAP
+ bogomilist_name_IM_CAP:0 "€¥¯ª®¿²¢" #ReligionIM_CAP
+ monothelite_name_IM_CAP:0 "°´®ª²²¢" #ReligionIM_CAP
+ iconoclast_name_IM_CAP:0 "†¬°¡¶²¢" #ReligionIM_CAP
+ paulician_name_IM_CAP:0 "‰¢®ª¬ª°²¢" #ReligionIM_CAP
+ nestorian_name_IM_CAP:0 "²ª°²¢" #ReligionIM_CAP
+ messalian_name_IM_CAP:0 "®ª°²¢" #ReligionIM_CAP
+ zikri_name_IM_CAP:0 "…ª¬ª©¯" #ReligionIM_CAP
+ yazidi_name_IM_CAP:0 "©ª¦ª©¯" #ReligionIM_CAP
+ kharijite_name_IM_CAP:0 "Ûª¦¨ª©¯" #ReligionIM_CAP
+ druze_name_IM_CAP:0 "ƒ³©ª©¯" #ReligionIM_CAP
+ hurufi_name_IM_CAP:0 "Û³³´ª©¯" #ReligionIM_CAP
+ baltic_pagan_reformed_name_IM_CAP:0 "€®²ªþ¬ ¾©º¶²¢" #ReligionIM_CAP
+ finnish_pagan_reformed_name_IM_CAP:0 "Êª°¬ ¾©º¶²¢" #ReligionIM_CAP
+ slavic_pagan_reformed_name_IM_CAP:0 "Ô®¢¾°¬ ¾©º¶²¢" #ReligionIM_CAP
+ zun_pagan_reformed_name_IM_CAP:0 "…³°¬ ¾©º¶²¢" #ReligionIM_CAP
+ hellenic_pagan_reformed_name_IM_CAP:0 "™®®ª°ª©¯" #ReligionIM_CAP
+ hellenic_pagan_name_IM_CAP:0 "™®®ª°¬ ¾©º¶²¢" #ReligionIM_CAP
+ bon_reformed_name_IM_CAP:0 "€°" #ReligionIM_CAP
+ bon_name_IM_CAP:0 "€°¬ ¾©º¶²¢" #ReligionIM_CAP
+ mazdaki_name_IM_CAP:0 "©¦¬ª©¯" #ReligionIM_CAP
+ manichean_name_IM_CAP:0 "°ªþ²¢" #ReligionIM_CAP
+ khurmazta_name_IM_CAP:0 "Ô¥¦¯©¦ª©¯" #ReligionIM_CAP
+ samaritan_faith_name_IM_CAP:0 "Ô¯ª²°ª©¯" #ReligionIM_CAP
+ karaite_faith_name_IM_CAP:0 "ª©¯" #ReligionIM_CAP
+ jain_name_IM_CAP:0 "ƒ¨þ°ª©¯" #ReligionIM_CAP
+ #Ð®ª¥ª¾ ¢ ¦ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_name_RD_CAP:0 "²ª©¯" #ReligionRD_CAP
+ fraticelli_name_RD_CAP:0 "Ê²ª¶®®ª" #ReligionRD_CAP
+ waldensian_name_RD_CAP:0 "Ï®¿¦°ª©¯" #ReligionRD_CAP
+ lollard_name_RD_CAP:0 "ˆ®®¦ª©¯" #ReligionRD_CAP
+ monophysite_name_RD_CAP:0 "°´ª©ª²²¢" #ReligionRD_CAP
+ bogomilist_name_RD_CAP:0 "€¥¯ª®¿²¢" #ReligionRD_CAP
+ monothelite_name_RD_CAP:0 "°´®ª²²¢" #ReligionRD_CAP
+ iconoclast_name_RD_CAP:0 "†¬°¡¶²¢" #ReligionRD_CAP
+ paulician_name_RD_CAP:0 "‰¢®ª¬ª°²¢" #ReligionRD_CAP
+ nestorian_name_RD_CAP:0 "²ª°²¢" #ReligionRD_CAP
+ messalian_name_RD_CAP:0 "®ª°²¢" #ReligionRD_CAP
+ zikri_name_RD_CAP:0 "…ª¬ª©¯" #ReligionRD_CAP
+ yazidi_name_RD_CAP:0 "©ª¦ª©¯" #ReligionRD_CAP
+ kharijite_name_RD_CAP:0 "Ûª¦¨ª©¯" #ReligionRD_CAP
+ druze_name_RD_CAP:0 "ƒ³©ª©¯" #ReligionRD_CAP
+ hurufi_name_RD_CAP:0 "Û³³´ª©¯" #ReligionRD_CAP
+ baltic_pagan_reformed_name_RD_CAP:0 "€®²ªþ¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ finnish_pagan_reformed_name_RD_CAP:0 "Êª°¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ slavic_pagan_reformed_name_RD_CAP:0 "Ô®¢¾°¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ zun_pagan_reformed_name_RD_CAP:0 "…³°¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ hellenic_pagan_reformed_name_RD_CAP:0 "™®®ª°ª©¯" #ReligionRD_CAP
+ hellenic_pagan_name_RD_CAP:0 "™®®ª°¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ bon_reformed_name_RD_CAP:0 "€°" #ReligionRD_CAP
+ bon_name_RD_CAP:0 "€°¬¥ ¾©º¶²¢" #ReligionRD_CAP
+ mazdaki_name_RD_CAP:0 "©¦¬ª©¯" #ReligionRD_CAP
+ manichean_name_RD_CAP:0 "°ªþ²¢" #ReligionRD_CAP
+ khurmazta_name_RD_CAP:0 "Ô¥¦¯©¦ª©¯" #ReligionRD_CAP
+ samaritan_faith_name_RD_CAP:0 "Ô¯ª²°ª©¯" #ReligionRD_CAP
+ karaite_faith_name_RD_CAP:0 "ª©¯" #ReligionRD_CAP
+ jain_name_RD_CAP:0 "ƒ¨þ°ª©¯" #ReligionRD_CAP
+ #Ð®ª¥ª¾ ¢ ¦²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_name_DT_CAP:0 "²ª©¯³" #ReligionDT_CAP
+ fraticelli_name_DT_CAP:0 "Ê²ª¶®®ª" #ReligionDT_CAP
+ waldensian_name_DT_CAP:0 "Ï®¿¦°ª©¯³" #ReligionDT_CAP
+ lollard_name_DT_CAP:0 "ˆ®®¦ª©¯³" #ReligionDT_CAP
+ monophysite_name_DT_CAP:0 "°´ª©ª²²¢³" #ReligionDT_CAP
+ bogomilist_name_DT_CAP:0 "€¥¯ª®¿²¢³" #ReligionDT_CAP
+ monothelite_name_DT_CAP:0 "°´®ª²²¢³" #ReligionDT_CAP
+ iconoclast_name_DT_CAP:0 "†¬°¡¶²¢³" #ReligionDT_CAP
+ paulician_name_DT_CAP:0 "‰¢®ª¬ª°²¢³" #ReligionDT_CAP
+ nestorian_name_DT_CAP:0 "²ª°²¢³" #ReligionDT_CAP
+ messalian_name_DT_CAP:0 "®ª°²¢³" #ReligionDT_CAP
+ zikri_name_DT_CAP:0 "…ª¬ª©¯³" #ReligionDT_CAP
+ yazidi_name_DT_CAP:0 "©ª¦ª©¯³" #ReligionDT_CAP
+ kharijite_name_DT_CAP:0 "Ûª¦¨ª©¯³" #ReligionDT_CAP
+ druze_name_DT_CAP:0 "ƒ³©ª©¯³" #ReligionDT_CAP
+ hurufi_name_DT_CAP:0 "Û³³´ª©¯³" #ReligionDT_CAP
+ baltic_pagan_reformed_name_DT_CAP:0 "€®²ªþ¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ finnish_pagan_reformed_name_DT_CAP:0 "Êª°¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ slavic_pagan_reformed_name_DT_CAP:0 "Ô®¢¾°¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ zun_pagan_reformed_name_DT_CAP:0 "…³°¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ hellenic_pagan_reformed_name_DT_CAP:0 "™®®ª°ª©¯³" #ReligionDT_CAP
+ hellenic_pagan_name_DT_CAP:0 "™®®ª°¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ bon_reformed_name_DT_CAP:0 "€°³" #ReligionDT_CAP
+ bon_name_DT_CAP:0 "€°¬¯³ ¾©º¶²¢³" #ReligionDT_CAP
+ mazdaki_name_DT_CAP:0 "©¦¬ª©¯³" #ReligionDT_CAP
+ manichean_name_DT_CAP:0 "°ªþ²¢³" #ReligionDT_CAP
+ khurmazta_name_DT_CAP:0 "Ô¥¦¯©¦ª©¯³" #ReligionDT_CAP
+ samaritan_faith_name_DT_CAP:0 "Ô¯ª²°ª©¯³" #ReligionDT_CAP
+ karaite_faith_name_DT_CAP:0 "ª©¯³" #ReligionDT_CAP
+ jain_name_DT_CAP:0 "ƒ¨þ°ª©¯³" #ReligionDT_CAP
+ #Ð®ª¥ª¾ ¢ ²¢ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_name_TV_CAP:0 "²ª©¯¯" #ReligionTV_CAP
+ fraticelli_name_TV_CAP:0 "Ê²ª¶®®ª" #ReligionTV_CAP
+ waldensian_name_TV_CAP:0 "Ï®¿¦°ª©¯¯" #ReligionTV_CAP
+ lollard_name_TV_CAP:0 "ˆ®®¦ª©¯¯" #ReligionTV_CAP
+ monophysite_name_TV_CAP:0 "°´ª©ª²²¢¯" #ReligionTV_CAP
+ bogomilist_name_TV_CAP:0 "€¥¯ª®¿²¢¯" #ReligionTV_CAP
+ monothelite_name_TV_CAP:0 "°´®ª²²¢¯" #ReligionTV_CAP
+ iconoclast_name_TV_CAP:0 "†¬°¡¶²¢¯" #ReligionTV_CAP
+ paulician_name_TV_CAP:0 "‰¢®ª¬ª°²¢¯" #ReligionTV_CAP
+ nestorian_name_TV_CAP:0 "²ª°²¢¯" #ReligionTV_CAP
+ messalian_name_TV_CAP:0 "®ª°²¢¯" #ReligionTV_CAP
+ zikri_name_TV_CAP:0 "…ª¬ª©¯¯" #ReligionTV_CAP
+ yazidi_name_TV_CAP:0 "©ª¦ª©¯¯" #ReligionTV_CAP
+ kharijite_name_TV_CAP:0 "Ûª¦¨ª©¯¯" #ReligionTV_CAP
+ druze_name_TV_CAP:0 "ƒ³©ª©¯¯" #ReligionTV_CAP
+ hurufi_name_TV_CAP:0 "Û³³´ª©¯¯" #ReligionTV_CAP
+ baltic_pagan_reformed_name_TV_CAP:0 "€®²ªþ¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ finnish_pagan_reformed_name_TV_CAP:0 "Êª°¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ slavic_pagan_reformed_name_TV_CAP:0 "Ô®¢¾°¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ zun_pagan_reformed_name_TV_CAP:0 "…³°¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ hellenic_pagan_reformed_name_TV_CAP:0 "™®®ª°ª©¯¯" #ReligionTV_CAP
+ hellenic_pagan_name_TV_CAP:0 "™®®ª°¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ bon_reformed_name_TV_CAP:0 "€°¯" #ReligionTV_CAP
+ bon_name_TV_CAP:0 "€°¬ª¯ ¾©º¶²¢¯" #ReligionTV_CAP
+ mazdaki_name_TV_CAP:0 "©¦¬ª©¯¯" #ReligionTV_CAP
+ manichean_name_TV_CAP:0 "°ªþ²¢¯" #ReligionTV_CAP
+ khurmazta_name_TV_CAP:0 "Ô¥¦¯©¦ª©¯¯" #ReligionTV_CAP
+ samaritan_faith_name_TV_CAP:0 "Ô¯ª²°ª©¯¯" #ReligionTV_CAP
+ karaite_faith_name_TV_CAP:0 "ª©¯¯" #ReligionTV_CAP
+ jain_name_TV_CAP:0 "ƒ¨þ°ª©¯¯" #ReligionTV_CAP
+ #Ð®ª¥ª¾ ¢ ±¦®¨°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_name_PR_CAP:0 "²ª©¯" #ReligionPR_CAP
+ fraticelli_name_PR_CAP:0 "Ê²ª¶®®ª" #ReligionPR_CAP
+ waldensian_name_PR_CAP:0 "Ï®¿¦°ª©¯" #ReligionPR_CAP
+ lollard_name_PR_CAP:0 "ˆ®®¦ª©¯" #ReligionPR_CAP
+ monophysite_name_PR_CAP:0 "°´ª©ª²²¢" #ReligionPR_CAP
+ bogomilist_name_PR_CAP:0 "€¥¯ª®¿²¢" #ReligionPR_CAP
+ monothelite_name_PR_CAP:0 "°´®ª²²¢" #ReligionPR_CAP
+ iconoclast_name_PR_CAP:0 "†¬°¡¶²¢" #ReligionPR_CAP
+ paulician_name_PR_CAP:0 "‰¢®ª¬ª°²¢" #ReligionPR_CAP
+ nestorian_name_PR_CAP:0 "²ª°²¢" #ReligionPR_CAP
+ messalian_name_PR_CAP:0 "®ª°²¢" #ReligionPR_CAP
+ zikri_name_PR_CAP:0 "…ª¬ª©¯" #ReligionPR_CAP
+ yazidi_name_PR_CAP:0 "©ª¦ª©¯" #ReligionPR_CAP
+ kharijite_name_PR_CAP:0 "Ûª¦¨ª©¯" #ReligionPR_CAP
+ druze_name_PR_CAP:0 "ƒ³©ª©¯" #ReligionPR_CAP
+ hurufi_name_PR_CAP:0 "Û³³´ª©¯" #ReligionPR_CAP
+ baltic_pagan_reformed_name_PR_CAP:0 "€®²ªþ¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ finnish_pagan_reformed_name_PR_CAP:0 "Êª°¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ slavic_pagan_reformed_name_PR_CAP:0 "Ô®¢¾°¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ zun_pagan_reformed_name_PR_CAP:0 "…³°¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ hellenic_pagan_reformed_name_PR_CAP:0 "™®®ª°ª©¯" #ReligionPR_CAP
+ hellenic_pagan_name_PR_CAP:0 "™®®ª°¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ bon_reformed_name_PR_CAP:0 "€°" #ReligionPR_CAP
+ bon_name_PR_CAP:0 "€°¬¯ ¾©º¶²¢" #ReligionPR_CAP
+ mazdaki_name_PR_CAP:0 "©¦¬ª©¯" #ReligionPR_CAP
+ manichean_name_PR_CAP:0 "°ªþ²¢" #ReligionPR_CAP
+ khurmazta_name_PR_CAP:0 "Ô¥¦¯©¦ª©¯" #ReligionPR_CAP
+ samaritan_faith_name_PR_CAP:0 "Ô¯ª²°ª©¯" #ReligionPR_CAP
+ karaite_faith_name_PR_CAP:0 "ª©¯" #ReligionPR_CAP
+ jain_name_PR_CAP:0 "ƒ¨þ°ª©¯" #ReligionPR_CAP
+ 
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ª¯°ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_IM_CAP:0 "²ª¬" #BelieversIM_CAP
+ fraticelli_IM_CAP:0 "Ê²ª¶®®ª" #BelieversIM_CAP
+ waldensian_IM_CAP:0 "Ï®¿¦°" #BelieversIM_CAP
+ lollard_IM_CAP:0 "ˆ®®¦" #BelieversIM_CAP
+ monophysite_IM_CAP:0 "°´ª©ª²" #BelieversIM_CAP
+ bogomilist_IM_CAP:0 "€¥¯ª®" #BelieversIM_CAP
+ monothelite_IM_CAP:0 "°´®ª²" #BelieversIM_CAP
+ iconoclast_IM_CAP:0 "†¬°¡µ" #BelieversIM_CAP
+ paulician_IM_CAP:0 "‰¢®ª¬ª°µ" #BelieversIM_CAP
+ nestorian_IM_CAP:0 "²ª°ª°" #BelieversIM_CAP
+ messalian_IM_CAP:0 "®ª°ª°" #BelieversIM_CAP
+ zikri_IM_CAP:0 "…ª¬ª²" #BelieversIM_CAP
+ yazidi_IM_CAP:0 "©ª¦" #BelieversIM_CAP
+ kharijite_IM_CAP:0 "Ûª¦¨ª²" #BelieversIM_CAP
+ druze_IM_CAP:0 "ƒ³©ª¦" #BelieversIM_CAP
+ hurufi_IM_CAP:0 "Û³³´ª²" #BelieversIM_CAP
+ baltic_pagan_reformed_IM_CAP:0 "€®²ªþµ" #BelieversIM_CAP
+ finnish_pagan_reformed_IM_CAP:0 "Êª°°" #BelieversIM_CAP
+ slavic_pagan_reformed_IM_CAP:0 "Ô®¢¾°ª°" #BelieversIM_CAP
+ zun_pagan_reformed_IM_CAP:0 "…³°¡ª®" #BelieversIM_CAP
+ hellenic_pagan_reformed_IM_CAP:0 "™®®ª°" #BelieversIM_CAP
+ hellenic_pagan_IM_CAP:0 "™®®ª°" #BelieversIM_CAP
+ bon_reformed_IM_CAP:0 "€°" #BelieversIM_CAP
+ bon_IM_CAP:0 "€°" #BelieversIM_CAP
+ mazdaki_IM_CAP:0 "©¦¬ªþµ" #BelieversIM_CAP
+ manichean_IM_CAP:0 "°ªþµ" #BelieversIM_CAP
+ khurmazta_IM_CAP:0 "Ô¥¦¯©¦ª²" #BelieversIM_CAP
+ samaritan_faith_IM_CAP:0 "Ô¯ª²°ª²" #BelieversIM_CAP
+ karaite_faith_IM_CAP:0 "ª²" #BelieversIM_CAP
+ jain_IM_CAP:0 "ƒ¨þ°" #BelieversIM_CAP
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ¦ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_RD_CAP:0 "²ª¬" #BelieversRD_CAP
+ fraticelli_RD_CAP:0 "Ê²ª¶®®ª" #BelieversRD_CAP
+ waldensian_RD_CAP:0 "Ï®¿¦°" #BelieversRD_CAP
+ lollard_RD_CAP:0 "ˆ®®¦" #BelieversRD_CAP
+ monophysite_RD_CAP:0 "°´ª©ª²" #BelieversRD_CAP
+ bogomilist_RD_CAP:0 "€¥¯ª®" #BelieversRD_CAP
+ monothelite_RD_CAP:0 "°´®ª²" #BelieversRD_CAP
+ iconoclast_RD_CAP:0 "†¬°¡µ" #BelieversRD_CAP
+ paulician_RD_CAP:0 "‰¢®ª¬ª°µ" #BelieversRD_CAP
+ nestorian_RD_CAP:0 "²ª°ª°" #BelieversRD_CAP
+ messalian_RD_CAP:0 "®ª°ª°" #BelieversRD_CAP
+ zikri_RD_CAP:0 "…ª¬ª²" #BelieversRD_CAP
+ yazidi_RD_CAP:0 "©ª¦" #BelieversRD_CAP
+ kharijite_RD_CAP:0 "Ûª¦¨ª²" #BelieversRD_CAP
+ druze_RD_CAP:0 "ƒ³©ª¦" #BelieversRD_CAP
+ hurufi_RD_CAP:0 "Û³³´ª²" #BelieversRD_CAP
+ baltic_pagan_reformed_RD_CAP:0 "€®²ªþµ" #BelieversRD_CAP
+ finnish_pagan_reformed_RD_CAP:0 "Êª°°" #BelieversRD_CAP
+ slavic_pagan_reformed_RD_CAP:0 "Ô®¢¾°ª°" #BelieversRD_CAP
+ zun_pagan_reformed_RD_CAP:0 "…³°¡ª®" #BelieversRD_CAP
+ hellenic_pagan_reformed_RD_CAP:0 "™®®ª°" #BelieversRD_CAP
+ hellenic_pagan_RD_CAP:0 "™®®ª°" #BelieversRD_CAP
+ bon_reformed_RD_CAP:0 "€°" #BelieversRD_CAP
+ bon_RD_CAP:0 "€°" #BelieversRD_CAP
+ mazdaki_RD_CAP:0 "©¦¬ªþµ" #BelieversRD_CAP
+ manichean_RD_CAP:0 "°ªþµ" #BelieversRD_CAP
+ khurmazta_RD_CAP:0 "Ô¥¦¯©¦ª²" #BelieversRD_CAP
+ samaritan_faith_RD_CAP:0 "Ô¯ª²°ª²" #BelieversRD_CAP
+ karaite_faith_RD_CAP:0 "ª²" #BelieversRD_CAP
+ jain_RD_CAP:0 "ƒ¨þ°" #BelieversRD_CAP
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ¦²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_DT_CAP:0 "²ª¬³" #BelieversDT_CAP
+ fraticelli_DT_CAP:0 "Ê²ª¶®®ª" #BelieversDT_CAP
+ waldensian_DT_CAP:0 "Ï®¿¦°³" #BelieversDT_CAP
+ lollard_DT_CAP:0 "ˆ®®¦³" #BelieversDT_CAP
+ monophysite_DT_CAP:0 "°´ª©ª²³" #BelieversDT_CAP
+ bogomilist_DT_CAP:0 "€¥¯ª®³" #BelieversDT_CAP
+ monothelite_DT_CAP:0 "°´®ª²³" #BelieversDT_CAP
+ iconoclast_DT_CAP:0 "†¬°¡µ³" #BelieversDT_CAP
+ paulician_DT_CAP:0 "‰¢®ª¬ª°µ³" #BelieversDT_CAP
+ nestorian_DT_CAP:0 "²ª°ª°³" #BelieversDT_CAP
+ messalian_DT_CAP:0 "®ª°ª°³" #BelieversDT_CAP
+ zikri_DT_CAP:0 "…ª¬ª²³" #BelieversDT_CAP
+ yazidi_DT_CAP:0 "©ª¦³" #BelieversDT_CAP
+ kharijite_DT_CAP:0 "Ûª¦¨ª²³" #BelieversDT_CAP
+ druze_DT_CAP:0 "ƒ³©ª¦³" #BelieversDT_CAP
+ hurufi_DT_CAP:0 "Û³³´ª²³" #BelieversDT_CAP
+ baltic_pagan_reformed_DT_CAP:0 "€®²ªþµ³" #BelieversDT_CAP
+ finnish_pagan_reformed_DT_CAP:0 "Êª°°³" #BelieversDT_CAP
+ slavic_pagan_reformed_DT_CAP:0 "Ô®¢¾°ª°³" #BelieversDT_CAP
+ zun_pagan_reformed_DT_CAP:0 "…³°¡ª®³" #BelieversDT_CAP
+ hellenic_pagan_reformed_DT_CAP:0 "™®®ª°³" #BelieversDT_CAP
+ hellenic_pagan_DT_CAP:0 "™®®ª°³" #BelieversDT_CAP
+ bon_reformed_DT_CAP:0 "€°³" #BelieversDT_CAP
+ bon_DT_CAP:0 "€°³" #BelieversDT_CAP
+ mazdaki_DT_CAP:0 "©¦¬ªþµ³" #BelieversDT_CAP
+ manichean_DT_CAP:0 "°ªþµ³" #BelieversDT_CAP
+ khurmazta_DT_CAP:0 "Ô¥¦¯©¦ª²³" #BelieversDT_CAP
+ samaritan_faith_DT_CAP:0 "Ô¯ª²°ª²³" #BelieversDT_CAP
+ karaite_faith_DT_CAP:0 "ª²³" #BelieversDT_CAP
+ jain_DT_CAP:0 "ƒ¨þ°³" #BelieversDT_CAP
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ²¢ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_TV_CAP:0 "²ª¬¯" #BelieversTV_CAP
+ fraticelli_TV_CAP:0 "Ê²ª¶®®ª" #BelieversTV_CAP
+ waldensian_TV_CAP:0 "Ï®¿¦°¯" #BelieversTV_CAP
+ lollard_TV_CAP:0 "ˆ®®¦¯" #BelieversTV_CAP
+ monophysite_TV_CAP:0 "°´ª©ª²¯" #BelieversTV_CAP
+ bogomilist_TV_CAP:0 "€¥¯ª®¯" #BelieversTV_CAP
+ monothelite_TV_CAP:0 "°´®ª²¯" #BelieversTV_CAP
+ iconoclast_TV_CAP:0 "†¬°¡µ¯" #BelieversTV_CAP
+ paulician_TV_CAP:0 "‰¢®ª¬ª°µ¯" #BelieversTV_CAP
+ nestorian_TV_CAP:0 "²ª°ª°¯" #BelieversTV_CAP
+ messalian_TV_CAP:0 "®ª°ª°¯" #BelieversTV_CAP
+ zikri_TV_CAP:0 "…ª¬ª²¯" #BelieversTV_CAP
+ yazidi_TV_CAP:0 "©ª¦¯" #BelieversTV_CAP
+ kharijite_TV_CAP:0 "Ûª¦¨ª²¯" #BelieversTV_CAP
+ druze_TV_CAP:0 "ƒ³©ª¦¯" #BelieversTV_CAP
+ hurufi_TV_CAP:0 "Û³³´ª²¯" #BelieversTV_CAP
+ baltic_pagan_reformed_TV_CAP:0 "€®²ªþµ¯" #BelieversTV_CAP
+ finnish_pagan_reformed_TV_CAP:0 "Êª°°¯" #BelieversTV_CAP
+ slavic_pagan_reformed_TV_CAP:0 "Ô®¢¾°ª°¯" #BelieversTV_CAP
+ zun_pagan_reformed_TV_CAP:0 "…³°¡ª®¯" #BelieversTV_CAP
+ hellenic_pagan_reformed_TV_CAP:0 "™®®ª°¯" #BelieversTV_CAP
+ hellenic_pagan_TV_CAP:0 "™®®ª°¯" #BelieversTV_CAP
+ bon_reformed_TV_CAP:0 "€°¯" #BelieversTV_CAP
+ bon_TV_CAP:0 "€°¯" #BelieversTV_CAP
+ mazdaki_TV_CAP:0 "©¦¬ªþµ¯" #BelieversTV_CAP
+ manichean_TV_CAP:0 "°ªþµ¯" #BelieversTV_CAP
+ khurmazta_TV_CAP:0 "Ô¥¦¯©¦ª²¯" #BelieversTV_CAP
+ samaritan_faith_TV_CAP:0 "Ô¯ª²°ª²¯" #BelieversTV_CAP
+ karaite_faith_TV_CAP:0 "ª²¯" #BelieversTV_CAP
+ jain_TV_CAP:0 "ƒ¨þ°¯" #BelieversTV_CAP
+ #Ð®ª¥ª¾ ¢³½¸¥ ¢ ±¦®¨°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_PR_CAP:0 "²ª¬" #BelieversPR_CAP
+ fraticelli_PR_CAP:0 "Ê²ª¶®®ª" #BelieversPR_CAP
+ waldensian_PR_CAP:0 "Ï®¿¦°" #BelieversPR_CAP
+ lollard_PR_CAP:0 "ˆ®®¦" #BelieversPR_CAP
+ monophysite_PR_CAP:0 "°´ª©ª²" #BelieversPR_CAP
+ bogomilist_PR_CAP:0 "€¥¯ª®" #BelieversPR_CAP
+ monothelite_PR_CAP:0 "°´®ª²" #BelieversPR_CAP
+ iconoclast_PR_CAP:0 "†¬°¡µ" #BelieversPR_CAP
+ paulician_PR_CAP:0 "‰¢®ª¬ª°µ" #BelieversPR_CAP
+ nestorian_PR_CAP:0 "²ª°ª°" #BelieversPR_CAP
+ messalian_PR_CAP:0 "®ª°ª°" #BelieversPR_CAP
+ zikri_PR_CAP:0 "…ª¬ª²" #BelieversPR_CAP
+ yazidi_PR_CAP:0 "©ª¦" #BelieversPR_CAP
+ kharijite_PR_CAP:0 "Ûª¦¨ª²" #BelieversPR_CAP
+ druze_PR_CAP:0 "ƒ³©ª¦" #BelieversPR_CAP
+ hurufi_PR_CAP:0 "Û³³´ª²" #BelieversPR_CAP
+ baltic_pagan_reformed_PR_CAP:0 "€®²ªþµ" #BelieversPR_CAP
+ finnish_pagan_reformed_PR_CAP:0 "Êª°°" #BelieversPR_CAP
+ slavic_pagan_reformed_PR_CAP:0 "Ô®¢¾°ª°" #BelieversPR_CAP
+ zun_pagan_reformed_PR_CAP:0 "…³°¡ª®" #BelieversPR_CAP
+ hellenic_pagan_reformed_PR_CAP:0 "™®®ª°" #BelieversPR_CAP
+ hellenic_pagan_PR_CAP:0 "™®®ª°" #BelieversPR_CAP
+ bon_reformed_PR_CAP:0 "€°" #BelieversPR_CAP
+ bon_PR_CAP:0 "€°" #BelieversPR_CAP
+ mazdaki_PR_CAP:0 "©¦¬ªþµ" #BelieversPR_CAP
+ manichean_PR_CAP:0 "°ªþµ" #BelieversPR_CAP
+ khurmazta_PR_CAP:0 "Ô¥¦¯©¦ª²" #BelieversPR_CAP
+ samaritan_faith_PR_CAP:0 "Ô¯ª²°ª²" #BelieversPR_CAP
+ karaite_faith_PR_CAP:0 "ª²" #BelieversPR_CAP
+ jain_PR_CAP:0 "ƒ¨þ°" #BelieversPR_CAP
+ 
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ª¯°ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_plural_IM_CAP:0 "²ª¬ª" #BelieversPluralIM_CAP
+ fraticelli_plural_IM_CAP:0 "Ê²ª¶®®ª" #BelieversPluralIM_CAP
+ waldensian_plural_IM_CAP:0 "Ï®¿¦°º" #BelieversPluralIM_CAP
+ lollard_plural_IM_CAP:0 "ˆ®®¦º" #BelieversPluralIM_CAP
+ monophysite_plural_IM_CAP:0 "°´ª©ª²º" #BelieversPluralIM_CAP
+ bogomilist_plural_IM_CAP:0 "€¥¯ª®º" #BelieversPluralIM_CAP
+ monothelite_plural_IM_CAP:0 "°´®ª²º" #BelieversPluralIM_CAP
+ iconoclast_plural_IM_CAP:0 "†¬°¡µº" #BelieversPluralIM_CAP
+ paulician_plural_IM_CAP:0 "‰¢®ª¬ª°µº" #BelieversPluralIM_CAP
+ nestorian_plural_IM_CAP:0 "²ª°" #BelieversPluralIM_CAP
+ messalian_plural_IM_CAP:0 "®ª°" #BelieversPluralIM_CAP
+ zikri_plural_IM_CAP:0 "…ª¬ª²º" #BelieversPluralIM_CAP
+ yazidi_plural_IM_CAP:0 "©ª¦º" #BelieversPluralIM_CAP
+ kharijite_plural_IM_CAP:0 "Ûª¦¨ª²º" #BelieversPluralIM_CAP
+ druze_plural_IM_CAP:0 "ƒ³©ª¦º" #BelieversPluralIM_CAP
+ hurufi_plural_IM_CAP:0 "Û³³´ª²º" #BelieversPluralIM_CAP
+ baltic_pagan_reformed_plural_IM_CAP:0 "€®²ªþµº" #BelieversPluralIM_CAP
+ finnish_pagan_reformed_plural_IM_CAP:0 "Êª°°º" #BelieversPluralIM_CAP
+ slavic_pagan_reformed_plural_IM_CAP:0 "Ô®¢¾°" #BelieversPluralIM_CAP
+ zun_pagan_reformed_plural_IM_CAP:0 "…³°¡ª®º" #BelieversPluralIM_CAP
+ hellenic_pagan_reformed_plural_IM_CAP:0 "™®®ª°º" #BelieversPluralIM_CAP
+ hellenic_pagan_plural_IM_CAP:0 "™®®ª°º" #BelieversPluralIM_CAP
+ bon_reformed_plural_IM_CAP:0 "€°º" #BelieversPluralIM_CAP
+ bon_plural_IM_CAP:0 "€°º" #BelieversPluralIM_CAP
+ mazdaki_plural_IM_CAP:0 "©¦¬ªþµº" #BelieversPluralIM_CAP
+ manichean_plural_IM_CAP:0 "°ªþµº" #BelieversPluralIM_CAP
+ khurmazta_plural_IM_CAP:0 "Ô¥¦¯©¦ª²º" #BelieversPluralIM_CAP
+ samaritan_faith_plural_IM_CAP:0 "Ô¯ª²°ª²º" #BelieversPluralIM_CAP
+ karaite_faith_plural_IM_CAP:0 "ª²º" #BelieversPluralIM_CAP
+ jain_plural_IM_CAP:0 "ƒ¨þ°º" #BelieversPluralIM_CAP
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ¦ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_plural_RD_CAP:0 "²ª¬¢" #BelieversPluralRD_CAP
+ fraticelli_plural_RD_CAP:0 "Ê²ª¶®®ª" #BelieversPluralRD_CAP
+ waldensian_plural_RD_CAP:0 "Ï®¿¦°ªþµ¢" #BelieversPluralRD_CAP
+ lollard_plural_RD_CAP:0 "ˆ®®¦¢" #BelieversPluralRD_CAP
+ monophysite_plural_RD_CAP:0 "°´ª©ª²¢" #BelieversPluralRD_CAP
+ bogomilist_plural_RD_CAP:0 "€¥¯ª®¢" #BelieversPluralRD_CAP
+ monothelite_plural_RD_CAP:0 "°´®ª²¢" #BelieversPluralRD_CAP
+ iconoclast_plural_RD_CAP:0 "†¬°¡µ¢" #BelieversPluralRD_CAP
+ paulician_plural_RD_CAP:0 "‰¢®ª¬ª°µ¢" #BelieversPluralRD_CAP
+ nestorian_plural_RD_CAP:0 "²ª°" #BelieversPluralRD_CAP
+ messalian_plural_RD_CAP:0 "®ª°" #BelieversPluralRD_CAP
+ zikri_plural_RD_CAP:0 "…ª¬ª²¢" #BelieversPluralRD_CAP
+ yazidi_plural_RD_CAP:0 "©ª¦¢" #BelieversPluralRD_CAP
+ kharijite_plural_RD_CAP:0 "Ûª¦¨ª²¢" #BelieversPluralRD_CAP
+ druze_plural_RD_CAP:0 "ƒ³©ª¦¢" #BelieversPluralRD_CAP
+ hurufi_plural_RD_CAP:0 "Û³³´ª²¢" #BelieversPluralRD_CAP
+ baltic_pagan_reformed_plural_RD_CAP:0 "€®²ªþµ¢" #BelieversPluralRD_CAP
+ finnish_pagan_reformed_plural_RD_CAP:0 "Êª°°¢" #BelieversPluralRD_CAP
+ slavic_pagan_reformed_plural_RD_CAP:0 "Ô®¢¾°" #BelieversPluralRD_CAP
+ zun_pagan_reformed_plural_RD_CAP:0 "…³°¡ª®¢" #BelieversPluralRD_CAP
+ hellenic_pagan_reformed_plural_RD_CAP:0 "™®®ª°¢" #BelieversPluralRD_CAP
+ hellenic_pagan_plural_RD_CAP:0 "™®®ª°¢" #BelieversPluralRD_CAP
+ bon_reformed_plural_RD_CAP:0 "€°¢" #BelieversPluralRD_CAP
+ bon_plural_RD_CAP:0 "€°¢" #BelieversPluralRD_CAP
+ mazdaki_plural_RD_CAP:0 "©¦¬ªþµ¢" #BelieversPluralRD_CAP
+ manichean_plural_RD_CAP:0 "°ªþµ¢" #BelieversPluralRD_CAP
+ khurmazta_plural_RD_CAP:0 "Ô¥¦¯©¦ª²¢" #BelieversPluralRD_CAP
+ samaritan_faith_plural_RD_CAP:0 "Ô¯ª²¾°" #BelieversPluralRD_CAP
+ karaite_faith_plural_RD_CAP:0 "ª²¢" #BelieversPluralRD_CAP
+ jain_plural_RD_CAP:0 "ƒ¨þ°" #BelieversPluralRD_CAP
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ¦²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_plural_DT_CAP:0 "²ª¬¯" #BelieversPluralDT_CAP
+ fraticelli_plural_DT_CAP:0 "Ê²ª¶®®ª" #BelieversPluralDT_CAP
+ waldensian_plural_DT_CAP:0 "Ï®¿¦°¯" #BelieversPluralDT_CAP
+ lollard_plural_DT_CAP:0 "ˆ®®¦¯" #BelieversPluralDT_CAP
+ monophysite_plural_DT_CAP:0 "°´ª©ª²¯" #BelieversPluralDT_CAP
+ bogomilist_plural_DT_CAP:0 "€¥¯ª®¯" #BelieversPluralDT_CAP
+ monothelite_plural_DT_CAP:0 "°´®ª²¯" #BelieversPluralDT_CAP
+ iconoclast_plural_DT_CAP:0 "†¬°¡µ¯" #BelieversPluralDT_CAP
+ paulician_plural_DT_CAP:0 "‰¢®ª¬°¯" #BelieversPluralDT_CAP
+ nestorian_plural_DT_CAP:0 "²ª°¯" #BelieversPluralDT_CAP
+ messalian_plural_DT_CAP:0 "®ª°¯" #BelieversPluralDT_CAP
+ zikri_plural_DT_CAP:0 "…ª¬ª²¯" #BelieversPluralDT_CAP
+ yazidi_plural_DT_CAP:0 "©ª¦¯" #BelieversPluralDT_CAP
+ kharijite_plural_DT_CAP:0 "Ûª¦¨ª²¯" #BelieversPluralDT_CAP
+ druze_plural_DT_CAP:0 "ƒ³©ª¦¯" #BelieversPluralDT_CAP
+ hurufi_plural_DT_CAP:0 "Û³³´ª²¯" #BelieversPluralDT_CAP
+ baltic_pagan_reformed_plural_DT_CAP:0 "€®²ªþµ¯" #BelieversPluralDT_CAP
+ finnish_pagan_reformed_plural_DT_CAP:0 "Êª°°¯" #BelieversPluralDT_CAP
+ slavic_pagan_reformed_plural_DT_CAP:0 "Ô®¢¾°¯" #BelieversPluralDT_CAP
+ zun_pagan_reformed_plural_DT_CAP:0 "…³°¡ª®¯" #BelieversPluralDT_CAP
+ hellenic_pagan_reformed_plural_DT_CAP:0 "™®®ª°¯" #BelieversPluralDT_CAP
+ hellenic_pagan_plural_DT_CAP:0 "™®®ª°¯" #BelieversPluralDT_CAP
+ bon_reformed_plural_DT_CAP:0 "€°¯" #BelieversPluralDT_CAP
+ bon_plural_DT_CAP:0 "€°¯" #BelieversPluralDT_CAP
+ mazdaki_plural_DT_CAP:0 "©¦¬ªþµ¯" #BelieversPluralDT_CAP
+ manichean_plural_DT_CAP:0 "°ªþµ¯" #BelieversPluralDT_CAP
+ khurmazta_plural_DT_CAP:0 "Ô¥¦¯©¦ª²¯" #BelieversPluralDT_CAP
+ samaritan_faith_plural_DT_CAP:0 "Ô¯ª²°ª²¯" #BelieversPluralDT_CAP
+ karaite_faith_plural_DT_CAP:0 "ª²¯" #BelieversPluralDT_CAP
+ jain_plural_DT_CAP:0 "ƒ¨þ°¯" #BelieversPluralDT_CAP
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ²¢ª²®¿°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_plural_TV_CAP:0 "²ª¬¯ª" #BelieversPluralTV_CAP
+ fraticelli_plural_TV_CAP:0 "Ê²ª¶®®ª" #BelieversPluralTV_CAP
+ waldensian_plural_TV_CAP:0 "Ï®¿¦°¯ª" #BelieversPluralTV_CAP
+ lollard_plural_TV_CAP:0 "ˆ®®¦¯ª" #BelieversPluralTV_CAP
+ monophysite_plural_TV_CAP:0 "°´ª©ª²¯ª" #BelieversPluralTV_CAP
+ bogomilist_plural_TV_CAP:0 "€¥¯ª®¯ª" #BelieversPluralTV_CAP
+ monothelite_plural_TV_CAP:0 "°´®ª²¯ª" #BelieversPluralTV_CAP
+ iconoclast_plural_TV_CAP:0 "†¬°¡µ¯ª" #BelieversPluralTV_CAP
+ paulician_plural_TV_CAP:0 "‰¢®ª¬ª°µ¯ª" #BelieversPluralTV_CAP
+ nestorian_plural_TV_CAP:0 "²ª°¯ª" #BelieversPluralTV_CAP
+ messalian_plural_TV_CAP:0 "®ª°¯ª" #BelieversPluralTV_CAP
+ zikri_plural_TV_CAP:0 "…ª¬ª²¯ª" #BelieversPluralTV_CAP
+ yazidi_plural_TV_CAP:0 "©ª¦¯ª" #BelieversPluralTV_CAP
+ kharijite_plural_TV_CAP:0 "Ûª¦¨ª²¯ª" #BelieversPluralTV_CAP
+ druze_plural_TV_CAP:0 "ƒ³©ª¦¯ª" #BelieversPluralTV_CAP
+ hurufi_plural_TV_CAP:0 "Û³³´ª²¯ª" #BelieversPluralTV_CAP
+ baltic_pagan_reformed_plural_TV_CAP:0 "€®²ªþµ¯ª" #BelieversPluralTV_CAP
+ finnish_pagan_reformed_plural_TV_CAP:0 "Êª°°¯ª" #BelieversPluralTV_CAP
+ slavic_pagan_reformed_plural_TV_CAP:0 "Ô®¢¾°¯ª" #BelieversPluralTV_CAP
+ zun_pagan_reformed_plural_TV_CAP:0 "…³°¡ª®¯ª" #BelieversPluralTV_CAP
+ hellenic_pagan_reformed_plural_TV_CAP:0 "™®®ª°¯ª" #BelieversPluralTV_CAP
+ hellenic_pagan_plural_TV_CAP:0 "™®®ª°¯ª" #BelieversPluralTV_CAP
+ bon_reformed_plural_TV_CAP:0 "€°¯ª" #BelieversPluralTV_CAP
+ bon_plural_TV_CAP:0 "€°¯ª" #BelieversPluralTV_CAP
+ mazdaki_plural_TV_CAP:0 "©¦¬ªþµ¯ª" #BelieversPluralTV_CAP
+ manichean_plural_TV_CAP:0 "°ªþµ¯ª" #BelieversPluralTV_CAP
+ khurmazta_plural_TV_CAP:0 "Ô¥¦¯©¦ª²¯ª" #BelieversPluralTV_CAP
+ samaritan_faith_plural_TV_CAP:0 "Ô¯ª²°ª²¯ª" #BelieversPluralTV_CAP
+ karaite_faith_plural_TV_CAP:0 "ª²¯ª" #BelieversPluralTV_CAP
+ jain_plural_TV_CAP:0 "ƒ¨þ°¯ª" #BelieversPluralTV_CAP
+ #Ð®ª¥ª¾ ¢³½¸ª ¢ ±¦®¨°¯ ±¦¨  ±±ª°þ ¡³¬¢º
+ cathar_plural_PR_CAP:0 "²ª¬" #BelieversPluralPR_CAP
+ fraticelli_plural_PR_CAP:0 "Ê²ª¶®®ª" #BelieversPluralPR_CAP
+ waldensian_plural_PR_CAP:0 "Ï®¿¦°" #BelieversPluralPR_CAP
+ lollard_plural_PR_CAP:0 "ˆ®®¦" #BelieversPluralPR_CAP
+ monophysite_plural_PR_CAP:0 "°´ª©ª²" #BelieversPluralPR_CAP
+ bogomilist_plural_PR_CAP:0 "€¥¯ª®" #BelieversPluralPR_CAP
+ monothelite_plural_PR_CAP:0 "°´®ª²" #BelieversPluralPR_CAP
+ iconoclast_plural_PR_CAP:0 "†¬°¡µ" #BelieversPluralPR_CAP
+ paulician_plural_PR_CAP:0 "‰¢®ª¬ª°µ" #BelieversPluralPR_CAP
+ nestorian_plural_PR_CAP:0 "²ª°" #BelieversPluralPR_CAP
+ messalian_plural_PR_CAP:0 "®ª°" #BelieversPluralPR_CAP
+ zikri_plural_PR_CAP:0 "…ª¬ª²" #BelieversPluralPR_CAP
+ yazidi_plural_PR_CAP:0 "©ª¦" #BelieversPluralPR_CAP
+ kharijite_plural_PR_CAP:0 "Ûª¦¨ª²" #BelieversPluralPR_CAP
+ druze_plural_PR_CAP:0 "ƒ³©ª¦" #BelieversPluralPR_CAP
+ hurufi_plural_PR_CAP:0 "Û³³´ª²" #BelieversPluralPR_CAP
+ baltic_pagan_reformed_plural_PR_CAP:0 "€®²ªþµ" #BelieversPluralPR_CAP
+ finnish_pagan_reformed_plural_PR_CAP:0 "Êª°°" #BelieversPluralPR_CAP
+ slavic_pagan_reformed_plural_PR_CAP:0 "Ô®¢¾°" #BelieversPluralPR_CAP
+ zun_pagan_reformed_plural_PR_CAP:0 "…³°¡ª®" #BelieversPluralPR_CAP
+ hellenic_pagan_reformed_plural_PR_CAP:0 "™®®ª°" #BelieversPluralPR_CAP
+ hellenic_pagan_plural_PR_CAP:0 "™®®ª°" #BelieversPluralPR_CAP
+ bon_reformed_plural_PR_CAP:0 "€°" #BelieversPluralPR_CAP
+ bon_plural_PR_CAP:0 "€°" #BelieversPluralPR_CAP
+ mazdaki_plural_PR_CAP:0 "©¦¬ªþµ" #BelieversPluralPR_CAP
+ manichean_plural_PR_CAP:0 "°ªþµ" #BelieversPluralPR_CAP
+ khurmazta_plural_PR_CAP:0 "Ô¥¦¯©¦ª²" #BelieversPluralPR_CAP
+ samaritan_faith_plural_PR_CAP:0 "Ô¯ª²°ª²" #BelieversPluralPR_CAP
+ karaite_faith_plural_PR_CAP:0 "ª²" #BelieversPluralPR_CAP
+ jain_plural_PR_CAP:0 "ƒ¨þ°" #BelieversPluralPR_CAP
+ 
+ #‰ª®¥²®¿°º ®ª¥ªþ
+ cathar_ADJ:0 "¬²ª²¬" #ReligionADJ
+ fraticelli_ADJ:0 "´²ª¶®®¿¬" #ReligionADJ
+ waldensian_ADJ:0 "¢®¿¦°ª°¬" #ReligionADJ
+ lollard_ADJ:0 "®®®¦ª°¬" #ReligionADJ
+ monophysite_ADJ:0 "¯°´ª©ª²¬" #ReligionADJ
+ bogomilist_ADJ:0 "¡¥¯ª®¿¬" #ReligionADJ
+ monothelite_ADJ:0 "¯°´®ª²¬" #ReligionADJ
+ iconoclast_ADJ:0 "ª¬°¡¶¬" #ReligionADJ
+ paulician_ADJ:0 "±¢®ª¬ª°¬" #ReligionADJ
+ nestorian_ADJ:0 "°²ª°¬" #ReligionADJ
+ messalian_ADJ:0 "¯®ª°¬" #ReligionADJ
+ zikri_ADJ:0 "©ª¬ª²¬" #ReligionADJ
+ yazidi_ADJ:0 "©ª¦ª²¬" #ReligionADJ
+ kharijite_ADJ:0 "ª¦¨ª²¬" #ReligionADJ
+ druze_ADJ:0 "¦³©ª²¬" #ReligionADJ
+ hurufi_ADJ:0 "³³´ª²¬" #ReligionADJ
+ baltic_pagan_reformed_ADJ:0 "¡®²ªþ¬" #ReligionADJ
+ finnish_pagan_reformed_ADJ:0 "´ª°¬" #ReligionADJ
+ slavic_pagan_reformed_ADJ:0 "®¢¾°¬" #ReligionADJ
+ zun_pagan_reformed_ADJ:0 "©³°ª²¬" #ReligionADJ
+ hellenic_pagan_reformed_ADJ:0 "¼®®ª°¬" #ReligionADJ
+ hellenic_pagan_ADJ:0 "¼®®ª°¬" #ReligionADJ
+ bon_reformed_ADJ:0 "¡°¬" #ReligionADJ
+ bon_ADJ:0 "¡°¬" #ReligionADJ
+ mazdaki_ADJ:0 "¯©¦¬ªþ¬" #ReligionADJ
+ manichean_ADJ:0 "¯°ªþ¬" #ReligionADJ
+ khurmazta_ADJ:0 "¥¦¯©¦þ¬" #ReligionADJ
+ samaritan_faith_ADJ:0 "¯ª²°ª¶¬" #ReligionADJ
+ karaite_faith_ADJ:0 "¬ª¶¬" #ReligionADJ
+ jain_ADJ:0 "¦¨þ°ª²¬" #ReligionADJ
+ 
+ #‰ª®¥²®¿°º ®ª¥ªþ  ±±ª°þ ¡³¬¢º
+ cathar_ADJ_CAP:0 "²ª²¬" #ReligionADJ_CAP
+ fraticelli_ADJ_CAP:0 "Ê²ª¶®®¿¬" #ReligionADJ_CAP
+ waldensian_ADJ_CAP:0 "Ï®¿¦°ª°¬" #ReligionADJ_CAP
+ lollard_ADJ_CAP:0 "ˆ®®¦ª°¬" #ReligionADJ_CAP
+ monophysite_ADJ_CAP:0 "°´ª©ª²¬" #ReligionADJ_CAP
+ bogomilist_ADJ_CAP:0 "€¥¯ª®¿¬" #ReligionADJ_CAP
+ monothelite_ADJ_CAP:0 "°´®ª²¬" #ReligionADJ_CAP
+ iconoclast_ADJ_CAP:0 "†¬°¡¶¬" #ReligionADJ_CAP
+ paulician_ADJ_CAP:0 "‰¢®ª¬ª°¬" #ReligionADJ_CAP
+ nestorian_ADJ_CAP:0 "²ª°¬" #ReligionADJ_CAP
+ messalian_ADJ_CAP:0 "®ª°¬" #ReligionADJ_CAP
+ zikri_ADJ_CAP:0 "…ª¬ª²¬" #ReligionADJ_CAP
+ yazidi_ADJ_CAP:0 "©ª¦ª²¬" #ReligionADJ_CAP
+ kharijite_ADJ_CAP:0 "Ûª¦¨ª²¬" #ReligionADJ_CAP
+ druze_ADJ_CAP:0 "ƒ³©ª²¬" #ReligionADJ_CAP
+ hurufi_ADJ_CAP:0 "Û³³´ª²¬" #ReligionADJ_CAP
+ baltic_pagan_reformed_ADJ_CAP:0 "€®²ªþ¬" #ReligionADJ_CAP
+ finnish_pagan_reformed_ADJ_CAP:0 "Êª°¬" #ReligionADJ_CAP
+ slavic_pagan_reformed_ADJ_CAP:0 "Ô®¢¾°¬" #ReligionADJ_CAP
+ zun_pagan_reformed_ADJ_CAP:0 "…³°ª²¬" #ReligionADJ_CAP
+ hellenic_pagan_reformed_ADJ_CAP:0 "™®®ª°¬" #ReligionADJ_CAP
+ hellenic_pagan_ADJ_CAP:0 "™®®ª°¬" #ReligionADJ_CAP
+ bon_reformed_ADJ_CAP:0 "€°¬" #ReligionADJ_CAP
+ bon_ADJ_CAP:0 "€°¬" #ReligionADJ_CAP
+ mazdaki_ADJ_CAP:0 "©¦¬ªþ¬" #ReligionADJ_CAP
+ manichean_ADJ_CAP:0 "°ªþ¬" #ReligionADJ_CAP
+ khurmazta_ADJ_CAP:0 "Ô¥¦¯©¦þ¬" #ReligionADJ_CAP
+ samaritan_faith_ADJ_CAP:0 "Ô¯ª²°ª¶¬" #ReligionADJ_CAP
+ karaite_faith_ADJ_CAP:0 "ª¶¬" #ReligionADJ_CAP
+ jain_ADJ_CAP:0 "ƒ¨þ°ª²¬" #ReligionADJ_CAP

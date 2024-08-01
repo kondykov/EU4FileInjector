@@ -1,0 +1,782 @@
+
+####################################################################################################
+###																								 ###
+###		 Падежи религиозных школ в единственном и множественном числах с прописной буквы		 ###
+###									  А также прилагательные									 ###
+###																								 ###
+###																								 ###
+###						   Падежи прописаны с уже готовыми окончаниями!							 ###
+###						Прилагательные в локализации записаны без окончаний,					 ###
+###				     Поэтому для корректного написания необходимо их добавлять.					 ###
+###																								 ###
+###										 Единственное число										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolIM_CAP]" : "Ханафит"  				 ###
+###		Родительный (Кого, чего?) - "[TUR.GetReligiousSchoolRD_CAP]" : "Ханафита"			  	 ###
+###		Дательный (Кому, чему?) - "[TUR.GetReligiousSchoolDT_CAP]" : "Ханафиту"  				 ###
+###		Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ											 	 ###
+###		Творительный (Кем, чем?) - "[TUR.GetReligiousSchoolTV_CAP]" : "Ханафитом"  				 ###
+###		Предложный (О ком, о чём?) - "[TUR.GetReligiousSchoolPR_CAP]" : "Ханафите"  			 ###
+###																								 ###
+###										Множественное число										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolPluralIM_CAP]" : "Ханафиты"  		 ###
+###		Родительный (Кого, чего?) - "[TUR.GetReligiousSchoolPluralRD_CAP]" : "Ханафитов"	  	 ###
+###		Дательный (Кому, чему?) - "[TUR.GetReligiousSchoolPluralDT_CAP]" : "Ханафитам"  		 ###
+###		Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ											 	 ###
+###		Творительный (Кем, чем?) - "[TUR.GetReligiousSchoolPluralTV_CAP]" : "Ханафитами"  		 ###
+###		Предложный (О ком, о чём?) - "[TUR.GetReligiousSchoolPluralPR_CAP]" : "Ханафитах"  		 ###
+###																								 ###
+###										   Прилагательное										 ###
+###		Именительный (Кто, что?) - "[TUR.GetReligiousSchoolADJ_CAP]" : "Ханафитск"  			 ###
+###																								 ###
+###						  			 Локализация в: gks_customizable							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+    name = GetReligiousSchoolIM_CAP
+
+    text = {
+        localisation_key = hanafi_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolRD_CAP
+
+    text = {
+        localisation_key = hanafi_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolDT_CAP
+
+    text = {
+        localisation_key = hanafi_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolTV_CAP
+
+    text = {
+        localisation_key = hanafi_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPR_CAP
+
+    text = {
+        localisation_key = hanafi_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPluralIM_CAP
+
+    text = {
+        localisation_key = hanafi_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_plural_IM_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPluralRD_CAP
+
+    text = {
+        localisation_key = hanafi_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_plural_RD_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPluralDT_CAP
+
+    text = {
+        localisation_key = hanafi_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_plural_DT_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPluralTV_CAP
+
+    text = {
+        localisation_key = hanafi_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_plural_TV_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolPluralPR_CAP
+
+    text = {
+        localisation_key = hanafi_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_plural_PR_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+
+defined_text = {
+    name = GetReligiousSchoolADJ_CAP
+
+    text = {
+        localisation_key = hanafi_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanafi_school
+			}
+       }
+    }
+    text = {
+        localisation_key = hanbali_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = hanbali_school
+			}
+       }
+    }
+    text = {
+        localisation_key = maliki_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = maliki_school
+			}
+       }
+    }
+    text = {
+        localisation_key = shafii_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = shafii_school
+			}
+       }
+    }
+    text = {
+        localisation_key = ismaili_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+       }
+    }
+    text = {
+        localisation_key = jafari_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = jafari_school
+			}
+       }
+    }
+    text = {
+        localisation_key = zaidi_school_ADJ_CAP
+        trigger = {
+			religious_school = {
+				group = muslim
+				school = zaidi_school
+			}
+       }
+    }
+}
+

@@ -1,0 +1,74 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ ###ETH FLAVOR EVENTS###
+ ###MAL FLAVOR EVENTS###
+ ###SON FLAVOR EVENTS###
+ ###COMET EVENTS###
+ ###KONGO FLAVOR EVENTS###
+ ###MUTAPA FLAVOR EVENTS###
+ ###AJUURAN FLAVOR EVENTS###
+ ###ADA FLAVOR EVENTS###
+ ###HEIR CULT###
+ ###COUNTRIES###
+ ###CULTURES###
+ ###MERCENARY COMPANIES###
+ ###UNIT MODIFIER###
+ ###GOVERNMENT REFORMS###
+ ###ESTATE PRIVILEGES###
+ estate_church_one_faith_one_culture_buffed_gta: "¨¦¾ ±ª°¦®¨¸¾ ±¢ª°µª¾ §Y[Root.Religion.GetName]§! ¢º, ¬²¾ °¦ª²¾ ®ª¡ ¢ §Y[Root.Culture.GetGroupName]§! ¬³®¿²³°¾ ¥³±± ª®ª ª¯² §Y±ª°¾²³½ ¬³®¿²³³§!, ±®³¶² ²²³ «§YÐ®ª¥ª©° ¡¸²¢§!», ¶² ¦² ®¦³½¸ª ¼´´¬²º:\nˆ¬®¿°º ¡±¾¦¬ª: §G-1,00§!\n¦ª´ª¬² ¯²°¥ °®¥: §G 10,0%§!\n™´´¬²ª¢°²¿ ¯²°¥ ±ª©¢¦²¢: §G 10.0%§!\n¦ª´ª¬² ¯²°þ ¡¶þ ª®º: §G 10.0%§!\n²°¾ ²¥¢¾ ¯¸¿: §G 10.0%§!\n‹±¢®°ª ±¢ª°µªþ Ô²ª¯²¿: §G-10,0%§!"
+ estate_church_one_faith_one_culture_gtb: "¨¦¾ ±ª°¦®¨¸¾ ±¢ª°µª¾,  ±ª°¦®¨¸¾ ¬ §Y[Root.Culture.GetGroupName]§! ¬³®¿²³°þ ¥³±± ª  ¾¢®¾½¸¾¾ §Y±ª°¾²þ ¬³®¿²³þ§! ±®³¶² ¯¦ª´ª¬² §Y²ª¶¬¾ ¬³®¿²³§!, ¬²ºþ ª¯² ®¦³½¸ª ¼´´¬²º:\nˆ¬®¿°º ¡±¾¦¬ª: §R+3,00§!\nÔ²ª¯²¿ ¬°¢ªª ¬³®¿²³º: §G-10,0%§!"
+ ###TRADE MODIFIER###
+ ###SCRIPTED EFFECTS AND TRIGGERS###
+ ###DISASTER###
+ ###BUILDINGS###
+ ###IDEAS###
+ ###DECISIONS###
+ ###MAL DECISIONS###
+ ###CUSTOM LOCALIZATION###
+ ###JEWISH MECHANICS###
+ ###OPINION###
+ ###ZIM MODIFIERS###
+ ###ADAL MODIFIERS###
+ ###CATHOLICISM###
+ ###PP###
+ ###MISSIONS###
+ has_better_tech_than_westerns_tt: "ª ¦° §Y©±¦°¾§! ²° ° ª¯² ¡®¿Œ ²°®¥ªþ, ¶¯ §Y[Root.GetName]§!."
+ ###MAL MISSIONS###
+ ###SON MISSIONS###
+ ###KON MISSIONS###
+ ###ZIM MISSIONS###
+ ###AJU MISSIONS###
+ ###ZAN MISSIONS###
+ ###AJU MODIFIERS###
+ zan_conquer_madagascar_tt: "¨¦¾ ±¢ª°µª¾ §Y¦¥¬§!, ±ª°¦®¨¸¾ [Root.GetName] ª®ª ¥ ±¦¦°°º¯, ±®³¶² ¯¦ª´ª¬² ±¢ª°µªª '§Y¡¥° ³ª®ª§!' ° §Y25 ®²§!, ¶² ¦² ®¦³½¸ª ¼´´¬²º:\n²°¾ ¯ªª°¬¾ ª®: §G 2,0%§!\n‰ª©¢¦° ¯²°º ²¢¢: §G 0,25§!"
+ ###ETHIOPIA MISSION REWARDS###
+ ###OPINION MODIFIERS###
+ ###MALI MISSION MODIFIERS###
+ ###MALI EVENT MODIFIERS###
+ ###ESTATES###
+ ###ESTATE MODIFIERS###
+ ###SON MISSION MODIFIERS###
+ ###KON MISSION MODIFIERS###
+ ###ZIM MISSION MODIFIERS###
+ ###JEWS###
+ ###KONGO###
+ ###PRIMARY CULTS###
+ ###JUNIOR CULTS###
+ ###JUDAISM MODIFIERS###
+ ###MECHANIC MODIFIERS###
+ ###MODIFIERS###
+ ###EVENTS###
+ #EAST AFRICAN MISSIONS
+ #EAST AFRICAN MODIFIERS
+ ###CENTRAL AFRICAN GENERIC MISSIONS
+ ###CENTRAL AFRICAN GENERIC MISSIONS MODIFIERS
+ ###GENERIC HORN OF AFRICA MISSIONS###
+ ###WEST AFRICA MISSIONS###
+ ###MORE MISSIONS###
+ flavor_zan.12.t: "Ð©³Œ°ª ±ª¦¬¥ ±®¿²¢"
+ flavor_zan.12.desc: "¯²¾ ° ¢ °Œª ³ª®ª¾, ¯º ±²¾®ª ±ª¦¬ ±®¿²¢! Œ ¢¾©¿  ª ¦ª±®¯²¯ª ±¢°. Ù®¿¬ ¢¯¾ ±¬¨², ¬¬ ¼² ±¢®ª¾² ° °Œª ²°Œ°ª¾..."

@@ -1,0 +1,235 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ #Missions
+ fra_retrial_jeanne_darc_desc: "¦°þ ª© ¯º ±²ª¢¶ª¢º, ° ¢¨°º ´ª¥³ Ô²®²°þ ¢þ°º ¡º® „°° ¦'¬.  ¡²Œ°º °±¦¬ª ª °±¬®¡ª¯¾ ¢ ±®¨ª®ª ±³²¿ ¬ ±¡¦, ¬¥¦ ¬©®¿, ¶² ¢ ±²¾°. º ¦®¨°º ±¶²ª²¿  ±¯¾²¿ ª ±¢¦²¿ ¢º¦¢ª°³²º ±²ª¢ ° ®¨°º ¡¢ª°°ª¾."
+ #Events
+ flavor_fra.206.t: "Ô²®²°¾¾ ¢þ° ¢ Ê°µªª."
+ flavor_fra.206.d: "Ô²®²°¾¾ ¢þ° °¶®¿ ¢ 1337 ¥¦³ ª©-© ± ¯¨¦³ °Œª¯ ²°¯ ª °¥®ªþ¬ª¯ ¦¯¯ ‰®°²¥°²¢. Ï ²¶°ª ±Œ®¥ ²®²ª¾ ¢þ° ® ¢ ¯Œ²¡ ª ¯Œ²¡, ¢²º¢¾ ±þ ©®ª¶°º ¥³±±ª¢¬ª …±¦°þ ¢±º. ¦¢° ª²³µª¾ ª©¯°ª®¿, ¶² ¦® °Œª¯ ¢þ¬¯ ±ª¯³¸²¢ ¢ ²¢¢°ªª ¦¢° ³²¶°°º ©¯®¿ ³ ±¬®¾²¥ °¥®ªþ¬¥ ¬®¾, ¬²ºþ þ¶ ¬º¢²¾ © ˆ-°Œ¯. ‰ª¦ „°°º ¦'¬ ª  ®¥°¦°¾ ¦¡®²¿ ¢¦°¢ª®ª °Œ³ ²°³ ±¦®¨²¿ ¢°°º ¦þ²¢ª¾, °¯²¾ ° °Œ ²¥¦Œ° °¢º¥¦° ±®¨°ª. Ï°°º ®ª¦º, ²¬ª ¬¬ „° €½ ª „° ¦ ƒ½°³, °¯°°°, °±¢¾² ²¢Œ¾ °¥®ªþ¬ ¢®ª¾°ª ±¦®¿Œ ² ¢±þ¬ª ¡¥¢ ª ¡²°, ²¬³¦ °ª ±ªŒ®ª!"
+ #Modifiers
+ #Tooltips 
+ fra_alternatively_10_dev_spread_and_tt: "§G10§! £adm£ £dip£ £mil£ Ð©¡²¬ ¡³¦² ±²°¾²¿¾ ¢ §Y¡³¥³°¦¬ª§! ±¢ª°µª¾,  ²¬¨:"
+
+ #Event Insights
+ #Personalities  
+ #CB 
+ papal_puppetmaster_personality: "‰±¬ªþ ³¬®¢¦"
+ papal_puppetmaster_personality_die_desc: "[Root.Monarch.GetHerHisCap] ±¦²¢ª® °¯ ¦²³± ¬ °¢¾²°¯³ ¬®ª¶²¢³ ¢®ª¾°ª¾ © ©ª¦°µªþ Ô¢¾²¥ ‰²®."
+ ancestor_papal_puppetmaster_personality: "‰±¬ªþ ³¬®¢¦"
+ ancestor_papal_puppetmaster_personality_die_desc: "[Root.Monarch.GetHerHisCap] ±¦²¢ª® °¯ ¦²³± ¬ °¢¾²°¯³ ¬®ª¶²¢³ ¢®ª¾°ª¾ © ©ª¦°µªþ Ô¢¾²¥ ‰²®."
+ #Name Change  
+ EU7: "°¨³þ¬ ±¢ª²®¿²¢ ‚°³ª"
+ EU7_ADJ: "°¨³þ¬-‚°³¼©¬ªþ"
+ EU_KINGDOM_OF_GOD: "Ë²¢ €¨ª"
+ EU_KINGDOM_OF_GOD_ADJ: "‰±¬ªþ"
+ #National Ideas 
+ EU7_ideas: "°¨³þ¬-‚°³¼©¬ª ª¦ª"
+ EU7_ideas_start: "°¨³þ¬-‚°³¼©¬ª ²¦ªµªª"
+ EU7_ideas_bonus: "°¨³þ¬-¥°³¼©¬ª ¯¡ªµªª"
+ EU_KINGDOM_OF_GOD_ideas: "‰±¬ª ª¦ª"
+ EU_KINGDOM_OF_GOD_ideas_start: "‰±¬ª ²¦ªµªª"
+ EU_KINGDOM_OF_GOD_ideas_bonus: "‰±¬ª ¯¡ªµªª"
+ #Privileges
+ eu_estate_burghers_control_over_monetary_policy_desc: "‰¦²¢®¾¾ [Root.GetBurghersName] ±®¦° ®¢ ¢ ¦°¨°-¬¦ª²°þ ±®ª²ª¬, ¥³¦²¢ ¥°²ª³², ¶² ¬¯¯¶¬ª ª°²º ¡³¦³² ±ª°¾²º ¢ ¢°ª¯°ª ±ª ±ª°¾²ªª ¬®½¶¢º ¼¬°¯ª¶¬ª Œ°ªþ."
+ eu_estate_burghers_control_over_monetary_policy: "°²®¿ °¦ ¦°¨°-¬¦ª²°þ ±®ª²ª¬þ"
+ #Ideas
+ lessons_hundred_years_war: "‹¬ª Ô²®²°þ ¢þ°º"
+
+
+ #Revolutionary Ideas 
+ #China-related Localisation 
+ #Tooltips
+
+ mng_can_build_imperial_granary_tt: "\n®ª ¯º ©¢Œª¯ ¯ªª½, ±¬ ³ [1816.GetName] ²¿ §Y´¡ª¬§!, ³¬©°°¾ ¢ºŒ °¥¦ ¡³¦² ¦±®°° '§Y †¯±¬ ©°°ª®ª¸§!', ±¦²¢®¾½¸:\n‰ª©¢¦²¢ ¯²°º ²¢¢: §G 2§!"
+ #Personalities 
+ #Insights# #Expermental way to explain events for players#
+ #Modifiers 
+ #Events 
+ #Grand Coordinator Offices 
+ #Reforms 
+ #Privileges 
+ #Estates
+ #Estate Agendas 
+ #Decrees 
+ #Imperial Reforms 
+ #Decisions
+ #Qing-related Loc Starts here
+ #Missions 
+ #Event Insight for Qing/MCH/MJZ 
+ #Privileges / Reforms / Estates etc 
+ TIM_legendary_conqueror_flag: "ˆ¥°¦°ºþ ©¢¢²®¿"
+ TIM_legendary_architect_flag: "ˆ¥°¦°ºþ ª²¬²"
+ #General Traits
+ #Later Jin
+ #Qing New Missions Loc
+
+ #Event Insight
+ #Reforms
+ #Edicts
+ ###COUNTRY NAMES###
+ ###COMMON STRINGS###
+ ###SCRIPTED EFFECTS###
+ enable_improved_consecration_tt: "‰¢¾¸°ª ¯ª²±®ª² ²±¿ ¦² §G 10,0%§! ¯¦ª´ª¬² ¯²°¥ °®¥ ª §G-10,0%§! ¯²° ¥³¦²¢°° ¦¨°ª ¬¨¦þ ±¢ª°µªª ¢ ¢¾¸°°þ ¡®²ª."
+ ###SCRIPTED TRIGGERS###
+ ###GOVERNMENT REFORMS###
+ ahmudan_system_attacker: "Ôª²¯ ¯³¦°: ²¬³½¸ªþ"
+ ahmudan_system_defender: "Ôª²¯ ¯³¦°: …¸ª²°ª¬"
+ ###GOVERNMENT NAMES###
+ ###GOVERNMENT EVENTS###
+ ###GOVERNMENT ABILITIES###
+ ###GOVERNMENT MODIFIERS###
+ ###HOLY ORDERS###
+ ###OTTOMAN MISSIONS###
+ ###OTTOMAN FLAVOR EVENTS###
+ ###OTTOMAN MODIFIERS###
+ ###OTTOMAN DECISIONS###
+ ###MERC COMPANIES###
+ ###VARIABLES###
+ ###OPINION MODIFIERS###
+ ###ESTATES###
+ ###MODIFIERS###
+ ###SUBJECT TYPES###
+ ###PEACE TREATIES###
+ ###WAR GOALS###
+ ###CASUS BELLI###
+ ###DIPLOMATIC ACTIONS###
+ ###DIPLOMATIC ACTION REQUIREMENTS###
+ ###AI REASONS###
+ ###POWER PROJECTIONS###
+ ###HRE EVENTS###
+ ###DISASTERS###
+ ###ESTATE PRIVILEGES###
+ ####BRHAMINS PRIVILEGES###
+ ###CLERGY PRIVILEGES###
+ ####NOBLE PRIVILEGES###
+ ####MARATHA PRIVILEGES###
+ ####RAJPUTS PRIVILEGES###
+ ####BURGHERS PRIVILEGES###
+ ####VAISYA PRIVILEGES###
+ ####COSSACKS PRIVILEGES###
+ ####NOMADIC TRIBES PRIVILEGES###
+ ####DHIMMI PRIVILEGES###
+ ####JAINS PRIVILEGES###
+ ###NOBLE PRIVILEGES###
+ ###BURGHERS PRIVILEGES###
+ ###JANISSARY PRIVILEGES###
+ ###JANISSARY AGENDAS###
+ ###AGENDA MODIFIERS###
+ ###REBELS###
+ ###BUILDING###
+ ###NAVAL DOCTRINES###
+ ###DISASTER EVENTS###
+ ###DISASTER MODIFIERS###
+ ###ESTATE EVENTS###
+ ###ESTATE EVENT MODIFIERS###
+ ###ESTATE DISASTER EVENTS###
+ ###RANDOM EVENTS###
+ ###KOREAN DECISIONS###
+ ###RUSSIAN MISSIONS###
+ ###RUSSIAN MODIFIERS###
+ ###RUSSIAN DISASTER###
+ ###RUSSIAN EVENTS###
+ ###MUSCOVY EVENTS###
+ flavor_mos.2.desc_horde: "²³±ª® ¬°µ ¼±ª. ¬¥¦ ¦ª¬¾ ¦ [Root.GetName], ±¦¶ª°ª¢Œ¾ ³¢ ª ©¥°¢Œ¾ ª ¢ ²²¬ ª¥, ±¢²ª®¿ ¢ °¢ºþ ²ª± ±¢®°ª¾ - ²², ¬²ºþ ° ¦®¨° ±ª²¿¾ ° ¢¢¬ª ¯²¦º, ¬¬ ²¬ª þ¦º ¦®¾ ³¬±®°ª¾ ¢þ ±®ª²ª¶¬þ ¢®²ª. ¯²¾ ° ², ¶² °¬²º ¢ ³¦ ³²¢¨¦½², ¶² ®¡²¿ [Root.Monarch.GetTitle] ¾¢®¾²¾ ±ª¶ª°þ ²¬¥ ª©¯°°ª¾ ±®ª²ª¬ª, ¦þ²¢ª¾ [Root.Monarch.GetName] ±ª¢¦³² ¬ ±µ¢²°ª½. ¶² ¡®¿Œ ±¨ ° ², ¶² ¢±þ¬ª ²°º ¶ª²½² µª¢ª®ª©¢°°º¯."
+ flavor_mos.2.b: "¯ ²¥, †¥ ¢ ®½¡¯ ®³¶ ²ª® ¡®¿Œ ³ª®ªþ, ¶¯ ²¥ ²ª®."
+ ###DECISIONS###
+ ###PROVINCE TRIGGERD MODIFIER###
+ ###ENGLISH MISSIONS###
+ ave_promote_angevin_culture_desc: "Ô²®²°¾¾ ¢þ° ¢º©¢® ¡®¿Œþ ¬® ¯¨¦³ °Œþ ¬³®¿²³þ ª ¬³®¿²³þ °Œþ ¦ª°º, Ê°µªª. ™²ª °º ¦®¨°º ©¨ª²¿, ®ª °¨³þ¬¾ ª¯±ª¾ ¶² ¢º¦¨²¿ ª±º²°ª ¢¯°¯."
+ ###BRITISH FLAVOR EVENTS###
+ ###BRITISH MODIFIERS###
+ ###BRITISH DECISIONS###
+ ###COUNTRIES###
+ ###CULTURES###
+ ###PARLIAMENT ISSUES###
+ ###PARLIAMENT DECISIONS###
+ ###PARLIAMENT BRIBES###
+ ###PARLIAMENT ACTIONS###
+ ###PARLIAMENT ACTS###
+ ###BUILDING DESCRIPTION LOCALIZATION###
+ # Unused as we do not intend to add description to buildings.
+ # However, this section has been added so modders know what string they would have to use to localize a building description.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ###CHURCH ASPECTS###
+ ###KOREAN EVENTS###
+ ###GENERIC GOVERNMENT EVENTS###
+ ###DECADENCE EVENTS###
+ #Japan#
+ #Custom Tooltips
+ #Divine Empire Loc 
+ #Extra Event Tooltips etc 
+ #Diplomatic Actions
+ #Japan EoC Loc 
+ #Korean EoC Loc
+ #New Mil Reforms Localisation
+ #New Iberian content# 
+ #Castile and Spain
+ #Slot 1 
+ #Colonial Slot 1 
+ #Slot 2
+ #Colonial Slot 2 
+ #Slot 3 
+ #Colonial Slot 3
+ #Slot 4
+ #Colonial Slot 4
+ #Slot 5
+ #Colonial Slot 5
+ #Recurring events for the System of Councils mechanic
+ #Event Insights 
+ #Disaster
+ #New Holy Orders
+ #Aragon
+ #Slot 1
+ #Slot 4 
+
+ #Personality 
+ #Estate Privilege 
+ #Reforms  
+ #Navarra
+ #Naval Doctrine 
+ #New Navarran Ideas 
+ #Portugal
+ #New Missions 
+ #Tooltip Keys 
+ #Prussia
+ #Militarization Loc 
+ #
+ #Buttons 
+ #Effects
+ #Stiopa's events 
+ #New Monuments 
+ #Missing Loc 
+ #Change Name and Color Decisions
+ #Ship-related loc 

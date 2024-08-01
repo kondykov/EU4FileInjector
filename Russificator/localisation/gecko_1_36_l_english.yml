@@ -1,0 +1,11 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ CALLDESC_ALREADY_INVITED:0 "‰ª©º¢ ¬ ³¨ª½ ³¨ ¨ª¦²¾"
+ SET_PAPACY_ACTIVE_EFFECT_YES:0 "Ï¬®½¶ª² $RELIGION$ ±±²¢"
+ SET_PAPACY_ACTIVE_EFFECT_NO:0 "²¬®½¶ª² $RELIGION$ ‰±²¢."

@@ -1,0 +1,17 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ SUBSCRIPTION:0 "‰¦±ª¬ ° DLC"
+ SUB_MESSAGE_subscription_TITLE:0 "‰¦±ª¬ ²±¿ ¦²³±° ¢ Steam"
+ SUB_MESSAGE_subscription_DESC:0 "‰¦±ª¬ ° Europa Universalis IV ¦² Ï¯ ¦²³± ¬ ¢¯ ¦±®°°ª¾¯ª ª ¦³¥¯³ ¬°²°²³ © °¡®¿Œþ ¨¯¾¶°ºþ ¢©°. ‰¦±ª¬ª ²±¿ ¦²³±°º ²®¿¬ ° ²°ªµ Europa Universalis IV ¢ ¯¥©ª° Steam."
+ SUB_MESSAGE_NO_ACTION:0 "ÛŒ"
+ GOTO_STEAM:0 "‰þ²ª ¢ Steam"
+ SUB_BANNER_NEW_SUB_INACTIVE:0 "‰¦±ªŒª²¿ ° ¢ ¬¥¦-®ª¡ ¢ºŒ¦Œª ¦±®°°ª¾!"
+ SUB_BANNER_NEW_SUB_ACTIVE:0 "‰¦±ª¬ ¬²ª¢°!"
+ SUB_BANNER_BUTTON_VIEW_NEW_SUB_INACTIVE:0 "‰þ²ª ¢ Steam"
+ SUB_BANNER_BUTTON_VIEW_NEW_SUB_ACTIVE:0 "‹±¢®°ª"

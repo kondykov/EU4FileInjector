@@ -1,0 +1,125 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ ###MONUMENTS###
+ ###MERCENARIES###
+ ###SCRIPTED TRIGGERS###
+ ###SCRIPTED EFFECTS###
+ ADD_ACCEPTED_CULTURE_TT: "®ª §Y³®¿²³§! ³¨ ¾¢®¾²¾ §Y‰ª°¾²þ ¬³®¿²³þ§!, ±®³¶ª² §G$POINTS$§! Ï¯² ¼²¥ ¦ª±®¯²ª¶¬¾ ¢®²¿."
+ ###MISSIONS FOR SWEDEN###
+ swe_swedish_pommerania_ct: "®ª ¯º ©¢Œª¯ ¼²³ ¯ªª½ ¶© §Y…¢¢°ª§!, ² §Y[Root.GetName]§! ±®³¶ª² ±¢ ° §Yª¨°¾¾ Ô¬°ª¾§! ª §YÏ©§! ¡®²ª ª ±®³¶² «§Y…¢¢°ª ‰¯°ªª§!» © §Y25 ®²§!, ¶² ¦² ®¦³½¸ª ¼´´¬²º:\nÔ²ª¯²¿ ©¦°ª¾ ¾¦: §G-10,0%§!\n\n®ª ¯º ©¢Œª¯ ¼²³ ¯ªª½ ¶© §Yƒª±®¯²ª¾§!, ©²¯ §Y[Root.GetName]§! §R±ª¥º¢²§! ±²¾°°º ±²°©ªª ° ¡®²ª §Y¬®°¡³¥§!, §Y‰¦°¾¾ ‰¯°ª¾§! ª §Yª°²±¯°ª¾§! ( © ª¬®½¶°ª¯ ±¢ª°µªª §Y[45.GetName]§!), ° ±®³¶² §G100§! ¦ª±®¯²ª¶¬þ ª®º, §G50§! €®¥¬®°°²¿ ¬ ½©°ª¬³, ¢º±®°ª¢Œ¯³ ¯ªª½, ª «§Y‚¯°¬ªþ ®¿¾°§!» ° §Y25 ®²§!, ¦½¸ªþ ®¦³½¸ª ¼´´¬²º:\n¨¯¾¶°ºþ ¯¦ª´ª¬² ¡®¥¬®°°²ª: §G 25,0%§!\nƒª±®¯²ª¶¬¾ ±³²µª¾: §G 1,00§!"
+ ###EVENTS FOR SWEDEN###
+ ###MODIFIERS FOR SWEDEN###
+ swe_germanic_alliance: "‚¯°¬ªþ ®¿¾°"
+ desc_swe_germanic_alliance: "ƒª±®¯²ª¶¬ª ¢¾©ª ¯¨¦³ ÷¢µªþ ª ¥¯°¬ª¯ª ¥³¦²¢¯ª ²°¢¾²¾ ²° ¡®¥¦¾ °Œþ ±¦¦¨¬ ¢ ª Œª°ªª."
+ ###DECISION FOR SWEDEN###
+ ###NORSE DECISIONS###
+ ###OPINION MODIFIERS###
+ ###WARS###
+ cb_imperial_ban_incident: "†¯±¬¾ ¬¯±°ª¾"
+ ###PEACE TREATY###
+ ###DIPLO ACTION###
+ ###PRIVILEGES###
+ ###NORSE EVENTS###
+ #New Tooltips#
+ ###IDEAS###
+ ###EVENT MODIFIERS###
+ ###TRIGGERED PROVINCE MODIFIERS###
+ ###KALMAR UNION EVENTS###
+ ###MODIFIERS FOR DENMARK###
+ ###GOVERNMENT REFORMS###
+ ###GOVERNMENT NAMES###
+ ###DANISH MISSIONS###
+ ###DANISH EVENTS###
+
+
+
+ ###DANISH COUNTRY MODIFIERS###
+ ###DECISIONS FOR DENMARK###
+ ###EVENTS FOR SCANDINAVIA###
+ ###MISSIONS FOR NORWAY###
+ ###EVENTS FOR NORWAY###
+ ###MODIFIERS FOR NORWAY###
+ ####VARIABLES###
+ ###DISASTERS###
+ ###MISSIONS FOR TEUTONIC ORDER###
+ ###EVENTS FOR TEUTONIC ORDER###
+ flavor_teu.42.a.tt: "§YÙ¢²°¬ªþ ¦°§! ª¯² ³°ª¬®¿° ¦¢ ¯ªªþ, ¬² ²®ª¶²¾ ¢º¬þ ¥ª¡¬²¿½. ‰® ©¢Œ°ª¾ ¯ªªª «§Y‰¡¦ª²¿ ‰®¿Œ³§!» ¯º ±®³¶ª¯ ¡º²ª, ¬² ±©¢®ª² ©¯°ª²¿ ¢²¢¾¸ª¾ ¯ªªª ¯ªª¾¯ª ¦°¥ ª© ¦¢³ ®¦³½¸ª ±³²þ:\n\n§Y‰³¬ªþ ±³²¿§!\n‰³¬ªþ ±³²¿ — ¼² ±³²¿ ¬³®¾ª©µªª ª ±³¬ Ù¢²°¬¥ ¦°,  ²¬¨ ±¡©¢°ª¾ ¢ °µª½ §Y‰³ªª§!. Ð¶¿ ±þ¦²  °°ªª ¦°þ ª© ª®¿°þŒª ¯ªþ ¢ ª²ªª,  ²¬¨ Œª°ªª ¢°ª¾ ±³¬ª ©¯®¿. ™² ²¬¨ ±ª¢¦² ¬ °¢¯³ ²¢²¢®°ª½, ¬² ±©¢®ª² ¢¯ Œª²¿, ²ª² ®ª ¢º ¢º±®°ª²¿ §Yƒª±®¯²ª½ Ô‰Ì§!, §YÐŒª°ª ¢ ‚¯°ª½§! ª ¡¹¦ª°ª² °¯µ¢ ª®ª §YÔ©¦þ² ¢½ ¡²¢°°³½ ³¦¿¡³§! ¬¬ ®¢²¢ ‰³ª¾ ¢ ‰®¿Œ ª ®ªª.\n\n§Y‰³²¿ ¬²°µ§!\n‰³²¿ ¬²°µ — ¼² ±³²¿ ®¦¢°ª¾ µ®ª ¦°,  ª¯°° ª²ª°ª©µªª ¾©º¶°ª¬¢ ª ²ª¬¢. ÏŒ ¦¢ ¯ªªþ ±ª¢¦² ¢ ¬ ¬¯±°ªª ± ©¢¢°ª½ ª ¢²³ §YÏ²¶°þ ¢±º§!,  ²¬¨ §YÔ²±ª Ë°²®¿°þ ©ªª§!."
+ ###TEUTONIC MISSION MODIFIERS###
+ ###TEUTONIC DECISIONS###
+ ###MISSIONS FOR DANZIG###
+ ###EVENTS FOR DANZIG###
+ ###DANZIG MISSION MODIFIERS###
+ ###MISSIONS FOR LIVONIAN ORDER###
+ ###LIVONIAN MISSION REWARDS###
+ ###LIVONIAN EVENTS###
+ flavor_liv.0.a.tt: "§Yˆª¢°¬ªþ ¦°§! ª¯² ³°ª¬®¿° ¦¢ ¯ªªþ, ¡® ¥ª¡¬, ¶¯ ¦³¥ª ¦¢¿¾ ¯ªªþ. ‰® ©¢Œ°ª¾ ¯ªªª «§Y‹¬±®°ª °Œþ ¢®²ª§!» ¯º ±®³¶ª¯ ¡º²ª, ¬² ±©¢®ª² °¯ ©¯°ª²¿ ¢²¢¾¸ª¾ ¯ªªª ¯ªª¾¯ª ¦°¥ ª© ¦¢³ ®¦³½¸ª ±³²þ:\n\n§Yˆª¢°¬ªþ ±³²¿§!\nˆª¢°¬ªþ ±³²¿ — ¼² ±³²¿ ¬³®¾ª©µªª ª ±³¬ ˆª¢°¬¥ ¦°,  ²¬¨ ±¡©¢°ª¾ ¢ °µª½ §Yˆª¢°ªª§!. ° ¡³¦² ¢¸²¿¾ ¢¬³¥ ¢°ª¾ §Y€®²ªþ¬¥§! ¥ª° ª ¬®°ª©µªª §Y¢¥ Ô¢²§!. ™² ²¬¨ ±©¢®ª² °¯ ´¯ª¢²¿ °Œ ¡²¢°° §Y‰¢ª²®¿²¢§!, ¬² ´¯ª³²¾ °Œª¯ª ±²¡°²¾¯ª ª ¦þ²¢ª¾¯ª.\n\n§Y‰³²¿ ¬²°µ§! \n‰³²¿ ¬²°µ — ¼² ±³²¿ ®¦¢°ª¾ µ®ª ¦° — ª²ª°ª©µªª ¾©º¶°ª¬¢ ª ²ª¬¢. ÏŒ ¦¢ ¯ªªþ ±ª¢¦² ¢ ¬ ¬¯±°ªª ± ©¢¢°ª½ ª ¢²³ §YÐªª§! ª ©¦°ª½ ¬²®ª¶¬þ ª¯±ªª ¢ §YÏ²¶°þ ¢±§!."
+ ###LIVONIAN DECISIONS###
+ ###NORSE EVENT MODIFIERS###
+ ###RIG MISSIONS###
+ ###RIGAN MODIFIERS###
+ ###RIGAN DECISIONS###
+ ###RIGAN EVENTS###
+ ###SCANDINAVIAN MISSIONS - SWEDEN###
+ ###SCANDINAVIAN MISSIONS - NORWAY###
+ ###SCANDINAVIAN MISSIONS - DENMARK###
+ ###SCANDINAVIAN MISSIONS###
+ ###SCANDINAVIA MISSION MODIFIERS###
+ ###GOTLANDISH MISSIONS###
+ ###GOTLANDISH EVENTS###
+ ###GUTNISH MODIFIERS###
+ ###GUTNISH DECISOINS###
+ ###COUNTRIES###
+ ###CULTURES###
+ ###IMPERIAL INCIDENTS###
+ ###NEW DECISIONS###
+ ###DIPLOMATIC ACTIONS###
+ ###NEW GOVERNMENT REFORMS REPUBLICS###
+ ###NEW GOVERNMENT REFORMS MONARCHIES###
+ ###NEW GOVERNMENT REFORMS THEOCRACIES###
+ ###NEW GOVERNMENT REFORMS COMMON###
+ ###PARLIAMENTS ISSUES AND BRIBES###
+ ###RANDOM PASSIVE EVENTS###
+ ###CUSTOM NATION IDEAS###
+ ###FINNISH EVENTS###
+ #PLC Localisation#
+ #Missions 
+ ###PLC Missions###
+ #Slot 1#
+ #Slot 2#
+ #Slot 3# 
+ #Slot 4#
+ #Slot 5 Player Chose Lithuanian PU Path#
+ #Slot 5 Player Chose HRE Route#
+ #Slot 5 Continued
+ #Tooltips
+ #Modifiers 
+ #Events
+ #Personality 
+ #Privileges 
+ #Name Change 
+ #National Ideas 
+ #Reforms 
+ #Decisions
+ ###Lithuania###
+ #Slot 3#
+ #Slot 5#
+ #Modifiers
+ #Events 
+ #Flavor Events Detached from the Tree# 
+ #Ideas 
+ #Namechange
+ #Reforms for Lithuania
+ ###PERSONALITIES###
+ ###PIRATE EVENTS###
+ #Missions#
+ #Tooltips 
+ #Lübeck 
+ #Custom Tooltips
+ #The Hansa#
+ #BRE / HAM Loc 
+ #Preview Missions

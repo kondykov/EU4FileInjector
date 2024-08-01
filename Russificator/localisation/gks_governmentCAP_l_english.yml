@@ -1,0 +1,721 @@
+﻿l_english:
+ ADMIRALTY_DT_CAP:1 "¦¯ª®²þ²¢³" #GetGovernmentDT_CAP
+ ADMIRALTY_IM_CAP:1 "¦¯ª®²þ²¢" #GetGovernmentIM_CAP
+ ADMIRALTY_PR_CAP:1 "¦¯ª®²þ²¢" #GetGovernmentPR_CAP
+ ADMIRALTY_RD_CAP:1 "¦¯ª®²þ²¢" #GetGovernmentRD_CAP
+ ADMIRALTY_TV_CAP:1 "¦¯ª®²þ²¢¯" #GetGovernmentTV_CAP
+ ALTEPETL_DT_CAP:1 "®¿²±²®½" #GetGovernmentDT_CAP
+ ALTEPETL_FEDERATION_DT_CAP:1 "®¿²±²®¿¬þ ´¦µªª" #GetGovernmentDT_CAP
+ ALTEPETL_FEDERATION_IM_CAP:1 "®¿²±²®¿¬³½ ´¦µª½" #GetGovernmentIM_CAP
+ ALTEPETL_FEDERATION_PR_CAP:1 "®¿²±²®¿¬þ ´¦µªª" #GetGovernmentPR_CAP
+ ALTEPETL_FEDERATION_RD_CAP:1 "®¿²±²®¿¬þ ´¦µªª" #GetGovernmentRD_CAP
+ ALTEPETL_FEDERATION_TV_CAP:1 "®¿²±²®¿¬þ ´¦µªþ" #GetGovernmentTV_CAP
+ ALTEPETL_IM_CAP:1 "®¿²±²®¿" #GetGovernmentIM_CAP
+ ALTEPETL_PR_CAP:1 "®¿²±²®" #GetGovernmentPR_CAP
+ ALTEPETL_RD_CAP:1 "®¿²±²®ª" #GetGovernmentRD_CAP
+ ALTEPETL_TV_CAP:1 "®¿²±²®¯" #GetGovernmentTV_CAP
+ ARCHBISHOPRIC_DT_CAP:1 "ª±ª¬±²¢³" #GetGovernmentDT_CAP
+ ARCHBISHOPRIC_IM_CAP:1 "ª±ª¬±²¢" #GetGovernmentIM_CAP
+ ARCHBISHOPRIC_PR_CAP:1 "ª±ª¬±²¢" #GetGovernmentPR_CAP
+ ARCHBISHOPRIC_RD_CAP:1 "ª±ª¬±²¢" #GetGovernmentRD_CAP
+ ARCHBISHOPRIC_TV_CAP:1 "ª±ª¬±²¢¯" #GetGovernmentTV_CAP
+ ARCHDUCHY_DT_CAP:1 "™µ¥µ¥²¢³" #GetGovernmentDT_CAP
+ ARCHDUCHY_IM_CAP:1 "™µ¥µ¥²¢" #GetGovernmentIM_CAP
+ ARCHDUCHY_PR_CAP:1 "™µ¥µ¥²¢" #GetGovernmentPR_CAP
+ ARCHDUCHY_RD_CAP:1 "™µ¥µ¥²¢" #GetGovernmentRD_CAP
+ ARCHDUCHY_TV_CAP:1 "™µ¥µ¥²¢¯" #GetGovernmentTV_CAP
+ BARANGAY_DT_CAP:1 "€°¥½" #GetGovernmentDT_CAP
+ BARANGAY_IM_CAP:1 "€°¥þ" #GetGovernmentIM_CAP
+ BARANGAY_PR_CAP:1 "€°¥" #GetGovernmentPR_CAP
+ BARANGAY_RD_CAP:1 "€°¥¾" #GetGovernmentRD_CAP
+ BARANGAY_TV_CAP:1 "€°¥¯" #GetGovernmentTV_CAP
+ BEYLIK_DT_CAP:1 "€þ®ª¬³" #GetGovernmentDT_CAP
+ BEYLIK_IM_CAP:1 "€þ®ª¬" #GetGovernmentIM_CAP
+ BEYLIK_PR_CAP:1 "€þ®ª¬" #GetGovernmentPR_CAP
+ BEYLIK_RD_CAP:1 "€þ®ª¬" #GetGovernmentRD_CAP
+ BEYLIK_TV_CAP:1 "€þ®ª¬¯" #GetGovernmentTV_CAP
+ BISHOPRIC_DT_CAP:1 "±ª¬±²¢³" #GetGovernmentDT_CAP
+ BISHOPRIC_IM_CAP:1 "±ª¬±²¢" #GetGovernmentIM_CAP
+ BISHOPRIC_PR_CAP:1 "±ª¬±²¢" #GetGovernmentPR_CAP
+ BISHOPRIC_RD_CAP:1 "±ª¬±²¢" #GetGovernmentRD_CAP
+ BISHOPRIC_TV_CAP:1 "±ª¬±²¢¯" #GetGovernmentTV_CAP
+ BLACK_KNIGHTS_DT_CAP:1 "Ðºµ¾¯ ¦ª°" #GetGovernmentDT_CAP
+ BLACK_KNIGHTS_IM_CAP:1 "Ðºµª ¦ª°" #GetGovernmentIM_CAP
+ BLACK_KNIGHTS_PR_CAP:1 "Ðºµ¾ ¦ª°" #GetGovernmentPR_CAP
+ BLACK_KNIGHTS_RD_CAP:1 "Ðºµþ ¦ª°" #GetGovernmentRD_CAP
+ BLACK_KNIGHTS_TV_CAP:1 "Ðºµ¾¯ª ¦ª°" #GetGovernmentTV_CAP
+ BLACK_LONG_KNIGHTS_DT_CAP:1 "Ðºµ¾¯ ¦ª°" #GetGovernmentDT_CAP
+ BLACK_LONG_KNIGHTS_IM_CAP:1 "Ðºµª ¦ª°" #GetGovernmentIM_CAP
+ BLACK_LONG_KNIGHTS_PR_CAP:1 "Ðºµ¾ ¦ª°" #GetGovernmentPR_CAP
+ BLACK_LONG_KNIGHTS_RD_CAP:1 "Ðºµþ ¦ª°" #GetGovernmentRD_CAP
+ BLACK_LONG_KNIGHTS_TV_CAP:1 "Ðºµ¾¯ª ¦ª°" #GetGovernmentTV_CAP
+ BLACK_WATCH_DT_CAP:1 "ƒ©³ ¦ª°" #GetGovernmentDT_CAP
+ BLACK_WATCH_IM_CAP:1 "ƒ© ¦ª°" #GetGovernmentIM_CAP
+ BLACK_WATCH_PR_CAP:1 "ƒ© ¦ª°" #GetGovernmentPR_CAP
+ BLACK_WATCH_RD_CAP:1 "ƒ© ¦ª°" #GetGovernmentRD_CAP
+ BLACK_WATCH_TV_CAP:1 "ƒ©¯ ¦ª°" #GetGovernmentTV_CAP
+ BONDEVALDE_DT_CAP:1 "€°¦¢®¿¦³" #GetGovernmentDT_CAP
+ BONDEVALDE_IM_CAP:1 "€°¦¢®¿¦" #GetGovernmentIM_CAP
+ BONDEVALDE_PR_CAP:1 "€°¦¢®¿¦" #GetGovernmentPR_CAP
+ BONDEVALDE_RD_CAP:1 "€°¦¢®¿¦" #GetGovernmentRD_CAP
+ BONDEVALDE_TV_CAP:1 "€°¦¢®¿¦¯" #GetGovernmentTV_CAP
+ BREWING_EMPIRE_DT_CAP:1 "‰ª¢°þ ª¯±ªª" #GetGovernmentDT_CAP
+ BREWING_EMPIRE_IM_CAP:1 "‰ª¢°¾ ª¯±ª¾" #GetGovernmentIM_CAP
+ BREWING_EMPIRE_PR_CAP:1 "‰ª¢°þ ª¯±ªª" #GetGovernmentPR_CAP
+ BREWING_EMPIRE_RD_CAP:1 "‰ª¢°þ ª¯±ªª" #GetGovernmentRD_CAP
+ BREWING_EMPIRE_TV_CAP:1 "‰ª¢°þ ª¯±ªþ" #GetGovernmentTV_CAP
+ CAH_DT_CAP:1 "" #GetGovernmentDT_CAP
+ CAH_IM_CAP:1 "" #GetGovernmentIM_CAP
+ CAH_PR_CAP:1 "" #GetGovernmentPR_CAP
+ CAH_RD_CAP:1 "ª" #GetGovernmentRD_CAP
+ CAH_TV_CAP:1 "¯" #GetGovernmentTV_CAP
+ CHIEFDOM_DT_CAP:1 "Ï¨¦²¢³" #GetGovernmentDT_CAP
+ CHIEFDOM_IM_CAP:1 "Ï¨¦²¢" #GetGovernmentIM_CAP
+ CHIEFDOM_PR_CAP:1 "Ï¨¦²¢" #GetGovernmentPR_CAP
+ CHIEFDOM_RD_CAP:1 "Ï¨¦²¢" #GetGovernmentRD_CAP
+ CHIEFDOM_TV_CAP:1 "Ï¨¦²¢¯" #GetGovernmentTV_CAP
+ COLONY_DT_CAP:1 "®°ªª" #GetGovernmentDT_CAP
+ COLONY_IM_CAP:1 "®°ª½" #GetGovernmentIM_CAP
+ COLONY_PR_CAP:1 "®°ªª" #GetGovernmentPR_CAP
+ COLONY_RD_CAP:1 "®°ªª" #GetGovernmentRD_CAP
+ COLONY_TV_CAP:1 "®°ªþ" #GetGovernmentTV_CAP
+ COMMONWEALTH_DT_CAP:1 "Ô¦³¨²¢³" #GetGovernmentDT_CAP
+ COMMONWEALTH_IM_CAP:1 "Ô¦³¨²¢" #GetGovernmentIM_CAP
+ COMMONWEALTH_PR_CAP:1 "Ô¦³¨²¢" #GetGovernmentPR_CAP
+ COMMONWEALTH_RD_CAP:1 "Ô¦³¨²¢" #GetGovernmentRD_CAP
+ COMMONWEALTH_TV_CAP:1 "Ô¦³¨²¢¯" #GetGovernmentTV_CAP
+ CONFEDERATION_DT_CAP:1 "°´¦µªª" #GetGovernmentDT_CAP
+ CONFEDERATION_IM_CAP:1 "°´¦µª½" #GetGovernmentIM_CAP
+ CONFEDERATION_PR_CAP:1 "°´¦µªª" #GetGovernmentPR_CAP
+ CONFEDERATION_RD_CAP:1 "°´¦µªª" #GetGovernmentRD_CAP
+ CONFEDERATION_TV_CAP:1 "°´¦µªþ" #GetGovernmentTV_CAP
+ COUNTY_DT_CAP:1 "‚´²¢³" #GetGovernmentDT_CAP
+ COUNTY_IM_CAP:1 "‚´²¢" #GetGovernmentIM_CAP
+ COUNTY_PALATINE_DT_CAP:1 "‰´®¿µ¥´²¢³" #GetGovernmentDT_CAP
+ COUNTY_PALATINE_IM_CAP:1 "‰´®¿µ¥´²¢" #GetGovernmentIM_CAP
+ COUNTY_PALATINE_PR_CAP:1 "‰´®¿µ¥´²¢" #GetGovernmentPR_CAP
+ COUNTY_PALATINE_RD_CAP:1 "‰´®¿µ¥´²¢" #GetGovernmentRD_CAP
+ COUNTY_PALATINE_TV_CAP:1 "‰´®¿µ¥´²¢¯" #GetGovernmentTV_CAP
+ COUNTY_PR_CAP:1 "‚´²¢" #GetGovernmentPR_CAP
+ COUNTY_RD_CAP:1 "‚´²¢" #GetGovernmentRD_CAP
+ COUNTY_TV_CAP:1 "‚´²¢¯" #GetGovernmentTV_CAP
+ DAIMYO_DT_CAP:1 "ƒþ¯ž" #GetGovernmentDT_CAP
+ DAIMYO_IM_CAP:1 "ƒþ¯ž" #GetGovernmentIM_CAP
+ DAIMYO_PR_CAP:1 "ƒþ¯ž" #GetGovernmentPR_CAP
+ DAIMYO_RD_CAP:1 "ƒþ¯ž" #GetGovernmentRD_CAP
+ DAIMYO_TV_CAP:1 "ƒþ¯ž" #GetGovernmentTV_CAP
+ DESPOTATE_DT_CAP:1 "ƒ±²²³" #GetGovernmentDT_CAP
+ DESPOTATE_IM_CAP:1 "ƒ±²²" #GetGovernmentIM_CAP
+ DESPOTATE_PR_CAP:1 "ƒ±²²" #GetGovernmentPR_CAP
+ DESPOTATE_RD_CAP:1 "ƒ±²²" #GetGovernmentRD_CAP
+ DESPOTATE_TV_CAP:1 "ƒ±²²¯" #GetGovernmentTV_CAP
+ DESPOTISM_DT_CAP:1 "ƒ±²ªª" #GetGovernmentDT_CAP
+ DESPOTISM_IM_CAP:1 "ƒ±²ª½" #GetGovernmentIM_CAP
+ DESPOTISM_PR_CAP:1 "ƒ±²ªª" #GetGovernmentPR_CAP
+ DESPOTISM_RD_CAP:1 "ƒ±²ªª" #GetGovernmentRD_CAP
+ DESPOTISM_TV_CAP:1 "ƒ±²ªþ" #GetGovernmentTV_CAP
+ DICTATORSHIP_DT_CAP:1 "ƒª¬²²³" #GetGovernmentDT_CAP
+ DICTATORSHIP_IM_CAP:1 "ƒª¬²²³³" #GetGovernmentIM_CAP
+ DICTATORSHIP_PR_CAP:1 "ƒª¬²²³" #GetGovernmentPR_CAP
+ DICTATORSHIP_RD_CAP:1 "ƒª¬²²³º" #GetGovernmentRD_CAP
+ DICTATORSHIP_TV_CAP:1 "ƒª¬²²³þ" #GetGovernmentTV_CAP
+ DIVINE_PROTECTORS_DT_CAP:1 "€¨²¢°°¯³ ±²¬²²³" #GetGovernmentDT_CAP
+ DIVINE_PROTECTORS_IM_CAP:1 "€¨²¢°°ºþ ±²¬²²" #GetGovernmentIM_CAP
+ DIVINE_PROTECTORS_PR_CAP:1 "€¨²¢°°¯ ±²¬²²" #GetGovernmentPR_CAP
+ DIVINE_PROTECTORS_RD_CAP:1 "€¨²¢°°¥ ±²¬²²" #GetGovernmentRD_CAP
+ DIVINE_PROTECTORS_TV_CAP:1 "€¨²¢°°º¯ ±²¬²²¯" #GetGovernmentTV_CAP
+ DUCHY_DT_CAP:1 "‚µ¥²¢³" #GetGovernmentDT_CAP
+ DUCHY_IM_CAP:1 "‚µ¥²¢" #GetGovernmentIM_CAP
+ DUCHY_PR_CAP:1 "‚µ¥²¢" #GetGovernmentPR_CAP
+ DUCHY_RD_CAP:1 "‚µ¥²¢" #GetGovernmentRD_CAP
+ DUCHY_TV_CAP:1 "‚µ¥²¢¯" #GetGovernmentTV_CAP
+ EARLDOM_DT_CAP:1 "™®²¢³" #GetGovernmentDT_CAP
+ EARLDOM_IM_CAP:1 "™®²¢" #GetGovernmentIM_CAP
+ EARLDOM_PR_CAP:1 "™®²¢" #GetGovernmentPR_CAP
+ EARLDOM_RD_CAP:1 "™®²¢" #GetGovernmentRD_CAP
+ EARLDOM_TV_CAP:1 "™®²¢¯" #GetGovernmentTV_CAP
+ ELECTORAL_PALATINATE_DT_CAP:1 "Ïº¡°¯³ ‰´®¿µ¥´²¢³" #GetGovernmentDT_CAP
+ ELECTORAL_PALATINATE_IM_CAP:1 "Ïº¡° ‰´®¿µ¥´²¢" #GetGovernmentIM_CAP
+ ELECTORAL_PALATINATE_PR_CAP:1 "Ïº¡°¯ ‰´®¿µ¥´²¢" #GetGovernmentPR_CAP
+ ELECTORAL_PALATINATE_RD_CAP:1 "Ïº¡°¥ ‰´®¿µ¥´²¢" #GetGovernmentRD_CAP
+ ELECTORAL_PALATINATE_TV_CAP:1 "Ïº¡°º¯ ‰´®¿µ¥´²¢¯" #GetGovernmentTV_CAP
+ ELECTORAL_REPUBLIC_DT_CAP:1 "Ð±³¡®ª¬-¬³´½Œ²¢³" #GetGovernmentDT_CAP
+ ELECTORAL_REPUBLIC_IM_CAP:1 "Ð±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentIM_CAP
+ ELECTORAL_REPUBLIC_PR_CAP:1 "Ð±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentPR_CAP
+ ELECTORAL_REPUBLIC_RD_CAP:1 "Ð±³¡®ª¬ª-¬³´½Œ²¢" #GetGovernmentRD_CAP
+ ELECTORAL_REPUBLIC_TV_CAP:1 "Ð±³¡®ª¬þ-¬³´½Œ²¢¯" #GetGovernmentTV_CAP
+ ELECTORATE_BISHOPRIC_DT_CAP:1 "±ª¬±²¢³-¬³´½Œ²¢³" #GetGovernmentDT_CAP
+ ELECTORATE_BISHOPRIC_IM_CAP:1 "±ª¬±²¢-¬³´½Œ²¢" #GetGovernmentIM_CAP
+ ELECTORATE_BISHOPRIC_PR_CAP:1 "±ª¬±²¢-¬³´½Œ²¢" #GetGovernmentPR_CAP
+ ELECTORATE_BISHOPRIC_RD_CAP:1 "±ª¬±²¢-¬³´½Œ²¢" #GetGovernmentRD_CAP
+ ELECTORATE_BISHOPRIC_TV_CAP:1 "±ª¬±²¢¯-¬³´½Œ²¢¯" #GetGovernmentTV_CAP
+ ELECTORATE_DUCHY_DT_CAP:1 "³´½Œ²¢³" #GetGovernmentDT_CAP
+ ELECTORATE_DUCHY_IM_CAP:1 "³´½Œ²¢" #GetGovernmentIM_CAP
+ ELECTORATE_DUCHY_PR_CAP:1 "³´½Œ²¢" #GetGovernmentPR_CAP
+ ELECTORATE_DUCHY_RD_CAP:1 "³´½Œ²¢" #GetGovernmentRD_CAP
+ ELECTORATE_DUCHY_TV_CAP:1 "³´½Œ²¢¯" #GetGovernmentTV_CAP
+ EMIRATE_DT_CAP:1 "™¯ª²³" #GetGovernmentDT_CAP
+ EMIRATE_IM_CAP:1 "™¯ª²" #GetGovernmentIM_CAP
+ EMIRATE_PR_CAP:1 "™¯ª²" #GetGovernmentPR_CAP
+ EMIRATE_RD_CAP:1 "™¯ª²" #GetGovernmentRD_CAP
+ EMIRATE_TV_CAP:1 "™¯ª²¯" #GetGovernmentTV_CAP
+ EMPIRE_DT_CAP:1 "†¯±ªª" #GetGovernmentDT_CAP
+ EMPIRE_IM_CAP:1 "†¯±ª¾" #GetGovernmentIM_CAP
+ EMPIRE_PR_CAP:1 "†¯±ªª" #GetGovernmentPR_CAP
+ EMPIRE_RD_CAP:1 "†¯±ªª" #GetGovernmentRD_CAP
+ EMPIRE_TV_CAP:1 "†¯±ªþ" #GetGovernmentTV_CAP
+ FEDERAL_EMPIRE_DT_CAP:1 "Ê¦®¿°þ ª¯±ªª" #GetGovernmentDT_CAP
+ FEDERAL_EMPIRE_IM_CAP:1 "Ê¦®¿°³½ ª¯±ª½" #GetGovernmentIM_CAP
+ FEDERAL_EMPIRE_PR_CAP:1 "Ê¦®¿°þ ª¯±ªª" #GetGovernmentPR_CAP
+ FEDERAL_EMPIRE_RD_CAP:1 "Ê¦®¿°þ ª¯±ªª" #GetGovernmentRD_CAP
+ FEDERAL_EMPIRE_TV_CAP:1 "Ê¦®¿°þ ª¯±ªþ" #GetGovernmentTV_CAP
+ FEDERAL_KINGDOM_DT_CAP:1 "Ê¦®¿°¯³ ¬®¢²¢³" #GetGovernmentDT_CAP
+ FEDERAL_KINGDOM_IM_CAP:1 "Ê¦®¿° ¬®¢²¢" #GetGovernmentIM_CAP
+ FEDERAL_KINGDOM_PR_CAP:1 "Ê¦®¿°¯ ¬®¢²¢" #GetGovernmentPR_CAP
+ FEDERAL_KINGDOM_RD_CAP:1 "Ê¦®¿°¥ ¬®¢²¢" #GetGovernmentRD_CAP
+ FEDERAL_KINGDOM_TV_CAP:1 "Ê¦®¿°º¯ ¬®¢²¢¯" #GetGovernmentTV_CAP
+ FEDERAL_REPUBLIC_DT_CAP:1 "Ê¦®¿°þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ FEDERAL_REPUBLIC_IM_CAP:1 "Ê¦®¿°³½ ±³¡®ª¬³" #GetGovernmentIM_CAP
+ FEDERAL_REPUBLIC_PR_CAP:1 "Ê¦®¿°þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ FEDERAL_REPUBLIC_RD_CAP:1 "Ê¦®¿°þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ FEDERAL_REPUBLIC_TV_CAP:1 "Ê¦®¿°þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ FREE_CITY_DT_CAP:1 "Ï®¿°¯³ ¥¦³" #GetGovernmentDT_CAP
+ FREE_CITY_IM_CAP:1 "Ï®¿°ºþ ¥¦" #GetGovernmentIM_CAP
+ FREE_CITY_PR_CAP:1 "Ï®¿°¯ ¥¦" #GetGovernmentPR_CAP
+ FREE_CITY_RD_CAP:1 "Ï®¿°¥ ¥¦" #GetGovernmentRD_CAP
+ FREE_CITY_TV_CAP:1 "Ï®¿°º¯ ¥¦¯" #GetGovernmentTV_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_DT_CAP:1 "Ð¢®½µª°°þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_IM_CAP:1 "Ð¢®½µª°°¾ ±³¡®ª¬" #GetGovernmentIM_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_PR_CAP:1 "Ð¢®½µª°°þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_RD_CAP:1 "Ð¢®½µª°°þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_TV_CAP:1 "Ð¢®½µª°°þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ GRAND_BARANGAY_DT_CAP:1 "€®¿Œ¯³ ¡°¥½" #GetGovernmentDT_CAP
+ GRAND_BARANGAY_IM_CAP:1 "€®¿Œþ ¡°¥þ" #GetGovernmentIM_CAP
+ GRAND_BARANGAY_PR_CAP:1 "€®¿Œ¯ ¡°¥" #GetGovernmentPR_CAP
+ GRAND_BARANGAY_RD_CAP:1 "€®¿Œ¥ ¡°¥¾" #GetGovernmentRD_CAP
+ GRAND_BARANGAY_TV_CAP:1 "€®¿Œª¯ ¡°¥¯" #GetGovernmentTV_CAP
+ GRAND_CHIEFDOM_DT_CAP:1 "Ï¢°¯³ ¢¨¦²¢³" #GetGovernmentDT_CAP
+ GRAND_CHIEFDOM_IM_CAP:1 "Ï¢° ¢¨¦²¢" #GetGovernmentIM_CAP
+ GRAND_CHIEFDOM_PR_CAP:1 "Ï¢°¯ ¢¨¦²¢" #GetGovernmentPR_CAP
+ GRAND_CHIEFDOM_RD_CAP:1 "Ï¢°¥ ¢¨¦²¢" #GetGovernmentRD_CAP
+ GRAND_CHIEFDOM_TV_CAP:1 "Ï¢°º¯ ¢¨¦²¢¯" #GetGovernmentTV_CAP
+ GRAND_DUCHY_DT_CAP:1 "Ï®ª¬¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ GRAND_DUCHY_IM_CAP:1 "Ï®ª¬ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ GRAND_DUCHY_PR_CAP:1 "Ï®ª¬¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ GRAND_DUCHY_RD_CAP:1 "Ï®ª¬¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ GRAND_DUCHY_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ GRAND_ELECTORAL_REPUBLIC_DT_CAP:1 "Ï®ª¬þ ±³¡®ª¬-¬³´½Œ²¢³" #GetGovernmentDT_CAP
+ GRAND_ELECTORAL_REPUBLIC_IM_CAP:1 "Ï®ª¬¾ ±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentIM_CAP
+ GRAND_ELECTORAL_REPUBLIC_PR_CAP:1 "Ï®ª¬þ ±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentPR_CAP
+ GRAND_ELECTORAL_REPUBLIC_RD_CAP:1 "Ï®ª¬þ ±³¡®ª¬ª-¬³´½Œ²¢" #GetGovernmentRD_CAP
+ GRAND_ELECTORAL_REPUBLIC_TV_CAP:1 "Ï®ª¬þ ±³¡®ª¬þ-¬³´½Œ²¢¯" #GetGovernmentTV_CAP
+ GRAND_HERCEGSEG_DT_CAP:1 "Ï®ª¬¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ GRAND_HERCEGSEG_IM_CAP:1 "Ï®ª¬ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ GRAND_HERCEGSEG_PR_CAP:1 "Ï®ª¬¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ GRAND_HERCEGSEG_RD_CAP:1 "Ï®ª¬¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ GRAND_HERCEGSEG_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ GRAND_HETMANATE_DT_CAP:1 "€®¿Œþ ¥²¯°¸ª°" #GetGovernmentDT_CAP
+ GRAND_HETMANATE_IM_CAP:1 "€®¿Œ³½ ¥²¯°¸ª°³" #GetGovernmentIM_CAP
+ GRAND_HETMANATE_PR_CAP:1 "€®¿Œþ ¥²¯°¸ª°" #GetGovernmentPR_CAP
+ GRAND_HETMANATE_RD_CAP:1 "€®¿Œþ ¥²¯°¸ª°º" #GetGovernmentRD_CAP
+ GRAND_HETMANATE_TV_CAP:1 "€®¿Œþ ¥²¯°¸ª°þ" #GetGovernmentTV_CAP
+ GRAND_INDEP_DAIMYO_DT_CAP:1 "‚®¢°¯³ ¦þ¯ž" #GetGovernmentDT_CAP
+ GRAND_INDEP_DAIMYO_IM_CAP:1 "‚®¢°¥ ¦þ¯ž" #GetGovernmentIM_CAP
+ GRAND_INDEP_DAIMYO_PR_CAP:1 "‚®¢°¯ ¦þ¯ž" #GetGovernmentPR_CAP
+ GRAND_INDEP_DAIMYO_RD_CAP:1 "‚®¢°¥ ¦þ¯ž" #GetGovernmentRD_CAP
+ GRAND_INDEP_DAIMYO_TV_CAP:1 "‚®¢°º¯ ¦þ¯ž" #GetGovernmentTV_CAP
+ GRAND_PIRATE_CONFEDERACY_DT_CAP:1 "€®¿Œþ ±ª²¬þ ¬°´¦µªª" #GetGovernmentDT_CAP
+ GRAND_PIRATE_CONFEDERACY_IM_CAP:1 "€®¿Œ³½ ±ª²¬³½ ¬°´¦µª½" #GetGovernmentIM_CAP
+ GRAND_PIRATE_CONFEDERACY_PR_CAP:1 "€®¿Œþ ±ª²¬þ ¬°´¦µªª" #GetGovernmentPR_CAP
+ GRAND_PIRATE_CONFEDERACY_RD_CAP:1 "€®¿Œþ ±ª²¬þ ¬°´¦µªª" #GetGovernmentRD_CAP
+ GRAND_PIRATE_CONFEDERACY_TV_CAP:1 "€®¿Œþ ±ª²¬þ ¬°´¦µªþ" #GetGovernmentTV_CAP
+ GRAND_PRINCEDOM_DT_CAP:1 "Ï®ª¬¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ GRAND_PRINCEDOM_IM_CAP:1 "Ï®ª¬ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ GRAND_PRINCEDOM_PR_CAP:1 "Ï®ª¬¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ GRAND_PRINCEDOM_RD_CAP:1 "Ï®ª¬¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ GRAND_PRINCEDOM_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ GRAND_PRINCIPALITY_DT_CAP:1 "Ï®ª¬¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ GRAND_PRINCIPALITY_IM_CAP:1 "Ï®ª¬ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ GRAND_PRINCIPALITY_PR_CAP:1 "Ï®ª¬¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ GRAND_PRINCIPALITY_RD_CAP:1 "Ï®ª¬¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ GRAND_PRINCIPALITY_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ GRAND_REPUBLIC_DT_CAP:1 "Ï®ª¬þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ GRAND_REPUBLIC_IM_CAP:1 "Ï®ª¬³½ ±³¡®ª¬³" #GetGovernmentIM_CAP
+ GRAND_REPUBLIC_PR_CAP:1 "Ï®ª¬þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ GRAND_REPUBLIC_RD_CAP:1 "Ï®ª¬þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ GRAND_REPUBLIC_TV_CAP:1 "Ï®ª¬þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ GRAND_SHARIFATE_DT_CAP:1 "ÏºŒ¯³ Œª´²³" #GetGovernmentDT_CAP
+ GRAND_SHARIFATE_IM_CAP:1 "ÏºŒªþ Œª´²" #GetGovernmentIM_CAP
+ GRAND_SHARIFATE_PR_CAP:1 "ÏºŒ¯ Œª´²" #GetGovernmentPR_CAP
+ GRAND_SHARIFATE_RD_CAP:1 "ÏºŒ¥ Œª´²" #GetGovernmentRD_CAP
+ GRAND_SHARIFATE_TV_CAP:1 "ÏºŒª¯ Œª´²¯" #GetGovernmentTV_CAP
+ GRAND_SISTERHOOD_DT_CAP:1 "Ï®ª¬¯³ ²ª¶²¢³" #GetGovernmentDT_CAP
+ GRAND_SISTERHOOD_IM_CAP:1 "Ï®ª¬ ²ª¶²¢" #GetGovernmentIM_CAP
+ GRAND_SISTERHOOD_PR_CAP:1 "Ï®ª¬¯ ²ª¶²¢" #GetGovernmentPR_CAP
+ GRAND_SISTERHOOD_RD_CAP:1 "Ï®ª¬¥ ²ª¶²¢" #GetGovernmentRD_CAP
+ GRAND_SISTERHOOD_TV_CAP:1 "Ï®ª¬ª¯ ²ª¶²¢¯" #GetGovernmentTV_CAP
+ GREAT_BARANGAY_DT_CAP:1 "Ï®ª¬¯³ ¡°¥½" #GetGovernmentDT_CAP
+ GREAT_BARANGAY_IM_CAP:1 "Ï®ª¬þ ¡°¥þ" #GetGovernmentIM_CAP
+ GREAT_BARANGAY_PR_CAP:1 "Ï®ª¬¯ ¡°¥" #GetGovernmentPR_CAP
+ GREAT_BARANGAY_RD_CAP:1 "Ï®ª¬¥ ¡°¥¾" #GetGovernmentRD_CAP
+ GREAT_BARANGAY_TV_CAP:1 "Ï®ª¬ª¯ ¡°¥¯" #GetGovernmentTV_CAP
+ GREAT_CHIEFDOM_DT_CAP:1 "Ï®ª¬¯³ ¢¨¦²¢³" #GetGovernmentDT_CAP
+ GREAT_CHIEFDOM_IM_CAP:1 "Ï®ª¬ ¢¨¦²¢" #GetGovernmentIM_CAP
+ GREAT_CHIEFDOM_PR_CAP:1 "Ï®ª¬¯ ¢¨¦²¢" #GetGovernmentPR_CAP
+ GREAT_CHIEFDOM_RD_CAP:1 "Ï®ª¬¥ ¢¨¦²¢" #GetGovernmentRD_CAP
+ GREAT_CHIEFDOM_TV_CAP:1 "Ï®ª¬ª¯ ¢¨¦²¢¯" #GetGovernmentTV_CAP
+ GREAT_ELECTORAL_REPUBLIC_DT_CAP:1 "Ï®ª¶þŒþ ±³¡®ª¬-¬³´½Œ²¢³" #GetGovernmentDT_CAP
+ GREAT_ELECTORAL_REPUBLIC_IM_CAP:1 "Ï®ª¶þŒ¾ ±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentIM_CAP
+ GREAT_ELECTORAL_REPUBLIC_PR_CAP:1 "Ï®ª¶þŒþ ±³¡®ª¬-¬³´½Œ²¢" #GetGovernmentPR_CAP
+ GREAT_ELECTORAL_REPUBLIC_RD_CAP:1 "Ï®ª¶þŒþ ±³¡®ª¬ª-¬³´½Œ²¢" #GetGovernmentRD_CAP
+ GREAT_ELECTORAL_REPUBLIC_TV_CAP:1 "Ï®ª¶þŒþ ±³¡®ª¬þ-¬³´½Œ²¢¯" #GetGovernmentTV_CAP
+ GREAT_EMIRATE_DT_CAP:1 "Ï®ª¬¯³ ¼¯ª²³" #GetGovernmentDT_CAP
+ GREAT_EMIRATE_IM_CAP:1 "Ï®ª¬ªþ ¼¯ª²" #GetGovernmentIM_CAP
+ GREAT_EMIRATE_PR_CAP:1 "Ï®ª¬¯ ¼¯ª²" #GetGovernmentPR_CAP
+ GREAT_EMIRATE_RD_CAP:1 "Ï®ª¬¥ ¼¯ª²" #GetGovernmentRD_CAP
+ GREAT_EMIRATE_TV_CAP:1 "Ï®ª¬ª¯ ¼¯ª²¯" #GetGovernmentTV_CAP
+ GREAT_HETMANATE_DT_CAP:1 "Ï®ª¬¯³ ¥²¯°²³" #GetGovernmentDT_CAP
+ GREAT_HETMANATE_IM_CAP:1 "Ï®ª¬ªþ ¥²¯°²" #GetGovernmentIM_CAP
+ GREAT_HETMANATE_PR_CAP:1 "Ï®ª¬¯ ¥²¯°²" #GetGovernmentPR_CAP
+ GREAT_HETMANATE_RD_CAP:1 "Ï®ª¬¥ ¥²¯°²" #GetGovernmentRD_CAP
+ GREAT_HETMANATE_TV_CAP:1 "Ï®ª¬ª¯ ¥²¯°²¯" #GetGovernmentTV_CAP
+ GREAT_IMAMATE_DT_CAP:1 "Ï®ª¬¯³ ª¯¯²³" #GetGovernmentDT_CAP
+ GREAT_IMAMATE_IM_CAP:1 "Ï®ª¬ªþ ª¯¯²" #GetGovernmentIM_CAP
+ GREAT_IMAMATE_PR_CAP:1 "Ï®ª¬¯ ª¯¯²" #GetGovernmentPR_CAP
+ GREAT_IMAMATE_RD_CAP:1 "Ï®ª¬¥ ª¯¯²" #GetGovernmentRD_CAP
+ GREAT_IMAMATE_TV_CAP:1 "Ï®ª¬ª¯ ª¯¯²¯" #GetGovernmentTV_CAP
+ GREAT_INDEP_DAIMYO_DT_CAP:1 "Ï®ª¬¯³ ¦þ¯ž" #GetGovernmentDT_CAP
+ GREAT_INDEP_DAIMYO_IM_CAP:1 "Ï®ª¬¥ ¦þ¯ž" #GetGovernmentIM_CAP
+ GREAT_INDEP_DAIMYO_PR_CAP:1 "Ï®ª¬¯ ¦þ¯ž" #GetGovernmentPR_CAP
+ GREAT_INDEP_DAIMYO_RD_CAP:1 "Ï®ª¬¥ ¦þ¯ž" #GetGovernmentRD_CAP
+ GREAT_INDEP_DAIMYO_TV_CAP:1 "Ï®ª¬ª¯ ¦þ¯ž" #GetGovernmentTV_CAP
+ GREAT_LEAGUE_DT_CAP:1 "Ï®ª¬þ ®ª¥" #GetGovernmentDT_CAP
+ GREAT_LEAGUE_IM_CAP:1 "Ï®ª¬³½ ®ª¥³" #GetGovernmentIM_CAP
+ GREAT_LEAGUE_PR_CAP:1 "Ï®ª¬þ ®ª¥" #GetGovernmentPR_CAP
+ GREAT_LEAGUE_RD_CAP:1 "Ï®ª¬þ ®ª¥ª" #GetGovernmentRD_CAP
+ GREAT_LEAGUE_TV_CAP:1 "Ï®ª¬þ ®ª¥þ" #GetGovernmentTV_CAP
+ GREAT_METROPOLIS_DT_CAP:1 "Ï®ª¬þ ¯ª²±®ªª" #GetGovernmentDT_CAP
+ GREAT_METROPOLIS_IM_CAP:1 "Ï®ª¬³½ ¯ª²±®ª½" #GetGovernmentIM_CAP
+ GREAT_METROPOLIS_PR_CAP:1 "Ï®ª¬þ ¯ª²±®ªª" #GetGovernmentPR_CAP
+ GREAT_METROPOLIS_RD_CAP:1 "Ï®ª¬þ ¯ª²±®ªª" #GetGovernmentRD_CAP
+ GREAT_METROPOLIS_TV_CAP:1 "Ï®ª¬þ ¯ª²±®ªþ" #GetGovernmentTV_CAP
+ GREAT_PRINCEDOM_DT_CAP:1 "Ô¢²®þŒ¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ GREAT_PRINCEDOM_IM_CAP:1 "Ô¢²®þŒ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ GREAT_PRINCEDOM_PR_CAP:1 "Ô¢²®þŒ¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ GREAT_PRINCEDOM_RD_CAP:1 "Ô¢²®þŒ¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ GREAT_PRINCEDOM_TV_CAP:1 "Ô¢²®þŒª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ GREAT_REPUBLIC_DT_CAP:1 "Ï®ª¬þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ GREAT_REPUBLIC_IM_CAP:1 "Ï®ª¬³½ ±³¡®ª¬³" #GetGovernmentIM_CAP
+ GREAT_REPUBLIC_PR_CAP:1 "Ï®ª¬þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ GREAT_REPUBLIC_RD_CAP:1 "Ï®ª¬þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ GREAT_REPUBLIC_TV_CAP:1 "Ï®ª¬þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ GREAT_SHARIFATE_DT_CAP:1 "Ï®ª¬¯³ Œª´²³" #GetGovernmentDT_CAP
+ GREAT_SHARIFATE_IM_CAP:1 "Ï®ª¬ªþ Œª´²" #GetGovernmentIM_CAP
+ GREAT_SHARIFATE_PR_CAP:1 "Ï®ª¬¯ Œª´²" #GetGovernmentPR_CAP
+ GREAT_SHARIFATE_RD_CAP:1 "Ï®ª¬¥ Œª´²" #GetGovernmentRD_CAP
+ GREAT_SHARIFATE_TV_CAP:1 "Ï®ª¬ª¯ Œª´²¯" #GetGovernmentTV_CAP
+ HERCEGSEG_DT_CAP:1 "°¾¨²¢³" #GetGovernmentDT_CAP
+ HERCEGSEG_IM_CAP:1 "°¾¨²¢" #GetGovernmentIM_CAP
+ HERCEGSEG_PR_CAP:1 "°¾¨²¢" #GetGovernmentPR_CAP
+ HERCEGSEG_RD_CAP:1 "°¾¨²¢" #GetGovernmentRD_CAP
+ HERCEGSEG_TV_CAP:1 "°¾¨²¢¯" #GetGovernmentTV_CAP
+ HERRED_DT_CAP:1 "Ô²°³" #GetGovernmentDT_CAP
+ HERRED_IM_CAP:1 "Ô²°½" #GetGovernmentIM_CAP
+ HERRED_PR_CAP:1 "Ô²°" #GetGovernmentPR_CAP
+ HERRED_RD_CAP:1 "Ô²°ª" #GetGovernmentRD_CAP
+ HERRED_TV_CAP:1 "Ô²°þ" #GetGovernmentTV_CAP
+ HETMANATE_DT_CAP:1 "‚²¯°¸ª°" #GetGovernmentDT_CAP
+ HETMANATE_IM_CAP:1 "‚²¯°¸ª°³" #GetGovernmentIM_CAP
+ HETMANATE_PR_CAP:1 "‚²¯°¸ª°" #GetGovernmentPR_CAP
+ HETMANATE_RD_CAP:1 "‚²¯°¸ª°º" #GetGovernmentRD_CAP
+ HETMANATE_TV_CAP:1 "‚²¯°¸ª°þ" #GetGovernmentTV_CAP
+ HIGH_ADMIRALTY_DT_CAP:1 "ÏºŒ¯³ ¦¯ª®²þ²¢³" #GetGovernmentDT_CAP
+ HIGH_ADMIRALTY_IM_CAP:1 "ÏºŒ ¦¯ª®²þ²¢" #GetGovernmentIM_CAP
+ HIGH_ADMIRALTY_PR_CAP:1 "ÏºŒ¯ ¦¯ª®²þ²¢" #GetGovernmentPR_CAP
+ HIGH_ADMIRALTY_RD_CAP:1 "ÏºŒ¥ ¦¯ª®²þ²¢" #GetGovernmentRD_CAP
+ HIGH_ADMIRALTY_TV_CAP:1 "ÏºŒª¯ ¦¯ª®²þ²¢¯" #GetGovernmentTV_CAP
+ HIGH_IMAMATE_DT_CAP:1 "Ï¢°¯³ ª¯¯²³" #GetGovernmentDT_CAP
+ HIGH_IMAMATE_IM_CAP:1 "Ï¢°ºþ ª¯¯²" #GetGovernmentIM_CAP
+ HIGH_IMAMATE_PR_CAP:1 "Ï¢°¯ ª¯¯²" #GetGovernmentPR_CAP
+ HIGH_IMAMATE_RD_CAP:1 "Ï¢°¥ ª¯¯²" #GetGovernmentRD_CAP
+ HIGH_IMAMATE_TV_CAP:1 "Ï¢°º¯ ª¯¯²¯" #GetGovernmentTV_CAP
+ HOLY_EMPIRE_DT_CAP:1 "Ù¬²ª¶¬þ ª¯±ªª" #GetGovernmentDT_CAP
+ HOLY_EMPIRE_IM_CAP:1 "Ù¬²ª¶¬³½ ª¯±ª½" #GetGovernmentIM_CAP
+ HOLY_EMPIRE_PR_CAP:1 "Ù¬²ª¶¬þ ª¯±ªª" #GetGovernmentPR_CAP
+ HOLY_EMPIRE_RD_CAP:1 "Ù¬²ª¶¬þ ª¯±ªª" #GetGovernmentRD_CAP
+ HOLY_EMPIRE_TV_CAP:1 "Ù¬²ª¶¬þ ª¯±ªþ" #GetGovernmentTV_CAP
+ HOLY_PRINCIPALITY_DT_CAP:1 "Ë¬¢°¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ HOLY_PRINCIPALITY_IM_CAP:1 "Ë¬¢° ¬°¾¨²¢" #GetGovernmentIM_CAP
+ HOLY_PRINCIPALITY_PR_CAP:1 "Ë¬¢°¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ HOLY_PRINCIPALITY_RD_CAP:1 "Ë¬¢°¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ HOLY_PRINCIPALITY_TV_CAP:1 "Ë¬¢°º¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ HOLY_STATE_DT_CAP:1 "Ë¬¢°¯³ ¥³¦²¢³" #GetGovernmentDT_CAP
+ HOLY_STATE_IM_CAP:1 "Ë¬¢° ¥³¦²¢" #GetGovernmentIM_CAP
+ HOLY_STATE_PR_CAP:1 "Ë¬¢°¯ ¥³¦²¢" #GetGovernmentPR_CAP
+ HOLY_STATE_RD_CAP:1 "Ë¬¢°¥ ¥³¦²¢" #GetGovernmentRD_CAP
+ HOLY_STATE_TV_CAP:1 "Ë¬¢°º¯ ¥³¦²¢¯" #GetGovernmentTV_CAP
+ HORDE_DT_CAP:1 "¦" #GetGovernmentDT_CAP
+ HORDE_IM_CAP:1 "¦³" #GetGovernmentIM_CAP
+ HORDE_PR_CAP:1 "¦" #GetGovernmentPR_CAP
+ HORDE_RD_CAP:1 "¦º" #GetGovernmentRD_CAP
+ HORDE_TV_CAP:1 "¦þ" #GetGovernmentTV_CAP
+ IKKO_IKKI_COMMUNE_DT_CAP:1 "Ð±³¡®ª¬ †¬¬-ª¬¬ª" #GetGovernmentDT_CAP
+ IKKO_IKKI_COMMUNE_IM_CAP:1 "Ð±³¡®ª¬ †¬¬-ª¬¬ª" #GetGovernmentIM_CAP
+ IKKO_IKKI_COMMUNE_PR_CAP:1 "Ð±³¡®ª¬ †¬¬-ª¬¬ª" #GetGovernmentPR_CAP
+ IKKO_IKKI_COMMUNE_RD_CAP:1 "Ð±³¡®ª¬ª †¬¬-ª¬¬ª" #GetGovernmentRD_CAP
+ IKKO_IKKI_COMMUNE_TV_CAP:1 "Ð±³¡®ª¬þ †¬¬-ª¬¬ª" #GetGovernmentTV_CAP
+ IKKO_IKKI_EMPIRE_DT_CAP:1 "‰²¬²²³ †¬¬-ª¬¬ª" #GetGovernmentDT_CAP
+ IKKO_IKKI_EMPIRE_IM_CAP:1 "‰²¬²² †¬¬-ª¬¬ª" #GetGovernmentIM_CAP
+ IKKO_IKKI_EMPIRE_PR_CAP:1 "‰²¬²² †¬¬-ª¬¬ª" #GetGovernmentPR_CAP
+ IKKO_IKKI_EMPIRE_RD_CAP:1 "‰²¬²² †¬¬-ª¬¬ª" #GetGovernmentRD_CAP
+ IKKO_IKKI_EMPIRE_TV_CAP:1 "‰²¬²²¯ †¬¬-ª¬¬ª" #GetGovernmentTV_CAP
+ IKKO_IKKI_ORDER_DT_CAP:1 "¦°³ †¬¬-ª¬¬ª" #GetGovernmentDT_CAP
+ IKKO_IKKI_ORDER_IM_CAP:1 "¦° †¬¬-ª¬¬ª" #GetGovernmentIM_CAP
+ IKKO_IKKI_ORDER_PR_CAP:1 "¦° †¬¬-ª¬¬ª" #GetGovernmentPR_CAP
+ IKKO_IKKI_ORDER_RD_CAP:1 "¦° †¬¬-ª¬¬ª" #GetGovernmentRD_CAP
+ IKKO_IKKI_ORDER_TV_CAP:1 "¦°¯ †¬¬-ª¬¬ª" #GetGovernmentTV_CAP
+ IKKO_IKKI_SHOGUN_DT_CAP:1 "Ôž¥³°²³ †¬¬-ª¬¬ª" #GetGovernmentDT_CAP
+ IKKO_IKKI_SHOGUN_IM_CAP:1 "Ôž¥³°² †¬¬-ª¬¬ª" #GetGovernmentIM_CAP
+ IKKO_IKKI_SHOGUN_PR_CAP:1 "Ôž¥³°² †¬¬-ª¬¬ª" #GetGovernmentPR_CAP
+ IKKO_IKKI_SHOGUN_RD_CAP:1 "Ôž¥³°² †¬¬-ª¬¬ª" #GetGovernmentRD_CAP
+ IKKO_IKKI_SHOGUN_TV_CAP:1 "Ôž¥³°²¯ †¬¬-ª¬¬ª" #GetGovernmentTV_CAP
+ ILKHANATE_DT_CAP:0 "ILKHANATE" #GetGovernmentDT_CAP
+ ILKHANATE_IM_CAP:0 "ILKHANATE" #GetGovernmentIM_CAP
+ ILKHANATE_PR_CAP:0 "ILKHANATE" #GetGovernmentPR_CAP
+ ILKHANATE_RD_CAP:0 "ILKHANATE" #GetGovernmentRD_CAP
+ ILKHANATE_TV_CAP:0 "ILKHANATE" #GetGovernmentTV_CAP
+ IMAMATE_DT_CAP:1 "†¯¯²³" #GetGovernmentDT_CAP
+ IMAMATE_IM_CAP:1 "†¯¯²" #GetGovernmentIM_CAP
+ IMAMATE_PR_CAP:1 "†¯¯²" #GetGovernmentPR_CAP
+ IMAMATE_RD_CAP:1 "†¯¯²" #GetGovernmentRD_CAP
+ IMAMATE_TV_CAP:1 "†¯¯²¯" #GetGovernmentTV_CAP
+ INDEP_DAIMYO_DT_CAP:1 "©¢ªª¯¯³ ¦þ¯ž" #GetGovernmentDT_CAP
+ INDEP_DAIMYO_IM_CAP:1 "©¢ªª¯¥ ¦þ¯ž" #GetGovernmentIM_CAP
+ INDEP_DAIMYO_PR_CAP:1 "©¢ªª¯¯ ¦þ¯ž" #GetGovernmentPR_CAP
+ INDEP_DAIMYO_RD_CAP:1 "©¢ªª¯¥ ¦þ¯ž" #GetGovernmentRD_CAP
+ INDEP_DAIMYO_TV_CAP:1 "©¢ªª¯º¯ ¦þ¯ž" #GetGovernmentTV_CAP
+ ISLAMIC_CALIPHATE_DT_CAP:1 "†®¯¬¯³ ®ª´²³" #GetGovernmentDT_CAP
+ ISLAMIC_CALIPHATE_IM_CAP:1 "†®¯¬ªþ ®ª´²" #GetGovernmentIM_CAP
+ ISLAMIC_CALIPHATE_PR_CAP:1 "†®¯¬¯ ®ª´²" #GetGovernmentPR_CAP
+ ISLAMIC_CALIPHATE_RD_CAP:1 "†®¯¬¥ ®ª´²" #GetGovernmentRD_CAP
+ ISLAMIC_CALIPHATE_TV_CAP:1 "†®¯¬ª¯ ®ª´²¯" #GetGovernmentTV_CAP
+ KAISERREICH_DT_CAP:1 "†¯±ªª" #GetGovernmentDT_CAP
+ KAISERREICH_IM_CAP:1 "†¯±ª¾" #GetGovernmentIM_CAP
+ KAISERREICH_PR_CAP:1 "†¯±ªª" #GetGovernmentPR_CAP
+ KAISERREICH_RD_CAP:1 "†¯±ªª" #GetGovernmentRD_CAP
+ KAISERREICH_TV_CAP:1 "†¯±ªþ" #GetGovernmentTV_CAP
+ KHAGANATE_DT_CAP:1 "¥°²³" #GetGovernmentDT_CAP
+ KHAGANATE_IM_CAP:1 "¥°²" #GetGovernmentIM_CAP
+ KHAGANATE_PR_CAP:1 "¥°²" #GetGovernmentPR_CAP
+ KHAGANATE_RD_CAP:1 "¥°²" #GetGovernmentRD_CAP
+ KHAGANATE_TV_CAP:1 "¥°²¯" #GetGovernmentTV_CAP
+ KHANATE_DT_CAP:1 "Û°²¢³" #GetGovernmentDT_CAP
+ KHANATE_IM_CAP:1 "Û°²¢" #GetGovernmentIM_CAP
+ KHANATE_PR_CAP:1 "Û°²¢" #GetGovernmentPR_CAP
+ KHANATE_RD_CAP:1 "Û°²¢" #GetGovernmentRD_CAP
+ KHANATE_TV_CAP:1 "Û°²¢¯" #GetGovernmentTV_CAP
+ KHEDIVATE_DT_CAP:0 "KHEDIVATE" #GetGovernmentDT_CAP
+ KHEDIVATE_IM_CAP:0 "KHEDIVATE" #GetGovernmentIM_CAP
+ KHEDIVATE_PR_CAP:0 "KHEDIVATE" #GetGovernmentPR_CAP
+ KHEDIVATE_RD_CAP:0 "KHEDIVATE" #GetGovernmentRD_CAP
+ KHEDIVATE_TV_CAP:0 "KHEDIVATE" #GetGovernmentTV_CAP
+ KINGDOM_DT_CAP:1 "®¢²¢³" #GetGovernmentDT_CAP
+ KINGDOM_IM_CAP:1 "®¢²¢" #GetGovernmentIM_CAP
+ KINGDOM_PALATINE_DT_CAP:1 "‰´®¿µ¬®¢²¢³" #GetGovernmentDT_CAP
+ KINGDOM_PALATINE_IM_CAP:1 "‰´®¿µ¬®¢²¢" #GetGovernmentIM_CAP
+ KINGDOM_PALATINE_PR_CAP:1 "‰´®¿µ¬®¢²¢" #GetGovernmentPR_CAP
+ KINGDOM_PALATINE_RD_CAP:1 "‰´®¿µ¬®¢²¢" #GetGovernmentRD_CAP
+ KINGDOM_PALATINE_TV_CAP:1 "‰´®¿µ¬®¢²¢¯" #GetGovernmentTV_CAP
+ KINGDOM_PR_CAP:1 "®¢²¢" #GetGovernmentPR_CAP
+ KINGDOM_RD_CAP:1 "®¢²¢" #GetGovernmentRD_CAP
+ KINGDOM_TV_CAP:1 "®¢²¢¯" #GetGovernmentTV_CAP
+ KUCHKABAL_DT_CAP:1 "³¶¬¡®" #GetGovernmentDT_CAP
+ KUCHKABAL_IM_CAP:1 "³¶¬¡®¿" #GetGovernmentIM_CAP
+ KUCHKABAL_PR_CAP:1 "³¶¬¡®" #GetGovernmentPR_CAP
+ KUCHKABAL_RD_CAP:1 "³¶¬¡®ª" #GetGovernmentRD_CAP
+ KUCHKABAL_TV_CAP:1 "³¶¬¡®¯" #GetGovernmentTV_CAP
+ LORDSHIP_DT_CAP:1 "Ï®¦°ª½" #GetGovernmentDT_CAP
+ LORDSHIP_IM_CAP:1 "Ï®¦°ª" #GetGovernmentIM_CAP
+ LORDSHIP_PR_CAP:1 "Ï®¦°ªª" #GetGovernmentPR_CAP
+ LORDSHIP_RD_CAP:1 "Ï®¦°ª¾" #GetGovernmentRD_CAP
+ LORDSHIP_TV_CAP:1 "Ï®¦°ª¯" #GetGovernmentTV_CAP
+ MALIKATE_DT_CAP:1 "®ª¬²³" #GetGovernmentDT_CAP
+ MALIKATE_IM_CAP:1 "®ª¬²" #GetGovernmentIM_CAP
+ MALIKATE_PR_CAP:1 "®ª¬²" #GetGovernmentPR_CAP
+ MALIKATE_RD_CAP:1 "®ª¬²" #GetGovernmentRD_CAP
+ MALIKATE_TV_CAP:1 "®ª¬²¯" #GetGovernmentTV_CAP
+ MARCH_DT_CAP:1 "¬" #GetGovernmentDT_CAP
+ MARCH_IM_CAP:1 "¬³" #GetGovernmentIM_CAP
+ MARCH_PR_CAP:1 "¬" #GetGovernmentPR_CAP
+ MARCH_RD_CAP:1 "¬ª" #GetGovernmentRD_CAP
+ MARCH_TV_CAP:1 "¬þ" #GetGovernmentTV_CAP
+ METROPOLIS_DT_CAP:1 "ª²±®ªª" #GetGovernmentDT_CAP
+ METROPOLIS_IM_CAP:1 "ª²±®ª½" #GetGovernmentIM_CAP
+ METROPOLIS_PR_CAP:1 "ª²±®ªª" #GetGovernmentPR_CAP
+ METROPOLIS_RD_CAP:1 "ª²±®ªª" #GetGovernmentRD_CAP
+ METROPOLIS_TV_CAP:1 "ª²±®ªþ" #GetGovernmentTV_CAP
+ MILITARY_GOVERNMENT_DT_CAP:1 "Ï°°þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ MILITARY_GOVERNMENT_IM_CAP:1 "Ï°°¾ ±³¡®ª¬" #GetGovernmentIM_CAP
+ MILITARY_GOVERNMENT_PR_CAP:1 "Ï°°þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ MILITARY_GOVERNMENT_RD_CAP:1 "Ï°°þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ MILITARY_GOVERNMENT_TV_CAP:1 "Ï°°þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ MISL_DT_CAP:1 "ª®½" #GetGovernmentDT_CAP
+ MISL_IM_CAP:1 "ª®¿" #GetGovernmentIM_CAP
+ MISL_PR_CAP:1 "ª®" #GetGovernmentPR_CAP
+ MISL_RD_CAP:1 "ª®¾" #GetGovernmentRD_CAP
+ MISL_TV_CAP:1 "ª®¯" #GetGovernmentTV_CAP
+ MONASTIC_EMPIRE_DT_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentDT_CAP
+ MONASTIC_EMPIRE_IM_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentIM_CAP
+ MONASTIC_EMPIRE_PR_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentPR_CAP
+ MONASTIC_EMPIRE_RD_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentRD_CAP
+ MONASTIC_EMPIRE_TV_CAP:0 "MONASTIC_EMPIRE" #GetGovernmentTV_CAP
+ MONASTIC_ORDER_DT_CAP:1 "Ï°°-¯°Œ¬¯³ ¦°³" #GetGovernmentDT_CAP
+ MONASTIC_ORDER_IM_CAP:1 "Ï°°-¯°Œ¬ªþ ¦°" #GetGovernmentIM_CAP
+ MONASTIC_ORDER_PR_CAP:1 "Ï°°-¯°Œ¬¯ ¦°" #GetGovernmentPR_CAP
+ MONASTIC_ORDER_RD_CAP:1 "Ï°°-¯°Œ¬¥ ¦°" #GetGovernmentRD_CAP
+ MONASTIC_ORDER_TV_CAP:1 "Ï°°-¯°Œ¬ª¯ ¦°¯" #GetGovernmentTV_CAP
+ MONASTIC_STATE_DT_CAP:1 "°Œ¬¯³ ¥³¦²¢³" #GetGovernmentDT_CAP
+ MONASTIC_STATE_IM_CAP:1 "°Œ¬ ¥³¦²¢" #GetGovernmentIM_CAP
+ MONASTIC_STATE_PR_CAP:1 "°Œ¬¯ ¥³¦²¢" #GetGovernmentPR_CAP
+ MONASTIC_STATE_RD_CAP:1 "°Œ¬¥ ¥³¦²¢" #GetGovernmentRD_CAP
+ MONASTIC_STATE_TV_CAP:1 "°Œ¬ª¯ ¥³¦²¢¯" #GetGovernmentTV_CAP
+ MONG_DT_CAP:1 "°¥³" #GetGovernmentDT_CAP
+ MONG_IM_CAP:1 "°¥" #GetGovernmentIM_CAP
+ MONG_PR_CAP:1 "°¥" #GetGovernmentPR_CAP
+ MONG_RD_CAP:1 "°¥" #GetGovernmentRD_CAP
+ MONG_TV_CAP:1 "°¥¯" #GetGovernmentTV_CAP
+ MOST_SERENE_REPUBLIC_CHTO_CAP:1 "Ô¢²®þŒ¾ ±³¡®ª¬" #GetGovernmentIM_CAP
+ MOST_SERENE_REPUBLIC_DT_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentDT_CAP
+ MOST_SERENE_REPUBLIC_GDE_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬" #GetGovernmentPR_CAP
+ MOST_SERENE_REPUBLIC_IM_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentIM_CAP
+ MOST_SERENE_REPUBLIC_KEM_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ MOST_SERENE_REPUBLIC_OGO_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ MOST_SERENE_REPUBLIC_OMU_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬" #GetGovernmentDT_CAP
+ MOST_SERENE_REPUBLIC_PR_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentPR_CAP
+ MOST_SERENE_REPUBLIC_RD_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentRD_CAP
+ MOST_SERENE_REPUBLIC_TV_CAP:0 "MOST_SERENE_REPUBLIC" #GetGovernmentTV_CAP
+ NAWABATE_DT_CAP:1 "¢¡²³" #GetGovernmentDT_CAP
+ NAWABATE_IM_CAP:1 "¢¡²" #GetGovernmentIM_CAP
+ NAWABATE_PR_CAP:1 "¢¡²" #GetGovernmentPR_CAP
+ NAWABATE_RD_CAP:1 "¢¡²" #GetGovernmentRD_CAP
+ NAWABATE_TV_CAP:1 "¢¡²¯" #GetGovernmentTV_CAP
+ NIZAMATE_DT_CAP:1 "ª©¯²³" #GetGovernmentDT_CAP
+ NIZAMATE_IM_CAP:1 "ª©¯²" #GetGovernmentIM_CAP
+ NIZAMATE_PR_CAP:1 "ª©¯²" #GetGovernmentPR_CAP
+ NIZAMATE_RD_CAP:1 "ª©¯²" #GetGovernmentRD_CAP
+ NIZAMATE_TV_CAP:1 "ª©¯²¯" #GetGovernmentTV_CAP
+ PAPACY_DT_CAP:1 "‰±²¢³" #GetGovernmentDT_CAP
+ PAPACY_IM_CAP:1 "‰±²¢" #GetGovernmentIM_CAP
+ PAPACY_PR_CAP:1 "‰±²¢" #GetGovernmentPR_CAP
+ PAPACY_RD_CAP:1 "‰±²¢" #GetGovernmentRD_CAP
+ PAPACY_TV_CAP:1 "‰±²¢¯" #GetGovernmentTV_CAP
+ PARLIAMENT_OF_HEAVEN_DT_CAP:1 "‰®¯°²³ ¡" #GetGovernmentDT_CAP
+ PARLIAMENT_OF_HEAVEN_IM_CAP:1 "‰®¯°² ¡" #GetGovernmentIM_CAP
+ PARLIAMENT_OF_HEAVEN_PR_CAP:1 "‰®¯°² ¡" #GetGovernmentPR_CAP
+ PARLIAMENT_OF_HEAVEN_RD_CAP:1 "‰®¯°² ¡" #GetGovernmentRD_CAP
+ PARLIAMENT_OF_HEAVEN_TV_CAP:1 "‰®¯°²¯ ¡" #GetGovernmentTV_CAP
+ PASHALIK_DT_CAP:1 "™¾®²³" #GetGovernmentDT_CAP
+ PASHALIK_IM_CAP:1 "™¾®²" #GetGovernmentIM_CAP
+ PASHALIK_PR_CAP:1 "™¾®²" #GetGovernmentPR_CAP
+ PASHALIK_RD_CAP:1 "™¾®²" #GetGovernmentRD_CAP
+ PASHALIK_TV_CAP:1 "™¾®²¯" #GetGovernmentTV_CAP
+ PATRIARCHATE_DT_CAP:1 "‰²ª²³" #GetGovernmentDT_CAP
+ PATRIARCHATE_IM_CAP:1 "‰²ª²" #GetGovernmentIM_CAP
+ PATRIARCHATE_PR_CAP:1 "‰²ª²" #GetGovernmentPR_CAP
+ PATRIARCHATE_RD_CAP:1 "‰²ª²" #GetGovernmentRD_CAP
+ PATRIARCHATE_TV_CAP:1 "‰²ª²¯" #GetGovernmentTV_CAP
+ PIRATE_CONFEDERACY_DT_CAP:1 "‰ª²¬þ ¬°´¦µªª" #GetGovernmentDT_CAP
+ PIRATE_CONFEDERACY_IM_CAP:1 "‰ª²¬³½ ¬°´¦µª½" #GetGovernmentIM_CAP
+ PIRATE_CONFEDERACY_PR_CAP:1 "‰ª²¬þ ¬°´¦µªª" #GetGovernmentPR_CAP
+ PIRATE_CONFEDERACY_RD_CAP:1 "‰ª²¬þ ¬°´¦µªª" #GetGovernmentRD_CAP
+ PIRATE_CONFEDERACY_TV_CAP:1 "‰ª²¬þ ¬°´¦µªþ" #GetGovernmentTV_CAP
+ PIRATE_EMPIRE_DT_CAP:1 "†¯±ªª ±ª²¢" #GetGovernmentDT_CAP
+ PIRATE_EMPIRE_IM_CAP:1 "†¯±ª½ ±ª²¢" #GetGovernmentIM_CAP
+ PIRATE_EMPIRE_PR_CAP:1 "†¯±ªª ±ª²¢" #GetGovernmentPR_CAP
+ PIRATE_EMPIRE_RD_CAP:1 "†¯±ªª ±ª²¢" #GetGovernmentRD_CAP
+ PIRATE_EMPIRE_TV_CAP:1 "†¯±ªþ ±ª²¢" #GetGovernmentTV_CAP
+ PIRATE_KINGDOM_DT_CAP:1 "®¢²¢³ ±ª²¢" #GetGovernmentDT_CAP
+ PIRATE_KINGDOM_IM_CAP:1 "®¢²¢ ±ª²¢" #GetGovernmentIM_CAP
+ PIRATE_KINGDOM_PR_CAP:1 "®¢²¢ ±ª²¢" #GetGovernmentPR_CAP
+ PIRATE_KINGDOM_RD_CAP:1 "®¢²¢ ±ª²¢" #GetGovernmentRD_CAP
+ PIRATE_KINGDOM_TV_CAP:1 "®¢²¢¯ ±ª²¢" #GetGovernmentTV_CAP
+ PIRATE_PRINCIPALITY_DT_CAP:1 "‰ª²¬¯³ ¬°¾¨²¢³" #GetGovernmentDT_CAP
+ PIRATE_PRINCIPALITY_IM_CAP:1 "‰ª²¬ ¬°¾¨²¢" #GetGovernmentIM_CAP
+ PIRATE_PRINCIPALITY_PR_CAP:1 "‰ª²¬¯ ¬°¾¨²¢" #GetGovernmentPR_CAP
+ PIRATE_PRINCIPALITY_RD_CAP:1 "‰ª²¬¥ ¬°¾¨²¢" #GetGovernmentRD_CAP
+ PIRATE_PRINCIPALITY_TV_CAP:1 "‰ª²¬ª¯ ¬°¾¨²¢¯" #GetGovernmentTV_CAP
+ PIRATE_REPUBLIC_DT_CAP:1 "‰ª²¬þ ±³¡®ª¬" #GetGovernmentDT_CAP
+ PIRATE_REPUBLIC_IM_CAP:1 "‰ª²¬³½ ±³¡®ª¬³" #GetGovernmentIM_CAP
+ PIRATE_REPUBLIC_PR_CAP:1 "‰ª²¬þ ±³¡®ª¬" #GetGovernmentPR_CAP
+ PIRATE_REPUBLIC_RD_CAP:1 "‰ª²¬þ ±³¡®ª¬ª" #GetGovernmentRD_CAP
+ PIRATE_REPUBLIC_TV_CAP:1 "‰ª²¬þ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ PRESIDENTIAL_DICTATORSHIP_DT_CAP:1 "‰©ª¦°²¬þ ¦ª¬²²³" #GetGovernmentDT_CAP
+ PRESIDENTIAL_DICTATORSHIP_IM_CAP:1 "‰©ª¦°²¬³½ ¦ª¬²²³³" #GetGovernmentIM_CAP
+ PRESIDENTIAL_DICTATORSHIP_PR_CAP:1 "‰©ª¦°²¬þ ¦ª¬²²³" #GetGovernmentPR_CAP
+ PRESIDENTIAL_DICTATORSHIP_RD_CAP:1 "‰©ª¦°²¬þ ¦ª¬²²³º" #GetGovernmentRD_CAP
+ PRESIDENTIAL_DICTATORSHIP_TV_CAP:1 "‰©ª¦°²¬þ ¦ª¬²²³þ" #GetGovernmentTV_CAP
+ PRINCEDOM_DT_CAP:1 "°¾¨²¢³" #GetGovernmentDT_CAP
+ PRINCEDOM_IM_CAP:1 "°¾¨²¢" #GetGovernmentIM_CAP
+ PRINCEDOM_PR_CAP:1 "°¾¨²¢" #GetGovernmentPR_CAP
+ PRINCEDOM_RD_CAP:1 "°¾¨²¢" #GetGovernmentRD_CAP
+ PRINCEDOM_TV_CAP:1 "°¾¨²¢¯" #GetGovernmentTV_CAP
+ PRINCIPALITY_DT_CAP:1 "°¾¨²¢³" #GetGovernmentDT_CAP                                                        
+ PRINCIPALITY_IM_CAP:1 "°¾¨²¢" #GetGovernmentIM_CAP                                                        
+ PRINCIPALITY_PR_CAP:1 "°¾¨²¢" #GetGovernmentPR_CAP                                                        
+ PRINCIPALITY_RD_CAP:1 "°¾¨²¢" #GetGovernmentRD_CAP
+ PRINCIPALITY_TV_CAP:1 "°¾¨²¢¯" #GetGovernmentTV_CAP                                                          
+ REPUBLIC_DT_CAP:1 "Ð±³¡®ª¬" #GetGovernmentDT_CAP
+ REPUBLIC_IM_CAP:1 "Ð±³¡®ª¬³" #GetGovernmentIM_CAP
+ REPUBLIC_PR_CAP:1 "Ð±³¡®ª¬" #GetGovernmentPR_CAP
+ REPUBLIC_RD_CAP:1 "Ð±³¡®ª¬ª" #GetGovernmentRD_CAP
+ REPUBLIC_TV_CAP:1 "Ð±³¡®ª¬þ" #GetGovernmentTV_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_DT_CAP:1 "Sikkerhedtinget" #GetGovernmentDT_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_IM_CAP:1 "Sikkerhedtinget" #GetGovernmentIM_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_PR_CAP:1 "Sikkerhedtinget" #GetGovernmentPR_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_RD_CAP:1 "Sikkerhedtinget" #GetGovernmentRD_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_TV_CAP:1 "Sikkerhedtinget" #GetGovernmentTV_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_DT_CAP:1 "²¿¾°¬þ ³°²" #GetGovernmentDT_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_IM_CAP:1 "²¿¾°¬³½ ³°²³" #GetGovernmentIM_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_PR_CAP:1 "²¿¾°¬þ ³°²" #GetGovernmentPR_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_RD_CAP:1 "²¿¾°¬þ ³°²º" #GetGovernmentRD_CAP
+ REVOLUTIONARY_PEASANT_REPUBLIC_TV_CAP:1 "²¿¾°¬þ ³°²þ" #GetGovernmentTV_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_DT_CAP:1 "Ï¢°þ ³°²" #GetGovernmentDT_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_IM_CAP:1 "Ï¢°¾ ³°²" #GetGovernmentIM_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_PR_CAP:1 "Ï¢°þ ³°²" #GetGovernmentPR_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_RD_CAP:1 "Ï¢°þ ³°²º" #GetGovernmentRD_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_TV_CAP:1 "Ï¢°þ ³°²þ" #GetGovernmentTV_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DT_CAP:1 "Säkerhetstinget" #GetGovernmentDT_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_IM_CAP:1 "Säkerhetstinget" #GetGovernmentIM_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_PR_CAP:1 "Säkerhetstinget" #GetGovernmentPR_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_RD_CAP:1 "Säkerhetstinget" #GetGovernmentRD_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_TV_CAP:1 "Säkerhetstinget" #GetGovernmentTV_CAP
+ SAVANAROLA_GOVERNMENT_DT_CAP:1 "‰¢ª²®¿²¢³ Ô¢°®º" #GetGovernmentDT_CAP
+ SAVANAROLA_GOVERNMENT_IM_CAP:1 "‰¢ª²®¿²¢ Ô¢°®º" #GetGovernmentIM_CAP
+ SAVANAROLA_GOVERNMENT_PR_CAP:1 "‰¢ª²®¿²¢ Ô¢°®º" #GetGovernmentPR_CAP
+ SAVANAROLA_GOVERNMENT_RD_CAP:1 "‰¢ª²®¿²¢ Ô¢°®º" #GetGovernmentRD_CAP
+ SAVANAROLA_GOVERNMENT_TV_CAP:1 "‰¢ª²®¿²¢¯ Ô¢°®º" #GetGovernmentTV_CAP
+ SERENE_REPUBLIC_DT_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬" #GetGovernmentDT
+ SERENE_REPUBLIC_IM_CAP:1 "Ô¢²®þŒ³½ ±³¡®ª¬³" #GetGovernmentIM_CAP                                                                               
+ SERENE_REPUBLIC_PR_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬" #GetGovernmentPR
+ SERENE_REPUBLIC_RD_CAP:1 "Ô¢²®þŒþ ±³¡®ª¬ª" #GetGovernmentRD_CAP                                                                                 
+ SERENE_REPUBLIC_TV_CAP:1 "C¢²®þŒþ ±³¡®ª¬þ" #GetGovernmentTV_CAP
+ SHAHDOM_DT_CAP:1 "÷²¢³" #GetGovernmentDT_CAP
+ SHAHDOM_IM_CAP:1 "÷²¢" #GetGovernmentIM_CAP
+ SHAHDOM_PR_CAP:1 "÷²¢" #GetGovernmentPR_CAP
+ SHAHDOM_RD_CAP:1 "÷²¢" #GetGovernmentRD_CAP
+ SHAHDOM_TV_CAP:1 "÷²¢¯" #GetGovernmentTV_CAP
+ SHARIFATE_DT_CAP:1 "÷ª´²³" #GetGovernmentDT_CAP
+ SHARIFATE_IM_CAP:1 "÷ª´²" #GetGovernmentIM_CAP
+ SHARIFATE_PR_CAP:1 "÷ª´²" #GetGovernmentPR_CAP
+ SHARIFATE_RD_CAP:1 "÷ª´²" #GetGovernmentRD_CAP
+ SHARIFATE_TV_CAP:1 "÷ª´²¯" #GetGovernmentTV_CAP
+ SHEIKHDOM_DT_CAP:1 "÷þ²¢³" #GetGovernmentDT_CAP
+ SHEIKHDOM_IM_CAP:1 "÷þ²¢" #GetGovernmentIM_CAP
+ SHEIKHDOM_PR_CAP:1 "÷þ²¢" #GetGovernmentPR_CAP
+ SHEIKHDOM_RD_CAP:1 "÷þ²¢" #GetGovernmentRD_CAP
+ SHEIKHDOM_TV_CAP:1 "÷þ²¢¯" #GetGovernmentTV_CAP
+ SHOGUNATE_DT_CAP:1 "Ôž¥³°²³" #GetGovernmentDT_CAP
+ SHOGUNATE_IM_CAP:1 "Ôž¥³°²" #GetGovernmentIM_CAP
+ SHOGUNATE_PR_CAP:1 "Ôž¥³°²" #GetGovernmentPR_CAP
+ SHOGUNATE_RD_CAP:1 "Ôž¥³°²" #GetGovernmentRD_CAP
+ SHOGUNATE_TV_CAP:1 "Ôž¥³°²¯" #GetGovernmentTV_CAP
+ SISTERHOOD_DT_CAP:1 "Ô²ª¶²¢³" #GetGovernmentDT_CAP
+ SISTERHOOD_IM_CAP:1 "Ô²ª¶²¢" #GetGovernmentIM_CAP
+ SISTERHOOD_PR_CAP:1 "Ô²ª¶²¢" #GetGovernmentPR_CAP
+ SISTERHOOD_RD_CAP:1 "Ô²ª¶²¢" #GetGovernmentRD_CAP
+ SISTERHOOD_TV_CAP:1 "Ô²ª¶²¢¯" #GetGovernmentTV_CAP
+ SOGN_DT_CAP:1 "Ô¥°³" #GetGovernmentDT_CAP
+ SOGN_IM_CAP:1 "Ô¥°" #GetGovernmentIM_CAP
+ SOGN_PR_CAP:1 "Ô¥°" #GetGovernmentPR_CAP
+ SOGN_RD_CAP:1 "Ô¥°" #GetGovernmentRD_CAP
+ SOGN_TV_CAP:1 "Ô¥°¯" #GetGovernmentTV_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_DT_CAP:1 "Ô³¢°°þ ºµ¬þ ¬°´¦µªª" #GetGovernmentDT_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_IM_CAP:1 "Ô³¢°°¾ ºµ¬¾ ¬°´¦µª¾" #GetGovernmentIM_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_PR_CAP:1 "Ô³¢°°þ ºµ¬þ ¬°´¦µªª" #GetGovernmentPR_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_RD_CAP:1 "Ô³¢°°þ ºµ¬þ ¬°´¦µªª" #GetGovernmentRD_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_TV_CAP:1 "Ô³¢°°þ ºµ¬þ ¬°´¦µªþ" #GetGovernmentTV_CAP
+ SOVREIGN_MONASTIC_ORDER_DT_CAP:1 "Ô³¢°°¯³ ¢°°¯³ ¦°³" #GetGovernmentDT_CAP
+ SOVREIGN_MONASTIC_ORDER_IM_CAP:1 "Ô³¢°°ºþ ¢°°ºþ ¦°" #GetGovernmentIM_CAP
+ SOVREIGN_MONASTIC_ORDER_PR_CAP:1 "Ô³¢°°¯ ¢°°¯ ¦°" #GetGovernmentPR_CAP
+ SOVREIGN_MONASTIC_ORDER_RD_CAP:1 "Ô³¢°°¥ ¢°°¥ ¦°" #GetGovernmentRD_CAP
+ SOVREIGN_MONASTIC_ORDER_TV_CAP:1 "Ô³¢°°º¯ ¢°°º¯ ¦°¯" #GetGovernmentTV_CAP
+ STATELESS_SOCIETY_DT_CAP:1 "¡¸²¢³ ¡© ¥³¦²¢" #GetGovernmentDT_CAP
+ STATELESS_SOCIETY_IM_CAP:1 "¡¸²¢ ¡© ¥³¦²¢" #GetGovernmentIM_CAP
+ STATELESS_SOCIETY_PR_CAP:1 "¡¸²¢ ¡© ¥³¦²¢" #GetGovernmentPR_CAP
+ STATELESS_SOCIETY_RD_CAP:1 "¡¸²¢ ¡© ¥³¦²¢" #GetGovernmentRD_CAP
+ STATELESS_SOCIETY_TV_CAP:1 "¡¸²¢¯ ¡© ¥³¦²¢" #GetGovernmentTV_CAP
+ STRATOCRACY_DT_CAP:1 "›°¬¬þ ²²¬²ªª" #GetGovernmentDT_CAP
+ STRATOCRACY_IM_CAP:1 "›°¬¬¾ ²²¬²ª¾" #GetGovernmentIM_CAP
+ STRATOCRACY_PR_CAP:1 "›°¬¬þ ²²¬²ªª" #GetGovernmentPR_CAP
+ STRATOCRACY_RD_CAP:1 "›°¬¬þ ²²¬²ªª" #GetGovernmentRD_CAP
+ STRATOCRACY_TV_CAP:1 "›°¬¬þ ²²¬²ªþ" #GetGovernmentTV_CAP
+ SULTANATE_DT_CAP:1 "Ô³®²°²³" #GetGovernmentDT_CAP
+ SULTANATE_IM_CAP:1 "Ô³®²°²" #GetGovernmentIM_CAP
+ SULTANATE_PR_CAP:1 "Ô³®²°²" #GetGovernmentPR_CAP
+ SULTANATE_RD_CAP:1 "Ô³®²°²" #GetGovernmentRD_CAP
+ SULTANATE_TV_CAP:1 "Ô³®²°²¯" #GetGovernmentTV_CAP
+ SUPREME_ADMIRALTY_DT_CAP:1 "Ï¢°¯³ ¦¯ª®²þ²¢³" #GetGovernmentDT_CAP
+ SUPREME_ADMIRALTY_IM_CAP:1 "Ï¢° ¦¯ª®²þ²¢" #GetGovernmentIM_CAP
+ SUPREME_ADMIRALTY_PR_CAP:1 "Ï¢°¯ ¦¯ª®²þ²¢" #GetGovernmentPR_CAP
+ SUPREME_ADMIRALTY_RD_CAP:1 "Ï¢°¥ ¦¯ª®²þ²¢" #GetGovernmentRD_CAP
+ SUPREME_ADMIRALTY_TV_CAP:1 "Ï¢°º¯ ¦¯ª®²þ²¢¯" #GetGovernmentTV_CAP
+ SYNTH_GOV_DT_CAP:1 "Œª°°¯³ ª°²®®¬²³" #GetGovernmentDT_CAP
+ SYNTH_GOV_IM_CAP:1 "Œª°°ºþ ª°²®®¬²" #GetGovernmentIM_CAP
+ SYNTH_GOV_PR_CAP:1 "Œª°°¯ ª°²®®¬²" #GetGovernmentPR_CAP
+ SYNTH_GOV_RD_CAP:1 "Œª°°¥ ª°²®®¬²" #GetGovernmentRD_CAP
+ SYNTH_GOV_TV_CAP:1 "Œª°°º¯ ª°²®®¬²¯" #GetGovernmentTV_CAP
+ TRAPPIST_STATE_DT_CAP:1 "¦°³ ²±±ª²¢" #GetGovernmentDT_CAP
+ TRAPPIST_STATE_IM_CAP:1 "¦° ²±±ª²¢" #GetGovernmentIM_CAP
+ TRAPPIST_STATE_PR_CAP:1 "¦° ²±±ª²¢" #GetGovernmentPR_CAP
+ TRAPPIST_STATE_RD_CAP:1 "¦° ²±±ª²¢" #GetGovernmentRD_CAP
+ TRAPPIST_STATE_TV_CAP:1 "¦°¯ ²±±ª²¢" #GetGovernmentTV_CAP
+ TRIBAL_EMPIRE_DT_CAP:1 "‰®¯°°þ ª¯±ªª" #GetGovernmentDT_CAP
+ TRIBAL_EMPIRE_IM_CAP:1 "‰®¯°°³½ ª¯±ª½" #GetGovernmentIM_CAP
+ TRIBAL_EMPIRE_PR_CAP:1 "‰®¯°°þ ª¯±ªª" #GetGovernmentPR_CAP
+ TRIBAL_EMPIRE_RD_CAP:1 "‰®¯°°þ ª¯±ªª" #GetGovernmentRD_CAP
+ TRIBAL_EMPIRE_TV_CAP:1 "‰®¯°°þ ª¯±ªþ" #GetGovernmentTV_CAP
+ TRIBAL_KINGDOM_DT_CAP:1 "‰®¯°°¯³ ¬®¢²¢³" #GetGovernmentDT_CAP
+ TRIBAL_KINGDOM_IM_CAP:1 "‰®¯°° ¬®¢²¢" #GetGovernmentIM_CAP
+ TRIBAL_KINGDOM_PR_CAP:1 "‰®¯°°¯ ¬®¢²¢" #GetGovernmentPR_CAP
+ TRIBAL_KINGDOM_RD_CAP:1 "‰®¯°°¥ ¬®¢²¢" #GetGovernmentRD_CAP
+ TRIBAL_KINGDOM_TV_CAP:1 "‰®¯°°º¯ ¬®¢²¢¯" #GetGovernmentTV_CAP
+ TRIBE_DT_CAP:1 "‰®¯°ª" #GetGovernmentDT_CAP
+ TRIBE_IM_CAP:1 "‰®¯¾" #GetGovernmentIM_CAP
+ TRIBE_PR_CAP:1 "‰®¯°ª" #GetGovernmentPR_CAP
+ TRIBE_RD_CAP:1 "‰®¯°ª" #GetGovernmentRD_CAP
+ TRIBE_TV_CAP:1 "‰®¯°¯" #GetGovernmentTV_CAP
+ TSARDOM_DT_CAP:1 "Ë²¢³" #GetGovernmentDT_CAP
+ TSARDOM_IM_CAP:1 "Ë²¢" #GetGovernmentIM_CAP
+ TSARDOM_PR_CAP:1 "Ë²¢" #GetGovernmentPR_CAP
+ TSARDOM_RD_CAP:1 "Ë²¢" #GetGovernmentRD_CAP
+ TSARDOM_TV_CAP:1 "Ë²¢¯" #GetGovernmentTV_CAP
+ UNITED_PROVINCES_DT_CAP:1 "Ô¦ª°ž°°º¯ ±¢ª°µª¾¯" #GetGovernmentDT_CAP
+ UNITED_PROVINCES_IM_CAP:1 "Ô¦ª°ž°°º ±¢ª°µªª" #GetGovernmentIM_CAP
+ UNITED_PROVINCES_PR_CAP:1 "Ô¦ª°ž°°º ±¢ª°µª¾" #GetGovernmentPR_CAP
+ UNITED_PROVINCES_RD_CAP:1 "Ô¦ª°ž°°º ±¢ª°µªþ" #GetGovernmentRD_CAP
+ UNITED_PROVINCES_TV_CAP:1 "Ô¦ª°ž°°º¯ª ±¢ª°µª¾¯ª" #GetGovernmentTV_CAP
+ VICEROYALTY_DT_CAP:1 "Ïªµ-¬®¢²¢³" #GetGovernmentDT_CAP
+ VICEROYALTY_IM_CAP:1 "Ïªµ-¬®¢²¢" #GetGovernmentIM_CAP
+ VICEROYALTY_PR_CAP:1 "Ïªµ-¬®¢²¢" #GetGovernmentPR_CAP
+ VICEROYALTY_RD_CAP:1 "Ïªµ-¬®¢²¢" #GetGovernmentRD_CAP
+ VICEROYALTY_TV_CAP:1 "Ïªµ-¬®¢²¢¯" #GetGovernmentTV_CAP
+ WARRIOR_MONK_HIGH_ORDER_DT_CAP:1 "°Œ¬¯³ ž¥³°²³" #GetGovernmentDT_CAP
+ WARRIOR_MONK_HIGH_ORDER_IM_CAP:1 "°Œ¬ªþ ž¥³°²" #GetGovernmentIM_CAP
+ WARRIOR_MONK_HIGH_ORDER_PR_CAP:1 "°Œ¬¯ ž¥³°²" #GetGovernmentPR_CAP
+ WARRIOR_MONK_HIGH_ORDER_RD_CAP:1 "°Œ¬¥ ž¥³°²" #GetGovernmentRD_CAP
+ WARRIOR_MONK_HIGH_ORDER_TV_CAP:1 "°Œ¬ª¯ ž¥³°²¯" #GetGovernmentTV_CAP
+ WARRIOR_MONK_ORDER_DT_CAP:1 "Ô¼½" #GetGovernmentDT_CAP
+ WARRIOR_MONK_ORDER_IM_CAP:1 "Ô¼þ" #GetGovernmentIM_CAP
+ WARRIOR_MONK_ORDER_PR_CAP:1 "Ô¼" #GetGovernmentPR_CAP
+ WARRIOR_MONK_ORDER_RD_CAP:1 "Ô¼¾" #GetGovernmentRD_CAP
+ WARRIOR_MONK_ORDER_TV_CAP:1 "Ô¼¯" #GetGovernmentTV_CAP
+ CRUSADER_ORDER_DT_CAP:1 "¦°³ ¬²°µ¢" #GetGovernmentDT_CAP
+ CRUSADER_ORDER_IM_CAP:1 "¦° ¬²°µ¢" #GetGovernmentIM_CAP
+ CRUSADER_ORDER_PR_CAP:1 "¦° ¬²°µ¢" #GetGovernmentPR_CAP
+ CRUSADER_ORDER_RD_CAP:1 "¦° ¬²°µ¢" #GetGovernmentRD_CAP
+ CRUSADER_ORDER_TV_CAP:1 "¦°¯ ¬²°µ¢" #GetGovernmentTV_CAP
+ CRUSADER_EMPIRE_DT_CAP:1 "²°°¾ ª¯±ª¾" #GetGovernmentDT_CAP
+ CRUSADER_EMPIRE_IM_CAP:1 "²°°¾ ª¯±ª¾" #GetGovernmentIM_CAP
+ CRUSADER_EMPIRE_PR_CAP:1 "²°°¾ ª¯±ª¾" #GetGovernmentPR_CAP
+ CRUSADER_EMPIRE_RD_CAP:1 "²°°¾ ª¯±ª¾" #GetGovernmentRD_CAP
+ CRUSADER_EMPIRE_TV_CAP:1 "²°°¾ ª¯±ª¾" #GetGovernmentTV_CAP

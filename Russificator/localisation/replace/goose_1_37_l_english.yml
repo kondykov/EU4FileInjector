@@ -1,0 +1,18 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ NO_ANNEX_PROGRESS_WHILE_PROVINCES_OCCUPIED: "°°¬ª¾ ° ¡³¦² ±¥ª¢²¿, ±¬ °ª ° ¡³¦³² ¬°²®ª¢²¿ ¢ª ±¢ª°µªª."
+ mechanic_heir: "®¦°ª¬ª"
+ MOVE_WITH_TRANSPORT_LOCKED: "Ô½¦ ¯¨° ±¦¢ª¥²¿¾  ±¯¸¿½ ²°±²°º ¬¡®þ, ° ¦¢ª¨°ª °¬²º °©¯°º ½°ª²¢ ¢ °²¾¸ ¢¯¾ ©¡®¬ª¢°."
+ MODIFIER_REVERSE_RELATION_WITH_HERETIC_RELIGION: "°°ª  ²°  ²°º ±¦²¢ª²®þ ²ª¶¬ª ®ª¥ªþ"
+ MODIFIER_REVERSE_RELATION_WITH_HEATHEN_RELIGION: "°°ª  ²°  ²°º ±¦²¢ª²®þ ¾©º¶¬ª ®ª¥ªþ"
+ ROUND_VARIABLE: "Ð³°¦ $VAR|Y$."
+ CEILING_VARIABLE: "¬³¥®¾¯ ¢ ¡®¿Œ³½ ²°³ $VAR|Y$."
+ FLOOR_VARIABLE: "¬³¥®ª²¿ ¢ ¯°¿Œ³½ ²°³ $VAR|Y$."
+ SQRT_VARIABLE: "‰®³¶ª² ¬¢¦²°ºþ ¬°¿ ª© $VAR|Y$."
+ RANDOM_VARIABLE: "‹²°¢®ª¢² ¦®¾ $VAR|Y$ ®³¶þ° ©°¶°ª ² 0 ¦ $VALUE|Y$"
+ MODULO_VARIABLE: "‰ ¯¦³®½ $VAR|Y$  $VALUE|Y$"

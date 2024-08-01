@@ -1,0 +1,3019 @@
+﻿l_english:
+ ABBESS_DT_CAP:1 "†¥³¯°¿ª" #GetTitleDT_CAP
+ ABBESS_IM_CAP:1 "†¥³¯°¿¾" #GetTitleIM_CAP
+ ABBESS_PR_CAP:1 "†¥³¯°¿" #GetTitlePR_CAP
+ ABBESS_RD_CAP:1 "†¥³¯°¿ª" #GetTitleRD_CAP
+ ABBESS_TV_CAP:1 "†¥³¯°¿þ" #GetTitleTV_CAP
+ ABBESS_VN_CAP:1 "†¥³¯°¿½" #GetTitleVN_CAP
+ ABETO_DT_CAP:1 "¡²" #GetTitleHeirDT_CAP
+ ABETO_IM_CAP:1 "¡²" #GetTitleHeirIM_CAP
+ ABETO_PR_CAP:1 "¡²" #GetTitleHeirPR_CAP
+ ABETO_RD_CAP:1 "¡²" #GetTitleHeirRD_CAP
+ ABETO_TV_CAP:1 "¡²" #GetTitleHeirTV_CAP
+ ABETO_VN_CAP:1 "¡²" #GetTitleHeirVN_CAP
+ ADMIRAL_fem_DT_CAP:1 "‚°¦-¦¯ª®³" #GetTitleDT_CAP
+ ADMIRAL_fem_IM_CAP:1 "‚°¦-¦¯ª®" #GetTitleIM_CAP
+ ADMIRAL_fem_PR_CAP:1 "‚°¦-¦¯ª®" #GetTitlePR_CAP
+ ADMIRAL_fem_RD_CAP:1 "‚°¦-¦¯ª®" #GetTitleRD_CAP
+ ADMIRAL_fem_TV_CAP:1 "‚°¦-¦¯ª®¯" #GetTitleTV_CAP
+ ADMIRAL_fem_VN_CAP:1 "‚°¦-¦¯ª®" #GetTitleVN_CAP
+ AMIRAD_DT_CAP:1 "¯ª¦" #GetTitleHeirDT_CAP
+ AMIRAD_IM_CAP:1 "¯ª¦" #GetTitleHeirIM_CAP
+ AMIRAD_PR_CAP:1 "¯ª¦" #GetTitleHeirPR_CAP
+ AMIRAD_RD_CAP:1 "¯ª¦º" #GetTitleHeirRD_CAP
+ AMIRAD_TV_CAP:1 "¯ª¦" #GetTitleHeirTV_CAP
+ AMIRAD_VN_CAP:1 "¯ª¦" #GetTitleHeirVN_CAP
+ AMIRZADE_DT_CAP:1 "¯ª©¦" #GetTitleHeirDT_CAP
+ AMIRZADE_IM_CAP:1 "¯ª©¦" #GetTitleHeirIM_CAP
+ AMIRZADE_PR_CAP:1 "¯ª©¦" #GetTitleHeirPR_CAP
+ AMIRZADE_RD_CAP:1 "¯ª©¦" #GetTitleHeirRD_CAP
+ AMIRZADE_TV_CAP:1 "¯ª©¦" #GetTitleHeirTV_CAP
+ AMIRZADE_VN_CAP:1 "¯ª©¦" #GetTitleHeirVN_CAP
+ AMIR_DT_CAP:1 "¯ª³" #GetTitleHeirDT_CAP
+ AMIR_IM_CAP:1 "¯ª" #GetTitleHeirIM_CAP
+ AMIR_PR_CAP:1 "¯ª" #GetTitleHeirPR_CAP
+ AMIR_RD_CAP:1 "¯ª" #GetTitleHeirRD_CAP
+ AMIR_TV_CAP:1 "¯ª¯" #GetTitleHeirTV_CAP
+ AMIR_VN_CAP:1 "¯ª" #GetTitleHeirVN_CAP
+ ANDRIANONI_DT_CAP:1 "°¦ª°°ª" #GetTitleDT_CAP
+ ANDRIANONI_IM_CAP:1 "°¦ª°°ª" #GetTitleIM_CAP
+ ANDRIANONI_PR_CAP:1 "°¦ª°°ª" #GetTitlePR_CAP
+ ANDRIANONI_RD_CAP:1 "°¦ª°°ª" #GetTitleRD_CAP
+ ANDRIANONI_TV_CAP:1 "°¦ª°°ª" #GetTitleTV_CAP
+ ANDRIANONI_VN_CAP:1 "°¦ª°°ª" #GetTitleVN_CAP
+ APU_DT_CAP:1 "±³" #GetTitleDT_CAP
+ APU_IM_CAP:1 "±³" #GetTitleIM_CAP
+ APU_PR_CAP:1 "±³" #GetTitlePR_CAP
+ APU_RD_CAP:1 "±³" #GetTitleRD_CAP
+ APU_TV_CAP:1 "±³" #GetTitleTV_CAP
+ APU_VN_CAP:1 "±³" #GetTitleVN_CAP
+ ARCHBISHOP_DT_CAP:1 "ª±ª¬±³" #GetTitleDT_CAP
+ ARCHBISHOP_ELECTOR_DT_CAP:1 "ª±ª¬±³-¬³´½²³" #GetTitleDT_CAP
+ ARCHBISHOP_ELECTOR_IM_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleIM_CAP
+ ARCHBISHOP_ELECTOR_PR_CAP:1 "ª±ª¬±-¬³´½²" #GetTitlePR_CAP
+ ARCHBISHOP_ELECTOR_RD_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleRD_CAP
+ ARCHBISHOP_ELECTOR_TV_CAP:1 "ª±ª¬±¯-¬³´½²¯" #GetTitleTV_CAP
+ ARCHBISHOP_ELECTOR_VN_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleVN_CAP
+ ARCHBISHOP_ELECTOR_fem_DT_CAP:1 "ª±ª¬±³-¬³´½²³" #GetTitleDT_CAP
+ ARCHBISHOP_ELECTOR_fem_IM_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleIM_CAP
+ ARCHBISHOP_ELECTOR_fem_PR_CAP:1 "ª±ª¬±-¬³´½²" #GetTitlePR_CAP
+ ARCHBISHOP_ELECTOR_fem_RD_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleRD_CAP
+ ARCHBISHOP_ELECTOR_fem_TV_CAP:1 "ª±ª¬±¯-¬³´½²¯" #GetTitleTV_CAP
+ ARCHBISHOP_ELECTOR_fem_VN_CAP:1 "ª±ª¬±-¬³´½²" #GetTitleVN_CAP
+ ARCHBISHOP_IM_CAP:1 "ª±ª¬±" #GetTitleIM_CAP
+ ARCHBISHOP_PR_CAP:1 "ª±ª¬±" #GetTitlePR_CAP
+ ARCHBISHOP_RD_CAP:1 "ª±ª¬±" #GetTitleRD_CAP
+ ARCHBISHOP_TV_CAP:1 "ª±ª¬±¯" #GetTitleTV_CAP
+ ARCHBISHOP_VN_CAP:1 "ª±ª¬±" #GetTitleVN_CAP
+ ARCHBISHOP_fem_DT_CAP:1 "ª±ª¬±³" #GetTitleDT_CAP
+ ARCHBISHOP_fem_IM_CAP:1 "ª±ª¬±" #GetTitleIM_CAP
+ ARCHBISHOP_fem_PR_CAP:1 "ª±ª¬±" #GetTitlePR_CAP
+ ARCHBISHOP_fem_RD_CAP:1 "ª±ª¬±" #GetTitleRD_CAP
+ ARCHBISHOP_fem_TV_CAP:1 "ª±ª¬±¯" #GetTitleTV_CAP
+ ARCHBISHOP_fem_VN_CAP:1 "ª±ª¬±" #GetTitleVN_CAP
+ ARCHDUCHESS_DT_CAP:1 "™µ¥µ¥ª°" #GetTitleDT_CAP
+ ARCHDUCHESS_IM_CAP:1 "™µ¥µ¥ª°¾" #GetTitleIM_CAP
+ ARCHDUCHESS_PR_CAP:1 "™µ¥µ¥ª°" #GetTitlePR_CAP
+ ARCHDUCHESS_RD_CAP:1 "™µ¥µ¥ª°ª" #GetTitleRD_CAP
+ ARCHDUCHESS_TV_CAP:1 "™µ¥µ¥ª°þ" #GetTitleTV_CAP
+ ARCHDUCHESS_VN_CAP:1 "™µ¥µ¥ª°½" #GetTitleVN_CAP
+ ARCHDUKE_CONSORT_DT_CAP:1 "™µ¥µ¥³-¬°²³" #GetTitleConsortDT_CAP
+ ARCHDUKE_CONSORT_IM_CAP:1 "™µ¥µ¥-¬°²" #GetTitleConsortIM_CAP
+ ARCHDUKE_CONSORT_PR_CAP:1 "™µ¥µ¥-¬°²" #GetTitleConsortPR_CAP
+ ARCHDUKE_CONSORT_RD_CAP:1 "™µ¥µ¥-¬°²" #GetTitleConsortRD_CAP
+ ARCHDUKE_CONSORT_TV_CAP:1 "™µ¥µ¥¯-¬°²¯" #GetTitleConsortTV_CAP
+ ARCHDUKE_CONSORT_VN_CAP:1 "™µ¥µ¥-¬°²" #GetTitleConsortVN_CAP
+ ARCHDUKE_DT_CAP:1 "™µ¥µ¥³" #GetTitleDT_CAP
+ ARCHDUKE_IM_CAP:1 "™µ¥µ¥" #GetTitleIM_CAP
+ ARCHDUKE_PR_CAP:1 "™µ¥µ¥" #GetTitlePR_CAP
+ ARCHDUKE_RD_CAP:1 "™µ¥µ¥" #GetTitleRD_CAP
+ ARCHDUKE_TV_CAP:1 "™µ¥µ¥¯" #GetTitleTV_CAP
+ ARCHDUKE_VN_CAP:1 "™µ¥µ¥" #GetTitleVN_CAP
+ ARCHKING_DT_CAP:1 "™µ¬®½" #GetTitleDT_CAP
+ ARCHKING_IM_CAP:1 "™µ¬®¿" #GetTitleIM_CAP
+ ARCHKING_PR_CAP:1 "™µ¬®" #GetTitlePR_CAP
+ ARCHKING_RD_CAP:1 "™µ¬®¾" #GetTitleRD_CAP
+ ARCHKING_TV_CAP:1 "™µ¬®ž¯" #GetTitleTV_CAP
+ ARCHKING_VN_CAP:1 "™µ¬®¾" #GetTitleVN_CAP
+ ARCHPIRATE_DT_CAP:1 "ª±ª²³" #GetTitleDT_CAP
+ ARCHPIRATE_IM_CAP:1 "ª±ª²" #GetTitleIM_CAP
+ ARCHPIRATE_PR_CAP:1 "ª±ª²" #GetTitlePR_CAP
+ ARCHPIRATE_RD_CAP:1 "ª±ª²" #GetTitleRD_CAP
+ ARCHPIRATE_TV_CAP:1 "ª±ª²¯" #GetTitleTV_CAP
+ ARCHPIRATE_VN_CAP:1 "ª±ª²" #GetTitleVN_CAP
+ ARCH_TRAPPISTINE_DT_CAP:1 "ª²±±ª²ª°" #GetTitleDT_CAP
+ ARCH_TRAPPISTINE_IM_CAP:1 "ª²±±ª²ª°" #GetTitleIM_CAP
+ ARCH_TRAPPISTINE_PR_CAP:1 "ª²±±ª²ª°" #GetTitlePR_CAP
+ ARCH_TRAPPISTINE_RD_CAP:1 "ª²±±ª²ª°º" #GetTitleRD_CAP
+ ARCH_TRAPPISTINE_TV_CAP:1 "ª²±±ª²ª°þ" #GetTitleTV_CAP
+ ARCH_TRAPPISTINE_VN_CAP:1 "ª²±±ª²ª°³" #GetTitleVN_CAP
+ ARCH_TRAPPIST_DT_CAP:1 "ª²±±ª²³" #GetTitleDT_CAP
+ ARCH_TRAPPIST_IM_CAP:1 "ª²±±ª²" #GetTitleIM_CAP
+ ARCH_TRAPPIST_PR_CAP:1 "ª²±±ª²" #GetTitlePR_CAP
+ ARCH_TRAPPIST_RD_CAP:1 "ª²±±ª²" #GetTitleRD_CAP
+ ARCH_TRAPPIST_TV_CAP:1 "ª²±±ª²¯" #GetTitleTV_CAP
+ ARCH_TRAPPIST_VN_CAP:1 "ª²±±ª²" #GetTitleVN_CAP
+ ATABEG_DT_CAP:1 "²¡¬³" #GetTitleDT_CAP
+ ATABEG_IM_CAP:1 "²¡¬" #GetTitleIM_CAP
+ ATABEG_PR_CAP:1 "²¡¬" #GetTitlePR_CAP
+ ATABEG_RD_CAP:1 "²¡¬" #GetTitleRD_CAP
+ ATABEG_TV_CAP:1 "²¡¬¯" #GetTitleTV_CAP
+ ATABEG_VN_CAP:1 "²¡¬" #GetTitleVN_CAP
+ ATABEG_fem_DT_CAP:1 "²¡¬" #GetTitleDT_CAP
+ ATABEG_fem_IM_CAP:1 "²¡¬" #GetTitleIM_CAP
+ ATABEG_fem_PR_CAP:1 "²¡¬" #GetTitlePR_CAP
+ ATABEG_fem_RD_CAP:1 "²¡¬ª" #GetTitleRD_CAP
+ ATABEG_fem_TV_CAP:1 "²¡¬þ" #GetTitleTV_CAP
+ ATABEG_fem_VN_CAP:1 "²¡¬³" #GetTitleVN_CAP
+ ATAMAN_DT_CAP:1 "²¯°³" #GetTitleDT_CAP
+ ATAMAN_IM_CAP:1 "²¯°" #GetTitleIM_CAP
+ ATAMAN_PR_CAP:1 "²¯°" #GetTitlePR_CAP
+ ATAMAN_RD_CAP:1 "²¯°" #GetTitleRD_CAP
+ ATAMAN_TV_CAP:1 "²¯°¯" #GetTitleTV_CAP
+ ATAMAN_VN_CAP:1 "²¯°" #GetTitleVN_CAP
+ ATAMAN_fem_DT_CAP:1 "²¯°³" #GetTitleDT_CAP
+ ATAMAN_fem_IM_CAP:1 "²¯°" #GetTitleIM_CAP
+ ATAMAN_fem_PR_CAP:1 "²¯°" #GetTitlePR_CAP
+ ATAMAN_fem_RD_CAP:1 "²¯°" #GetTitleRD_CAP
+ ATAMAN_fem_TV_CAP:1 "²¯°¯" #GetTitleTV_CAP
+ ATAMAN_fem_VN_CAP:1 "²¯°" #GetTitleVN_CAP
+ ATIO_DT_CAP:1 "²ª" #GetTitleDT_CAP
+ ATIO_FEM_DT_CAP:1 "²ª" #GetTitleDT_CAP
+ ATIO_FEM_IM_CAP:1 "²ª" #GetTitleIM_CAP
+ ATIO_FEM_PR_CAP:1 "²ª" #GetTitlePR_CAP
+ ATIO_FEM_RD_CAP:1 "²ª" #GetTitleRD_CAP
+ ATIO_FEM_TV_CAP:1 "²ª" #GetTitleTV_CAP
+ ATIO_FEM_VN_CAP:1 "²ª" #GetTitleVN_CAP
+ ATIO_IM_CAP:1 "²ª" #GetTitleIM_CAP
+ ATIO_PR_CAP:1 "²ª" #GetTitlePR_CAP
+ ATIO_RD_CAP:1 "²ª" #GetTitleRD_CAP
+ ATIO_TV_CAP:1 "²ª" #GetTitleTV_CAP
+ ATIO_VN_CAP:1 "²ª" #GetTitleVN_CAP
+ AUTOKRATEIRA_DT_CAP:1 "¢²¬²þ" #GetTitleDT_CAP
+ AUTOKRATEIRA_IM_CAP:1 "¢²¬²þ" #GetTitleIM_CAP
+ AUTOKRATEIRA_PR_CAP:1 "¢²¬²þ" #GetTitlePR_CAP
+ AUTOKRATEIRA_RD_CAP:1 "¢²¬²þº" #GetTitleRD_CAP
+ AUTOKRATEIRA_TV_CAP:1 "¢²¬²þþ" #GetTitleTV_CAP
+ AUTOKRATEIRA_VN_CAP:1 "¢²¬²þ³" #GetTitleVN_CAP
+ AUTOKRATOR_DT_CAP:1 "¢²¬²³" #GetTitleDT_CAP
+ AUTOKRATOR_IM_CAP:1 "¢²¬²" #GetTitleIM_CAP
+ AUTOKRATOR_PR_CAP:1 "¢²¬²" #GetTitlePR_CAP
+ AUTOKRATOR_RD_CAP:1 "¢²¬²" #GetTitleRD_CAP
+ AUTOKRATOR_TV_CAP:1 "¢²¬²¯" #GetTitleTV_CAP
+ AUTOKRATOR_VN_CAP:1 "¢²¬²" #GetTitleVN_CAP
+ AYATOLLAH_DT_CAP:1 "¾²®®" #GetTitleDT_CAP
+ AYATOLLAH_IM_CAP:1 "¾²®®" #GetTitleIM_CAP
+ AYATOLLAH_PR_CAP:1 "¾²®®" #GetTitlePR_CAP
+ AYATOLLAH_RD_CAP:1 "¾²®®º" #GetTitleRD_CAP
+ AYATOLLAH_TV_CAP:1 "¾²®®þ" #GetTitleTV_CAP
+ AYATOLLAH_VN_CAP:1 "¾²®®³" #GetTitleVN_CAP
+ BAKUNGU_DT_CAP:1 "€¬³°¥" #GetTitleDT_CAP
+ BAKUNGU_IM_CAP:1 "€¬³°¥³" #GetTitleIM_CAP
+ BAKUNGU_PR_CAP:1 "€¬³°¥" #GetTitlePR_CAP
+ BAKUNGU_RD_CAP:1 "€¬³°¥º" #GetTitleRD_CAP
+ BAKUNGU_TV_CAP:1 "€¬³°¥¯" #GetTitleTV_CAP
+ BAKUNGU_VN_CAP:1 "€¬³°¥³" #GetTitleVN_CAP
+ BALOPWE_DT_CAP:1 "€®±¢" #GetTitleDT_CAP
+ BALOPWE_IM_CAP:1 "€®±¢" #GetTitleIM_CAP
+ BALOPWE_PR_CAP:1 "€®±¢" #GetTitlePR_CAP
+ BALOPWE_RD_CAP:1 "€®±¢º" #GetTitleRD_CAP
+ BALOPWE_TV_CAP:1 "€®±¢" #GetTitleTV_CAP
+ BALOPWE_VN_CAP:1 "€®±¢³" #GetTitleVN_CAP
+ BALOPWE_fem_DT_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleDT_CAP
+ BALOPWE_fem_IM_CAP:1 "Ï®ª¬ªþ ¯³¥" #GetTitleIM_CAP
+ BALOPWE_fem_PR_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitlePR_CAP
+ BALOPWE_fem_RD_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleRD_CAP
+ BALOPWE_fem_TV_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleTV_CAP
+ BALOPWE_fem_VN_CAP:1 "Ï®ª¬³½ ¯³¥" #GetTitleVN_CAP
+ BAN_TITLE_DT_CAP:1 "€°³" #GetTitleDT_CAP
+ BAN_TITLE_IM_CAP:1 "€°" #GetTitleIM_CAP
+ BAN_TITLE_PR_CAP:1 "€°" #GetTitlePR_CAP
+ BAN_TITLE_RD_CAP:1 "€°" #GetTitleRD_CAP
+ BAN_TITLE_TV_CAP:1 "€°¯" #GetTitleTV_CAP
+ BAN_TITLE_VN_CAP:1 "€°" #GetTitleVN_CAP
+ BASILEUS_DT_CAP:1 "€©ª®¢³" #GetTitleDT_CAP
+ BASILEUS_IM_CAP:1 "€©ª®¢" #GetTitleIM_CAP
+ BASILEUS_PR_CAP:1 "€©ª®¢" #GetTitlePR_CAP
+ BASILEUS_RD_CAP:1 "€©ª®¢" #GetTitleRD_CAP
+ BASILEUS_TV_CAP:1 "€©ª®¢¯" #GetTitleTV_CAP
+ BASILEUS_VN_CAP:1 "€©ª®¢" #GetTitleVN_CAP
+ BASILISSA_DT_CAP:1 "€©ª®ª" #GetTitleDT_CAP
+ BASILISSA_IM_CAP:1 "€©ª®ª" #GetTitleIM_CAP
+ BASILISSA_PR_CAP:1 "€©ª®ª" #GetTitlePR_CAP
+ BASILISSA_RD_CAP:1 "€©ª®ªº" #GetTitleRD_CAP
+ BASILISSA_TV_CAP:1 "€©ª®ªþ" #GetTitleTV_CAP
+ BASILISSA_VN_CAP:1 "€©ª®ª³" #GetTitleVN_CAP
+ BEILE_DT_CAP:1 "€¼ª®" #GetTitleDT_CAP
+ BEILE_IM_CAP:1 "€¼ª®" #GetTitleIM_CAP
+ BEILE_PR_CAP:1 "€¼ª®" #GetTitlePR_CAP
+ BEILE_RD_CAP:1 "€¼ª®" #GetTitleRD_CAP
+ BEILE_TV_CAP:1 "€¼ª®" #GetTitleTV_CAP
+ BEILE_VN_CAP:1 "€¼ª®" #GetTitleVN_CAP
+ BEYSADE_DT_CAP:1 "€þ©¦" #GetTitleHeirDT_CAP
+ BEYSADE_IM_CAP:1 "€þ©¦" #GetTitleHeirIM_CAP
+ BEYSADE_PR_CAP:1 "€þ©¦" #GetTitleHeirPR_CAP
+ BEYSADE_RD_CAP:1 "€þ©¦" #GetTitleHeirRD_CAP
+ BEYSADE_TV_CAP:1 "€þ©¦" #GetTitleHeirTV_CAP
+ BEYSADE_VN_CAP:1 "€þ©¦" #GetTitleHeirVN_CAP
+ BEYSADI_DT_CAP:1 "€þ¦ª" #GetTitleHeirDT_CAP
+ BEYSADI_IM_CAP:1 "€þ¦ª" #GetTitleHeirIM_CAP
+ BEYSADI_PR_CAP:1 "€þ¦ª" #GetTitleHeirPR_CAP
+ BEYSADI_RD_CAP:1 "€þ¦ª" #GetTitleHeirRD_CAP
+ BEYSADI_TV_CAP:1 "€þ¦ª" #GetTitleHeirTV_CAP
+ BEYSADI_VN_CAP:1 "€þ¦ª" #GetTitleHeirVN_CAP
+ BEY_DT_CAP:1 "€þ½" #GetTitleDT_CAP
+ BEY_IM_CAP:1 "€þ" #GetTitleIM_CAP
+ BEY_PR_CAP:1 "€þ" #GetTitlePR_CAP
+ BEY_RD_CAP:1 "€þ¾" #GetTitleRD_CAP
+ BEY_TV_CAP:1 "€þ¯" #GetTitleTV_CAP
+ BEY_VN_CAP:1 "€þ¾" #GetTitleVN_CAP
+ BISHOP_DT_CAP:1 "±ª¬±³" #GetTitleDT_CAP
+ BISHOP_ELECTOR_DT_CAP:1 "±ª¬±³-¬³´½²³" #GetTitleDT_CAP
+ BISHOP_ELECTOR_IM_CAP:1 "±ª¬±-¬³´½²" #GetTitleIM_CAP
+ BISHOP_ELECTOR_PR_CAP:1 "±ª¬±-¬³´½²" #GetTitlePR_CAP
+ BISHOP_ELECTOR_RD_CAP:1 "±ª¬±-¬³´½²" #GetTitleRD_CAP
+ BISHOP_ELECTOR_TV_CAP:1 "±ª¬±¯-¬³´½²¯" #GetTitleTV_CAP
+ BISHOP_ELECTOR_VN_CAP:1 "±ª¬±-¬³´½²" #GetTitleVN_CAP
+ BISHOP_ELECTOR_fem_DT_CAP:1 "±ª¬±³-¬³´½²³" #GetTitleDT_CAP
+ BISHOP_ELECTOR_fem_IM_CAP:1 "±ª¬±-¬³´½²" #GetTitleIM_CAP
+ BISHOP_ELECTOR_fem_PR_CAP:1 "±ª¬±-¬³´½²" #GetTitlePR_CAP
+ BISHOP_ELECTOR_fem_RD_CAP:1 "±ª¬±-¬³´½²" #GetTitleRD_CAP
+ BISHOP_ELECTOR_fem_TV_CAP:1 "±ª¬±¯-¬³´½²¯" #GetTitleTV_CAP
+ BISHOP_ELECTOR_fem_VN_CAP:1 "±ª¬±-¬³´½²" #GetTitleVN_CAP
+ BISHOP_IM_CAP:1 "±ª¬±" #GetTitleIM_CAP
+ BISHOP_PR_CAP:1 "±ª¬±" #GetTitlePR_CAP
+ BISHOP_RD_CAP:1 "±ª¬±" #GetTitleRD_CAP
+ BISHOP_TV_CAP:1 "±ª¬±¯" #GetTitleTV_CAP
+ BISHOP_VN_CAP:1 "±ª¬±" #GetTitleVN_CAP
+ BISHOP_fem_DT_CAP:1 "±ª¬±³" #GetTitleDT_CAP
+ BISHOP_fem_IM_CAP:1 "±ª¬±" #GetTitleIM_CAP
+ BISHOP_fem_PR_CAP:1 "±ª¬±" #GetTitlePR_CAP
+ BISHOP_fem_RD_CAP:1 "±ª¬±" #GetTitleRD_CAP
+ BISHOP_fem_TV_CAP:1 "±ª¬±¯" #GetTitleTV_CAP
+ BISHOP_fem_VN_CAP:1 "±ª¬±" #GetTitleVN_CAP
+ BOQORAD_DT_CAP:1 "€¬²" #GetTitleConsortDT_CAP
+ BOQORAD_IM_CAP:1 "€¬²" #GetTitleConsortIM_CAP
+ BOQORAD_PR_CAP:1 "€¬²" #GetTitleConsortPR_CAP
+ BOQORAD_RD_CAP:1 "€¬²º" #GetTitleConsortRD_CAP
+ BOQORAD_TV_CAP:1 "€¬²þ" #GetTitleConsortTV_CAP
+ BOQORAD_VN_CAP:1 "€¬²³" #GetTitleConsortVN_CAP
+ BOQOR_DT_CAP:1 "€¬³" #GetTitleConsortDT_CAP
+ BOQOR_IM_CAP:1 "€¬" #GetTitleConsortIM_CAP
+ BOQOR_PR_CAP:1 "€¬" #GetTitleConsortPR_CAP
+ BOQOR_RD_CAP:1 "€¬" #GetTitleConsortRD_CAP
+ BOQOR_TV_CAP:1 "€¬¯" #GetTitleConsortTV_CAP
+ BOQOR_VN_CAP:1 "€¬" #GetTitleConsortVN_CAP
+ BREWMASTER_DT_CAP:1 "Ï¢°¯³ ±ª¢¢³" #GetTitleDT_CAP
+ BREWMASTER_IM_CAP:1 "Ï¢°ºþ ±ª¢¢" #GetTitleIM_CAP
+ BREWMASTER_PR_CAP:1 "Ï¢°¯ ±ª¢¢" #GetTitlePR_CAP
+ BREWMASTER_RD_CAP:1 "Ï¢°¥ ±ª¢¢" #GetTitleRD_CAP
+ BREWMASTER_TV_CAP:1 "Ï¢°º¯ ±ª¢¢¯" #GetTitleTV_CAP
+ BREWMASTER_VN_CAP:1 "Ï¢°¥ ±ª¢¢" #GetTitleVN_CAP
+ BREWMISTRESS_DT_CAP:1 "Ï¢°þ ±ª¢¢¬" #GetTitleDT_CAP
+ BREWMISTRESS_IM_CAP:1 "Ï¢°¾ ±ª¢¢¬" #GetTitleIM_CAP
+ BREWMISTRESS_PR_CAP:1 "Ï¢°þ ±ª¢¢¬" #GetTitlePR_CAP
+ BREWMISTRESS_RD_CAP:1 "Ï¢°þ ±ª¢¢¬ª" #GetTitleRD_CAP
+ BREWMISTRESS_TV_CAP:1 "Ï¢°þ ±ª¢¢¬þ" #GetTitleTV_CAP
+ BREWMISTRESS_VN_CAP:1 "Ï¢°³½ ±ª¢¢¬³" #GetTitleVN_CAP
+ BROTHER_DT_CAP:1 "€²³" #GetTitleDT_CAP
+ BROTHER_IM_CAP:1 "€²" #GetTitleIM_CAP
+ BROTHER_PR_CAP:1 "€²" #GetTitlePR_CAP
+ BROTHER_RD_CAP:1 "€²" #GetTitleRD_CAP
+ BROTHER_TV_CAP:1 "€²¯" #GetTitleTV_CAP
+ BROTHER_VN_CAP:1 "€²" #GetTitleVN_CAP
+ BURGMEISTER_DT_CAP:1 "€³¥¯ª²³" #GetTitleDT_CAP
+ BURGMEISTER_IM_CAP:1 "€³¥¯ª²" #GetTitleIM_CAP
+ BURGMEISTER_PR_CAP:1 "€³¥¯ª²" #GetTitlePR_CAP
+ BURGMEISTER_RD_CAP:1 "€³¥¯ª²" #GetTitleRD_CAP
+ BURGMEISTER_TV_CAP:1 "€³¥¯ª²¯" #GetTitleTV_CAP
+ BURGMEISTER_VN_CAP:1 "€³¥¯ª²" #GetTitleVN_CAP
+ BURGMEISTER_fem_DT_CAP:1 "€½¥¯þ²ª°" #GetTitleDT_CAP
+ BURGMEISTER_fem_IM_CAP:1 "€½¥¯þ²ª°" #GetTitleIM_CAP
+ BURGMEISTER_fem_PR_CAP:1 "€½¥¯þ²ª°" #GetTitlePR_CAP
+ BURGMEISTER_fem_RD_CAP:1 "€½¥¯þ²ª°º" #GetTitleRD_CAP
+ BURGMEISTER_fem_TV_CAP:1 "€½¥¯þ²ª°þ" #GetTitleTV_CAP
+ BURGMEISTER_fem_VN_CAP:1 "€½¥¯þ²ª°³" #GetTitleVN_CAP
+ CALIPHA_DT_CAP:1 "Û®ª´³" #GetTitleDT_CAP
+ CALIPHA_IM_CAP:1 "Û®ª´" #GetTitleIM_CAP
+ CALIPHA_PR_CAP:1 "Û®ª´" #GetTitlePR_CAP
+ CALIPHA_RD_CAP:1 "Û®ª´" #GetTitleRD_CAP
+ CALIPHA_TV_CAP:1 "Û®ª´¯" #GetTitleTV_CAP
+ CALIPHA_VN_CAP:1 "Û®ª´" #GetTitleVN_CAP
+ CALIPH_DT_CAP:1 "Û®ª´³" #GetTitleDT_CAP
+ CALIPH_IM_CAP:1 "Û®ª´" #GetTitleIM_CAP
+ CALIPH_PR_CAP:1 "Û®ª´" #GetTitlePR_CAP
+ CALIPH_RD_CAP:1 "Û®ª´" #GetTitleRD_CAP
+ CALIPH_TV_CAP:1 "Û®ª´¯" #GetTitleTV_CAP
+ CALIPH_VN_CAP:1 "Û®ª´" #GetTitleVN_CAP
+ CAPTAIN_DEFENDER_DT_CAP:1 "±ª²°³-©¸ª²°ª¬³" #GetTitleDT_CAP
+ CAPTAIN_DEFENDER_IM_CAP:1 "±ª²°-©¸ª²°ª¬" #GetTitleIM_CAP
+ CAPTAIN_DEFENDER_PR_CAP:1 "±ª²°-©¸ª²°ª¬" #GetTitlePR_CAP
+ CAPTAIN_DEFENDER_RD_CAP:1 "±ª²°-©¸ª²°ª¬" #GetTitleRD_CAP
+ CAPTAIN_DEFENDER_TV_CAP:1 "±ª²°¯-©¸ª²°ª¬¯" #GetTitleTV_CAP
+ CAPTAIN_DEFENDER_VN_CAP:1 "±ª²°-©¸ª²°ª¬" #GetTitleVN_CAP
+ CAPTAIN_DEFENDER_fem_DT_CAP:1 "±ª²°³-©¸ª²°ªµ" #GetTitleDT_CAP
+ CAPTAIN_DEFENDER_fem_IM_CAP:1 "±ª²°-©¸ª²°ªµ" #GetTitleIM_CAP
+ CAPTAIN_DEFENDER_fem_PR_CAP:1 "±ª²°-©¸ª²°ªµ" #GetTitlePR_CAP
+ CAPTAIN_DEFENDER_fem_RD_CAP:1 "±ª²°-©¸ª²°ªµº" #GetTitleRD_CAP
+ CAPTAIN_DEFENDER_fem_TV_CAP:1 "±ª²°¯-©¸ª²°ªµþ" #GetTitleTV_CAP
+ CAPTAIN_DEFENDER_fem_VN_CAP:1 "±ª²°-©¸ª²°ªµ³" #GetTitleVN_CAP
+ CAPTAIN_DT_CAP:1 "±ª²°³" #GetTitleDT_CAP
+ CAPTAIN_GENERAL_DT_CAP:1 "‚°®-¬±ª²°³" #GetTitleDT_CAP
+ CAPTAIN_GENERAL_IM_CAP:1 "‚°®-¬±ª²°" #GetTitleIM_CAP
+ CAPTAIN_GENERAL_PR_CAP:1 "‚°®-¬±ª²°" #GetTitlePR_CAP
+ CAPTAIN_GENERAL_RD_CAP:1 "‚°®-¬±ª²°" #GetTitleRD_CAP
+ CAPTAIN_GENERAL_TV_CAP:1 "‚°®-¬±ª²°¯" #GetTitleTV_CAP
+ CAPTAIN_GENERAL_VN_CAP:1 "‚°®-¬±ª²°" #GetTitleVN_CAP
+ CAPTAIN_GENERAL_fem_DT_CAP:1 "‚°®-¬±ª²°³" #GetTitleDT_CAP
+ CAPTAIN_GENERAL_fem_IM_CAP:1 "‚°®-¬±ª²°" #GetTitleIM_CAP
+ CAPTAIN_GENERAL_fem_PR_CAP:1 "‚°®-¬±ª²°" #GetTitlePR_CAP
+ CAPTAIN_GENERAL_fem_RD_CAP:1 "‚°®-¬±ª²°" #GetTitleRD_CAP
+ CAPTAIN_GENERAL_fem_TV_CAP:1 "‚°®-¬±ª²°¯" #GetTitleTV_CAP
+ CAPTAIN_GENERAL_fem_VN_CAP:1 "‚°®-¬±ª²°" #GetTitleVN_CAP
+ CAPTAIN_IM_CAP:1 "±ª²°" #GetTitleIM_CAP
+ CAPTAIN_PR_CAP:1 "±ª²°" #GetTitlePR_CAP
+ CAPTAIN_RD_CAP:1 "±ª²°" #GetTitleRD_CAP
+ CAPTAIN_TV_CAP:1 "±ª²°¯" #GetTitleTV_CAP
+ CAPTAIN_VN_CAP:1 "±ª²°" #GetTitleVN_CAP
+ CAPTAIN_fem_DT_CAP:1 "±ª²°³" #GetTitleDT_CAP
+ CAPTAIN_fem_IM_CAP:1 "±ª²°" #GetTitleIM_CAP
+ CAPTAIN_fem_PR_CAP:1 "±ª²°" #GetTitlePR_CAP
+ CAPTAIN_fem_RD_CAP:1 "±ª²°" #GetTitleRD_CAP
+ CAPTAIN_fem_TV_CAP:1 "±ª²°¯" #GetTitleTV_CAP
+ CAPTAIN_fem_VN_CAP:1 "±ª²°" #GetTitleVN_CAP
+ CARICA_DT_CAP:1 "Ëªµ" #GetTitleDT_CAP
+ CARICA_IM_CAP:1 "Ëªµ" #GetTitleIM_CAP
+ CARICA_PR_CAP:1 "Ëªµ" #GetTitlePR_CAP
+ CARICA_RD_CAP:1 "Ëªµº" #GetTitleRD_CAP
+ CARICA_TV_CAP:1 "Ëªµþ" #GetTitleTV_CAP
+ CARICA_VN_CAP:1 "Ëªµ³" #GetTitleVN_CAP
+ CAR_DT_CAP:1 "Ë½" #GetTitleDT_CAP
+ CAR_IM_CAP:1 "Ë¿" #GetTitleIM_CAP
+ CAR_PR_CAP:1 "Ë" #GetTitlePR_CAP
+ CAR_RD_CAP:1 "Ë¾" #GetTitleRD_CAP
+ CAR_TV_CAP:1 "Ëž¯" #GetTitleTV_CAP
+ CAR_VN_CAP:1 "Ë¾" #GetTitleVN_CAP
+ CHAIRMAN_DT_CAP:1 "‰¦¦²®½" #GetTitleDT_CAP
+ CHAIRMAN_IM_CAP:1 "‰¦¦²®¿" #GetTitleIM_CAP
+ CHAIRMAN_PR_CAP:1 "‰¦¦²®" #GetTitlePR_CAP
+ CHAIRMAN_RD_CAP:1 "‰¦¦²®¾" #GetTitleRD_CAP
+ CHAIRMAN_TV_CAP:1 "‰¦¦²®¯" #GetTitleTV_CAP
+ CHAIRMAN_VN_CAP:1 "‰¦¦²®¾" #GetTitleVN_CAP
+ CHAIRMAN_fem_DT_CAP:1 "‰¦¦²®½" #GetTitleDT_CAP
+ CHAIRMAN_fem_IM_CAP:1 "‰¦¦²®¿" #GetTitleIM_CAP
+ CHAIRMAN_fem_PR_CAP:1 "‰¦¦²®" #GetTitlePR_CAP
+ CHAIRMAN_fem_RD_CAP:1 "‰¦¦²®¾" #GetTitleRD_CAP
+ CHAIRMAN_fem_TV_CAP:1 "‰¦¦²®¯" #GetTitleTV_CAP
+ CHAIRMAN_fem_VN_CAP:1 "‰¦¦²®¾" #GetTitleVN_CAP
+ CHANCELOR_DT_CAP:1 "°µ®³" #GetTitleDT_CAP
+ CHANCELOR_IM_CAP:1 "°µ®" #GetTitleIM_CAP
+ CHANCELOR_PR_CAP:1 "°µ®" #GetTitlePR_CAP
+ CHANCELOR_RD_CAP:1 "°µ®" #GetTitleRD_CAP
+ CHANCELOR_TV_CAP:1 "°µ®¯" #GetTitleTV_CAP
+ CHANCELOR_VN_CAP:1 "°µ®" #GetTitleVN_CAP
+ CHANCELOR_fem_DT_CAP:1 "°µ®³" #GetTitleDT_CAP
+ CHANCELOR_fem_IM_CAP:1 "°µ®" #GetTitleIM_CAP
+ CHANCELOR_fem_PR_CAP:1 "°µ®" #GetTitlePR_CAP
+ CHANCELOR_fem_RD_CAP:1 "°µ®" #GetTitleRD_CAP
+ CHANCELOR_fem_TV_CAP:1 "°µ®¯" #GetTitleTV_CAP
+ CHANCELOR_fem_VN_CAP:1 "°µ®" #GetTitleVN_CAP
+ CHHATRAPATI_DT_CAP:1 "¶²±²ª" #GetTitleDT_CAP
+ CHHATRAPATI_IM_CAP:1 "¶²±²ª" #GetTitleIM_CAP
+ CHHATRAPATI_PR_CAP:1 "¶²±²ª" #GetTitlePR_CAP
+ CHHATRAPATI_RD_CAP:1 "Ì²±²ª" #GetTitleRD_CAP
+ CHHATRAPATI_TV_CAP:1 "¶²±²ª" #GetTitleTV_CAP
+ CHHATRAPATI_VN_CAP:1 "¶²±²ª" #GetTitleVN_CAP
+ CHIEFTESS_DT_CAP:1 "Ï¨¦½" #GetTitleDT_CAP
+ CHIEFTESS_IM_CAP:1 "Ï¨¦¿" #GetTitleIM_CAP
+ CHIEFTESS_PR_CAP:1 "Ï¨¦½" #GetTitlePR_CAP
+ CHIEFTESS_RD_CAP:1 "Ï¨¦¾" #GetTitleRD_CAP
+ CHIEFTESS_TV_CAP:1 "Ï¨¦ž¯" #GetTitleTV_CAP
+ CHIEFTESS_VN_CAP:1 "Ï¨¦¾" #GetTitleVN_CAP
+ CHIEF_DT_CAP:1 "Ï¨¦½" #GetTitleDT_CAP
+ CHIEF_IM_CAP:1 "Ï¨¦¿" #GetTitleIM_CAP
+ CHIEF_PR_CAP:1 "Ï¨¦" #GetTitlePR_CAP
+ CHIEF_RD_CAP:1 "Ï¨¦¾" #GetTitleRD_CAP
+ CHIEF_TV_CAP:1 "Ï¨¦ž¯" #GetTitleTV_CAP
+ CHIEF_VN_CAP:1 "Ï¨¦¾" #GetTitleVN_CAP
+ CIHUATLAHTOANI_DT_CAP:1 "³²®²°ª" #GetTitleDT_CAP
+ CIHUATLAHTOANI_IM_CAP:1 "³²®²°ª" #GetTitleIM_CAP
+ CIHUATLAHTOANI_PR_CAP:1 "³²®²°ª" #GetTitlePR_CAP
+ CIHUATLAHTOANI_RD_CAP:1 "³²®²°ª" #GetTitleRD_CAP
+ CIHUATLAHTOANI_TV_CAP:1 "¬³²®²°ª" #GetTitleTV_CAP
+ CIHUATLAHTOANI_VN_CAP:1 "³²®²°ª" #GetTitleVN_CAP
+ COMMANDER_EMPEROR_DT_CAP:1 "†¯±¬¯³ ¬¯°¦³½¸¯³" #GetTitleDT_CAP
+ COMMANDER_EMPEROR_IM_CAP:1 "†¯±¬ªþ ¬¯°¦³½¸ªþ" #GetTitleIM_CAP
+ COMMANDER_EMPEROR_PR_CAP:1 "†¯±¬¯ ¬¯°¦³½¸¯" #GetTitlePR_CAP
+ COMMANDER_EMPEROR_RD_CAP:1 "†¯±¬¥ ¬¯°¦³½¸¥" #GetTitleRD_CAP
+ COMMANDER_EMPEROR_TV_CAP:1 "†¯±¬ª¯ ¬¯°¦³½¸ª¯" #GetTitleTV_CAP
+ COMMANDER_EMPEROR_VN_CAP:1 "†¯±¬¥ ¬¯°¦³½¸¥" #GetTitleVN_CAP
+ COMMANDER_EMPRESS_DT_CAP:1 "†¯±¬¯³ ¬¯°¦³½¸¯³" #GetTitleDT_CAP
+ COMMANDER_EMPRESS_IM_CAP:1 "†¯±¬ªþ ¬¯°¦³½¸ªþ" #GetTitleIM_CAP
+ COMMANDER_EMPRESS_PR_CAP:1 "†¯±¬¯ ¬¯°¦³½¸¯" #GetTitlePR_CAP
+ COMMANDER_EMPRESS_RD_CAP:1 "†¯±¬¥ ¬¯°¦³½¸¥" #GetTitleRD_CAP
+ COMMANDER_EMPRESS_TV_CAP:1 "†¯±¬ª¯ ¬¯°¦³½¸ª¯" #GetTitleTV_CAP
+ COMMANDER_EMPRESS_VN_CAP:1 "†¯±¬¥ ¬¯°¦³½¸¥" #GetTitleVN_CAP
+ CONSORT_DT_CAP:1 "°²³" #GetTitleConsortDT_CAP
+ CONSORT_IM_CAP:1 "°²" #GetTitleConsortIM_CAP
+ CONSORT_PR_CAP:1 "°²" #GetTitleConsortPR_CAP
+ CONSORT_RD_CAP:1 "°²" #GetTitleConsortRD_CAP
+ CONSORT_TV_CAP:1 "°²¯" #GetTitleConsortTV_CAP
+ CONSORT_VN_CAP:1 "°²" #GetTitleConsortVN_CAP
+ CONSULESS_DT_CAP:1 "°³®³" #GetTitleDT_CAP
+ CONSULESS_ELECTOR_DT_CAP:1 "°³®³-¬³´½²ª°" #GetTitleDT_CAP
+ CONSULESS_ELECTOR_IM_CAP:1 "°³®-¬³´½²ª°" #GetTitleIM_CAP
+ CONSULESS_ELECTOR_PR_CAP:1 "°³®-¬³´½²ª°" #GetTitlePR_CAP
+ CONSULESS_ELECTOR_RD_CAP:1 "°³®-¬³´½²ª°º" #GetTitleRD_CAP
+ CONSULESS_ELECTOR_TV_CAP:1 "°³®¯-¬³´½²ª°þ" #GetTitleTV_CAP
+ CONSULESS_ELECTOR_VN_CAP:1 "°³®-¬³´½²ª°³" #GetTitleVN_CAP
+ CONSULESS_IM_CAP:1 "°³®" #GetTitleIM_CAP
+ CONSULESS_PR_CAP:1 "°³®" #GetTitlePR_CAP
+ CONSULESS_RD_CAP:1 "°³®" #GetTitleRD_CAP
+ CONSULESS_TV_CAP:1 "°³®¯" #GetTitleTV_CAP
+ CONSULESS_VN_CAP:1 "°³®" #GetTitleVN_CAP
+ CONSUL_DT_CAP:1 "°³®³" #GetTitleDT_CAP
+ CONSUL_ELECTOR_DT_CAP:1 "°³®³-¬³´½²³" #GetTitleDT_CAP
+ CONSUL_ELECTOR_IM_CAP:1 "°³®-¬³´½²" #GetTitleIM_CAP
+ CONSUL_ELECTOR_PR_CAP:1 "°³®-¬³´½²" #GetTitlePR_CAP
+ CONSUL_ELECTOR_RD_CAP:1 "°³®-¬³´½²" #GetTitleRD_CAP
+ CONSUL_ELECTOR_TV_CAP:1 "°³®¯-¬³´½²¯" #GetTitleTV_CAP
+ CONSUL_ELECTOR_VN_CAP:1 "°³®-¬³´½²" #GetTitleVN_CAP
+ CONSUL_IM_CAP:1 "°³®" #GetTitleIM_CAP
+ CONSUL_PR_CAP:1 "°³®" #GetTitlePR_CAP
+ CONSUL_RD_CAP:1 "°³®" #GetTitleRD_CAP
+ CONSUL_TV_CAP:1 "°³®¯" #GetTitleTV_CAP
+ CONSUL_VN_CAP:1 "°³®" #GetTitleVN_CAP
+ COUNCILOR_DT_CAP:1 "Ô¢²°ª¬³" #GetTitleDT_CAP
+ COUNCILOR_IM_CAP:1 "Ô¢²°ª¬" #GetTitleIM_CAP
+ COUNCILOR_PR_CAP:1 "Ô¢²°ª¬" #GetTitlePR_CAP
+ COUNCILOR_RD_CAP:1 "Ô¢²°ª¬" #GetTitleRD_CAP
+ COUNCILOR_TV_CAP:1 "Ô¢²°ª¬¯" #GetTitleTV_CAP
+ COUNCILOR_VN_CAP:1 "Ô¢²°ª¬" #GetTitleVN_CAP
+ COUNCILOR_fem_DT_CAP:1 "Ô¢²°ª¬³" #GetTitleDT_CAP
+ COUNCILOR_fem_IM_CAP:1 "Ô¢²°ª¬" #GetTitleIM_CAP
+ COUNCILOR_fem_PR_CAP:1 "Ô¢²°ª¬" #GetTitlePR_CAP
+ COUNCILOR_fem_RD_CAP:1 "Ô¢²°ª¬" #GetTitleRD_CAP
+ COUNCILOR_fem_TV_CAP:1 "Ô¢²°ª¬¯" #GetTitleTV_CAP
+ COUNCILOR_fem_VN_CAP:1 "Ô¢²°ª¬" #GetTitleVN_CAP
+ COUNTESS_DT_CAP:1 "‚´ª°" #GetTitleDT_CAP
+ COUNTESS_IM_CAP:1 "‚´ª°¾" #GetTitleIM_CAP
+ COUNTESS_PALATINE_DT_CAP:1 "‰´®¿µ¥´ª°" #GetTitleDT_CAP
+ COUNTESS_PALATINE_IM_CAP:1 "‰´®¿µ¥´ª°¾" #GetTitleIM_CAP
+ COUNTESS_PALATINE_PR_CAP:1 "‰´®¿µ¥´ª°" #GetTitlePR_CAP
+ COUNTESS_PALATINE_RD_CAP:1 "‰´®¿µ¥´ª°ª" #GetTitleRD_CAP
+ COUNTESS_PALATINE_TV_CAP:1 "‰´®¿µ¥´ª°þ" #GetTitleTV_CAP
+ COUNTESS_PALATINE_VN_CAP:1 "‰´®¿µ¥´ª°½" #GetTitleVN_CAP
+ COUNTESS_PR_CAP:1 "‚´ª°" #GetTitlePR_CAP
+ COUNTESS_RD_CAP:1 "‚´ª°ª" #GetTitleRD_CAP
+ COUNTESS_TV_CAP:1 "‚´ª°þ" #GetTitleTV_CAP
+ COUNTESS_VN_CAP:1 "‚´ª°½" #GetTitleVN_CAP
+ COUNT_DT_CAP:1 "‚´³" #GetTitleDT_CAP
+ COUNT_IM_CAP:1 "‚´" #GetTitleIM_CAP
+ COUNT_PALATINE_DT_CAP:1 "‰´®¿µ¥´³" #GetTitleDT_CAP
+ COUNT_PALATINE_IM_CAP:1 "‰´®¿µ¥´" #GetTitleIM_CAP
+ COUNT_PALATINE_PR_CAP:1 "‰´®¿µ¥´" #GetTitlePR_CAP
+ COUNT_PALATINE_RD_CAP:1 "‰´®¿µ¥´" #GetTitleRD_CAP
+ COUNT_PALATINE_TV_CAP:1 "‰´®¿µ¥´¯" #GetTitleTV_CAP
+ COUNT_PALATINE_VN_CAP:1 "‰´®¿µ¥´" #GetTitleVN_CAP
+ COUNT_PR_CAP:1 "‚´" #GetTitlePR_CAP
+ COUNT_RD_CAP:1 "‚´" #GetTitleRD_CAP
+ COUNT_TV_CAP:1 "‚´¯" #GetTitleTV_CAP
+ COUNT_VN_CAP:1 "‚´" #GetTitleVN_CAP
+ CUAUHTLAHTOANI_DT_CAP:1 "³²®²°ª" #GetTitleDT_CAP
+ CUAUHTLAHTOANI_IM_CAP:1 "³²®²°ª" #GetTitleIM_CAP
+ CUAUHTLAHTOANI_PR_CAP:1 "³²®²°ª" #GetTitlePR_CAP
+ CUAUHTLAHTOANI_RD_CAP:1 "³²®²°ª" #GetTitleRD_CAP
+ CUAUHTLAHTOANI_TV_CAP:1 "³²®²°ª" #GetTitleTV_CAP
+ CUAUHTLAHTOANI_VN_CAP:1 "³²®²°ª" #GetTitleVN_CAP
+ DAI_female_DT_CAP:1 "ƒª" #GetTitleDT_CAP
+ DAI_female_IM_CAP:1 "ƒª" #GetTitleIM_CAP
+ DAI_female_PR_CAP:1 "ƒª" #GetTitlePR_CAP
+ DAI_female_RD_CAP:1 "ƒª" #GetTitleRD_CAP
+ DAI_female_TV_CAP:1 "ƒª" #GetTitleTV_CAP
+ DAI_female_VN_CAP:1 "ƒª" #GetTitleVN_CAP
+ DAI_male_DT_CAP:1 "ƒª" #GetTitleDT_CAP
+ DAI_male_IM_CAP:1 "ƒª" #GetTitleIM_CAP
+ DAI_male_PR_CAP:1 "ƒª" #GetTitlePR_CAP
+ DAI_male_RD_CAP:1 "ƒª" #GetTitleRD_CAP
+ DAI_male_TV_CAP:1 "ƒª" #GetTitleTV_CAP
+ DAI_male_VN_CAP:1 "ƒª" #GetTitleVN_CAP
+ DATU_DT_CAP:1 "ƒ²³" #GetTitleDT_CAP
+ DATU_IM_CAP:1 "ƒ²³" #GetTitleIM_CAP
+ DATU_PR_CAP:1 "ƒ²³" #GetTitlePR_CAP
+ DATU_RD_CAP:1 "ƒ²³" #GetTitleRD_CAP
+ DATU_TV_CAP:1 "ƒ²³" #GetTitleTV_CAP
+ DATU_VN_CAP:1 "ƒ²³" #GetTitleVN_CAP
+ DAUGHTER_OF_HEAVEN_DT_CAP:1 "ƒ¶ª ¡" #GetTitleDT_CAP
+ DAUGHTER_OF_HEAVEN_IM_CAP:1 "ƒ¶¿ ¡" #GetTitleIM_CAP
+ DAUGHTER_OF_HEAVEN_PR_CAP:1 "ƒ¶ª ¡" #GetTitlePR_CAP
+ DAUGHTER_OF_HEAVEN_RD_CAP:1 "ƒ¶ª ¡" #GetTitleRD_CAP
+ DAUGHTER_OF_HEAVEN_TV_CAP:1 "ƒ¶¿½ ¡" #GetTitleTV_CAP
+ DAUGHTER_OF_HEAVEN_VN_CAP:1 "ƒ¶¿ ¡" #GetTitleVN_CAP
+ DAUPHINE_DT_CAP:1 "ƒ´ª°" #GetTitleHeirDT_CAP
+ DAUPHINE_IM_CAP:1 "ƒ´ª°" #GetTitleHeirIM_CAP
+ DAUPHINE_PR_CAP:1 "ƒ´ª°" #GetTitleHeirPR_CAP
+ DAUPHINE_RD_CAP:1 "ƒ´ª°º" #GetTitleHeirRD_CAP
+ DAUPHINE_TV_CAP:1 "ƒ´ª°þ" #GetTitleHeirTV_CAP
+ DAUPHINE_VN_CAP:1 "ƒ´ª°³" #GetTitleHeirVN_CAP
+ DAUPHIN_DT_CAP:1 "ƒ´ª°³" #GetTitleHeirDT_CAP
+ DAUPHIN_IM_CAP:1 "ƒ´ª°" #GetTitleHeirIM_CAP
+ DAUPHIN_PR_CAP:1 "ƒ´ª°" #GetTitleHeirPR_CAP
+ DAUPHIN_RD_CAP:1 "ƒ´ª°" #GetTitleHeirRD_CAP
+ DAUPHIN_TV_CAP:1 "ƒ´ª°¯" #GetTitleHeirTV_CAP
+ DAUPHIN_VN_CAP:1 "ƒ´ª°" #GetTitleHeirVN_CAP
+ DESPOTISSA_DT_CAP:1 "ƒ±²ª" #GetTitleDT_CAP
+ DESPOTISSA_IM_CAP:1 "ƒ±²ª" #GetTitleIM_CAP
+ DESPOTISSA_PR_CAP:1 "ƒ±²ª" #GetTitlePR_CAP
+ DESPOTISSA_RD_CAP:1 "ƒ±²ªº" #GetTitleRD_CAP
+ DESPOTISSA_TV_CAP:1 "ƒ±²ªþ" #GetTitleTV_CAP
+ DESPOTISSA_VN_CAP:1 "ƒ±²ª³" #GetTitleVN_CAP
+ DESPOT_DT_CAP:1 "ƒ±²³" #GetTitleDT_CAP
+ DESPOT_IM_CAP:1 "ƒ±²" #GetTitleIM_CAP
+ DESPOT_PR_CAP:1 "ƒ±²" #GetTitlePR_CAP
+ DESPOT_RD_CAP:1 "ƒ±²" #GetTitleRD_CAP
+ DESPOT_TV_CAP:1 "ƒ±²¯" #GetTitleTV_CAP
+ DESPOT_VN_CAP:1 "ƒ±²" #GetTitleVN_CAP
+ DEUTSCHMEISTER_DT_CAP:1 "‚¯°¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ DEUTSCHMEISTER_IM_CAP:1 "‚¯°¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ DEUTSCHMEISTER_PR_CAP:1 "‚¯°¬¯ ¯¥ª²" #GetTitlePR_CAP
+ DEUTSCHMEISTER_RD_CAP:1 "‚¯°¬¥ ¯¥ª²" #GetTitleRD_CAP
+ DEUTSCHMEISTER_TV_CAP:1 "‚¯°¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ DEUTSCHMEISTER_VN_CAP:1 "‚¯°¬¥ ¯¥ª²" #GetTitleVN_CAP
+ DEUTSCHMEISTER_fem_DT_CAP:1 "‚¯°¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ DEUTSCHMEISTER_fem_IM_CAP:1 "‚¯°¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ DEUTSCHMEISTER_fem_PR_CAP:1 "‚¯°¬¯ ¯¥ª²" #GetTitlePR_CAP
+ DEUTSCHMEISTER_fem_RD_CAP:1 "‚¯°¬¥ ¯¥ª²" #GetTitleRD_CAP
+ DEUTSCHMEISTER_fem_TV_CAP:1 "‚¯°¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ DEUTSCHMEISTER_fem_VN_CAP:1 "‚¯°¬¥ ¯¥ª²" #GetTitleVN_CAP
+ DIRECTORESS_DT_CAP:1 "ƒª¬²ª" #GetTitleDT_CAP
+ DIRECTORESS_IM_CAP:1 "ƒª¬²ª" #GetTitleIM_CAP
+ DIRECTORESS_PR_CAP:1 "ƒª¬²ª" #GetTitlePR_CAP
+ DIRECTORESS_RD_CAP:1 "ƒª¬²ªº" #GetTitleRD_CAP
+ DIRECTORESS_TV_CAP:1 "ƒª¬²ªþ" #GetTitleTV_CAP
+ DIRECTORESS_VN_CAP:1 "ƒª¬²ª³" #GetTitleVN_CAP
+ DIRECTOR_DT_CAP:1 "ƒª¬²³" #GetTitleDT_CAP
+ DIRECTOR_IM_CAP:1 "ƒª¬²" #GetTitleIM_CAP
+ DIRECTOR_PR_CAP:1 "ƒª¬²" #GetTitlePR_CAP
+ DIRECTOR_RD_CAP:1 "ƒª¬²" #GetTitleRD_CAP
+ DIRECTOR_TV_CAP:1 "ƒª¬²¯" #GetTitleTV_CAP
+ DIRECTOR_VN_CAP:1 "ƒª¬²" #GetTitleVN_CAP
+ DOGARESSA_DT_CAP:1 "ƒ¥" #GetTitleDT_CAP
+ DOGARESSA_IM_CAP:1 "ƒ¥" #GetTitleIM_CAP
+ DOGARESSA_PR_CAP:1 "ƒ¥" #GetTitlePR_CAP
+ DOGARESSA_RD_CAP:1 "ƒ¥º" #GetTitleRD_CAP
+ DOGARESSA_TV_CAP:1 "ƒ¥þ" #GetTitleTV_CAP
+ DOGARESSA_VN_CAP:1 "ƒ¥³" #GetTitleVN_CAP
+ DOGE_DT_CAP:1 "ƒ¨³" #GetTitleDT_CAP
+ DOGE_IM_CAP:1 "ƒ¨" #GetTitleIM_CAP
+ DOGE_PR_CAP:1 "ƒ¨" #GetTitlePR_CAP
+ DOGE_RD_CAP:1 "ƒ¨" #GetTitleRD_CAP
+ DOGE_TV_CAP:1 "ƒ¨¯" #GetTitleTV_CAP
+ DOGE_VN_CAP:1 "ƒ¨" #GetTitleVN_CAP
+ DUCHESS_DT_CAP:1 "‚µ¥ª°" #GetTitleDT_CAP
+ DUCHESS_IM_CAP:1 "‚µ¥ª°¾" #GetTitleIM_CAP
+ DUCHESS_PR_CAP:1 "‚µ¥ª°" #GetTitlePR_CAP
+ DUCHESS_RD_CAP:1 "‚µ¥ª°ª" #GetTitleRD_CAP
+ DUCHESS_TV_CAP:1 "‚µ¥ª°þ" #GetTitleTV_CAP
+ DUCHESS_VN_CAP:1 "‚µ¥ª°½" #GetTitleVN_CAP
+ DUHZD_DT_CAP:1 "ƒ³¨¦" #GetTitleDT_CAP
+ DUHZD_IM_CAP:1 "ƒ³¨¦¿" #GetTitleIM_CAP
+ DUHZD_PR_CAP:1 "ƒ³¨¦" #GetTitlePR_CAP
+ DUHZD_RD_CAP:1 "ƒ³¨¦ª" #GetTitleRD_CAP
+ DUHZD_TV_CAP:1 "ƒ³¨¦žþ" #GetTitleTV_CAP
+ DUHZD_VN_CAP:1 "ƒ³¨¦¿" #GetTitleVN_CAP
+ DUKE_CONSORT_DT_CAP:1 "°¾©½-¬°²³" #GetTitleConsortDT_CAP
+ DUKE_CONSORT_IM_CAP:1 "°¾©¿-¬°²" #GetTitleConsortIM_CAP
+ DUKE_CONSORT_PR_CAP:1 "°¾©-¬°²" #GetTitleConsortPR_CAP
+ DUKE_CONSORT_RD_CAP:1 "°¾©¾-¬°²" #GetTitleConsortRD_CAP
+ DUKE_CONSORT_TV_CAP:1 "°¾©¯-¬°²¯" #GetTitleConsortTV_CAP
+ DUKE_CONSORT_VN_CAP:1 "°¾©¾-¬°²" #GetTitleConsortVN_CAP
+ DUKE_DT_CAP:1 "‚µ¥³" #GetTitleDT_CAP
+ DUKE_IM_CAP:1 "‚µ¥" #GetTitleIM_CAP
+ DUKE_PR_CAP:1 "‚µ¥" #GetTitlePR_CAP
+ DUKE_RD_CAP:1 "‚µ¥" #GetTitleRD_CAP
+ DUKE_TV_CAP:1 "‚µ¥¯" #GetTitleTV_CAP
+ DUKE_VN_CAP:1 "‚µ¥" #GetTitleVN_CAP
+ DUZHD_DT_CAP:1 "ƒ³¨³" #GetTitleDT_CAP
+ DUZHD_IM_CAP:1 "ƒ³¨" #GetTitleIM_CAP
+ DUZHD_PR_CAP:1 "ƒ³¨" #GetTitlePR_CAP
+ DUZHD_RD_CAP:1 "ƒ³¨" #GetTitleRD_CAP
+ DUZHD_TV_CAP:1 "ƒ³¨¯" #GetTitleTV_CAP
+ DUZHD_VN_CAP:1 "ƒ³¨" #GetTitleVN_CAP
+ EARL_DT_CAP:1 "™®³" #GetTitleDT_CAP
+ EARL_IM_CAP:1 "™®" #GetTitleIM_CAP
+ EARL_PR_CAP:1 "™®" #GetTitlePR_CAP
+ EARL_RD_CAP:1 "™®" #GetTitleRD_CAP
+ EARL_TV_CAP:1 "™®¯" #GetTitleTV_CAP
+ EARL_VN_CAP:1 "™®" #GetTitleVN_CAP
+ ELDER_DT_CAP:1 "Ô²þŒª°" #GetTitleDT_CAP
+ ELDER_IM_CAP:1 "Ô²þŒª°" #GetTitleIM_CAP
+ ELDER_PR_CAP:1 "Ô²þŒª°" #GetTitlePR_CAP
+ ELDER_RD_CAP:1 "Ô²þŒª°º" #GetTitleRD_CAP
+ ELDER_TV_CAP:1 "Ô²þŒª°þ" #GetTitleTV_CAP
+ ELDER_VN_CAP:1 "Ô²þŒª°³" #GetTitleVN_CAP
+ ELDER_fem_DT_CAP:1 "Ô²þŒª°" #GetTitleDT_CAP
+ ELDER_fem_IM_CAP:1 "Ô²þŒª°" #GetTitleIM_CAP
+ ELDER_fem_PR_CAP:1 "Ô²þŒª°" #GetTitlePR_CAP
+ ELDER_fem_RD_CAP:1 "Ô²þŒª°º" #GetTitleRD_CAP
+ ELDER_fem_TV_CAP:1 "Ô²þŒª°þ" #GetTitleTV_CAP
+ ELDER_fem_VN_CAP:1 "Ô²þŒª°³" #GetTitleVN_CAP
+ ELECTOR_DT_CAP:1 "³´½²³" #GetTitleConsortDT_CAP
+ ELECTOR_IM_CAP:1 "³´½²" #GetTitleConsortIM_CAP
+ ELECTOR_PALATINE_DT_CAP:1 "Ïº¡°¯³ ±´®¿µ¥´³" #GetTitleDT_CAP
+ ELECTOR_PALATINE_IM_CAP:1 "Ïº¡°ºþ ±´®¿µ¥´" #GetTitleIM_CAP
+ ELECTOR_PALATINE_PR_CAP:1 "Ïº¡°¯ ±´®¿µ¥´" #GetTitlePR_CAP
+ ELECTOR_PALATINE_RD_CAP:1 "Ïº¡°¥ ±´®¿µ¥´" #GetTitleRD_CAP
+ ELECTOR_PALATINE_TV_CAP:1 "Ïº¡°º¯ ±´®¿µ¥´¯" #GetTitleTV_CAP
+ ELECTOR_PALATINE_VN_CAP:1 "Ïº¡°¥ ±´®¿µ¥´" #GetTitleVN_CAP
+ ELECTOR_PR_CAP:1 "³´½²" #GetTitleConsortPR_CAP
+ ELECTOR_RD_CAP:1 "³´½²" #GetTitleConsortRD_CAP
+ ELECTOR_TV_CAP:1 "³´½²¯" #GetTitleConsortTV_CAP
+ ELECTOR_VN_CAP:1 "³´½²" #GetTitleConsortVN_CAP
+ ELECTRESS_DT_CAP:1 "³´½²ª°" #GetTitleConsortDT_CAP
+ ELECTRESS_IM_CAP:1 "³´½²ª°" #GetTitleConsortIM_CAP
+ ELECTRESS_PALATINE_DT_CAP:1 "Ïº¡°þ ±´®¿µ¥´ª°" #GetTitleDT_CAP
+ ELECTRESS_PALATINE_IM_CAP:1 "Ïº¡°¾ ±´®¿µ¥´ª°¾" #GetTitleIM_CAP
+ ELECTRESS_PALATINE_PR_CAP:1 "Ïº¡°þ ±´®¿µ¥´ª°" #GetTitlePR_CAP
+ ELECTRESS_PALATINE_RD_CAP:1 "Ïº¡°þ ±´®¿µ¥´ª°ª" #GetTitleRD_CAP
+ ELECTRESS_PALATINE_TV_CAP:1 "Ïº¡°þ ±´®¿µ¥´ª°þ" #GetTitleTV_CAP
+ ELECTRESS_PALATINE_VN_CAP:1 "Ïº¡°³½ ±´®¿µ¥´ª°½" #GetTitleVN_CAP
+ ELECTRESS_PR_CAP:1 "³´½²ª°" #GetTitleConsortPR_CAP
+ ELECTRESS_RD_CAP:1 "³´½²ª°º" #GetTitleConsortRD_CAP
+ ELECTRESS_TV_CAP:1 "³´½²ª°þ" #GetTitleConsortTV_CAP
+ ELECTRESS_VN_CAP:1 "³´½²ª°³" #GetTitleConsortVN_CAP
+ EMIRA_DT_CAP:1 "™¯ª" #GetTitleDT_CAP
+ EMIRA_IM_CAP:1 "™¯ª" #GetTitleIM_CAP
+ EMIRA_PR_CAP:1 "™¯ª" #GetTitlePR_CAP
+ EMIRA_RD_CAP:1 "™¯ªº" #GetTitleRD_CAP
+ EMIRA_TV_CAP:1 "™¯ªþ" #GetTitleTV_CAP
+ EMIRA_VN_CAP:1 "™¯ª³" #GetTitleVN_CAP
+ EMIR_CONSORT_DT_CAP:1 "™¯ª³-¬°²³" #GetTitleConsortDT_CAP
+ EMIR_CONSORT_IM_CAP:1 "™¯ª-¬°²" #GetTitleConsortIM_CAP
+ EMIR_CONSORT_PR_CAP:1 "™¯ª-¬°²" #GetTitleConsortPR_CAP
+ EMIR_CONSORT_RD_CAP:1 "™¯ª-¬°²" #GetTitleConsortRD_CAP
+ EMIR_CONSORT_TV_CAP:1 "™¯ª¯-¬°²¯" #GetTitleConsortTV_CAP
+ EMIR_CONSORT_VN_CAP:1 "™¯ª-¬°²" #GetTitleConsortVN_CAP
+ EMIR_DT_CAP:1 "™¯ª³" #GetTitleDT_CAP
+ EMIR_IM_CAP:1 "™¯ª" #GetTitleIM_CAP
+ EMIR_PR_CAP:1 "™¯ª" #GetTitlePR_CAP
+ EMIR_RD_CAP:1 "™¯ª" #GetTitleRD_CAP
+ EMIR_TV_CAP:1 "™¯ª¯" #GetTitleTV_CAP
+ EMIR_VN_CAP:1 "™¯ª" #GetTitleVN_CAP
+ EMPEROR_CONSORT_DT_CAP:1 "†¯±²³-¬°²³" #GetTitleConsortDT_CAP
+ EMPEROR_CONSORT_IM_CAP:1 "†¯±²-¬°²" #GetTitleConsortIM_CAP
+ EMPEROR_CONSORT_PR_CAP:1 "†¯±²-¬°²" #GetTitleConsortPR_CAP
+ EMPEROR_CONSORT_RD_CAP:1 "†¯±²-¬°²" #GetTitleConsortRD_CAP
+ EMPEROR_CONSORT_TV_CAP:1 "†¯±²¯-¬°²¯" #GetTitleConsortTV_CAP
+ EMPEROR_CONSORT_VN_CAP:1 "†¯±²-¬°²" #GetTitleConsortVN_CAP
+ EMPEROR_DT_CAP:1 "†¯±²³" #GetTitleDT_CAP
+ EMPEROR_IM_CAP:1 "†¯±²" #GetTitleIM_CAP
+ EMPEROR_PR_CAP:1 "†¯±²" #GetTitlePR_CAP
+ EMPEROR_RD_CAP:1 "†¯±²" #GetTitleRD_CAP
+ EMPEROR_TV_CAP:1 "†¯±²¯" #GetTitleTV_CAP
+ EMPEROR_VN_CAP:1 "†¯±²" #GetTitleVN_CAP
+ EMPRESS_CONSORT_DT_CAP:1 "†¯±²ªµ-¬°²³" #GetTitleConsortDT_CAP
+ EMPRESS_CONSORT_IM_CAP:1 "†¯±²ªµ-¬°²" #GetTitleConsortIM_CAP
+ EMPRESS_CONSORT_PR_CAP:1 "†¯±²ªµ-¬°²" #GetTitleConsortPR_CAP
+ EMPRESS_CONSORT_RD_CAP:1 "†¯±²ªµº-¬°²" #GetTitleConsortRD_CAP
+ EMPRESS_CONSORT_TV_CAP:1 "†¯±²ªµþ-¬°²¯" #GetTitleConsortTV_CAP
+ EMPRESS_CONSORT_VN_CAP:1 "†¯±²ªµ³-¬°²" #GetTitleConsortVN_CAP
+ EMPRESS_DT_CAP:1 "†¯±²ªµ" #GetTitleDT_CAP
+ EMPRESS_IM_CAP:1 "†¯±²ªµ" #GetTitleIM_CAP
+ EMPRESS_PR_CAP:1 "†¯±²ªµ" #GetTitlePR_CAP
+ EMPRESS_RD_CAP:1 "†¯±²ªµº" #GetTitleRD_CAP
+ EMPRESS_TV_CAP:1 "†¯±²ªµþ" #GetTitleTV_CAP
+ EMPRESS_VN_CAP:1 "†¯±²ªµ³" #GetTitleVN_CAP
+ FAAMA_DT_CAP:1 "Ê¯³" #GetTitleDT_CAP
+ FAAMA_IM_CAP:1 "Ê¯" #GetTitleIM_CAP
+ FAAMA_PR_CAP:1 "Ê¯" #GetTitlePR_CAP
+ FAAMA_RD_CAP:1 "Ê¯º" #GetTitleRD_CAP
+ FAAMA_TV_CAP:1 "Ê¯¯" #GetTitleTV_CAP
+ FAAMA_VN_CAP:1 "Ê¯º" #GetTitleVN_CAP
+ FIELD_MARSHAL_DT_CAP:1 "Ê®¿¦¯Œ®³" #GetTitleDT_CAP
+ FIELD_MARSHAL_IM_CAP:1 "Ê®¿¦¯Œ®" #GetTitleIM_CAP
+ FIELD_MARSHAL_PR_CAP:1 "Ê®¿¦¯Œ®" #GetTitlePR_CAP
+ FIELD_MARSHAL_RD_CAP:1 "Ê®¿¦¯Œ®" #GetTitleRD_CAP
+ FIELD_MARSHAL_TV_CAP:1 "Ê®¿¦¯Œ®¯" #GetTitleTV_CAP
+ FIELD_MARSHAL_VN_CAP:1 "Ê®¿¦¯Œ®" #GetTitleVN_CAP
+ FIELD_MARSHAL_fem_DT_CAP:1 "Ê®¿¦¯Œ®³" #GetTitleDT_CAP
+ FIELD_MARSHAL_fem_IM_CAP:1 "Ê®¿¦¯Œ®" #GetTitleIM_CAP
+ FIELD_MARSHAL_fem_PR_CAP:1 "Ê®¿¦¯Œ®" #GetTitlePR_CAP
+ FIELD_MARSHAL_fem_RD_CAP:1 "Ê®¿¦¯Œ®" #GetTitleRD_CAP
+ FIELD_MARSHAL_fem_TV_CAP:1 "Ê®¿¦¯Œ®¯" #GetTitleTV_CAP
+ FIELD_MARSHAL_fem_VN_CAP:1 "Ê®¿¦¯Œ®" #GetTitleVN_CAP
+ FILOHANY_DT_CAP:1 "Êª®°" #GetTitleDT_CAP
+ FILOHANY_IM_CAP:1 "Êª®°" #GetTitleIM_CAP
+ FILOHANY_PR_CAP:1 "Êª®°" #GetTitlePR_CAP
+ FILOHANY_RD_CAP:1 "Êª®°º" #GetTitleRD_CAP
+ FILOHANY_TV_CAP:1 "Êª®°¯" #GetTitleTV_CAP
+ FILOHANY_VN_CAP:1 "Êª®°º" #GetTitleVN_CAP
+ FIRST_LAWSPEAKER_DT_CAP:1 "ÏºŒ¯³ ©¬°¥¢ª²®½" #GetTitleDT_CAP
+ FIRST_LAWSPEAKER_IM_CAP:1 "ÏºŒªþ ©¬°¥¢ª²®¿" #GetTitleIM_CAP
+ FIRST_LAWSPEAKER_PR_CAP:1 "ÏºŒ¯ ©¬°¥¢ª²®" #GetTitlePR_CAP
+ FIRST_LAWSPEAKER_RD_CAP:1 "ÏºŒ¥ ©¬°¥¢ª²®¾" #GetTitleRD_CAP
+ FIRST_LAWSPEAKER_TV_CAP:1 "ÏºŒª¯ ©¬°¥¢ª²®¯" #GetTitleTV_CAP
+ FIRST_LAWSPEAKER_VN_CAP:1 "ÏºŒ¥ ©¬°¥¢ª²®¾" #GetTitleVN_CAP
+ FIRST_LAWSPEAKER_fem_DT_CAP:1 "ÏºŒ¯³ ©¬°¥¢ª²®½" #GetTitleDT_CAP
+ FIRST_LAWSPEAKER_fem_IM_CAP:1 "ÏºŒªþ ©¬°¥¢ª²®¿" #GetTitleIM_CAP
+ FIRST_LAWSPEAKER_fem_PR_CAP:1 "ÏºŒ¯ ©¬°¥¢ª²®" #GetTitlePR_CAP
+ FIRST_LAWSPEAKER_fem_RD_CAP:1 "ÏºŒ¥ ©¬°¥¢ª²®¾" #GetTitleRD_CAP
+ FIRST_LAWSPEAKER_fem_TV_CAP:1 "ÏºŒª¯ ©¬°¥¢ª²®¯" #GetTitleTV_CAP
+ FIRST_LAWSPEAKER_fem_VN_CAP:1 "ÏºŒ¥ ©¬°¥¢ª²®¾" #GetTitleVN_CAP
+ FIRST_RANGER_DT_CAP:1 "ˆ¦³-þ°¦¨³" #GetTitleDT_CAP
+ FIRST_RANGER_IM_CAP:1 "ˆ¦-þ°¦¨" #GetTitleIM_CAP
+ FIRST_RANGER_PR_CAP:1 "ˆ¦-þ°¦¨" #GetTitlePR_CAP
+ FIRST_RANGER_RD_CAP:1 "ˆ¦-þ°¦¨" #GetTitleRD_CAP
+ FIRST_RANGER_TV_CAP:1 "ˆ¦¯-þ°¦¨¯" #GetTitleTV_CAP
+ FIRST_RANGER_VN_CAP:1 "ˆ¦-þ°¦¨" #GetTitleVN_CAP
+ FIRST_RANGER_fem_DT_CAP:1 "ˆ¦ª-þ°¦¨³" #GetTitleDT_CAP
+ FIRST_RANGER_fem_IM_CAP:1 "ˆ¦ª-þ°¦¨" #GetTitleIM_CAP
+ FIRST_RANGER_fem_PR_CAP:1 "ˆ¦ª-þ°¦¨" #GetTitlePR_CAP
+ FIRST_RANGER_fem_RD_CAP:1 "ˆ¦ª-þ°¦¨" #GetTitleRD_CAP
+ FIRST_RANGER_fem_TV_CAP:1 "ˆ¦ª-þ°¦¨¯" #GetTitleTV_CAP
+ FIRST_RANGER_fem_VN_CAP:1 "ˆ¦ª-þ°¦¨" #GetTitleVN_CAP
+ GEGE_DT_CAP:1 "‚¼¥¼" #GetTitleDT_CAP
+ GEGE_IM_CAP:1 "‚¼¥¼" #GetTitleIM_CAP
+ GEGE_PR_CAP:1 "‚¼¥¼" #GetTitlePR_CAP
+ GEGE_RD_CAP:1 "‚¼¥¼" #GetTitleRD_CAP
+ GEGE_TV_CAP:1 "‚¼¥¼" #GetTitleTV_CAP
+ GEGE_VN_CAP:1 "‚¼¥¼" #GetTitleVN_CAP
+ GERAD_DT_CAP:1 "‚¦³" #GetTitleDT_CAP
+ GERAD_IM_CAP:1 "‚¦" #GetTitleIM_CAP
+ GERAD_PR_CAP:1 "‚¦" #GetTitlePR_CAP
+ GERAD_RD_CAP:1 "‚¦" #GetTitleRD_CAP
+ GERAD_TV_CAP:1 "‚¦¯" #GetTitleTV_CAP
+ GERAD_VN_CAP:1 "‚¦" #GetTitleVN_CAP
+ GONFALONIERE_DT_CAP:1 "‚°´®°¿³" #GetTitleDT_CAP
+ GONFALONIERE_IM_CAP:1 "‚°´®°¿" #GetTitleIM_CAP
+ GONFALONIERE_PR_CAP:1 "‚°´®°¿" #GetTitlePR_CAP
+ GONFALONIERE_RD_CAP:1 "‚°´®°¿" #GetTitleRD_CAP
+ GONFALONIERE_TV_CAP:1 "‚°´®°¿¯" #GetTitleTV_CAP
+ GONFALONIERE_VN_CAP:1 "‚°´®°¿" #GetTitleVN_CAP
+ GONFALONIERE_fem_DT_CAP:1 "‚°´®°¿" #GetTitleDT_CAP
+ GONFALONIERE_fem_IM_CAP:1 "‚°´®°¿" #GetTitleIM_CAP
+ GONFALONIERE_fem_PR_CAP:1 "‚°´®°¿" #GetTitlePR_CAP
+ GONFALONIERE_fem_RD_CAP:1 "‚°´®°¿º" #GetTitleRD_CAP
+ GONFALONIERE_fem_TV_CAP:1 "‚°´®°¿þ" #GetTitleTV_CAP
+ GONFALONIERE_fem_VN_CAP:1 "‚°´®°¿" #GetTitleVN_CAP
+ GOVERNESS_DT_CAP:1 "‚³¡°²³" #GetTitleDT_CAP
+ GOVERNESS_IM_CAP:1 "‚³¡°²" #GetTitleIM_CAP
+ GOVERNESS_PR_CAP:1 "‚³¡°²" #GetTitlePR_CAP
+ GOVERNESS_RD_CAP:1 "‚³¡°²" #GetTitleRD_CAP
+ GOVERNESS_TV_CAP:1 "‚³¡°²¯" #GetTitleTV_CAP
+ GOVERNESS_VN_CAP:1 "‚³¡°²" #GetTitleVN_CAP
+ GOVERNOR_DT_CAP:1 "‚³¡°²³" #GetTitleDT_CAP
+ GOVERNOR_IM_CAP:1 "‚³¡°²" #GetTitleIM_CAP
+ GOVERNOR_PR_CAP:1 "‚³¡°²" #GetTitlePR_CAP
+ GOVERNOR_RD_CAP:1 "‚³¡°²" #GetTitleRD_CAP
+ GOVERNOR_TV_CAP:1 "‚³¡°²¯" #GetTitleTV_CAP
+ GOVERNOR_VN_CAP:1 "‚³¡°²" #GetTitleVN_CAP
+ GRANDVIZIER_DT_CAP:1 "Ï®ª¬¯³ ¢ª©ª½" #GetTitleDT_CAP
+ GRANDVIZIER_IM_CAP:1 "Ï®ª¬ªþ ¢ª©ª¿" #GetTitleIM_CAP
+ GRANDVIZIER_PR_CAP:1 "Ï®ª¬¯ ¢ª©ª" #GetTitlePR_CAP
+ GRANDVIZIER_RD_CAP:1 "Ï®ª¬¥ ¢ª©ª¾" #GetTitleRD_CAP
+ GRANDVIZIER_TV_CAP:1 "Ï®ª¬ª¯ ¢ª©ª¯" #GetTitleTV_CAP
+ GRANDVIZIER_VN_CAP:1 "Ï®ª¬¥ ¢ª©ª¾" #GetTitleVN_CAP
+ GRANDVIZIER_fem_DT_CAP:0 "Ï®ª¬¯³ ¢ª©ª½" #GetTitleDT_CAP
+ GRANDVIZIER_fem_IM_CAP:0 "Ï®ª¬ªþ ¢ª©ª¿" #GetTitleIM_CAP
+ GRANDVIZIER_fem_PR_CAP:0 "Ï®ª¬¯ ¢ª©ª" #GetTitlePR_CAP
+ GRANDVIZIER_fem_RD_CAP:0 "Ï®ª¬¥ ¢ª©ª¾" #GetTitleRD_CAP
+ GRANDVIZIER_fem_TV_CAP:0 "Ï®ª¬ª¯ ¢ª©ª¯" #GetTitleTV_CAP
+ GRANDVIZIER_fem_VN_CAP:0 "Ï®ª¬¥ ¢ª©ª¾" #GetTitleVN_CAP
+ GRAND_ADMIRAL_DT_CAP:1 "‚°¦-¦¯ª®³" #GetTitleDT_CAP
+ GRAND_ADMIRAL_IM_CAP:1 "‚°¦-¦¯ª®" #GetTitleIM_CAP
+ GRAND_ADMIRAL_PR_CAP:1 "‚°¦-¦¯ª®" #GetTitlePR_CAP
+ GRAND_ADMIRAL_RD_CAP:1 "‚°¦-¦¯ª®" #GetTitleRD_CAP
+ GRAND_ADMIRAL_TV_CAP:1 "‚°¦-¦¯ª®¯" #GetTitleTV_CAP
+ GRAND_ADMIRAL_VN_CAP:1 "‚°¦-¦¯ª®" #GetTitleVN_CAP
+ GRAND_ANDRIANONI_DT_CAP:1 "Ï®ª¬¯³ °¦ª°°ª" #GetTitleDT_CAP
+ GRAND_ANDRIANONI_IM_CAP:1 "Ï®ª¬ªþ °¦ª°°ª" #GetTitleIM_CAP
+ GRAND_ANDRIANONI_PR_CAP:1 "Ï®ª¬¯ °¦ª°°ª" #GetTitlePR_CAP
+ GRAND_ANDRIANONI_RD_CAP:1 "Ï®ª¬¥ °¦ª°°ª" #GetTitleRD_CAP
+ GRAND_ANDRIANONI_TV_CAP:1 "Ï®ª¬ª¯ °¦ª°°ª" #GetTitleTV_CAP
+ GRAND_ANDRIANONI_VN_CAP:1 "Ï®ª¬¥ °¦ª°°ª" #GetTitleVN_CAP
+ GRAND_CAPTAIN_DT_CAP:1 "‚°¦-¬±ª²°³" #GetTitleDT_CAP
+ GRAND_CAPTAIN_IM_CAP:1 "‚°¦-¬±ª²°" #GetTitleIM_CAP
+ GRAND_CAPTAIN_PR_CAP:1 "‚°¦-¬±ª²°" #GetTitlePR_CAP
+ GRAND_CAPTAIN_RD_CAP:1 "‚°¦-¬±ª²°" #GetTitleRD_CAP
+ GRAND_CAPTAIN_TV_CAP:1 "‚°¦-¬±ª²°¯" #GetTitleTV_CAP
+ GRAND_CAPTAIN_VN_CAP:1 "‚°¦-¬±ª²°" #GetTitleVN_CAP
+ GRAND_CAPTAIN_fem_DT_CAP:1 "‚°¦-¬±ª²°³" #GetTitleDT_CAP
+ GRAND_CAPTAIN_fem_IM_CAP:1 "‚°¦-¬±ª²°" #GetTitleIM_CAP
+ GRAND_CAPTAIN_fem_PR_CAP:1 "‚°¦-¬±ª²°" #GetTitlePR_CAP
+ GRAND_CAPTAIN_fem_RD_CAP:1 "‚°¦-¬±ª²°" #GetTitleRD_CAP
+ GRAND_CAPTAIN_fem_TV_CAP:1 "‚°¦-¬±ª²°¯" #GetTitleTV_CAP
+ GRAND_CAPTAIN_fem_VN_CAP:1 "‚°¦-¬±ª²°" #GetTitleVN_CAP
+ GRAND_CONSULESS_DT_CAP:1 "‚®¢°¯³ ¬°³®³" #GetTitleDT_CAP
+ GRAND_CONSULESS_ELECTOR_DT_CAP:1 "Ï®ª¬þ ¬°³®-¬³´½²ª°" #GetTitleDT_CAP
+ GRAND_CONSULESS_ELECTOR_IM_CAP:1 "Ï®ª¬¾ ¬°³®-¬³´½²ª°" #GetTitleIM_CAP
+ GRAND_CONSULESS_ELECTOR_PR_CAP:1 "Ï®ª¬þ ¬°³®-¬³´½²ª°" #GetTitlePR_CAP
+ GRAND_CONSULESS_ELECTOR_RD_CAP:1 "Ï®ª¬þ ¬°³®-¬³´½²ª°º" #GetTitleRD_CAP
+ GRAND_CONSULESS_ELECTOR_TV_CAP:1 "Ï®ª¬þ ¬°³®-¬³´½²ª°þ" #GetTitleTV_CAP
+ GRAND_CONSULESS_ELECTOR_VN_CAP:1 "Ï®ª¬³½ ¬°³®-¬³´½²ª°³" #GetTitleVN_CAP
+ GRAND_CONSULESS_IM_CAP:1 "‚®¢°ºþ ¬°³®" #GetTitleIM_CAP
+ GRAND_CONSULESS_PR_CAP:1 "‚®¢°¯ ¬°³®" #GetTitlePR_CAP
+ GRAND_CONSULESS_RD_CAP:1 "‚®¢°¥ ¬°³®" #GetTitleRD_CAP
+ GRAND_CONSULESS_TV_CAP:1 "‚®¢°º¯ ¬°³®¯" #GetTitleTV_CAP
+ GRAND_CONSULESS_VN_CAP:1 "‚®¢°¥ ¬°³®" #GetTitleVN_CAP
+ GRAND_CONSUL_DT_CAP:1 "‚®¢°¯³ ¬°³®³" #GetTitleDT_CAP
+ GRAND_CONSUL_ELECTOR_DT_CAP:1 "Ï®ª¬¯³ ¬°³®³-¬³´½²³" #GetTitleDT_CAP
+ GRAND_CONSUL_ELECTOR_IM_CAP:1 "Ï®ª¬ªþ ¬°³®-¬³´½²" #GetTitleIM_CAP
+ GRAND_CONSUL_ELECTOR_PR_CAP:1 "Ï®ª¬¯ ¬°³®-¬³´½²" #GetTitlePR_CAP
+ GRAND_CONSUL_ELECTOR_RD_CAP:1 "Ï®ª¬¥ ¬°³®-¬³´½²" #GetTitleRD_CAP
+ GRAND_CONSUL_ELECTOR_TV_CAP:1 "Ï®ª¬ª¯ ¬°³®¯-¬³´½²¯" #GetTitleTV_CAP
+ GRAND_CONSUL_ELECTOR_VN_CAP:1 "Ï®ª¬¥ ¬°³®-¬³´½²" #GetTitleVN_CAP
+ GRAND_CONSUL_IM_CAP:1 "‚®¢°ºþ ¬°³®" #GetTitleIM_CAP
+ GRAND_CONSUL_PR_CAP:1 "‚®¢°¯ ¬°³®" #GetTitlePR_CAP
+ GRAND_CONSUL_RD_CAP:1 "‚®¢°¥ ¬°³®" #GetTitleRD_CAP
+ GRAND_CONSUL_TV_CAP:1 "‚®¢°º¯ ¬°³®¯" #GetTitleTV_CAP
+ GRAND_CONSUL_VN_CAP:1 "‚®¢°¥ ¬°³®" #GetTitleVN_CAP
+ GRAND_COUNCILOR_DT_CAP:1 "Ï®ª¬¯³ ¢²°ª¬³" #GetTitleDT_CAP
+ GRAND_COUNCILOR_IM_CAP:1 "Ï®ª¬ªþ ¢²°ª¬" #GetTitleIM_CAP
+ GRAND_COUNCILOR_PR_CAP:1 "Ï®ª¬¯ ¢²°ª¬" #GetTitlePR_CAP
+ GRAND_COUNCILOR_RD_CAP:1 "Ï®ª¬¥ ¢²°ª¬" #GetTitleRD_CAP
+ GRAND_COUNCILOR_TV_CAP:1 "Ï®ª¬ª¯ ¢²°ª¬¯" #GetTitleTV_CAP
+ GRAND_COUNCILOR_VN_CAP:1 "Ï®ª¬¥ ¢²°ª¬" #GetTitleVN_CAP
+ GRAND_COUNCILOR_fem_DT_CAP:1 "Ï®ª¬¯³ ¢²°ª¬³" #GetTitleDT_CAP
+ GRAND_COUNCILOR_fem_IM_CAP:1 "Ï®ª¬ªþ ¢²°ª¬" #GetTitleIM_CAP
+ GRAND_COUNCILOR_fem_PR_CAP:1 "Ï®ª¬¯ ¢²°ª¬" #GetTitlePR_CAP
+ GRAND_COUNCILOR_fem_RD_CAP:1 "Ï®ª¬¥ ¢²°ª¬" #GetTitleRD_CAP
+ GRAND_COUNCILOR_fem_TV_CAP:1 "Ï®ª¬ª¯ ¢²°ª¬¯" #GetTitleTV_CAP
+ GRAND_COUNCILOR_fem_VN_CAP:1 "Ï®ª¬¥ ¢²°ª¬" #GetTitleVN_CAP
+ GRAND_DUCHESS_DT_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitleDT_CAP
+ GRAND_DUCHESS_IM_CAP:1 "Ï®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM_CAP
+ GRAND_DUCHESS_PR_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitlePR_CAP
+ GRAND_DUCHESS_RD_CAP:1 "Ï®ª¬þ ¬°¾¥ª°ª" #GetTitleRD_CAP
+ GRAND_DUCHESS_TV_CAP:1 "Ï®ª¬þ ¬°¾¥ª°þ" #GetTitleTV_CAP
+ GRAND_DUCHESS_VN_CAP:1 "Ï®ª¬³½ ¬°¾¥ª°½" #GetTitleVN_CAP
+ GRAND_DUKE_CONSORT_DT_CAP:1 "Ï®ª¬¯³ ¬°¾©½-¬°²³" #GetTitleConsortDT_CAP
+ GRAND_DUKE_CONSORT_IM_CAP:1 "Ï®ª¬ªþ ¬°¾©¿-¬°²" #GetTitleConsortIM_CAP
+ GRAND_DUKE_CONSORT_PR_CAP:1 "Ï®ª¬¯ ¬°¾©-¬°²" #GetTitleConsortPR_CAP
+ GRAND_DUKE_CONSORT_RD_CAP:1 "Ï®ª¬¥ ¬°¾©¾-¬°²" #GetTitleConsortRD_CAP
+ GRAND_DUKE_CONSORT_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾©¯-¬°²¯" #GetTitleConsortTV_CAP
+ GRAND_DUKE_CONSORT_VN_CAP:1 "Ï®ª¬¥ ¬°¾©¾-¬°²" #GetTitleConsortVN_CAP
+ GRAND_DUKE_DT_CAP:1 "Ï®ª¬¯³ ¬°¾©½" #GetTitleDT_CAP
+ GRAND_DUKE_IM_CAP:1 "Ï®ª¬ªþ ¬°¾©¿" #GetTitleIM_CAP
+ GRAND_DUKE_PR_CAP:1 "Ï®ª¬¯ ¬°¾©" #GetTitlePR_CAP
+ GRAND_DUKE_RD_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleRD_CAP
+ GRAND_DUKE_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾©¯" #GetTitleTV_CAP
+ GRAND_DUKE_VN_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleVN_CAP
+ GRAND_JAM_DT_CAP:1 "€®¿Œ¯³ ¦¨¯³" #GetTitleDT_CAP
+ GRAND_JAM_IM_CAP:1 "€®¿Œªþ ¦¨¯" #GetTitleIM_CAP
+ GRAND_JAM_PR_CAP:1 "€®¿Œ¯ ¦¨¯" #GetTitlePR_CAP
+ GRAND_JAM_RD_CAP:1 "€®¿Œ¥ ¦¨¯" #GetTitleRD_CAP
+ GRAND_JAM_TV_CAP:1 "€®¿Œª¯ ¦¨¯¯" #GetTitleTV_CAP
+ GRAND_JAM_VN_CAP:1 "€®¿Œ¥ ¦¨¯³" #GetTitleVN_CAP
+ GRAND_JAM_fem_DT_CAP:1 "€®¿Œþ ¦¨¯" #GetTitleDT_CAP
+ GRAND_JAM_fem_IM_CAP:1 "€®¿Œ¾ ¦¨¯" #GetTitleIM_CAP
+ GRAND_JAM_fem_PR_CAP:1 "€®¿Œþ ¦¨¯" #GetTitlePR_CAP
+ GRAND_JAM_fem_RD_CAP:1 "€®¿Œþ ¦¨¯º" #GetTitleRD_CAP
+ GRAND_JAM_fem_TV_CAP:1 "€®¿Œþ ¦¨¯þ" #GetTitleTV_CAP
+ GRAND_JAM_fem_VN_CAP:1 "€®¿Œ³½ ¦¨¯" #GetTitleVN_CAP
+ GRAND_KNIAGINIA_DT_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitleDT_CAP
+ GRAND_KNIAGINIA_IM_CAP:1 "Ï®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM_CAP
+ GRAND_KNIAGINIA_PR_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitlePR_CAP
+ GRAND_KNIAGINIA_RD_CAP:1 "Ï®ª¬þ ¬°¾¥ª°ª" #GetTitleRD_CAP
+ GRAND_KNIAGINIA_TV_CAP:1 "Ï®ª¬þ ¬°¾¥ª°þ" #GetTitleTV_CAP
+ GRAND_KNIAGINIA_VN_CAP:1 "Ï®ª¬³½ ¬°¾¥ª°½" #GetTitleVN_CAP
+ GRAND_KNIAZ_DT_CAP:1 "Ï®ª¬¯³ ¬°¾©½" #GetTitleDT_CAP
+ GRAND_KNIAZ_IM_CAP:1 "Ï®ª¬ªþ ¬°¾©¿" #GetTitleIM_CAP
+ GRAND_KNIAZ_PR_CAP:1 "Ï®ª¬¯ ¬°¾©" #GetTitlePR_CAP
+ GRAND_KNIAZ_RD_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleRD_CAP
+ GRAND_KNIAZ_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾©¯" #GetTitleTV_CAP
+ GRAND_KNIAZ_VN_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleVN_CAP
+ GRAND_MAMBO_DT_CAP:1 "Ï®ª¬¯³ ¯¯¡" #GetTitleDT_CAP
+ GRAND_MAMBO_IM_CAP:1 "Ï®ª¬ªþ ¯¯¡" #GetTitleIM_CAP
+ GRAND_MAMBO_PR_CAP:1 "Ï®ª¬¯ ¯¯¡" #GetTitlePR_CAP
+ GRAND_MAMBO_RD_CAP:1 "Ï®ª¬¥ ¯¯¡" #GetTitleRD_CAP
+ GRAND_MAMBO_TV_CAP:1 "Ï®ª¬ª¯ ¯¯¡" #GetTitleTV_CAP
+ GRAND_MAMBO_VN_CAP:1 "Ï®ª¬¥ ¯¯¡" #GetTitleVN_CAP
+ GRAND_MAMBO_fem_DT_CAP:0 "Ï®ª¬¯³ ¯¯¡" #GetTitleDT_CAP
+ GRAND_MAMBO_fem_IM_CAP:0 "Ï®ª¬ªþ ¯¯¡" #GetTitleIM_CAP
+ GRAND_MAMBO_fem_PR_CAP:0 "Ï®ª¬¯ ¯¯¡" #GetTitlePR_CAP
+ GRAND_MAMBO_fem_RD_CAP:0 "Ï®ª¬¥ ¯¯¡" #GetTitleRD_CAP
+ GRAND_MAMBO_fem_TV_CAP:0 "Ï®ª¬ª¯ ¯¯¡" #GetTitleTV_CAP
+ GRAND_MAMBO_fem_VN_CAP:0 "Ï®ª¬¥ ¯¯¡" #GetTitleVN_CAP
+ GRAND_MASTER_DT_CAP:1 "Ï®ª¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ GRAND_MASTER_IM_CAP:1 "Ï®ª¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ GRAND_MASTER_PR_CAP:1 "Ï®ª¬¯ ¯¥ª²" #GetTitlePR_CAP
+ GRAND_MASTER_RD_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleRD_CAP
+ GRAND_MASTER_TV_CAP:1 "Ï®ª¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ GRAND_MASTER_VN_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleVN_CAP
+ GRAND_MISTRESS_DT_CAP:1 "Ï®ª¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ GRAND_MISTRESS_IM_CAP:1 "Ï®ª¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ GRAND_MISTRESS_PR_CAP:1 "Ï®ª¬¯ ¯¥ª²" #GetTitlePR_CAP
+ GRAND_MISTRESS_RD_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleRD_CAP
+ GRAND_MISTRESS_TV_CAP:1 "Ï®ª¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ GRAND_MISTRESS_VN_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleVN_CAP
+ GRAND_PENSIONARY_DT_CAP:1 "Ï®ª¬¯³ ±°ª°ª½" #GetTitleDT_CAP
+ GRAND_PENSIONARY_IM_CAP:1 "Ï®ª¬ªþ ±°ª°ªþ" #GetTitleIM_CAP
+ GRAND_PENSIONARY_PR_CAP:1 "Ï®ª¬¯ ±°ª°ª" #GetTitlePR_CAP
+ GRAND_PENSIONARY_RD_CAP:1 "Ï®ª¬¥ ±°ª°ª¾" #GetTitleRD_CAP
+ GRAND_PENSIONARY_TV_CAP:1 "Ï®ª¬ª¯ ±°ª°ª¯" #GetTitleTV_CAP
+ GRAND_PENSIONARY_VN_CAP:1 "Ï®ª¬¥ ±°ª°ª¾" #GetTitleVN_CAP
+ GRAND_PENSIONARY_fem_DT_CAP:1 "Ï®ª¬¯³ ±°ª°ª½" #GetTitleDT_CAP
+ GRAND_PENSIONARY_fem_IM_CAP:1 "Ï®ª¬ªþ ±°ª°ªþ" #GetTitleIM_CAP
+ GRAND_PENSIONARY_fem_PR_CAP:1 "Ï®ª¬¯ ±°ª°ªª" #GetTitlePR_CAP
+ GRAND_PENSIONARY_fem_RD_CAP:1 "Ï®ª¬þ ±°ª°ªª" #GetTitleRD_CAP
+ GRAND_PENSIONARY_fem_TV_CAP:1 "Ï®ª¬ª¯ ±°ª°ª¯" #GetTitleTV_CAP
+ GRAND_PENSIONARY_fem_VN_CAP:1 "Ï®ª¬³½ ±°ª°ª½" #GetTitleVN_CAP
+ GRAND_POSADNIK_DT_CAP:0 "Ï®ª¬¯³ ±¦°ª¬³" #GetTitleDT_CAP
+ GRAND_POSADNIK_IM_CAP:0 "Ï®ª¬ªþ ±¦°ª¬" #GetTitleIM_CAP
+ GRAND_POSADNIK_PR_CAP:0 "Ï®ª¬¯ ±¦°ª¬" #GetTitlePR_CAP
+ GRAND_POSADNIK_RD_CAP:0 "Ï®ª¬¥ ±¦°ª¬" #GetTitleRD_CAP
+ GRAND_POSADNIK_TV_CAP:0 "Ï®ª¬ª¯ ±¦°ª¬¯" #GetTitleTV_CAP
+ GRAND_POSADNIK_VN_CAP:0 "Ï®ª¬¥ ±¦°ª¬" #GetTitleVN_CAP
+ GRAND_POSADNITSA_DT_CAP:0 "Ï®ª¬þ ±¦°ªµ" #GetTitleDT_CAP
+ GRAND_POSADNITSA_IM_CAP:0 "Ï®ª¬¾ ±¦°ªµ" #GetTitleIM_CAP
+ GRAND_POSADNITSA_PR_CAP:0 "Ï®ª¬þ ±¦°ªµ" #GetTitlePR_CAP
+ GRAND_POSADNITSA_RD_CAP:0 "Ï®ª¬þ ±¦°ªµº" #GetTitleRD_CAP
+ GRAND_POSADNITSA_TV_CAP:0 "Ï®ª¬þ ±¦°ªµþ" #GetTitleTV_CAP
+ GRAND_POSADNITSA_VN_CAP:0 "Ï®ª¬³½ ±¦°ªµ³" #GetTitleVN_CAP
+ GRAND_RABBI_DT_CAP:1 "ÏºŒ¯³ ¢¢ª°³" #GetTitleDT_CAP
+ GRAND_RABBI_IM_CAP:1 "ÏºŒªþ ¢¢ª°" #GetTitleIM_CAP
+ GRAND_RABBI_PR_CAP:1 "ÏºŒ¯ ¢¢ª°" #GetTitlePR_CAP
+ GRAND_RABBI_RD_CAP:1 "ÏºŒ¥ ¢¢ª°" #GetTitleRD_CAP
+ GRAND_RABBI_TV_CAP:1 "ÏºŒª¯ ¢¢ª°¯" #GetTitleTV_CAP
+ GRAND_RABBI_VN_CAP:1 "ÏºŒ¥ ¢¢ª°" #GetTitleVN_CAP
+ GRAND_RECTORA_DT_CAP:1 "‚®¢°¯³ ¬²³" #GetTitleDT_CAP
+ GRAND_RECTORA_IM_CAP:1 "‚®¢°ºþ ¬²" #GetTitleIM_CAP
+ GRAND_RECTORA_PR_CAP:1 "‚®¢°¯ ¬²" #GetTitlePR_CAP
+ GRAND_RECTORA_RD_CAP:1 "‚®¢°¥ ¬²" #GetTitleRD_CAP
+ GRAND_RECTORA_TV_CAP:1 "‚®¢°º¯ ¬²¯" #GetTitleTV_CAP
+ GRAND_RECTORA_VN_CAP:1 "‚®¢°¥ ¬²" #GetTitleVN_CAP
+ GRAND_RECTOR_DT_CAP:1 "‚®¢°¯³ ¬²³" #GetTitleDT_CAP
+ GRAND_RECTOR_IM_CAP:1 "‚®¢°ºþ ¬²" #GetTitleIM_CAP
+ GRAND_RECTOR_PR_CAP:1 "‚®¢°¯ ¬²" #GetTitlePR_CAP
+ GRAND_RECTOR_RD_CAP:1 "‚®¢°¥ ¬²" #GetTitleRD_CAP
+ GRAND_RECTOR_TV_CAP:1 "‚®¢°º¯ ¬²¯" #GetTitleTV_CAP
+ GRAND_RECTOR_VN_CAP:1 "‚®¢°¥ ¬²" #GetTitleVN_CAP
+ GRAND_SHARIFA_DT_CAP:1 "Ï®ª¬þ Œª´" #GetTitleDT_CAP
+ GRAND_SHARIFA_IM_CAP:1 "Ï®ª¬¾ Œª´" #GetTitleIM_CAP
+ GRAND_SHARIFA_PR_CAP:1 "Ï®ª¬þ Œª´" #GetTitlePR_CAP
+ GRAND_SHARIFA_RD_CAP:1 "Ï®ª¬þ Œª´º" #GetTitleRD_CAP
+ GRAND_SHARIFA_TV_CAP:1 "Ï®ª¬þ Œª´þ" #GetTitleTV_CAP
+ GRAND_SHARIFA_VN_CAP:1 "Ï®ª¬³½ Œª´³" #GetTitleVN_CAP
+ GRAND_SHARIF_DT_CAP:1 "Ï®ª¬¯³ Œª´³" #GetTitleDT_CAP
+ GRAND_SHARIF_IM_CAP:1 "Ï®ª¬ªþ Œª´" #GetTitleIM_CAP
+ GRAND_SHARIF_PR_CAP:1 "Ï®ª¬¯ Œª´" #GetTitlePR_CAP
+ GRAND_SHARIF_RD_CAP:1 "Ï®ª¬¥ Œª´" #GetTitleRD_CAP
+ GRAND_SHARIF_TV_CAP:1 "Ï®ª¬ª¯ Œª´¯" #GetTitleTV_CAP
+ GRAND_SHARIF_VN_CAP:1 "Ï®ª¬¥ Œª´" #GetTitleVN_CAP
+ GRAND_SYNDIC_DT_CAP:1 "Ï®ª¬¯³ ª°¦ª¬³" #GetTitleDT_CAP
+ GRAND_SYNDIC_IM_CAP:1 "Ï®ª¬ªþ ª°¦ª¬" #GetTitleIM_CAP
+ GRAND_SYNDIC_PR_CAP:1 "Ï®ª¬¯ ª°¦ª¬" #GetTitlePR_CAP
+ GRAND_SYNDIC_RD_CAP:1 "Ï®ª¬¥ ª°¦ª¬" #GetTitleRD_CAP
+ GRAND_SYNDIC_TV_CAP:1 "Ï®ª¬ª¯ ª°¦ª¬¯" #GetTitleTV_CAP
+ GRAND_SYNDIC_VN_CAP:1 "Ï®ª¬¥ ª°¦ª¬" #GetTitleVN_CAP
+ GRAND_SYNDIC_fem_DT_CAP:1 "Ï®ª¬¯³ ª°¦ª¬³" #GetTitleDT_CAP
+ GRAND_SYNDIC_fem_IM_CAP:1 "Ï®ª¬ªþ ª°¦ª¬" #GetTitleIM_CAP
+ GRAND_SYNDIC_fem_PR_CAP:1 "Ï®ª¬¯ ª°¦ª¬" #GetTitlePR_CAP
+ GRAND_SYNDIC_fem_RD_CAP:1 "Ï®ª¬¥ ª°¦ª¬" #GetTitleRD_CAP
+ GRAND_SYNDIC_fem_TV_CAP:1 "Ï®ª¬ª¯ ª°¦ª¬¯" #GetTitleTV_CAP
+ GRAND_SYNDIC_fem_VN_CAP:1 "Ï®ª¬¥ ª°¦ª¬" #GetTitleVN_CAP
+ GREAT_ANDRIANONI_DT_CAP:1 "Ï¢°¯³ °¦ª°°ª" #GetTitleDT_CAP
+ GREAT_ANDRIANONI_IM_CAP:1 "Ï¢°ºþ °¦ª°°ª" #GetTitleIM_CAP
+ GREAT_ANDRIANONI_PR_CAP:1 "Ï¢°¯ °¦ª°°ª" #GetTitlePR_CAP
+ GREAT_ANDRIANONI_RD_CAP:1 "Ï¢°¥ °¦ª°°ª" #GetTitleRD_CAP
+ GREAT_ANDRIANONI_TV_CAP:1 "Ï¢°º¯ °¦ª°°ª" #GetTitleTV_CAP
+ GREAT_ANDRIANONI_VN_CAP:1 "Ï¢°¥ °¦ª°°ª" #GetTitleVN_CAP
+ GREAT_CONSULESS_DT_CAP:1 "Ï®ª¬¯³ ¬°³®³" #GetTitleDT_CAP
+ GREAT_CONSULESS_ELECTOR_DT_CAP:1 "Ï®ª¶þŒþ ¬°³®-¬³´½²ª°" #GetTitleDT_CAP
+ GREAT_CONSULESS_ELECTOR_IM_CAP:1 "Ï®ª¶þŒ¾ ¬°³®-¬³´½²ª°" #GetTitleIM_CAP
+ GREAT_CONSULESS_ELECTOR_PR_CAP:1 "Ï®ª¶þŒþ ¬°³®-¬³´½²ª°" #GetTitlePR_CAP
+ GREAT_CONSULESS_ELECTOR_RD_CAP:1 "Ï®ª¶þŒþ ¬°³®-¬³´½²ª°º" #GetTitleRD_CAP
+ GREAT_CONSULESS_ELECTOR_TV_CAP:1 "Ï®ª¶þŒþ ¬°³®-¬³´½²ª°þ" #GetTitleTV_CAP
+ GREAT_CONSULESS_ELECTOR_VN_CAP:1 "Ï®ª¶þŒ³½ ¬°³®-¬³´½²ª°³" #GetTitleVN_CAP
+ GREAT_CONSULESS_IM_CAP:1 "Ï®ª¬ªþ ¬°³®" #GetTitleIM_CAP
+ GREAT_CONSULESS_PR_CAP:1 "Ï®ª¬¯ ¬°³®" #GetTitlePR_CAP
+ GREAT_CONSULESS_RD_CAP:1 "Ï®ª¬¥ ¬°³®" #GetTitleRD_CAP
+ GREAT_CONSULESS_TV_CAP:1 "Ï®ª¬ª¯ ¬°³®¯" #GetTitleTV_CAP
+ GREAT_CONSULESS_VN_CAP:1 "Ï®ª¬¥ ¬°³®" #GetTitleVN_CAP
+ GREAT_CONSUL_DT_CAP:1 "Ï®ª¬¯³ ¬°³®³" #GetTitleDT_CAP
+ GREAT_CONSUL_ELECTOR_DT_CAP:1 "Ï®ª¶þŒ¯³ ¬°³®³-¬³´½²³" #GetTitleDT_CAP
+ GREAT_CONSUL_ELECTOR_IM_CAP:1 "Ï®ª¶þŒªþ ¬°³®-¬³´½²" #GetTitleIM_CAP
+ GREAT_CONSUL_ELECTOR_PR_CAP:1 "Ï®ª¶þŒ¯ ¬°³®-¬³´½²" #GetTitlePR_CAP
+ GREAT_CONSUL_ELECTOR_RD_CAP:1 "Ï®ª¶þŒ¥ ¬°³®-¬³´½²" #GetTitleRD_CAP
+ GREAT_CONSUL_ELECTOR_TV_CAP:1 "Ï®ª¶þŒª¯ ¬°³®¯-¬³´½²¯" #GetTitleTV_CAP
+ GREAT_CONSUL_ELECTOR_VN_CAP:1 "Ï®ª¶þŒ¥ ¬°³®-¬³´½²" #GetTitleVN_CAP
+ GREAT_CONSUL_IM_CAP:1 "Ï®ª¬ªþ ¬°³®" #GetTitleIM_CAP
+ GREAT_CONSUL_PR_CAP:1 "Ï®ª¬¯ ¬°³®" #GetTitlePR_CAP
+ GREAT_CONSUL_RD_CAP:1 "Ï®ª¬¥ ¬°³®" #GetTitleRD_CAP
+ GREAT_CONSUL_TV_CAP:1 "Ï®ª¬ª¯ ¬°³®¯" #GetTitleTV_CAP
+ GREAT_CONSUL_VN_CAP:1 "Ï®ª¬¥ ¬°³®" #GetTitleVN_CAP
+ GREAT_DOGARESSA_DT_CAP:1 "Ï®ª¬þ ¦¥" #GetTitleDT_CAP
+ GREAT_DOGARESSA_IM_CAP:1 "Ï®ª¬¾ ¦¥" #GetTitleIM_CAP
+ GREAT_DOGARESSA_PR_CAP:1 "Ï®ª¬þ ¦¥" #GetTitlePR_CAP
+ GREAT_DOGARESSA_RD_CAP:1 "Ï®ª¬þ ¦¥º" #GetTitleRD_CAP
+ GREAT_DOGARESSA_TV_CAP:1 "Ï®ª¬þ ¦¥þ" #GetTitleTV_CAP
+ GREAT_DOGARESSA_VN_CAP:1 "Ï®ª¬³½ ¦¥³" #GetTitleVN_CAP
+ GREAT_DOGE_DT_CAP:1 "Ï®ª¬¯³ ¦¨³" #GetTitleDT_CAP
+ GREAT_DOGE_IM_CAP:1 "Ï®ª¬ªþ ¦¨" #GetTitleIM_CAP
+ GREAT_DOGE_PR_CAP:1 "Ï®ª¬¯ ¦¨" #GetTitlePR_CAP
+ GREAT_DOGE_RD_CAP:1 "Ï®ª¬¥ ¦¨" #GetTitleRD_CAP
+ GREAT_DOGE_TV_CAP:1 "Ï®ª¬ª¯ ¦¨¯" #GetTitleTV_CAP
+ GREAT_DOGE_VN_CAP:1 "Ï®ª¬¥ ¦¨" #GetTitleVN_CAP
+ GREAT_EMIRA_DT_CAP:0 "Ï®ª¬þ ¼¯ª" #GetTitleDT_CAP
+ GREAT_EMIRA_IM_CAP:0 "Ï®ª¬¾ ¼¯ª" #GetTitleIM_CAP
+ GREAT_EMIRA_PR_CAP:0 "Ï®ª¬þ ¼¯ª" #GetTitlePR_CAP
+ GREAT_EMIRA_RD_CAP:0 "Ï®ª¬þ ¼¯ªº" #GetTitleRD_CAP
+ GREAT_EMIRA_TV_CAP:0 "Ï®ª¬þ ¼¯ªþ" #GetTitleTV_CAP
+ GREAT_EMIRA_VN_CAP:0 "Ï®ª¬³½ ¼¯ª³" #GetTitleVN_CAP
+ GREAT_EMIR_DT_CAP:1 "Ï®ª¬¯³ ¼¯ª³" #GetTitleDT_CAP
+ GREAT_EMIR_IM_CAP:1 "Ï®ª¬ªþ ¼¯ª" #GetTitleIM_CAP
+ GREAT_EMIR_PR_CAP:1 "Ï®ª¬¯ ¼¯ª" #GetTitlePR_CAP
+ GREAT_EMIR_RD_CAP:1 "Ï®ª¬¥ ¼¯ª" #GetTitleRD_CAP
+ GREAT_EMIR_TV_CAP:1 "Ï®ª¬ª¯ ¼¯ª¯" #GetTitleTV_CAP
+ GREAT_EMIR_VN_CAP:1 "Ï®ª¬¥ ¼¯ª" #GetTitleVN_CAP
+ GREAT_HETMAN_DT_CAP:1 "Ï®ª¬¯³ ¥²¯°³" #GetTitleDT_CAP
+ GREAT_HETMAN_IM_CAP:1 "Ï®ª¬ªþ ¥²¯°" #GetTitleIM_CAP
+ GREAT_HETMAN_PR_CAP:1 "Ï®ª¬¯ ¥²¯°" #GetTitlePR_CAP
+ GREAT_HETMAN_RD_CAP:1 "Ï®ª¬¥ ¥²¯°" #GetTitleRD_CAP
+ GREAT_HETMAN_TV_CAP:1 "Ï®ª¬ª¯ ¥²¯°¯" #GetTitleTV_CAP
+ GREAT_HETMAN_VN_CAP:1 "Ï®ª¬¥ ¥²¯°" #GetTitleVN_CAP
+ GREAT_HETMAN_fem_DT_CAP:1 "Ï®ª¬¯³ ¥²¯°³" #GetTitleDT_CAP
+ GREAT_HETMAN_fem_IM_CAP:1 "Ï®ª¬ªþ ¥²¯°" #GetTitleIM_CAP
+ GREAT_HETMAN_fem_PR_CAP:1 "Ï®ª¬¯ ¥²¯°¯" #GetTitlePR_CAP
+ GREAT_HETMAN_fem_RD_CAP:1 "Ï®ª¬¥ ¥²¯°" #GetTitleRD_CAP
+ GREAT_HETMAN_fem_TV_CAP:1 "Ï®ª¬ª¯ ¥²¯°¯" #GetTitleTV_CAP
+ GREAT_HETMAN_fem_VN_CAP:1 "Ï®ª¬¥ ¥²¯°" #GetTitleVN_CAP
+ GREAT_IMAM_DT_CAP:1 "Ï®ª¬¯³ ª¯¯³" #GetTitleDT_CAP
+ GREAT_IMAM_IM_CAP:1 "Ï®ª¬ªþ ª¯¯" #GetTitleIM_CAP
+ GREAT_IMAM_PR_CAP:1 "Ï®ª¬¯ ª¯¯" #GetTitlePR_CAP
+ GREAT_IMAM_RD_CAP:1 "Ï®ª¬¥ ª¯¯" #GetTitleRD_CAP
+ GREAT_IMAM_TV_CAP:1 "Ï®ª¬ª¯ ª¯¯¯" #GetTitleTV_CAP
+ GREAT_IMAM_VN_CAP:1 "Ï®ª¬¥ ª¯¯" #GetTitleVN_CAP
+ GREAT_JAM_DT_CAP:1 "Ï®ª¬¯³ ¦¨¯³" #GetTitleDT_CAP
+ GREAT_JAM_IM_CAP:1 "Ï®ª¬ªþ ¦¨¯" #GetTitleIM_CAP
+ GREAT_JAM_PR_CAP:1 "Ï®ª¬¯ ¦¨¯" #GetTitlePR_CAP
+ GREAT_JAM_RD_CAP:1 "Ï®ª¬¥ ¦¨¯" #GetTitleRD_CAP
+ GREAT_JAM_TV_CAP:1 "Ï®ª¬ª¯ ¦¨¯¯" #GetTitleTV_CAP
+ GREAT_JAM_VN_CAP:1 "Ï®ª¬¥ ¦¨¯³" #GetTitleVN_CAP
+ GREAT_JAM_fem_DT_CAP:1 "Ï®ª¬þ ¦¨¯" #GetTitleDT_CAP
+ GREAT_JAM_fem_IM_CAP:1 "Ï®ª¬¾ ¦¨¯" #GetTitleIM_CAP
+ GREAT_JAM_fem_PR_CAP:1 "Ï®ª¬þ ¦¨¯" #GetTitlePR_CAP
+ GREAT_JAM_fem_RD_CAP:1 "Ï®ª¬þ ¦¨¯º" #GetTitleRD_CAP
+ GREAT_JAM_fem_TV_CAP:1 "Ï®ª¬þ ¦¨¯þ" #GetTitleTV_CAP
+ GREAT_JAM_fem_VN_CAP:1 "Ï®ª¬³½ ¦¨¯" #GetTitleVN_CAP
+ GREAT_KABAKA_DT_CAP:1 "Ï®ª¬¯³ ¬¡¬" #GetTitleDT_CAP
+ GREAT_KABAKA_IM_CAP:1 "Ï®ª¬ªþ ¬¡¬" #GetTitleIM_CAP
+ GREAT_KABAKA_PR_CAP:1 "Ï®ª¬¯ ¬¡¬" #GetTitlePR_CAP
+ GREAT_KABAKA_RD_CAP:1 "Ï®ª¬¥ ¬¡¬ª" #GetTitleRD_CAP
+ GREAT_KABAKA_TV_CAP:1 "Ï®ª¬ª¯ ¬¡¬¯" #GetTitleTV_CAP
+ GREAT_KABAKA_VN_CAP:1 "Ï®ª¬¥ ¬¡¬ª" #GetTitleVN_CAP
+ GREAT_KHATUN_DT_CAP:1 "Ï®ª¬þ ²³°" #GetTitleDT_CAP
+ GREAT_KHATUN_IM_CAP:1 "Ï®ª¬¾ ²³°" #GetTitleIM_CAP
+ GREAT_KHATUN_PR_CAP:1 "Ï®ª¬þ ²³°" #GetTitlePR_CAP
+ GREAT_KHATUN_RD_CAP:1 "Ï®ª¬þ ²³°" #GetTitleRD_CAP
+ GREAT_KHATUN_TV_CAP:1 "Ï®ª¬þ ²³°" #GetTitleTV_CAP
+ GREAT_KHATUN_VN_CAP:1 "Ï®ª¬³½ ²³°" #GetTitleVN_CAP
+ GREAT_KHOJA_DT_CAP:1 "Ï®ª¬¯³ ¦¨" #GetTitleDT_CAP
+ GREAT_KHOJA_IM_CAP:1 "Ï®ª¬ªþ ¦¨" #GetTitleIM_CAP
+ GREAT_KHOJA_PR_CAP:1 "Ï®ª¬¯ ¦¨" #GetTitlePR_CAP
+ GREAT_KHOJA_RD_CAP:1 "Ï®ª¬¥ ¦¨ª" #GetTitleRD_CAP
+ GREAT_KHOJA_TV_CAP:1 "Ï®ª¬ª¯ ¦¨þ" #GetTitleTV_CAP
+ GREAT_KHOJA_VN_CAP:1 "Ï®ª¬¥ ¦¨³" #GetTitleVN_CAP
+ GREAT_KHOJA_fem_DT_CAP:0 "Ï®ª¬þ ¦¨" #GetTitleDT_CAP
+ GREAT_KHOJA_fem_IM_CAP:0 "Ï®ª¬¾ ¦¨" #GetTitleIM_CAP
+ GREAT_KHOJA_fem_PR_CAP:0 "Ï®ª¬þ ¦¨" #GetTitlePR_CAP
+ GREAT_KHOJA_fem_RD_CAP:0 "Ï®ª¬þ ¦¨ª" #GetTitleRD_CAP
+ GREAT_KHOJA_fem_TV_CAP:0 "Ï®ª¬þ ¦¨þ" #GetTitleTV_CAP
+ GREAT_KHOJA_fem_VN_CAP:0 "Ï®ª¬³½ ¦¨³" #GetTitleVN_CAP
+ GREAT_KNIAGINIA_DT_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitleDT_CAP
+ GREAT_KNIAGINIA_IM_CAP:1 "Ï®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM_CAP
+ GREAT_KNIAGINIA_PR_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitlePR_CAP
+ GREAT_KNIAGINIA_RD_CAP:1 "Ï®ª¬þ ¬°¾¥ª°ª" #GetTitleRD_CAP
+ GREAT_KNIAGINIA_TV_CAP:1 "Ï®ª¬þ ¬°¾¥ª°þ" #GetTitleTV_CAP
+ GREAT_KNIAGINIA_VN_CAP:1 "Ï®ª¬³½ ¬°¾¥ª°½" #GetTitleVN_CAP
+ GREAT_KNIAZ_DT_CAP:1 "Ï®ª¬¯³ ¬°¾©½" #GetTitleDT_CAP
+ GREAT_KNIAZ_IM_CAP:1 "Ï®ª¬ªþ ¬°¾©¿" #GetTitleIM_CAP
+ GREAT_KNIAZ_PR_CAP:1 "Ï®ª¬¯ ¬°¾©" #GetTitlePR_CAP
+ GREAT_KNIAZ_RD_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleRD_CAP
+ GREAT_KNIAZ_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾©¯" #GetTitleTV_CAP
+ GREAT_KNIAZ_VN_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleVN_CAP
+ GREAT_LAKAN_DT_CAP:1 "Ï®ª¬¯³ ®¬°³" #GetTitleDT_CAP
+ GREAT_LAKAN_IM_CAP:1 "Ï®ª¬ªþ ®¬°" #GetTitleIM_CAP
+ GREAT_LAKAN_PR_CAP:1 "Ï®ª¬¯ ®¬°" #GetTitlePR_CAP
+ GREAT_LAKAN_RD_CAP:1 "Ï®ª¬¥ ®¬°" #GetTitleRD_CAP
+ GREAT_LAKAN_TV_CAP:1 "Ï®ª¬ª¯ ®¬°¯" #GetTitleTV_CAP
+ GREAT_LAKAN_VN_CAP:1 "Ï®ª¬¥ ®¬°" #GetTitleVN_CAP
+ GREAT_LAKAN_fem_DT_CAP:0 "Ï®ª¬¯³ ®¬°³" #GetTitleDT_CAP
+ GREAT_LAKAN_fem_IM_CAP:0 "Ï®ª¬ªþ ®¬°" #GetTitleIM_CAP
+ GREAT_LAKAN_fem_PR_CAP:0 "Ï®ª¬¯ ®¬°" #GetTitlePR_CAP
+ GREAT_LAKAN_fem_RD_CAP:0 "Ï®ª¬¥ ®¬°" #GetTitleRD_CAP
+ GREAT_LAKAN_fem_TV_CAP:0 "Ï®ª¬ª¯ ®¬°¯" #GetTitleTV_CAP
+ GREAT_LAKAN_fem_VN_CAP:0 "Ï®ª¬¥ ®¬°" #GetTitleVN_CAP
+ GREAT_MAMBO_DT_CAP:1 "Ï¢°¯³ ¯¯¡" #GetTitleDT_CAP
+ GREAT_MAMBO_IM_CAP:1 "Ï¢°ºþ ¯¯¡" #GetTitleIM_CAP
+ GREAT_MAMBO_PR_CAP:1 "Ï¢°¯ ¯¯¡" #GetTitlePR_CAP
+ GREAT_MAMBO_RD_CAP:1 "Ï¢°¥ ¯¯¡" #GetTitleRD_CAP
+ GREAT_MAMBO_TV_CAP:1 "Ï¢°º¯ ¯¯¡" #GetTitleTV_CAP
+ GREAT_MAMBO_VN_CAP:1 "Ï¢°¥ ¯¯¡" #GetTitleVN_CAP
+ GREAT_MAMBO_fem_DT_CAP:0 "Ï¢°¯³ ¯¯¡" #GetTitleDT_CAP
+ GREAT_MAMBO_fem_IM_CAP:0 "Ï¢°ºþ ¯¯¡" #GetTitleIM_CAP
+ GREAT_MAMBO_fem_PR_CAP:0 "Ï¢°¯ ¯¯¡" #GetTitlePR_CAP
+ GREAT_MAMBO_fem_RD_CAP:0 "Ï¢°¥ ¯¯¡" #GetTitleRD_CAP
+ GREAT_MAMBO_fem_TV_CAP:0 "Ï¢°º¯ ¯¯¡" #GetTitleTV_CAP
+ GREAT_MAMBO_fem_VN_CAP:0 "Ï¢°¥ ¯¯¡" #GetTitleVN_CAP
+ GREAT_MANSA_DT_CAP:1 "Ï®ª¬¯³ ¯°³" #GetTitleDT_CAP
+ GREAT_MANSA_IM_CAP:1 "Ï®ª¬ªþ ¯°" #GetTitleIM_CAP
+ GREAT_MANSA_PR_CAP:1 "Ï®ª¬¯ ¯°" #GetTitlePR_CAP
+ GREAT_MANSA_RD_CAP:1 "Ï®ª¬¥ ¯°º" #GetTitleRD_CAP
+ GREAT_MANSA_TV_CAP:1 "Ï®ª¬ª¯ ¯°þ" #GetTitleTV_CAP
+ GREAT_MANSA_VN_CAP:1 "Ï®ª¬¥ ¯°³" #GetTitleVN_CAP
+ GREAT_MANSA_fem_DT_CAP:1 "Ï®ª¬þ ¯°" #GetTitleDT_CAP
+ GREAT_MANSA_fem_IM_CAP:1 "Ï®ª¬¾ ¯°" #GetTitleIM_CAP
+ GREAT_MANSA_fem_PR_CAP:1 "Ï®ª¬þ ¯°" #GetTitlePR_CAP
+ GREAT_MANSA_fem_RD_CAP:1 "Ï®ª¬þ ¯°º" #GetTitleRD_CAP
+ GREAT_MANSA_fem_TV_CAP:1 "Ï®ª¬þ ¯°þ" #GetTitleTV_CAP
+ GREAT_MANSA_fem_VN_CAP:1 "Ï®ª¬³½ ¯°³" #GetTitleVN_CAP
+ GREAT_MISLDAR_DT_CAP:1 "Ï®ª¬¯³ ¯ª®¿¦³" #GetTitleDT_CAP
+ GREAT_MISLDAR_IM_CAP:1 "Ï®ª¬ªþ ¯ª®¿¦" #GetTitleIM_CAP
+ GREAT_MISLDAR_PR_CAP:1 "Ï®ª¬¯ ¯ª®¿¦" #GetTitlePR_CAP
+ GREAT_MISLDAR_RD_CAP:1 "Ï®ª¬¥ ¯ª®¿¦" #GetTitleRD_CAP
+ GREAT_MISLDAR_TV_CAP:1 "Ï®ª¬ª¯ ¯ª®¿¦¯" #GetTitleTV_CAP
+ GREAT_MISLDAR_VN_CAP:1 "Ï®ª¬¥ ¯ª®¿¦" #GetTitleVN_CAP
+ GREAT_MUGABE_DT_CAP:1 "Ï®ª¬¯³ ¯³¥¡" #GetTitleDT_CAP
+ GREAT_MUGABE_IM_CAP:1 "Ï®ª¬ªþ ¯³¥¡" #GetTitleIM_CAP
+ GREAT_MUGABE_PR_CAP:1 "Ï®ª¬¯ ¯³¥¡" #GetTitlePR_CAP
+ GREAT_MUGABE_RD_CAP:1 "Ï®ª¬¥ ¯³¥¡º" #GetTitleRD_CAP
+ GREAT_MUGABE_TV_CAP:1 "Ï®ª¬ª¯ ¯³¥¡" #GetTitleTV_CAP
+ GREAT_MUGABE_VN_CAP:1 "Ï®ª¬¥ ¯³¥¡³" #GetTitleVN_CAP
+ GREAT_MUGO_DT_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleDT_CAP
+ GREAT_MUGO_IM_CAP:1 "Ï®ª¬ªþ ¯³¥" #GetTitleIM_CAP
+ GREAT_MUGO_PR_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitlePR_CAP
+ GREAT_MUGO_RD_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleRD_CAP
+ GREAT_MUGO_TV_CAP:1 "Ï®ª¬þ ¯³¥" #GetTitleTV_CAP
+ GREAT_MUGO_VN_CAP:1 "Ï®ª¬³½ ¯³¥" #GetTitleVN_CAP
+ GREAT_MULOPWE_DT_CAP:1 "Ï®ª¬¯³ ¯³®±¢" #GetTitleDT_CAP
+ GREAT_MULOPWE_IM_CAP:1 "Ï®ª¬ªþ ¯³®±¢" #GetTitleIM_CAP
+ GREAT_MULOPWE_PR_CAP:1 "Ï®ª¬¯ ¯³®±¢" #GetTitlePR_CAP
+ GREAT_MULOPWE_RD_CAP:1 "Ï®ª¬¥ ¯³®±¢º" #GetTitleRD_CAP
+ GREAT_MULOPWE_TV_CAP:1 "Ï®ª¬ª¯ ¯³®±¢" #GetTitleTV_CAP
+ GREAT_MULOPWE_VN_CAP:1 "Ï®ª¬¥ ¯³®±¢³" #GetTitleVN_CAP
+ GREAT_MULOPWE_fem_DT_CAP:1 "Ï®ª¬þ ¯³®±¢" #GetTitleDT_CAP
+ GREAT_MULOPWE_fem_IM_CAP:1 "Ï®ª¬¾ ¯³®±¢" #GetTitleIM_CAP
+ GREAT_MULOPWE_fem_PR_CAP:1 "Ï®ª¬þ ¯³®±¢" #GetTitlePR_CAP
+ GREAT_MULOPWE_fem_RD_CAP:1 "Ï®ª¬þ ¯³®±¢" #GetTitleRD_CAP
+ GREAT_MULOPWE_fem_TV_CAP:1 "Ï®ª¬þ ¯³®±¢" #GetTitleTV_CAP
+ GREAT_MULOPWE_fem_VN_CAP:1 "Ï®ª¬³½ ¯³®±¢" #GetTitleVN_CAP
+ GREAT_MWENEMUTAPA_DT_CAP:1 "Ï®ª¬¯³ ¯¢°¯³²±" #GetTitleDT_CAP
+ GREAT_MWENEMUTAPA_IM_CAP:1 "Ï®ª¬ªþ ¯¢°¯³²±" #GetTitleIM_CAP
+ GREAT_MWENEMUTAPA_PR_CAP:1 "Ï®ª¬¯ ¯¢°¯³²±" #GetTitlePR_CAP
+ GREAT_MWENEMUTAPA_RD_CAP:1 "Ï®ª¬¥ ¯¢°¯³²±º" #GetTitleRD_CAP
+ GREAT_MWENEMUTAPA_TV_CAP:1 "Ï®ª¬ª¯ ¯¢°¯³²±¯" #GetTitleTV_CAP
+ GREAT_MWENEMUTAPA_VN_CAP:1 "Ï®ª¬¥ ¯¢°¯³²±³" #GetTitleVN_CAP
+ GREAT_MWENEMUTAPA_fem_DT_CAP:1 "Ï®ª¬þ ¯¢°¯³²±" #GetTitleDT_CAP
+ GREAT_MWENEMUTAPA_fem_IM_CAP:1 "Ï®ª¬¾ ¯¢°¯³²±" #GetTitleIM_CAP
+ GREAT_MWENEMUTAPA_fem_PR_CAP:1 "Ï®ª¬þ ¯¢°¯³²±" #GetTitlePR_CAP
+ GREAT_MWENEMUTAPA_fem_RD_CAP:1 "Ï®ª¬þ ¯¢°¯³²±º" #GetTitleRD_CAP
+ GREAT_MWENEMUTAPA_fem_TV_CAP:1 "Ï®ª¬þ ¯¢°¯³²±þ" #GetTitleTV_CAP
+ GREAT_MWENEMUTAPA_fem_VN_CAP:1 "Ï®ª¬³½ ¯¢°¯³²±³" #GetTitleVN_CAP
+ GREAT_MWENE_KONGO_DT_CAP:0 "¢° °¥" #GetTitleDT_CAP
+ GREAT_MWENE_KONGO_IM_CAP:0 "¢° °¥" #GetTitleIM_CAP
+ GREAT_MWENE_KONGO_PR_CAP:0 "¢° °¥" #GetTitlePR_CAP
+ GREAT_MWENE_KONGO_RD_CAP:0 "¢° °¥" #GetTitleRD_CAP
+ GREAT_MWENE_KONGO_TV_CAP:0 "¢° °¥" #GetTitleTV_CAP
+ GREAT_MWENE_KONGO_VN_CAP:0 "¢° °¥" #GetTitleVN_CAP
+ GREAT_MWENE_KONGO_fem_DT_CAP:0 "¢° °¥" #GetTitleDT_CAP
+ GREAT_MWENE_KONGO_fem_IM_CAP:0 "¢° °¥" #GetTitleIM_CAP
+ GREAT_MWENE_KONGO_fem_PR_CAP:0 "¢° °¥" #GetTitlePR_CAP
+ GREAT_MWENE_KONGO_fem_RD_CAP:0 "¢° °¥" #GetTitleRD_CAP
+ GREAT_MWENE_KONGO_fem_TV_CAP:0 "¢° °¥" #GetTitleTV_CAP
+ GREAT_MWENE_KONGO_fem_VN_CAP:0 "¢° °¥" #GetTitleVN_CAP
+ GREAT_NNABAGEREKA_DT_CAP:1 "Ï®ª¬þ °¡¥¬" #GetTitleDT_CAP
+ GREAT_NNABAGEREKA_IM_CAP:1 "Ï®ª¬ªþ °¡¥¬" #GetTitleIM_CAP
+ GREAT_NNABAGEREKA_PR_CAP:1 "Ï®ª¬þ °¡¥¬" #GetTitlePR_CAP
+ GREAT_NNABAGEREKA_RD_CAP:1 "Ï®ª¬þ °¡¥¬ª" #GetTitleRD_CAP
+ GREAT_NNABAGEREKA_TV_CAP:1 "Ï®ª¬þ °¡¥¬þ" #GetTitleTV_CAP
+ GREAT_NNABAGEREKA_VN_CAP:1 "Ï®ª¬³½ °¡¥¬³" #GetTitleVN_CAP
+ GREAT_OMUKAMA_DT_CAP:1 "Ï®ª¬¯³ ¯³¬¯" #GetTitleDT_CAP
+ GREAT_OMUKAMA_IM_CAP:1 "Ï®ª¬ªþ ¯³¬¯" #GetTitleIM_CAP
+ GREAT_OMUKAMA_PR_CAP:1 "Ï®ª¬¯ ¯³¬¯" #GetTitlePR_CAP
+ GREAT_OMUKAMA_RD_CAP:1 "Ï®ª¬¥ ¯³¬¯º" #GetTitleRD_CAP
+ GREAT_OMUKAMA_TV_CAP:1 "Ï®ª¬ª¯ ¯³¬¯" #GetTitleTV_CAP
+ GREAT_OMUKAMA_VN_CAP:1 "Ï®ª¬¥ ¯³¬¯³" #GetTitleVN_CAP
+ GREAT_PHARAOH_DT_CAP:1 "Ï®ª¬¯³ ´°³" #GetTitleDT_CAP
+ GREAT_PHARAOH_IM_CAP:1 "Ï®ª¬ªþ ´°" #GetTitleIM_CAP
+ GREAT_PHARAOH_PR_CAP:1 "Ï®ª¬¯ ´°" #GetTitlePR_CAP
+ GREAT_PHARAOH_RD_CAP:1 "Ï®ª¬¥ ´°" #GetTitleRD_CAP
+ GREAT_PHARAOH_TV_CAP:1 "Ï®ª¬ª¯ ´°¯" #GetTitleTV_CAP
+ GREAT_PHARAOH_VN_CAP:1 "Ï®ª¬¥ ´°" #GetTitleVN_CAP
+ GREAT_PHARAOH_fem_DT_CAP:1 "Ï®ª¬¯³ ´°³" #GetTitleDT_CAP
+ GREAT_PHARAOH_fem_IM_CAP:1 "Ï®ª¬ªþ ´°" #GetTitleIM_CAP
+ GREAT_PHARAOH_fem_PR_CAP:1 "Ï®ª¬¯³ ´°³" #GetTitlePR_CAP
+ GREAT_PHARAOH_fem_RD_CAP:1 "Ï®ª¬¥ ´°" #GetTitleRD_CAP
+ GREAT_PHARAOH_fem_TV_CAP:1 "Ï®ª¬ª¯ ´°¯" #GetTitleTV_CAP
+ GREAT_PHARAOH_fem_VN_CAP:1 "Ï®ª¬¥ ´°" #GetTitleVN_CAP
+ GREAT_POSADNIK_DT_CAP:0 "Ï®ª¬¯³ ±¦°ª¬³" #GetTitleDT_CAP
+ GREAT_POSADNIK_IM_CAP:0 "Ï®ª¬ªþ ±¦°ª¬" #GetTitleIM_CAP
+ GREAT_POSADNIK_PR_CAP:0 "Ï®ª¬¯ ±¦°ª¬" #GetTitlePR_CAP
+ GREAT_POSADNIK_RD_CAP:0 "Ï®ª¬¥ ±¦°ª¬" #GetTitleRD_CAP
+ GREAT_POSADNIK_TV_CAP:0 "Ï®ª¬ª¯ ±¦°ª¬ª" #GetTitleTV_CAP
+ GREAT_POSADNIK_VN_CAP:0 "Ï®ª¬¥ ±¦°ª¬" #GetTitleVN_CAP
+ GREAT_POSADNITSA_DT_CAP:0 "Ï®ª¬þ ±¦°ªµ" #GetTitleDT_CAP
+ GREAT_POSADNITSA_IM_CAP:0 "Ï®ª¬¾ ±¦°ªµ" #GetTitleIM_CAP
+ GREAT_POSADNITSA_PR_CAP:0 "Ï®ª¬þ ±¦°ªµ" #GetTitlePR_CAP
+ GREAT_POSADNITSA_RD_CAP:0 "Ï®ª¬þ ±¦°ªµº" #GetTitleRD_CAP
+ GREAT_POSADNITSA_TV_CAP:0 "Ï®ª¬þ ±¦°ªµþ" #GetTitleTV_CAP
+ GREAT_POSADNITSA_VN_CAP:0 "Ï®ª¬³½ ±¦°ªµ³" #GetTitleVN_CAP
+ GREAT_PRINCESS_DT_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitleDT_CAP
+ GREAT_PRINCESS_IM_CAP:1 "Ï®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM_CAP
+ GREAT_PRINCESS_PR_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitlePR_CAP
+ GREAT_PRINCESS_RD_CAP:1 "Ï®ª¬þ ¬°¾¥ª°ª" #GetTitleRD_CAP
+ GREAT_PRINCESS_TV_CAP:1 "Ï®ª¬þ ¬°¾¥ª°þ" #GetTitleTV_CAP
+ GREAT_PRINCESS_VN_CAP:1 "Ï®ª¬³½ ¬°¾¥ª°½" #GetTitleVN_CAP
+ GREAT_PRINCE_DT_CAP:0 "Ï®ª¬¯³ ¬°¾©½" #GetTitleDT_CAP
+ GREAT_PRINCE_IM_CAP:0 "Ï®ª¬ªþ ¬°¾©¿" #GetTitleIM_CAP
+ GREAT_PRINCE_PR_CAP:0 "Ï®ª¬¯ ¬°¾©" #GetTitlePR_CAP
+ GREAT_PRINCE_RD_CAP:0 "Ï®ª¬¥ ¬°¾©¾" #GetTitleRD_CAP
+ GREAT_PRINCE_TV_CAP:0 "Ï®ª¬ª¯ ¬°¾©¯" #GetTitleTV_CAP
+ GREAT_PRINCE_VN_CAP:0 "Ï®ª¬¥ ¬°¾©¾" #GetTitleVN_CAP
+ GREAT_RECTORA_DT_CAP:1 "Ï®ª¬¯³ ¬²³" #GetTitleDT_CAP
+ GREAT_RECTORA_IM_CAP:1 "Ï®ª¬ªþ ¬²" #GetTitleIM_CAP
+ GREAT_RECTORA_PR_CAP:1 "Ï®ª¬¯ ¬²" #GetTitlePR_CAP
+ GREAT_RECTORA_RD_CAP:1 "Ï®ª¬¥ ¬²" #GetTitleRD_CAP
+ GREAT_RECTORA_TV_CAP:1 "Ï®ª¬ª¯ ¬²¯" #GetTitleTV_CAP
+ GREAT_RECTORA_VN_CAP:1 "Ï®ª¬¥ ¬²" #GetTitleVN_CAP
+ GREAT_RECTOR_DT_CAP:1 "Ï®ª¬¯³ ¬²³" #GetTitleDT_CAP
+ GREAT_RECTOR_IM_CAP:1 "Ï®ª¬ªþ ¬²" #GetTitleIM_CAP
+ GREAT_RECTOR_PR_CAP:1 "Ï®ª¬¯ ¬²" #GetTitlePR_CAP
+ GREAT_RECTOR_RD_CAP:1 "Ï®ª¬¥ ¬²" #GetTitleRD_CAP
+ GREAT_RECTOR_TV_CAP:1 "Ï®ª¬ª¯ ¬²¯" #GetTitleTV_CAP
+ GREAT_RECTOR_VN_CAP:1 "Ï®ª¬¥ ¬²" #GetTitleVN_CAP
+ GREAT_SHARIFA_DT_CAP:1 "Ï¢°þ Œª´" #GetTitleDT_CAP
+ GREAT_SHARIFA_IM_CAP:1 "Ï¢°¾ Œª´" #GetTitleIM_CAP
+ GREAT_SHARIFA_PR_CAP:1 "Ï¢°þ Œª´" #GetTitlePR_CAP
+ GREAT_SHARIFA_RD_CAP:1 "Ï¢°þ Œª´º" #GetTitleRD_CAP
+ GREAT_SHARIFA_TV_CAP:1 "Ï¢°þ Œª´þ" #GetTitleTV_CAP
+ GREAT_SHARIFA_VN_CAP:1 "Ï¢°³½ Œª´³" #GetTitleVN_CAP
+ GREAT_SHARIF_DT_CAP:1 "Ï¢°¯³ Œª´³" #GetTitleDT_CAP
+ GREAT_SHARIF_IM_CAP:1 "Ï¢°ºþ Œª´" #GetTitleIM_CAP
+ GREAT_SHARIF_PR_CAP:1 "Ï¢°¯ Œª´" #GetTitlePR_CAP
+ GREAT_SHARIF_RD_CAP:1 "Ï¢°¥ Œª´" #GetTitleRD_CAP
+ GREAT_SHARIF_TV_CAP:1 "Ï¢°º¯ Œª´¯" #GetTitleTV_CAP
+ GREAT_SHARIF_VN_CAP:1 "Ï¢°¥ Œª´" #GetTitleVN_CAP
+ GREAT_STADTHOLDERESS_DT_CAP:1 "‚®¢°þ ²²³¦²" #GetTitleDT_CAP
+ GREAT_STADTHOLDERESS_IM_CAP:1 "‚®¢°¾ ²²³¦²" #GetTitleIM_CAP
+ GREAT_STADTHOLDERESS_PR_CAP:1 "‚®¢°þ ²²³¦²" #GetTitlePR_CAP
+ GREAT_STADTHOLDERESS_RD_CAP:1 "‚®¢°þ ²²³¦²º" #GetTitleRD_CAP
+ GREAT_STADTHOLDERESS_TV_CAP:1 "‚®¢°þ ²²³¦²þ" #GetTitleTV_CAP
+ GREAT_STADTHOLDERESS_VN_CAP:1 "‚®¢°³½ ²²³¦²³" #GetTitleVN_CAP
+ GREAT_STADTHOLDER_DT_CAP:1 "‚®¢°¯³ ²²³¦³" #GetTitleDT_CAP
+ GREAT_STADTHOLDER_IM_CAP:1 "‚®¢°ºþ ²²³¦" #GetTitleIM_CAP
+ GREAT_STADTHOLDER_PR_CAP:1 "‚®¢°¯ ²²³¦" #GetTitlePR_CAP
+ GREAT_STADTHOLDER_RD_CAP:1 "‚®¢°¥ ²²³¦" #GetTitleRD_CAP
+ GREAT_STADTHOLDER_TV_CAP:1 "‚®¢°º¯ ²²³¦¯" #GetTitleTV_CAP
+ GREAT_STADTHOLDER_VN_CAP:1 "‚®¢°¥ ²²³¦" #GetTitleVN_CAP
+ GREAT_SULTANA_DT_CAP:1 "Ï®ª¬¯³ ³®²°³" #GetTitleDT_CAP
+ GREAT_SULTANA_IM_CAP:1 "Ï®ª¬¾ ³®²°" #GetTitleIM_CAP
+ GREAT_SULTANA_PR_CAP:1 "Ï®ª¬þ ³®²°" #GetTitlePR_CAP
+ GREAT_SULTANA_RD_CAP:1 "Ï®ª¬þ ³®²°º" #GetTitleRD_CAP
+ GREAT_SULTANA_TV_CAP:1 "Ï®ª¬þ ³®²°þ" #GetTitleTV_CAP
+ GREAT_SULTANA_VN_CAP:1 "Ï®ª¬³½ ³®²°³" #GetTitleVN_CAP
+ GREAT_SULTAN_DT_CAP:1 "Ï®ª¬¯³ ³®²°³" #GetTitleDT_CAP
+ GREAT_SULTAN_IM_CAP:1 "Ï®ª¬ªþ ³®²°" #GetTitleIM_CAP
+ GREAT_SULTAN_PR_CAP:1 "Ï®ª¬¯ ³®²°" #GetTitlePR_CAP
+ GREAT_SULTAN_RD_CAP:1 "Ï®ª¬¥ ³®²°" #GetTitleRD_CAP
+ GREAT_SULTAN_TV_CAP:1 "Ï®ª¬ª¯ ³®²°¯" #GetTitleTV_CAP
+ GREAT_SULTAN_VN_CAP:1 "Ï®ª¬¥ ³®²°" #GetTitleVN_CAP
+ GREAT_TULKU_DT_CAP:1 "Ï®ª¬¯³ ²³®¬³" #GetTitleDT_CAP
+ GREAT_TULKU_IM_CAP:1 "Ï®ª¬ªþ ²³®¬³" #GetTitleIM_CAP
+ GREAT_TULKU_PR_CAP:1 "Ï®ª¬¯ ²³®¬³" #GetTitlePR_CAP
+ GREAT_TULKU_RD_CAP:1 "Ï®ª¬¥ ²³®¬³" #GetTitleRD_CAP
+ GREAT_TULKU_TV_CAP:1 "Ï®ª¬ª¯ ²³®¬³" #GetTitleTV_CAP
+ GREAT_TULKU_VN_CAP:1 "Ï®ª¬¥ ²³®¬³" #GetTitleVN_CAP
+ GROSSMEISTER_DT_CAP:1 "‚¯þ²³" #GetTitleDT_CAP
+ GROSSMEISTER_IM_CAP:1 "‚¯þ²" #GetTitleIM_CAP
+ GROSSMEISTER_PR_CAP:1 "‚¯þ²" #GetTitlePR_CAP
+ GROSSMEISTER_RD_CAP:1 "‚¯þ²" #GetTitleRD_CAP
+ GROSSMEISTER_TV_CAP:1 "‚¯þ²¯" #GetTitleTV_CAP
+ GROSSMEISTER_VN_CAP:1 "‚¯þ²" #GetTitleVN_CAP
+ GROSSMEISTER_fem_DT_CAP:0 "‚¯þ²ª°" #GetTitleDT_CAP
+ GROSSMEISTER_fem_IM_CAP:0 "‚¯þ²ª°" #GetTitleIM_CAP
+ GROSSMEISTER_fem_PR_CAP:0 "‚¯þ²ª°" #GetTitlePR_CAP
+ GROSSMEISTER_fem_RD_CAP:0 "‚¯þ²ª°º" #GetTitleRD_CAP
+ GROSSMEISTER_fem_TV_CAP:0 "‚¯þ²ª°þ" #GetTitleTV_CAP
+ GROSSMEISTER_fem_VN_CAP:0 "‚¯þ²ª°³" #GetTitleVN_CAP
+ HALACH_UINIK_DT_CAP:1 "Û®¶-³ª°ª¬³" #GetTitleDT_CAP
+ HALACH_UINIK_IM_CAP:1 "Û®¶-³ª°ª¬" #GetTitleIM_CAP
+ HALACH_UINIK_PR_CAP:1 "Û®¶-³ª°ª¬" #GetTitlePR_CAP
+ HALACH_UINIK_RD_CAP:1 "Û®¶-³ª°ª¬" #GetTitleRD_CAP
+ HALACH_UINIK_TV_CAP:1 "Û®¶-³ª°ª¬¯" #GetTitleTV_CAP
+ HALACH_UINIK_VN_CAP:1 "Û®¶-³ª°ª¬" #GetTitleVN_CAP
+ HASEKI_SULTAN_DT_CAP:1 "Û¬ª-³®²°" #GetTitleConsortDT_CAP
+ HASEKI_SULTAN_IM_CAP:1 "Û¬ª-³®²°" #GetTitleConsortIM_CAP
+ HASEKI_SULTAN_PR_CAP:1 "Û¬ª-³®²°" #GetTitleConsortPR_CAP
+ HASEKI_SULTAN_RD_CAP:1 "Û¬ª-³®²°" #GetTitleConsortRD_CAP
+ HASEKI_SULTAN_TV_CAP:1 "Û¬ª-³®²°þ" #GetTitleConsortTV_CAP
+ HASEKI_SULTAN_VN_CAP:1 "Û¬ª-³®²°" #GetTitleConsortVN_CAP
+ HATUN_DT_CAP:1 "Û²³°" #GetTitleDT_CAP
+ HATUN_IM_CAP:1 "Û²³°" #GetTitleIM_CAP
+ HATUN_PR_CAP:1 "Û²³°" #GetTitlePR_CAP
+ HATUN_RD_CAP:1 "Û²³°" #GetTitleRD_CAP
+ HATUN_TV_CAP:1 "Û²³°" #GetTitleTV_CAP
+ HATUN_VN_CAP:1 "Û²³°" #GetTitleVN_CAP
+ HEGEMON_DT_CAP:1 "‚¥¯°³" #GetTitleDT_CAP
+ HEGEMON_IM_CAP:1 "‚¥¯°" #GetTitleIM_CAP
+ HEGEMON_PR_CAP:1 "‚¥¯°" #GetTitlePR_CAP
+ HEGEMON_RD_CAP:1 "‚¥¯°" #GetTitleRD_CAP
+ HEGEMON_TV_CAP:1 "‚¥¯°¯" #GetTitleTV_CAP
+ HEGEMON_VN_CAP:1 "‚¥¯°" #GetTitleVN_CAP
+ HEGEMON_fem_DT_CAP:1 "‚¥¯°³" #GetTitleDT_CAP
+ HEGEMON_fem_IM_CAP:1 "‚¥¯°" #GetTitleIM_CAP
+ HEGEMON_fem_PR_CAP:1 "‚¥¯°³" #GetTitlePR_CAP
+ HEGEMON_fem_RD_CAP:1 "‚¥¯°" #GetTitleRD_CAP
+ HEGEMON_fem_TV_CAP:1 "‚¥¯°¯" #GetTitleTV_CAP
+ HEGEMON_fem_VN_CAP:1 "‚¥¯°" #GetTitleVN_CAP
+ HEIR_DT_CAP:1 "®¦°ª¬³" #GetTitleHeirDT_CAP
+ HEIR_IM_CAP:1 "®¦°ª¬" #GetTitleHeirIM_CAP
+ HEIR_PR_CAP:1 "®¦°ª¬" #GetTitleHeirPR_CAP
+ HEIR_RD_CAP:1 "®¦°ª¬" #GetTitleHeirRD_CAP
+ HEIR_TV_CAP:1 "®¦°ª¬¯" #GetTitleHeirTV_CAP
+ HEIR_VN_CAP:1 "®¦°ª¬" #GetTitleHeirVN_CAP
+ HEIR_fem_DT_CAP:1 "®¦°ªµ" #GetTitleDT_CAP
+ HEIR_fem_IM_CAP:1 "®¦°ªµ" #GetTitleIM_CAP
+ HEIR_fem_PR_CAP:1 "®¦°ªµ" #GetTitlePR_CAP
+ HEIR_fem_RD_CAP:1 "®¦°ªµº" #GetTitleRD_CAP
+ HEIR_fem_TV_CAP:1 "®¦°ªµþ" #GetTitleTV_CAP
+ HEIR_fem_VN_CAP:1 "®¦°ªµ³" #GetTitleVN_CAP
+ HERBAD_DT_CAP:1 "Ûª¡¦³" #GetTitleDT_CAP
+ HERBAD_IM_CAP:1 "Ûª¡¦" #GetTitleIM_CAP
+ HERBAD_PR_CAP:1 "Ûª¡¦" #GetTitlePR_CAP
+ HERBAD_RD_CAP:1 "Ûª¡¦" #GetTitleRD_CAP
+ HERBAD_TV_CAP:1 "Ûª¡¦þ" #GetTitleTV_CAP
+ HERBAD_VN_CAP:1 "Ûª¡¦" #GetTitleVN_CAP
+ HERCEGI_DT_CAP:1 "°¾¥ª°" #GetTitleDT_CAP
+ HERCEGI_IM_CAP:1 "°¾¥ª°¾" #GetTitleIM_CAP
+ HERCEGI_PR_CAP:1 "°¾¥ª°" #GetTitlePR_CAP
+ HERCEGI_RD_CAP:1 "°¾¥ª°ª" #GetTitleRD_CAP
+ HERCEGI_TV_CAP:1 "°¾¥ª°þ" #GetTitleTV_CAP
+ HERCEGI_VN_CAP:1 "°¾¥ª°½" #GetTitleVN_CAP
+ HERCEG_DT_CAP:1 "°¾©½" #GetTitleDT_CAP
+ HERCEG_IM_CAP:1 "°¾©¿" #GetTitleIM_CAP
+ HERCEG_PR_CAP:1 "°¾©" #GetTitlePR_CAP
+ HERCEG_RD_CAP:1 "°¾©¾" #GetTitleRD_CAP
+ HERCEG_TV_CAP:1 "°¾©¯" #GetTitleTV_CAP
+ HERCEG_VN_CAP:1 "°¾©¾" #GetTitleVN_CAP
+ HETMAN_DT_CAP:1 "‚²¯°³" #GetTitleDT_CAP
+ HETMAN_IM_CAP:1 "‚²¯°" #GetTitleIM_CAP
+ HETMAN_PR_CAP:1 "‚²¯°" #GetTitlePR_CAP
+ HETMAN_RD_CAP:1 "‚²¯°" #GetTitleRD_CAP
+ HETMAN_TV_CAP:1 "‚²¯°¯" #GetTitleTV_CAP
+ HETMAN_VN_CAP:1 "‚²¯°" #GetTitleVN_CAP
+ HETMAN_fem_DT_CAP:1 "‚²¯°³" #GetTitleDT_CAP
+ HETMAN_fem_IM_CAP:1 "‚²¯°" #GetTitleIM_CAP
+ HETMAN_fem_PR_CAP:1 "‚²¯°" #GetTitlePR_CAP
+ HETMAN_fem_RD_CAP:1 "‚²¯°" #GetTitleRD_CAP
+ HETMAN_fem_TV_CAP:1 "‚²¯°¯" #GetTitleTV_CAP
+ HETMAN_fem_VN_CAP:1 "‚²¯°" #GetTitleVN_CAP
+ HIGH_CHIEFTESS_DT_CAP:1 "Ï¢°¯³ ¢¨¦½" #GetTitleDT_CAP
+ HIGH_CHIEFTESS_IM_CAP:1 "Ï¢°ºþ ¢¨¦¿" #GetTitleIM_CAP
+ HIGH_CHIEFTESS_PR_CAP:1 "Ï¢°¯ ¢¨¦" #GetTitlePR_CAP
+ HIGH_CHIEFTESS_RD_CAP:1 "Ï¢°¥ ¢¨¦¾" #GetTitleRD_CAP
+ HIGH_CHIEFTESS_TV_CAP:1 "Ï¢°º¯ ¢¨¦ž¯" #GetTitleTV_CAP
+ HIGH_CHIEFTESS_VN_CAP:1 "Ï¢°¥ ¢¨¦¾" #GetTitleVN_CAP
+ HIGH_CHIEF_DT_CAP:1 "Ï¢°¯³ ¢¨¦½" #GetTitleDT_CAP
+ HIGH_CHIEF_IM_CAP:1 "Ï¢°ºþ ¢¨¦¿" #GetTitleIM_CAP
+ HIGH_CHIEF_PR_CAP:1 "Ï¢°¯ ¢¨¦" #GetTitlePR_CAP
+ HIGH_CHIEF_RD_CAP:1 "Ï¢°¥ ¢¨¦¾" #GetTitleRD_CAP
+ HIGH_CHIEF_TV_CAP:1 "Ï¢°º¯ ¢¨¦ž¯" #GetTitleTV_CAP
+ HIGH_CHIEF_VN_CAP:1 "Ï¢°¥ ¢¨¦¾" #GetTitleVN_CAP
+ HIGH_COUNCILOR_DT_CAP:1 "Ï¢°¯³ ¢²°ª¬³" #GetTitleDT_CAP
+ HIGH_COUNCILOR_IM_CAP:1 "Ï¢°ºþ ¢²°ª¬" #GetTitleIM_CAP
+ HIGH_COUNCILOR_PR_CAP:1 "Ï¢°¯ ¢²°ª¬" #GetTitlePR_CAP
+ HIGH_COUNCILOR_RD_CAP:1 "Ï¢°¥ ¢²°ª¬" #GetTitleRD_CAP
+ HIGH_COUNCILOR_TV_CAP:1 "Ï¢°º¯ ¢²°ª¬¯" #GetTitleTV_CAP
+ HIGH_COUNCILOR_VN_CAP:1 "Ï¢°¥ ¢²°ª¬" #GetTitleVN_CAP
+ HIGH_COUNCILOR_fem_DT_CAP:1 "Ï¢°¯³ ¢²°ª¬³" #GetTitleDT_CAP
+ HIGH_COUNCILOR_fem_IM_CAP:1 "Ï¢°ºþ ¢²°ª¬" #GetTitleIM_CAP
+ HIGH_COUNCILOR_fem_PR_CAP:1 "Ï¢°¯ ¢²°ª¬" #GetTitlePR_CAP
+ HIGH_COUNCILOR_fem_RD_CAP:1 "Ï¢°¥ ¢²°ª¬" #GetTitleRD_CAP
+ HIGH_COUNCILOR_fem_TV_CAP:1 "Ï¢°º¯ ¢²°ª¬¯" #GetTitleTV_CAP
+ HIGH_COUNCILOR_fem_VN_CAP:1 "Ï¢°¥ ¢²°ª¬" #GetTitleVN_CAP
+ HIGH_ELDER_DT_CAP:1 "‚®¢°¯³ ²þŒª°" #GetTitleDT_CAP
+ HIGH_ELDER_IM_CAP:1 "‚®¢°ºþ ²þŒª°" #GetTitleIM_CAP
+ HIGH_ELDER_PR_CAP:1 "‚®¢°¯ ²þŒª°" #GetTitlePR_CAP
+ HIGH_ELDER_RD_CAP:1 "‚®¢°¥ ²þŒª°º" #GetTitleRD_CAP
+ HIGH_ELDER_TV_CAP:1 "‚®¢°º¯ ²þŒª°þ" #GetTitleTV_CAP
+ HIGH_ELDER_VN_CAP:1 "‚®¢°¥ ²þŒª°³" #GetTitleVN_CAP
+ HIGH_ELDER_fem_DT_CAP:1 "‚®¢°þ ²þŒª°" #GetTitleDT_CAP
+ HIGH_ELDER_fem_IM_CAP:1 "‚®¢°¾ ²þŒª°" #GetTitleIM_CAP
+ HIGH_ELDER_fem_PR_CAP:1 "‚®¢°þ ²þŒª°" #GetTitlePR_CAP
+ HIGH_ELDER_fem_RD_CAP:1 "‚®¢°þ ²þŒª°º" #GetTitleRD_CAP
+ HIGH_ELDER_fem_TV_CAP:1 "‚®¢°þ ²þŒª°þ" #GetTitleTV_CAP
+ HIGH_ELDER_fem_VN_CAP:1 "‚®¢°³½ ²þŒª°³" #GetTitleVN_CAP
+ HIGH_GURU_DT_CAP:1 "ÏºŒ¯³ ¥³³" #GetTitleDT_CAP
+ HIGH_GURU_IM_CAP:1 "ÏºŒªþ ¥³³" #GetTitleIM_CAP
+ HIGH_GURU_PR_CAP:1 "ÏºŒ¯ ¥³³" #GetTitlePR_CAP
+ HIGH_GURU_RD_CAP:1 "ÏºŒ¥ ¥³³" #GetTitleRD_CAP
+ HIGH_GURU_TV_CAP:1 "ÏºŒª¯ ¥³³" #GetTitleTV_CAP
+ HIGH_GURU_VN_CAP:1 "ÏºŒ¥ ¥³³" #GetTitleVN_CAP
+ HIGH_IMAM_DT_CAP:1 "Ï¢°¯³ ª¯¯³" #GetTitleDT_CAP
+ HIGH_IMAM_IM_CAP:1 "Ï¢°ºþ ª¯¯" #GetTitleIM_CAP
+ HIGH_IMAM_PR_CAP:1 "Ï¢°¯ ª¯¯" #GetTitlePR_CAP
+ HIGH_IMAM_RD_CAP:1 "Ï¢°¥ ª¯¯" #GetTitleRD_CAP
+ HIGH_IMAM_TV_CAP:1 "Ï¢°º¯ ª¯¯¯" #GetTitleTV_CAP
+ HIGH_IMAM_VN_CAP:1 "Ï¢°¥ ª¯¯" #GetTitleVN_CAP
+ HIGH_KING_DT_CAP:1 "Ï¢°¯³ ¬®½" #GetTitleDT_CAP
+ HIGH_KING_IM_CAP:1 "Ï¢°ºþ ¬®¿" #GetTitleIM_CAP
+ HIGH_KING_PR_CAP:1 "Ï¢°¯ ¬®" #GetTitlePR_CAP
+ HIGH_KING_RD_CAP:1 "Ï¢°¥ ¬®¾" #GetTitleRD_CAP
+ HIGH_KING_TV_CAP:1 "Ï¢°º¯ ¬®ž¯" #GetTitleTV_CAP
+ HIGH_KING_VN_CAP:1 "Ï¢°¥ ¬®¾" #GetTitleVN_CAP
+ HIGH_MONSHUESS_DT_CAP:1 "°Œ³-ž¥³°" #GetTitleDT_CAP
+ HIGH_MONSHUESS_IM_CAP:1 "°Œ³-ž¥³°" #GetTitleIM_CAP
+ HIGH_MONSHUESS_PR_CAP:1 "°Œ³-ž¥³°" #GetTitlePR_CAP
+ HIGH_MONSHUESS_RD_CAP:1 "°Œ³-ž¥³°º" #GetTitleRD_CAP
+ HIGH_MONSHUESS_TV_CAP:1 "°Œ³-ž¥³°þ" #GetTitleTV_CAP
+ HIGH_MONSHUESS_VN_CAP:1 "°Œ³-ž¥³°³" #GetTitleVN_CAP
+ HIGH_MONSHU_DT_CAP:1 "°Œ³-ž¥³°³" #GetTitleDT_CAP
+ HIGH_MONSHU_IM_CAP:1 "°Œ³-ž¥³°" #GetTitleIM_CAP
+ HIGH_MONSHU_PR_CAP:1 "°Œ³-ž¥³°" #GetTitlePR_CAP
+ HIGH_MONSHU_RD_CAP:1 "°Œ³-ž¥³°" #GetTitleRD_CAP
+ HIGH_MONSHU_TV_CAP:1 "°Œ³-ž¥³°¯" #GetTitleTV_CAP
+ HIGH_MONSHU_VN_CAP:1 "°Œ³-ž¥³°" #GetTitleVN_CAP
+ HIGH_PRIESTESS_DT_CAP:1 "Ï¢°þ ¨ªµ" #GetTitleDT_CAP
+ HIGH_PRIESTESS_IM_CAP:1 "Ï¢°¾ ¨ªµ" #GetTitleIM_CAP
+ HIGH_PRIESTESS_PR_CAP:1 "Ï¢°þ ¨ªµ" #GetTitlePR_CAP
+ HIGH_PRIESTESS_RD_CAP:1 "Ï¢°þ ¨ªµº" #GetTitleRD_CAP
+ HIGH_PRIESTESS_TV_CAP:1 "Ï¢°þ ¨ªµþ" #GetTitleTV_CAP
+ HIGH_PRIESTESS_VN_CAP:1 "Ï¢°³½ ¨ªµ³" #GetTitleVN_CAP
+ HIGH_PRIEST_DT_CAP:1 "Ï¢°¯³ ¨µ³" #GetTitleDT_CAP
+ HIGH_PRIEST_IM_CAP:1 "Ï¢°ºþ ¨µ" #GetTitleIM_CAP
+ HIGH_PRIEST_PR_CAP:1 "Ï¢°¯ ¨µ" #GetTitlePR_CAP
+ HIGH_PRIEST_RD_CAP:1 "Ï¢°¥ ¨µ" #GetTitleRD_CAP
+ HIGH_PRIEST_TV_CAP:1 "Ï¢°º¯ ¨µ¯" #GetTitleTV_CAP
+ HIGH_PRIEST_VN_CAP:1 "Ï¢°¥ ¨µ" #GetTitleVN_CAP
+ HIGH_QUEEN_DT_CAP:1 "Ï¢°þ ¬®¢" #GetTitleDT_CAP
+ HIGH_QUEEN_IM_CAP:1 "Ï¢°¾ ¬®¢" #GetTitleIM_CAP
+ HIGH_QUEEN_PR_CAP:1 "Ï¢°þ ¬®¢" #GetTitlePR_CAP
+ HIGH_QUEEN_RD_CAP:1 "Ï¢°þ ¬®¢º" #GetTitleRD_CAP
+ HIGH_QUEEN_TV_CAP:1 "Ï¢°þ ¬®¢þ" #GetTitleTV_CAP
+ HIGH_QUEEN_VN_CAP:1 "Ï¢°³½ ¬®¢³" #GetTitleVN_CAP
+ HOCHMEISTER_DT_CAP:1 "‚¯þ²³" #GetTitleDT_CAP
+ HOCHMEISTER_IM_CAP:1 "‚¯þ²" #GetTitleIM_CAP
+ HOCHMEISTER_PR_CAP:1 "‚¯þ²" #GetTitlePR_CAP
+ HOCHMEISTER_RD_CAP:1 "‚¯þ²" #GetTitleRD_CAP
+ HOCHMEISTER_TV_CAP:1 "‚¯þ²¯" #GetTitleTV_CAP
+ HOCHMEISTER_VN_CAP:1 "‚¯þ²" #GetTitleVN_CAP
+ HOCHMEISTER_fem_DT_CAP:0 "‚¯þ²ª°" #GetTitleDT_CAP
+ HOCHMEISTER_fem_IM_CAP:0 "‚¯þ²ª°" #GetTitleIM_CAP
+ HOCHMEISTER_fem_PR_CAP:0 "‚¯þ²ª°" #GetTitlePR_CAP
+ HOCHMEISTER_fem_RD_CAP:0 "‚¯þ²ª°º" #GetTitleRD_CAP
+ HOCHMEISTER_fem_TV_CAP:0 "‚¯þ²ª°þ" #GetTitleTV_CAP
+ HOCHMEISTER_fem_VN_CAP:0 "‚¯þ²ª°³" #GetTitleVN_CAP
+ HUEHUETLATOANI_DT_CAP:1 "Û³¼þ ²®²°ª" #GetTitleDT_CAP
+ HUEHUETLATOANI_IM_CAP:1 "Û³¼þ ²®²°ª" #GetTitleIM_CAP
+ HUEHUETLATOANI_PR_CAP:1 "Û³¼þ ²®²°ª" #GetTitlePR_CAP
+ HUEHUETLATOANI_RD_CAP:1 "Û³¼þ ²®²°ª" #GetTitleRD_CAP
+ HUEHUETLATOANI_TV_CAP:1 "Û³¼þ ²®²°ª" #GetTitleTV_CAP
+ HUEHUETLATOANI_VN_CAP:1 "Û³¼þ ²®²°ª" #GetTitleVN_CAP
+ ILKHAN_DT_CAP:1 "†®¿°³" #GetTitleDT_CAP
+ ILKHAN_IM_CAP:1 "†®¿°" #GetTitleIM_CAP
+ ILKHAN_PR_CAP:1 "†®¿°" #GetTitlePR_CAP
+ ILKHAN_RD_CAP:1 "†®¿°" #GetTitleRD_CAP
+ ILKHAN_TV_CAP:1 "†®¿°¯" #GetTitleTV_CAP
+ ILKHAN_VN_CAP:1 "†®¿°" #GetTitleVN_CAP
+ ILKHATUN_DT_CAP:1 "†®¿²³°" #GetTitleDT_CAP
+ ILKHATUN_IM_CAP:1 "†®¿²³°" #GetTitleIM_CAP
+ ILKHATUN_PR_CAP:1 "†®¿²³°" #GetTitlePR_CAP
+ ILKHATUN_RD_CAP:1 "†®¿²³°" #GetTitleRD_CAP
+ ILKHATUN_TV_CAP:1 "†®¿²³°" #GetTitleTV_CAP
+ ILKHATUN_VN_CAP:1 "†®¿²³°" #GetTitleVN_CAP
+ IMAME_DT_CAP:1 "†¯¯³" #GetTitleDT_CAP
+ IMAME_IM_CAP:1 "†¯¯" #GetTitleIM_CAP
+ IMAME_PR_CAP:1 "†¯¯" #GetTitlePR_CAP
+ IMAME_RD_CAP:1 "†¯¯" #GetTitleRD_CAP
+ IMAME_TV_CAP:1 "†¯¯¯" #GetTitleTV_CAP
+ IMAME_VN_CAP:1 "†¯¯" #GetTitleVN_CAP
+ IMAM_DT_CAP:1 "†¯¯³" #GetTitleDT_CAP
+ IMAM_IM_CAP:1 "†¯¯" #GetTitleIM_CAP
+ IMAM_PR_CAP:1 "†¯¯" #GetTitlePR_CAP
+ IMAM_RD_CAP:1 "†¯¯" #GetTitleRD_CAP
+ IMAM_TV_CAP:1 "†¯¯¯" #GetTitleTV_CAP
+ IMAM_VN_CAP:1 "†¯¯" #GetTitleVN_CAP
+ IMAM_fem_DT_CAP:0 "†¯¯³" #GetTitleDT_CAP
+ IMAM_fem_IM_CAP:0 "†¯¯" #GetTitleIM_CAP
+ IMAM_fem_PR_CAP:0 "†¯¯" #GetTitlePR_CAP
+ IMAM_fem_RD_CAP:0 "†¯¯" #GetTitleRD_CAP
+ IMAM_fem_TV_CAP:0 "†¯¯¯" #GetTitleTV_CAP
+ IMAM_fem_VN_CAP:0 "†¯¯" #GetTitleVN_CAP
+ IMPERATOR_DT_CAP:1 "†¯±²³" #GetTitleDT_CAP
+ IMPERATOR_IM_CAP:1 "†¯±²" #GetTitleIM_CAP
+ IMPERATOR_PR_CAP:1 "†¯±²" #GetTitlePR_CAP
+ IMPERATOR_RD_CAP:1 "†¯±²" #GetTitleRD_CAP
+ IMPERATOR_TV_CAP:1 "†¯±²¯" #GetTitleTV_CAP
+ IMPERATOR_VN_CAP:1 "†¯±²" #GetTitleVN_CAP
+ IMPERATRIX_DT_CAP:1 "†¯±²ªµ" #GetTitleDT_CAP
+ IMPERATRIX_IM_CAP:1 "†¯±²ªµ" #GetTitleIM_CAP
+ IMPERATRIX_PR_CAP:1 "†¯±²ªµ" #GetTitlePR_CAP
+ IMPERATRIX_RD_CAP:1 "†¯±²ªµº" #GetTitleRD_CAP
+ IMPERATRIX_TV_CAP:1 "†¯±²ªµþ" #GetTitleTV_CAP
+ IMPERATRIX_VN_CAP:1 "†¯±²ªµ³" #GetTitleVN_CAP
+ ITEGE_DT_CAP:1 "†²¥" #GetTitleConsortDT_CAP
+ ITEGE_IM_CAP:1 "†²¥" #GetTitleConsortIM_CAP
+ ITEGE_PR_CAP:1 "†²¥" #GetTitleConsortPR_CAP
+ ITEGE_RD_CAP:1 "†²¥" #GetTitleConsortRD_CAP
+ ITEGE_TV_CAP:1 "†²¥" #GetTitleConsortTV_CAP
+ ITEGE_VN_CAP:1 "†²¥" #GetTitleConsortVN_CAP
+ JAM_DT_CAP:1 "ƒ¨¯³" #GetTitleDT_CAP
+ JAM_IM_CAP:1 "ƒ¨¯" #GetTitleIM_CAP
+ JAM_PR_CAP:1 "ƒ¨¯" #GetTitlePR_CAP
+ JAM_RD_CAP:1 "ƒ¨¯" #GetTitleRD_CAP
+ JAM_TV_CAP:1 "ƒ¨¯¯" #GetTitleTV_CAP
+ JAM_VN_CAP:1 "ƒ¨¯³" #GetTitleVN_CAP
+ JAM_fem_DT_CAP:1 "ƒ¨¯" #GetTitleDT_CAP
+ JAM_fem_IM_CAP:1 "ƒ¨¯" #GetTitleIM_CAP
+ JAM_fem_PR_CAP:1 "ƒ¨¯" #GetTitlePR_CAP
+ JAM_fem_RD_CAP:1 "ƒ¨¯º" #GetTitleRD_CAP
+ JAM_fem_TV_CAP:1 "ƒ¨¯þ" #GetTitleTV_CAP
+ JAM_fem_VN_CAP:1 "ƒ¨¯" #GetTitleVN_CAP
+ JANHOY_DT_CAP:1 "ƒ¨½" #GetTitleConsortDT_CAP
+ JANHOY_IM_CAP:1 "ƒ¨þ" #GetTitleConsortIM_CAP
+ JANHOY_PR_CAP:1 "ƒ¨" #GetTitleConsortPR_CAP
+ JANHOY_RD_CAP:1 "ƒ¨¾" #GetTitleConsortRD_CAP
+ JANHOY_TV_CAP:1 "ƒ¨¯" #GetTitleConsortTV_CAP
+ JANHOY_VN_CAP:1 "ƒ¨þ" #GetTitleConsortVN_CAP
+ JATHEDAR_DT_CAP:1 "ƒ¨²¦³" #GetTitleDT_CAP
+ JATHEDAR_IM_CAP:1 "ƒ¨²¦" #GetTitleIM_CAP
+ JATHEDAR_PR_CAP:1 "ƒ¨²¦" #GetTitlePR_CAP
+ JATHEDAR_RD_CAP:1 "ƒ¨²¦" #GetTitleRD_CAP
+ JATHEDAR_TV_CAP:1 "ƒ¨²¦¯" #GetTitleTV_CAP
+ JATHEDAR_VN_CAP:1 "ƒ¨²¦" #GetTitleVN_CAP
+ JINONG_DT_CAP:1 "ƒ¨ª°°³" #GetTitleDT_CAP
+ JINONG_IM_CAP:1 "ƒ¨ª°°" #GetTitleIM_CAP
+ JINONG_PR_CAP:1 "ƒ¨ª°°" #GetTitlePR_CAP
+ JINONG_RD_CAP:1 "ƒ¨ª°°" #GetTitleRD_CAP
+ JINONG_TV_CAP:1 "ƒ¨ª°°¯" #GetTitleTV_CAP
+ JINONG_VN_CAP:1 "ƒ¨ª°°" #GetTitleVN_CAP
+ JUNWANG_DT_CAP:1 "Ë©½°¿¢°³" #GetTitleDT_CAP
+ JUNWANG_IM_CAP:1 "Ë©½°¿¢°" #GetTitleIM_CAP
+ JUNWANG_PR_CAP:1 "Ë©½°¿¢°" #GetTitlePR_CAP
+ JUNWANG_RD_CAP:1 "Ë©½°¿¢°" #GetTitleRD_CAP
+ JUNWANG_TV_CAP:1 "Ë©½°¿¢°¯" #GetTitleTV_CAP
+ JUNWANG_VN_CAP:1 "Ë©½°¿¢°" #GetTitleVN_CAP
+ KABAKA_DT_CAP:1 "¡¬" #GetTitleDT_CAP
+ KABAKA_IM_CAP:1 "¡¬" #GetTitleIM_CAP
+ KABAKA_PR_CAP:1 "¡¬" #GetTitlePR_CAP
+ KABAKA_RD_CAP:1 "¡¬ª" #GetTitleRD_CAP
+ KABAKA_TV_CAP:1 "¡¬¯" #GetTitleTV_CAP
+ KABAKA_VN_CAP:1 "¡¬ª" #GetTitleVN_CAP
+ KAISERIN_DT_CAP:1 "þ©ª°" #GetTitleDT_CAP
+ KAISERIN_IM_CAP:1 "þ©ª°" #GetTitleIM_CAP
+ KAISERIN_PR_CAP:1 "þ©ª°" #GetTitlePR_CAP
+ KAISERIN_RD_CAP:1 "þ©ª°º" #GetTitleRD_CAP
+ KAISERIN_TV_CAP:1 "þ©ª°þ" #GetTitleTV_CAP
+ KAISERIN_VN_CAP:1 "þ©ª°³" #GetTitleVN_CAP
+ KAISER_DT_CAP:1 "þ©³" #GetTitleDT_CAP
+ KAISER_IM_CAP:1 "þ©" #GetTitleIM_CAP
+ KAISER_PR_CAP:1 "þ©" #GetTitlePR_CAP
+ KAISER_RD_CAP:1 "þ©" #GetTitleRD_CAP
+ KAISER_TV_CAP:1 "þ©¯" #GetTitleTV_CAP
+ KAISER_VN_CAP:1 "þ©" #GetTitleVN_CAP
+ KEFALIJA_DT_CAP:1 "´®³" #GetTitleDT_CAP
+ KEFALIJA_IM_CAP:1 "´®" #GetTitleIM_CAP
+ KEFALIJA_PR_CAP:1 "´®" #GetTitlePR_CAP
+ KEFALIJA_RD_CAP:1 "´®" #GetTitleRD_CAP
+ KEFALIJA_TV_CAP:1 "´®¯" #GetTitleTV_CAP
+ KEFALIJA_VN_CAP:1 "´®" #GetTitleVN_CAP
+ KHAGAN_DT_CAP:1 "¥°³" #GetTitleDT_CAP
+ KHAGAN_IM_CAP:1 "¥°" #GetTitleIM_CAP
+ KHAGAN_PR_CAP:1 "¥°" #GetTitlePR_CAP
+ KHAGAN_RD_CAP:1 "¥°" #GetTitleRD_CAP
+ KHAGAN_TV_CAP:1 "¥°¯" #GetTitleTV_CAP
+ KHAGAN_VN_CAP:1 "¥°" #GetTitleVN_CAP
+ KHANUM_DT_CAP:1 "Û°³¯" #GetTitleHeirDT_CAP
+ KHANUM_IM_CAP:1 "Û°³¯" #GetTitleHeirIM_CAP
+ KHANUM_PR_CAP:1 "Û°³¯" #GetTitleHeirPR_CAP
+ KHANUM_RD_CAP:1 "Û°³¯" #GetTitleHeirRD_CAP
+ KHANUM_TV_CAP:1 "Û°³¯" #GetTitleHeirTV_CAP
+ KHANUM_VN_CAP:1 "Û°³¯" #GetTitleHeirVN_CAP
+ KHANZADEH_DT_CAP:1 "Û°©¦" #GetTitleHeirDT_CAP
+ KHANZADEH_IM_CAP:1 "Û°©¦" #GetTitleHeirIM_CAP
+ KHANZADEH_PR_CAP:1 "Û°©¦" #GetTitleHeirPR_CAP
+ KHANZADEH_RD_CAP:1 "Û°©¦" #GetTitleHeirRD_CAP
+ KHANZADEH_TV_CAP:1 "Û°©¦" #GetTitleHeirTV_CAP
+ KHANZADEH_VN_CAP:1 "Û°©¦" #GetTitleHeirVN_CAP
+ KHAN_DT_CAP:1 "Û°³" #GetTitleDT_CAP
+ KHAN_IM_CAP:1 "Û°" #GetTitleIM_CAP
+ KHAN_PR_CAP:1 "Û°" #GetTitlePR_CAP
+ KHAN_RD_CAP:1 "Û°" #GetTitleRD_CAP
+ KHAN_TV_CAP:1 "Û°¯" #GetTitleTV_CAP
+ KHAN_VN_CAP:1 "Û°" #GetTitleVN_CAP
+ KHATUN_DT_CAP:1 "Û²³°" #GetTitleDT_CAP
+ KHATUN_IM_CAP:1 "Û²³°" #GetTitleIM_CAP
+ KHATUN_PR_CAP:1 "Û²³°" #GetTitlePR_CAP
+ KHATUN_RD_CAP:1 "Û²³°" #GetTitleRD_CAP
+ KHATUN_TV_CAP:1 "Û²³°" #GetTitleTV_CAP
+ KHATUN_VN_CAP:1 "Û²³°" #GetTitleVN_CAP
+ KHEDIVE_DT_CAP:1 "Û¦ª¢³" #GetTitleDT_CAP
+ KHEDIVE_IM_CAP:1 "Û¦ª¢" #GetTitleIM_CAP
+ KHEDIVE_PR_CAP:1 "Û¦ª¢" #GetTitlePR_CAP
+ KHEDIVE_RD_CAP:1 "Û¦ª¢" #GetTitleRD_CAP
+ KHEDIVE_TV_CAP:1 "Û¦ª¢¯" #GetTitleTV_CAP
+ KHEDIVE_VN_CAP:1 "Û¦ª¢" #GetTitleVN_CAP
+ KHOJA_DT_CAP:1 "Û¦¨" #GetTitleDT_CAP
+ KHOJA_IM_CAP:1 "Û¦¨" #GetTitleIM_CAP
+ KHOJA_PR_CAP:1 "Û¦¨" #GetTitlePR_CAP
+ KHOJA_RD_CAP:1 "Û¦¨ª" #GetTitleRD_CAP
+ KHOJA_TV_CAP:1 "Û¦¨þ" #GetTitleTV_CAP
+ KHOJA_VN_CAP:1 "Û¦¨³" #GetTitleVN_CAP
+ KING_CONSORT_DT_CAP:1 "®½-¬°²³" #GetTitleConsortDT_CAP
+ KING_CONSORT_IM_CAP:1 "®¿-¬°²" #GetTitleConsortIM_CAP
+ KING_CONSORT_PR_CAP:1 "®-¬°²" #GetTitleConsortPR_CAP
+ KING_CONSORT_RD_CAP:1 "®¾-¬°²" #GetTitleConsortRD_CAP
+ KING_CONSORT_TV_CAP:1 "®ž¯-¬°²¯" #GetTitleConsortTV_CAP
+ KING_CONSORT_VN_CAP:1 "®¾-¬°²" #GetTitleConsortVN_CAP
+ KING_DT_CAP:1 "®½" #GetTitleDT_CAP
+ KING_ELECTOR_DT_CAP:1 "®½-¬³´½²³" #GetTitleDT_CAP
+ KING_ELECTOR_IM_CAP:1 "®¿-¬³´½²" #GetTitleIM_CAP
+ KING_ELECTOR_PR_CAP:1 "®-¬³´½²" #GetTitlePR_CAP
+ KING_ELECTOR_RD_CAP:1 "®¾-¬³´½²" #GetTitleRD_CAP
+ KING_ELECTOR_TV_CAP:1 "®ž¯-¬³´½²¯" #GetTitleTV_CAP
+ KING_ELECTOR_VN_CAP:1 "®¾-¬³´½²" #GetTitleVN_CAP
+ KING_IM_CAP:1 "®¿" #GetTitleIM_CAP
+ KING_PALATINE_DT_CAP:1 "‰´®¿µ¬þ©³" #GetTitleDT_CAP
+ KING_PALATINE_IM_CAP:1 "‰´®¿µ¬þ©" #GetTitleIM_CAP
+ KING_PALATINE_PR_CAP:1 "‰´®¿µ¬þ©" #GetTitlePR_CAP
+ KING_PALATINE_RD_CAP:1 "‰´®¿µ¬þ©" #GetTitleRD_CAP
+ KING_PALATINE_TV_CAP:1 "‰´®¿µ¬þ©¯" #GetTitleTV_CAP
+ KING_PALATINE_VN_CAP:1 "‰´®¿µ¬þ©" #GetTitleVN_CAP
+ KING_PR_CAP:1 "®" #GetTitlePR_CAP
+ KING_RD_CAP:1 "®¾" #GetTitleRD_CAP
+ KING_TV_CAP:1 "®ž¯" #GetTitleTV_CAP
+ KING_VN_CAP:1 "®¾" #GetTitleVN_CAP
+ KNIAGINIA_DT_CAP:1 "°¾¥ª°" #GetTitleDT_CAP
+ KNIAGINIA_IM_CAP:1 "°¾¥ª°¾" #GetTitleIM_CAP
+ KNIAGINIA_PR_CAP:1 "°¾¥ª°" #GetTitlePR_CAP
+ KNIAGINIA_RD_CAP:1 "°¾¥ª°ª" #GetTitleRD_CAP
+ KNIAGINIA_TV_CAP:1 "°¾¥ª°þ" #GetTitleTV_CAP
+ KNIAGINIA_VN_CAP:1 "°¾¥ª°½" #GetTitleVN_CAP
+ KNIAZHICH_DT_CAP:0 "¬°¾¨ª¶³" #GetTitleHeirDT_CAP
+ KNIAZHICH_IM_CAP:0 "¬°¾¨ª¶" #GetTitleHeirIM_CAP
+ KNIAZHICH_PR_CAP:0 "¬°¾¨ª¶" #GetTitleHeirPR_CAP
+ KNIAZHICH_RD_CAP:0 "¬°¾¨ª¶" #GetTitleHeirRD_CAP
+ KNIAZHICH_TV_CAP:0 "¬°¾¨ª¶¯" #GetTitleHeirTV_CAP
+ KNIAZHICH_VN_CAP:0 "¬°¾¨ª¶" #GetTitleHeirVN_CAP
+ KNIAZHNA_DT_CAP:0 "¬°¾¨°" #GetTitleHeirDT_CAP
+ KNIAZHNA_IM_CAP:0 "¬°¾¨°" #GetTitleHeirIM_CAP
+ KNIAZHNA_PR_CAP:0 "¬°¾¨°" #GetTitleHeirPR_CAP
+ KNIAZHNA_RD_CAP:0 "¬°¾¨°º" #GetTitleHeirRD_CAP
+ KNIAZHNA_TV_CAP:0 "¬°¾¨°þ" #GetTitleHeirTV_CAP
+ KNIAZHNA_VN_CAP:0 "¬°¾¨°³" #GetTitleHeirVN_CAP
+ KNIAZ_DT_CAP:1 "°¾©½" #GetTitleDT_CAP
+ KNIAZ_IM_CAP:1 "°¾©¿" #GetTitleIM_CAP
+ KNIAZ_PR_CAP:1 "°¾©" #GetTitlePR_CAP
+ KNIAZ_RD_CAP:1 "°¾©¾" #GetTitleRD_CAP
+ KNIAZ_TV_CAP:1 "°¾©¯" #GetTitleTV_CAP
+ KNIAZ_VN_CAP:1 "°¾©¾" #GetTitleVN_CAP
+ KNIGHT_KING_DT_CAP:1 "Ðºµ¬¯³ ¬®½" #GetTitleDT_CAP
+ KNIGHT_KING_IM_CAP:1 "Ðºµ¬ªþ ¬®¿" #GetTitleIM_CAP
+ KNIGHT_KING_PR_CAP:1 "Ðºµ¬¯ ¬®" #GetTitlePR_CAP
+ KNIGHT_KING_RD_CAP:1 "Ðºµ¬¥ ¬®¾" #GetTitleRD_CAP
+ KNIGHT_KING_TV_CAP:1 "Ðºµ¬ª¯ ¬®ž¯" #GetTitleTV_CAP
+ KNIGHT_KING_VN_CAP:1 "Ðºµ¬¥ ¬®¾" #GetTitleVN_CAP
+ KNIGHT_QUEEN_DT_CAP:1 "Ðºµ¬þ ¬®¢" #GetTitleDT_CAP
+ KNIGHT_QUEEN_IM_CAP:1 "Ðºµ¬¾ ¬®¢" #GetTitleIM_CAP
+ KNIGHT_QUEEN_PR_CAP:1 "Ðºµ¬þ ¬®¢" #GetTitlePR_CAP
+ KNIGHT_QUEEN_RD_CAP:1 "Ðºµ¬þ ¬®¢º" #GetTitleRD_CAP
+ KNIGHT_QUEEN_TV_CAP:1 "Ðºµ¬þ ¬®¢þ" #GetTitleTV_CAP
+ KNIGHT_QUEEN_VN_CAP:1 "Ðºµ¬³½ ¬®¢³" #GetTitleVN_CAP
+ KOHEN_GADOL_DT_CAP:1 "¼°-¥¦®½" #GetTitleDT_CAP
+ KOHEN_GADOL_IM_CAP:1 "¼°-¥¦®¿" #GetTitleIM_CAP
+ KOHEN_GADOL_PR_CAP:1 "¼°-¥¦®" #GetTitlePR_CAP
+ KOHEN_GADOL_RD_CAP:1 "¼°-¥¦®¾" #GetTitleRD_CAP
+ KOHEN_GADOL_TV_CAP:1 "¼°-¥¦®¯" #GetTitleTV_CAP
+ KOHEN_GADOL_VN_CAP:1 "¼°-¥¦®¾" #GetTitleVN_CAP
+ KRALJICA_DT_CAP:1 "®¿ªµ" #GetTitleDT_CAP
+ KRALJICA_IM_CAP:1 "®¿ªµ" #GetTitleIM_CAP
+ KRALJICA_PR_CAP:1 "®¿ªµ" #GetTitlePR_CAP
+ KRALJICA_RD_CAP:1 "®¿ªµº" #GetTitleRD_CAP
+ KRALJICA_TV_CAP:1 "®¿ªµþ" #GetTitleTV_CAP
+ KRALJICA_VN_CAP:1 "®¿ªµ³" #GetTitleVN_CAP
+ KRALJ_DT_CAP:1 "®½" #GetTitleDT_CAP
+ KRALJ_IM_CAP:1 "®¿" #GetTitleIM_CAP
+ KRALJ_PR_CAP:1 "®" #GetTitlePR_CAP
+ KRALJ_RD_CAP:1 "®¾" #GetTitleRD_CAP
+ KRALJ_TV_CAP:1 "®ž¯" #GetTitleTV_CAP
+ KRALJ_VN_CAP:1 "®¾" #GetTitleVN_CAP
+ KRONPRINZEN_DT_CAP:0 "¬°±ª°µ" #GetTitleHeirDT_CAP
+ KRONPRINZEN_IM_CAP:0 "¬°±ª°µ" #GetTitleHeirIM_CAP
+ KRONPRINZEN_PR_CAP:0 "¬°±ª°µ" #GetTitleHeirPR_CAP
+ KRONPRINZEN_RD_CAP:0 "¬°±ª°µº" #GetTitleHeirRD_CAP
+ KRONPRINZEN_TV_CAP:0 "¬°±ª°µþ" #GetTitleHeirTV_CAP
+ KRONPRINZEN_VN_CAP:0 "¬°±ª°µ³" #GetTitleHeirVN_CAP
+ KRONPRINZ_DT_CAP:0 "¬°±ª°µ³" #GetTitleHeirDT_CAP
+ KRONPRINZ_IM_CAP:0 "¬°±ª°µ" #GetTitleHeirIM_CAP
+ KRONPRINZ_PR_CAP:0 "¬°±ª°µ" #GetTitleHeirPR_CAP
+ KRONPRINZ_RD_CAP:0 "¬°±ª°µ" #GetTitleHeirRD_CAP
+ KRONPRINZ_TV_CAP:0 "¬°±ª°µ¯" #GetTitleHeirTV_CAP
+ KRONPRINZ_VN_CAP:0 "¬°±ª°µ" #GetTitleHeirVN_CAP
+ KURAKA_DT_CAP:1 "³¬" #GetTitleDT_CAP
+ KURAKA_IM_CAP:1 "³¬" #GetTitleIM_CAP
+ KURAKA_PR_CAP:1 "³¬" #GetTitlePR_CAP
+ KURAKA_RD_CAP:1 "³¬ª" #GetTitleRD_CAP
+ KURAKA_TV_CAP:1 "³¬¯" #GetTitleTV_CAP
+ KURAKA_VN_CAP:1 "³¬ª" #GetTitleVN_CAP
+ K_UHUL_AJAW_DT_CAP:1 "³³®¿-¢" #GetTitleDT_CAP
+ K_UHUL_AJAW_IM_CAP:1 "³³®¿-¢" #GetTitleIM_CAP
+ K_UHUL_AJAW_PR_CAP:1 "³³®¿-¢" #GetTitlePR_CAP
+ K_UHUL_AJAW_RD_CAP:1 "³³®¿-¢º" #GetTitleRD_CAP
+ K_UHUL_AJAW_TV_CAP:1 "³³®¿-¢¯" #GetTitleTV_CAP
+ K_UHUL_AJAW_VN_CAP:1 "³³®¿-¢³" #GetTitleVN_CAP
+ LADY_COMMANDER_DT_CAP:1 "ˆ¦ª-¬¯°¦³½¸þ" #GetTitleDT_CAP
+ LADY_COMMANDER_IM_CAP:1 "ˆ¦ª-¬¯°¦³½¸¾" #GetTitleIM_CAP
+ LADY_COMMANDER_PR_CAP:1 "ˆ¦ª-¬¯°¦³½¸þ" #GetTitlePR_CAP
+ LADY_COMMANDER_RD_CAP:1 "ˆ¦ª-¬¯°¦³½¸þ" #GetTitleRD_CAP
+ LADY_COMMANDER_TV_CAP:1 "ˆ¦ª-¬¯°¦³½¸þ" #GetTitleTV_CAP
+ LADY_COMMANDER_VN_CAP:1 "ˆ¦ª-¬¯°¦³½¸³½" #GetTitleVN_CAP
+ LADY_DT_CAP:1 "ˆ¦ª" #GetTitleDT_CAP
+ LADY_IM_CAP:1 "ˆ¦ª" #GetTitleIM_CAP
+ LADY_PROTECTOR_DT_CAP:1 "ˆ¦ª-±²¬²³" #GetTitleDT_CAP
+ LADY_PROTECTOR_IM_CAP:1 "ˆ¦ª-±²¬²" #GetTitleIM_CAP
+ LADY_PROTECTOR_PR_CAP:1 "ˆ¦ª-±²¬²" #GetTitlePR_CAP
+ LADY_PROTECTOR_RD_CAP:1 "ˆ¦ª-±²¬²" #GetTitleRD_CAP
+ LADY_PROTECTOR_TV_CAP:1 "ˆ¦ª-±²¬²¯" #GetTitleTV_CAP
+ LADY_PROTECTOR_VN_CAP:1 "ˆ¦ª-±²¬²" #GetTitleVN_CAP
+ LADY_PR_CAP:1 "ˆ¦ª" #GetTitlePR_CAP
+ LADY_RD_CAP:1 "ˆ¦ª" #GetTitleRD_CAP
+ LADY_TV_CAP:1 "ˆ¦ª" #GetTitleTV_CAP
+ LADY_VN_CAP:1 "ˆ¦ª" #GetTitleVN_CAP
+ LAKAN_DT_CAP:1 "ˆ¬°³" #GetTitleDT_CAP
+ LAKAN_IM_CAP:1 "ˆ¬°" #GetTitleIM_CAP
+ LAKAN_PR_CAP:1 "ˆ¬°" #GetTitlePR_CAP
+ LAKAN_RD_CAP:1 "ˆ¬°" #GetTitleRD_CAP
+ LAKAN_TV_CAP:1 "ˆ¬°¯" #GetTitleTV_CAP
+ LAKAN_VN_CAP:1 "ˆ¬°" #GetTitleVN_CAP
+ LAMA_DT_CAP:1 "ˆ¯" #GetTitleDT_CAP
+ LAMA_IM_CAP:1 "ˆ¯" #GetTitleIM_CAP
+ LAMA_PR_CAP:1 "ˆ¯" #GetTitlePR_CAP
+ LAMA_RD_CAP:1 "ˆ¯º" #GetTitleRD_CAP
+ LAMA_TV_CAP:1 "ˆ¯þ" #GetTitleTV_CAP
+ LAMA_VN_CAP:1 "ˆ¯³" #GetTitleVN_CAP
+ LANDMEISTER_DT_CAP:1 "ˆ°¦¯þ²³" #GetTitleDT_CAP
+ LANDMEISTER_IM_CAP:1 "ˆ°¦¯þ²" #GetTitleIM_CAP
+ LANDMEISTER_PR_CAP:1 "ˆ°¦¯þ²" #GetTitlePR_CAP
+ LANDMEISTER_RD_CAP:1 "ˆ°¦¯þ²" #GetTitleRD_CAP
+ LANDMEISTER_TV_CAP:1 "ˆ°¦¯þ²¯" #GetTitleTV_CAP
+ LANDMEISTER_VN_CAP:1 "ˆ°¦¯þ²" #GetTitleVN_CAP
+ LANDMEISTER_fem_DT_CAP:0 "®°¦¯þ²ª°" #GetTitleDT_CAP
+ LANDMEISTER_fem_IM_CAP:0 "®°¦¯þ²ª°" #GetTitleIM_CAP
+ LANDMEISTER_fem_PR_CAP:0 "®°¦¯þ²ª°" #GetTitlePR_CAP
+ LANDMEISTER_fem_RD_CAP:0 "®°¦¯þ²ª°º" #GetTitleRD_CAP
+ LANDMEISTER_fem_TV_CAP:0 "®°¦¯þ²ª°þ" #GetTitleTV_CAP
+ LANDMEISTER_fem_VN_CAP:0 "®°¦¯þ²ª°³" #GetTitleVN_CAP
+ LANDSBONDE_DT_CAP:1 "ˆ°¦¡°¦³" #GetTitleDT_CAP
+ LANDSBONDE_IM_CAP:1 "ˆ°¦¡°¦" #GetTitleIM_CAP
+ LANDSBONDE_PR_CAP:1 "ˆ°¦¡°¦" #GetTitlePR_CAP
+ LANDSBONDE_RD_CAP:1 "ˆ°¦¡°¦" #GetTitleRD_CAP
+ LANDSBONDE_TV_CAP:1 "ˆ°¦¡°¦¯" #GetTitleTV_CAP
+ LANDSBONDE_VN_CAP:1 "ˆ°¦¡°¦" #GetTitleVN_CAP
+ LANDSBONDE_fem_DT_CAP:1 "ˆ°¦¡°¦" #GetTitleDT_CAP
+ LANDSBONDE_fem_IM_CAP:1 "ˆ°¦¡°¦" #GetTitleIM_CAP
+ LANDSBONDE_fem_PR_CAP:1 "ˆ°¦¡°¦" #GetTitlePR_CAP
+ LANDSBONDE_fem_RD_CAP:1 "ˆ°¦¡°¦º" #GetTitleRD_CAP
+ LANDSBONDE_fem_TV_CAP:1 "ˆ°¦¡°¦þ" #GetTitleTV_CAP
+ LANDSBONDE_fem_VN_CAP:1 "ˆ°¦¡°¦³" #GetTitleVN_CAP
+ LE_ELT_DT_CAP:1 "ˆ'¼®¿²" #GetTitleDT_CAP
+ LE_ELT_IM_CAP:1 "ˆ'¼®¿²" #GetTitleIM_CAP
+ LE_ELT_PR_CAP:1 "ˆ'¼®¿²" #GetTitlePR_CAP
+ LE_ELT_RD_CAP:1 "ˆ'¼®¿²º" #GetTitleRD_CAP
+ LE_ELT_TV_CAP:1 "ˆ'¼®¿²þ" #GetTitleTV_CAP
+ LE_ELT_VN_CAP:1 "ˆ'¼®¿²" #GetTitleVN_CAP
+ LORD_COMMANDER_DT_CAP:1 "ˆ¦³-¬¯°¦³½¸¯³" #GetTitleDT_CAP
+ LORD_COMMANDER_IM_CAP:1 "ˆ¦-¬¯°¦³½¸ªþ" #GetTitleIM_CAP
+ LORD_COMMANDER_PR_CAP:1 "ˆ¦-¬¯°¦³½¸ª¯" #GetTitlePR_CAP
+ LORD_COMMANDER_RD_CAP:1 "ˆ¦-¬¯°¦³½¸¥" #GetTitleRD_CAP
+ LORD_COMMANDER_TV_CAP:1 "ˆ¦¯-¬¯°¦³½¸ª¯" #GetTitleTV_CAP
+ LORD_COMMANDER_VN_CAP:1 "ˆ¦-¬¯°¦³½¸¥" #GetTitleVN_CAP
+ LORD_DT_CAP:1 "ˆ¦³" #GetTitleDT_CAP
+ LORD_HIGH_ADMIRAL_DT_CAP:1 "ˆ¦³ ¢ºŒ¯³ ¦¯ª®³" #GetTitleDT_CAP
+ LORD_HIGH_ADMIRAL_IM_CAP:1 "ˆ¦ ¢ºŒªþ ¦¯ª®" #GetTitleIM_CAP
+ LORD_HIGH_ADMIRAL_PR_CAP:1 "ˆ¦ ¢ºŒ¯ ¦¯ª®" #GetTitlePR_CAP
+ LORD_HIGH_ADMIRAL_RD_CAP:1 "ˆ¦ ¢ºŒ¥ ¦¯ª®" #GetTitleRD_CAP
+ LORD_HIGH_ADMIRAL_TV_CAP:1 "ˆ¦¯ ¢ºŒª¯ ¦¯ª®¯" #GetTitleTV_CAP
+ LORD_HIGH_ADMIRAL_VN_CAP:1 "ˆ¦ ¢ºŒ¥ ¦¯ª®" #GetTitleVN_CAP
+ LORD_HIGH_ADMIRAL_fem_DT_CAP:0 "ˆ¦ª ¢ºŒ¯³ ¦¯ª®³" #GetTitleDT_CAP
+ LORD_HIGH_ADMIRAL_fem_IM_CAP:0 "ˆ¦ª ¢ºŒªþ ¦¯ª®" #GetTitleIM_CAP
+ LORD_HIGH_ADMIRAL_fem_PR_CAP:0 "ˆ¦ª ¢ºŒ¯ ¦¯ª®" #GetTitlePR_CAP
+ LORD_HIGH_ADMIRAL_fem_RD_CAP:0 "ˆ¦ª ¢ºŒ¥ ¦¯ª®" #GetTitleRD_CAP
+ LORD_HIGH_ADMIRAL_fem_TV_CAP:0 "ˆ¦ª ¢ºŒª¯ ¦¯ª®¯" #GetTitleTV_CAP
+ LORD_HIGH_ADMIRAL_fem_VN_CAP:0 "ˆ¦ª ¢ºŒ¥ ¦¯ª®" #GetTitleVN_CAP
+ LORD_IM_CAP:1 "ˆ¦" #GetTitleIM_CAP
+ LORD_PROTECTOR_DT_CAP:1 "ˆ¦³-±²¬²³" #GetTitleDT_CAP
+ LORD_PROTECTOR_IM_CAP:1 "ˆ¦-±²¬²" #GetTitleIM_CAP
+ LORD_PROTECTOR_PR_CAP:1 "ˆ¦-±²¬²" #GetTitlePR_CAP
+ LORD_PROTECTOR_RD_CAP:1 "ˆ¦-±²¬²" #GetTitleRD_CAP
+ LORD_PROTECTOR_TV_CAP:1 "ˆ¦¯-±²¬²¯" #GetTitleTV_CAP
+ LORD_PROTECTOR_VN_CAP:1 "ˆ¦-±²¬²" #GetTitleVN_CAP
+ LORD_PR_CAP:1 "ˆ¦" #GetTitlePR_CAP
+ LORD_RD_CAP:1 "ˆ¦" #GetTitleRD_CAP
+ LORD_TV_CAP:1 "ˆ¦¯" #GetTitleTV_CAP
+ LORD_VN_CAP:1 "ˆ¦" #GetTitleVN_CAP
+ MAGISTER_HOCHMEISTER_DT_CAP:1 "Ï®ª¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ MAGISTER_HOCHMEISTER_IM_CAP:1 "Ï®ª¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ MAGISTER_HOCHMEISTER_PR_CAP:1 "Ï®ª¬¯ ¯¥ª²" #GetTitlePR_CAP
+ MAGISTER_HOCHMEISTER_RD_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleRD_CAP
+ MAGISTER_HOCHMEISTER_TV_CAP:1 "Ï®ª¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ MAGISTER_HOCHMEISTER_VN_CAP:1 "Ï®ª¬¥ ¯¥ª²" #GetTitleVN_CAP
+ MAGISTER_HOCHMEISTER_fem_DT_CAP:0 "Ï®ª¬¯³ ¯¥ª²³" #GetTitleDT_CAP
+ MAGISTER_HOCHMEISTER_fem_IM_CAP:0 "Ï®ª¬ªþ ¯¥ª²" #GetTitleIM_CAP
+ MAGISTER_HOCHMEISTER_fem_PR_CAP:0 "Ï®ª¬¯ ¯¥ª²" #GetTitlePR_CAP
+ MAGISTER_HOCHMEISTER_fem_RD_CAP:0 "Ï®ª¬¥ ¯¥ª²" #GetTitleRD_CAP
+ MAGISTER_HOCHMEISTER_fem_TV_CAP:0 "Ï®ª¬ª¯ ¯¥ª²¯" #GetTitleTV_CAP
+ MAGISTER_HOCHMEISTER_fem_VN_CAP:0 "Ï®ª¬¥ ¯¥ª²" #GetTitleVN_CAP
+ MAHARAJA_DT_CAP:1 "¦¨" #GetTitleDT_CAP
+ MAHARAJA_IM_CAP:1 "¦¨" #GetTitleIM_CAP
+ MAHARAJA_PR_CAP:1 "¦¨" #GetTitlePR_CAP
+ MAHARAJA_RD_CAP:1 "¦¨ª" #GetTitleRD_CAP
+ MAHARAJA_TV_CAP:1 "¦¨þ" #GetTitleTV_CAP
+ MAHARAJA_VN_CAP:1 "¦¨³" #GetTitleVN_CAP
+ MAHARANA_DT_CAP:1 "°" #GetTitleDT_CAP
+ MAHARANA_IM_CAP:1 "°" #GetTitleIM_CAP
+ MAHARANA_PR_CAP:1 "°" #GetTitlePR_CAP
+ MAHARANA_RD_CAP:1 "°º" #GetTitleRD_CAP
+ MAHARANA_TV_CAP:1 "°þ" #GetTitleTV_CAP
+ MAHARANA_VN_CAP:1 "°³" #GetTitleVN_CAP
+ MAHARANI_DT_CAP:1 "°ª" #GetTitleDT_CAP
+ MAHARANI_IM_CAP:1 "°ª" #GetTitleIM_CAP
+ MAHARANI_PR_CAP:1 "°ª" #GetTitlePR_CAP
+ MAHARANI_RD_CAP:1 "°ª" #GetTitleRD_CAP
+ MAHARANI_TV_CAP:1 "°ª" #GetTitleTV_CAP
+ MAHARANI_VN_CAP:1 "°ª" #GetTitleVN_CAP
+ MALIKAH_DT_CAP:1 "®ª¬" #GetTitleDT_CAP
+ MALIKAH_IM_CAP:1 "®ª¬" #GetTitleIM_CAP
+ MALIKAH_PR_CAP:1 "®ª¬" #GetTitlePR_CAP
+ MALIKAH_RD_CAP:1 "®ª¬ª" #GetTitleRD_CAP
+ MALIKAH_TV_CAP:1 "®ª¬þ" #GetTitleTV_CAP
+ MALIKAH_VN_CAP:1 "®ª¬³" #GetTitleVN_CAP
+ MALIK_DT_CAP:1 "®ª¬³" #GetTitleDT_CAP
+ MALIK_IM_CAP:1 "®ª¬" #GetTitleIM_CAP
+ MALIK_PR_CAP:1 "®ª¬" #GetTitlePR_CAP
+ MALIK_RD_CAP:1 "®ª¬" #GetTitleRD_CAP
+ MALIK_TV_CAP:1 "®ª¬¯" #GetTitleTV_CAP
+ MALIK_VN_CAP:1 "®ª¬" #GetTitleVN_CAP
+ MAMBO_DT_CAP:1 "¯¡" #GetTitleDT_CAP
+ MAMBO_IM_CAP:1 "¯¡" #GetTitleIM_CAP
+ MAMBO_PR_CAP:1 "¯¡" #GetTitlePR_CAP
+ MAMBO_RD_CAP:1 "¯¡" #GetTitleRD_CAP
+ MAMBO_TV_CAP:1 "¯¡" #GetTitleTV_CAP
+ MAMBO_VN_CAP:1 "¯¡" #GetTitleVN_CAP
+ MANSA_DT_CAP:0 "°" #GetTitleDT_CAP
+ MANSA_IM_CAP:0 "°" #GetTitleIM_CAP
+ MANSA_PR_CAP:0 "°" #GetTitlePR_CAP
+ MANSA_RD_CAP:0 "°" #GetTitleRD_CAP
+ MANSA_TV_CAP:0 "°" #GetTitleTV_CAP
+ MANSA_VN_CAP:0 "°" #GetTitleVN_CAP
+ MARGRAVE_CONSORT_DT_CAP:1 "¬¥´³-¬°²³" #GetTitleConsortDT_CAP
+ MARGRAVE_CONSORT_IM_CAP:1 "¬¥´-¬°²" #GetTitleConsortIM_CAP
+ MARGRAVE_CONSORT_PR_CAP:1 "¬¥´-¬°²" #GetTitleConsortPR_CAP
+ MARGRAVE_CONSORT_RD_CAP:1 "¬¥´-¬°²" #GetTitleConsortRD_CAP
+ MARGRAVE_CONSORT_TV_CAP:1 "¬¥´¯-¬°²¯" #GetTitleConsortTV_CAP
+ MARGRAVE_CONSORT_VN_CAP:1 "¬¥´-¬°²" #GetTitleConsortVN_CAP
+ MARGRAVE_DT_CAP:1 "¬¥´³" #GetTitleDT_CAP
+ MARGRAVE_IM_CAP:1 "¬¥´" #GetTitleIM_CAP
+ MARGRAVE_PR_CAP:1 "¬¥´" #GetTitlePR_CAP
+ MARGRAVE_RD_CAP:1 "¬¥´" #GetTitleRD_CAP
+ MARGRAVE_TV_CAP:1 "¬¥´¯" #GetTitleTV_CAP
+ MARGRAVE_VN_CAP:1 "¬¥´" #GetTitleVN_CAP
+ MARGRAVINE_DT_CAP:1 "¬¥´ª°" #GetTitleDT_CAP
+ MARGRAVINE_IM_CAP:1 "¬¥´ª°¾" #GetTitleIM_CAP
+ MARGRAVINE_PR_CAP:1 "¬¥´ª°" #GetTitlePR_CAP
+ MARGRAVINE_RD_CAP:1 "¬¥´ª°ª" #GetTitleRD_CAP
+ MARGRAVINE_TV_CAP:1 "¬¥´ª°þ" #GetTitleTV_CAP
+ MARGRAVINE_VN_CAP:1 "¬¥´ª°½" #GetTitleVN_CAP
+ MARSHAL_DT_CAP:1 "Œ®³" #GetTitleDT_CAP
+ MARSHAL_IM_CAP:1 "Œ®" #GetTitleIM_CAP
+ MARSHAL_PR_CAP:1 "Œ®" #GetTitlePR_CAP
+ MARSHAL_RD_CAP:1 "Œ®" #GetTitleRD_CAP
+ MARSHAL_TV_CAP:1 "Œ®¯" #GetTitleTV_CAP
+ MARSHAL_VN_CAP:1 "Œ®" #GetTitleVN_CAP
+ MARSHAL_fem_DT_CAP:0 "Œ®³" #GetTitleDT_CAP
+ MARSHAL_fem_IM_CAP:0 "Œ®" #GetTitleIM_CAP
+ MARSHAL_fem_PR_CAP:0 "Œ®" #GetTitlePR_CAP
+ MARSHAL_fem_RD_CAP:0 "Œ®" #GetTitleRD_CAP
+ MARSHAL_fem_TV_CAP:0 "Œ®¯" #GetTitleTV_CAP
+ MARSHAL_fem_VN_CAP:0 "Œ®" #GetTitleVN_CAP
+ MATRIARCH_DT_CAP:1 "²ª³" #GetTitleDT_CAP
+ MATRIARCH_ELECTOR_DT_CAP:1 "²ª³-¬³´½²³" #GetTitleDT_CAP
+ MATRIARCH_ELECTOR_IM_CAP:1 "²ª-¬³´½²" #GetTitleIM_CAP
+ MATRIARCH_ELECTOR_PR_CAP:1 "²ª-¬³´½²" #GetTitlePR_CAP
+ MATRIARCH_ELECTOR_RD_CAP:1 "²ª-¬³´½²" #GetTitleRD_CAP
+ MATRIARCH_ELECTOR_TV_CAP:1 "²ª¯-¬³´½²¯" #GetTitleTV_CAP
+ MATRIARCH_ELECTOR_VN_CAP:1 "²ª-¬³´½²" #GetTitleVN_CAP
+ MATRIARCH_IM_CAP:1 "²ª" #GetTitleIM_CAP
+ MATRIARCH_PR_CAP:1 "²ª" #GetTitlePR_CAP
+ MATRIARCH_RD_CAP:1 "²ª" #GetTitleRD_CAP
+ MATRIARCH_TV_CAP:1 "²ª¯" #GetTitleTV_CAP
+ MATRIARCH_VN_CAP:1 "²ª" #GetTitleVN_CAP
+ MAYORESS_DT_CAP:1 "¼³" #GetTitleDT_CAP
+ MAYORESS_IM_CAP:1 "¼" #GetTitleIM_CAP
+ MAYORESS_PR_CAP:1 "¼" #GetTitlePR_CAP
+ MAYORESS_RD_CAP:1 "¼" #GetTitleRD_CAP
+ MAYORESS_TV_CAP:1 "¼¯" #GetTitleTV_CAP
+ MAYORESS_VN_CAP:1 "¼" #GetTitleVN_CAP
+ MAYOR_DT_CAP:1 "¼³" #GetTitleDT_CAP
+ MAYOR_IM_CAP:1 "¼" #GetTitleIM_CAP
+ MAYOR_PR_CAP:1 "¼" #GetTitlePR_CAP
+ MAYOR_RD_CAP:1 "¼" #GetTitleRD_CAP
+ MAYOR_TV_CAP:1 "¼¯" #GetTitleTV_CAP
+ MAYOR_VN_CAP:1 "¼" #GetTitleVN_CAP
+ MBRET_DT_CAP:1 "¡²³" #GetTitleDT_CAP
+ MBRET_IM_CAP:1 "¡²" #GetTitleIM_CAP
+ MBRET_PR_CAP:1 "¡²" #GetTitlePR_CAP
+ MBRET_RD_CAP:1 "¡²" #GetTitleRD_CAP
+ MBRET_TV_CAP:1 "¡²¯" #GetTitleTV_CAP
+ MBRET_VN_CAP:1 "¡²" #GetTitleVN_CAP
+ MICHOQ_DT_CAP:1 "ª¶¬³" #GetTitleDT_CAP
+ MICHOQ_IM_CAP:1 "ª¶¬" #GetTitleIM_CAP
+ MICHOQ_PR_CAP:1 "ª¶¬" #GetTitlePR_CAP
+ MICHOQ_RD_CAP:1 "ª¶¬" #GetTitleRD_CAP
+ MICHOQ_TV_CAP:1 "ª¶¬¯" #GetTitleTV_CAP
+ MICHOQ_VN_CAP:1 "ª¶¬" #GetTitleVN_CAP
+ MIRZA_DT_CAP:1 "³©" #GetTitleHeirDT_CAP
+ MIRZA_IM_CAP:1 "³©" #GetTitleHeirIM_CAP
+ MIRZA_PR_CAP:1 "³©" #GetTitleHeirPR_CAP
+ MIRZA_RD_CAP:1 "³©º" #GetTitleHeirRD_CAP
+ MIRZA_TV_CAP:1 "³©þ" #GetTitleHeirTV_CAP
+ MIRZA_VN_CAP:1 "³©³" #GetTitleHeirVN_CAP
+ MISLDAR_DT_CAP:1 "ª®¿¦³" #GetTitleDT_CAP
+ MISLDAR_IM_CAP:1 "ª®¿¦" #GetTitleIM_CAP
+ MISLDAR_PR_CAP:1 "ª®¿¦" #GetTitlePR_CAP
+ MISLDAR_RD_CAP:1 "ª®¿¦" #GetTitleRD_CAP
+ MISLDAR_TV_CAP:1 "ª®¿¦¯" #GetTitleTV_CAP
+ MISLDAR_VN_CAP:1 "ª®¿¦" #GetTitleVN_CAP
+ MOABADAN_MOABAD_DT_CAP:1 "¡¦° ¯¡¦³" #GetTitleDT_CAP
+ MOABADAN_MOABAD_IM_CAP:1 "¡¦° ¯¡¦" #GetTitleIM_CAP
+ MOABADAN_MOABAD_PR_CAP:1 "¡¦° ¯¡¦" #GetTitlePR_CAP
+ MOABADAN_MOABAD_RD_CAP:1 "¡¦° ¯¡¦" #GetTitleRD_CAP
+ MOABADAN_MOABAD_TV_CAP:1 "¡¦° ¯¡¦þ" #GetTitleTV_CAP
+ MOABADAN_MOABAD_VN_CAP:1 "¡¦° ¯¡¦" #GetTitleVN_CAP
+ MOBEDYAR_DT_CAP:1 "¡¦¹¾" #GetTitleDT_CAP
+ MOBEDYAR_IM_CAP:1 "¡¦¹¾" #GetTitleIM_CAP
+ MOBEDYAR_PR_CAP:1 "¡¦¹¾" #GetTitlePR_CAP
+ MOBEDYAR_RD_CAP:1 "¡¦¹¾º" #GetTitleRD_CAP
+ MOBEDYAR_TV_CAP:1 "¡¦¹¾þ" #GetTitleTV_CAP
+ MOBEDYAR_VN_CAP:1 "¡¦¹¾³" #GetTitleVN_CAP
+ MOBED_DT_CAP:1 "¡¦³" #GetTitleDT_CAP
+ MOBED_IM_CAP:1 "¡¦" #GetTitleIM_CAP
+ MOBED_PR_CAP:1 "¡¦" #GetTitlePR_CAP
+ MOBED_RD_CAP:1 "¡¦" #GetTitleRD_CAP
+ MOBED_TV_CAP:1 "¡¦þ" #GetTitleTV_CAP
+ MOBED_VN_CAP:1 "¡¦" #GetTitleVN_CAP
+ MONSHU_DT_CAP:1 "°Œ³" #GetTitleDT_CAP
+ MONSHU_IM_CAP:1 "°Œ³" #GetTitleIM_CAP
+ MONSHU_PR_CAP:1 "°Œ³" #GetTitlePR_CAP
+ MONSHU_RD_CAP:1 "°Œ³" #GetTitleRD_CAP
+ MONSHU_TV_CAP:1 "°Œ³" #GetTitleTV_CAP
+ MONSHU_VN_CAP:1 "°Œ³" #GetTitleVN_CAP
+ MOST_SERNE_MARSHAL_DT_CAP:1 "Ô¢²®þŒ¯³ ¯Œ®³" #GetTitleDT_CAP
+ MOST_SERNE_MARSHAL_IM_CAP:1 "Ô¢²®þŒªþ ¯Œ®" #GetTitleIM_CAP
+ MOST_SERNE_MARSHAL_PR_CAP:1 "Ô¢²®þŒ¯ ¯Œ®" #GetTitlePR_CAP
+ MOST_SERNE_MARSHAL_RD_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleRD_CAP
+ MOST_SERNE_MARSHAL_TV_CAP:1 "Ô¢²®þŒª¯ ¯Œ®¯" #GetTitleTV_CAP
+ MOST_SERNE_MARSHAL_VN_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleVN_CAP
+ MOST_SERNE_MARSHAL_fem_DT_CAP:0 "Ô¢²®þŒ¯³ ¯Œ®³" #GetTitleDT_CAP
+ MOST_SERNE_MARSHAL_fem_IM_CAP:0 "Ô¢²®þŒªþ ¯Œ®" #GetTitleIM_CAP
+ MOST_SERNE_MARSHAL_fem_PR_CAP:0 "Ô¢²®þŒ¯ ¯Œ®" #GetTitlePR_CAP
+ MOST_SERNE_MARSHAL_fem_RD_CAP:0 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleRD_CAP
+ MOST_SERNE_MARSHAL_fem_TV_CAP:0 "Ô¢²®þŒª¯ ¯Œ®¯" #GetTitleTV_CAP
+ MOST_SERNE_MARSHAL_fem_VN_CAP:0 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleVN_CAP
+ MOTHER_SUPERIOR_DT_CAP:1 "²¾²®¿°ªµ" #GetTitleDT_CAP
+ MOTHER_SUPERIOR_IM_CAP:1 "²¾²®¿°ªµ" #GetTitleIM_CAP
+ MOTHER_SUPERIOR_PR_CAP:1 "²¾²®¿°ªµ" #GetTitlePR_CAP
+ MOTHER_SUPERIOR_RD_CAP:1 "²¾²®¿°ªµº" #GetTitleRD_CAP
+ MOTHER_SUPERIOR_TV_CAP:1 "²¾²®¿°ªµþ" #GetTitleTV_CAP
+ MOTHER_SUPERIOR_VN_CAP:1 "²¾²®¿°ªµ³" #GetTitleVN_CAP
+ MPANJAKE_BE_DT_CAP:1 "±°¦¨¬-¡" #GetTitleDT_CAP
+ MPANJAKE_BE_IM_CAP:1 "±°¦¨¬-¡" #GetTitleIM_CAP
+ MPANJAKE_BE_PR_CAP:1 "±°¦¨¬-¡" #GetTitlePR_CAP
+ MPANJAKE_BE_RD_CAP:1 "±°¦¨¬-¡" #GetTitleRD_CAP
+ MPANJAKE_BE_TV_CAP:1 "±°¦¨¬-¡" #GetTitleTV_CAP
+ MPANJAKE_BE_VN_CAP:1 "±°¦¨¬-¡" #GetTitleVN_CAP
+ MUGABE_DT_CAP:1 "³¥¡" #GetTitleDT_CAP
+ MUGABE_IM_CAP:1 "³¥¡" #GetTitleIM_CAP
+ MUGABE_PR_CAP:1 "³¥¡" #GetTitlePR_CAP
+ MUGABE_RD_CAP:1 "³¥¡º" #GetTitleRD_CAP
+ MUGABE_TV_CAP:1 "³¥¡" #GetTitleTV_CAP
+ MUGABE_VN_CAP:1 "³¥¡³" #GetTitleVN_CAP
+ MUGO_DT_CAP:1 "³¥" #GetTitleDT_CAP
+ MUGO_IM_CAP:1 "³¥" #GetTitleIM_CAP
+ MUGO_PR_CAP:1 "³¥" #GetTitlePR_CAP
+ MUGO_RD_CAP:1 "³¥" #GetTitleRD_CAP
+ MUGO_TV_CAP:1 "³¥" #GetTitleTV_CAP
+ MUGO_VN_CAP:1 "³¥" #GetTitleVN_CAP
+ MULOPWE_DT_CAP:1 "³®±¢" #GetTitleDT_CAP
+ MULOPWE_IM_CAP:1 "³®±¢" #GetTitleIM_CAP
+ MULOPWE_PR_CAP:1 "³®±¢" #GetTitlePR_CAP
+ MULOPWE_RD_CAP:1 "³®±¢º" #GetTitleRD_CAP
+ MULOPWE_TV_CAP:1 "³®±¢" #GetTitleTV_CAP
+ MULOPWE_VN_CAP:1 "³®±¢³" #GetTitleVN_CAP
+ MULOPWE_fem_DT_CAP:1 "³®±¢" #GetTitleDT_CAP
+ MULOPWE_fem_IM_CAP:1 "³®±¢" #GetTitleIM_CAP
+ MULOPWE_fem_PR_CAP:1 "³®±¢" #GetTitlePR_CAP
+ MULOPWE_fem_RD_CAP:1 "³®±¢" #GetTitleRD_CAP
+ MULOPWE_fem_TV_CAP:1 "³®±¢" #GetTitleTV_CAP
+ MULOPWE_fem_VN_CAP:1 "³®±¢" #GetTitleVN_CAP
+ MWAMI_DT_CAP:1 "¢°ª" #GetTitleDT_CAP
+ MWAMI_IM_CAP:1 "¢°ª" #GetTitleIM_CAP
+ MWAMI_PR_CAP:1 "¢°ª" #GetTitlePR_CAP
+ MWAMI_RD_CAP:1 "¢°ª" #GetTitleRD_CAP
+ MWAMI_TV_CAP:1 "¢°ª" #GetTitleTV_CAP
+ MWAMI_VN_CAP:1 "¢°ª" #GetTitleVN_CAP
+ MWENEMUTAPA_DT_CAP:1 "¢°¯³²±" #GetTitleDT_CAP
+ MWENEMUTAPA_IM_CAP:1 "¢°¯³²±" #GetTitleIM_CAP
+ MWENEMUTAPA_PR_CAP:1 "¢°¯³²±" #GetTitlePR_CAP
+ MWENEMUTAPA_RD_CAP:1 "¢°¯³²±º" #GetTitleRD_CAP
+ MWENEMUTAPA_TV_CAP:1 "¢°¯³²±¯" #GetTitleTV_CAP
+ MWENEMUTAPA_VN_CAP:1 "¢°¯³²±³" #GetTitleVN_CAP
+ MWENEMUTAPA_fem_DT_CAP:1 "¢°¯³²±" #GetTitleDT_CAP
+ MWENEMUTAPA_fem_IM_CAP:1 "¢°¯³²±" #GetTitleIM_CAP
+ MWENEMUTAPA_fem_PR_CAP:1 "¢°¯³²±" #GetTitlePR_CAP
+ MWENEMUTAPA_fem_RD_CAP:1 "¢°¯³²±º" #GetTitleRD_CAP
+ MWENEMUTAPA_fem_TV_CAP:1 "¢°¯³²±þ" #GetTitleTV_CAP
+ MWENEMUTAPA_fem_VN_CAP:1 "¢°¯³²±³" #GetTitleVN_CAP
+ MWENE_KONGO_DT_CAP:0 "¢° °¥" #GetTitleDT_CAP
+ MWENE_KONGO_IM_CAP:0 "¢° °¥" #GetTitleIM_CAP
+ MWENE_KONGO_PR_CAP:0 "¢° °¥" #GetTitlePR_CAP
+ MWENE_KONGO_RD_CAP:0 "¢° °¥" #GetTitleRD_CAP
+ MWENE_KONGO_TV_CAP:0 "¢° °¥" #GetTitleTV_CAP
+ MWENE_KONGO_VN_CAP:0 "¢° °¥" #GetTitleVN_CAP
+ MWENE_KONGO_fem_DT_CAP:0 "¢° °¥" #GetTitleDT_CAP
+ MWENE_KONGO_fem_IM_CAP:0 "¢° °¥" #GetTitleIM_CAP
+ MWENE_KONGO_fem_PR_CAP:0 "¢° °¥" #GetTitlePR_CAP
+ MWENE_KONGO_fem_RD_CAP:0 "¢° °¥" #GetTitleRD_CAP
+ MWENE_KONGO_fem_TV_CAP:0 "¢° °¥" #GetTitleTV_CAP
+ MWENE_KONGO_fem_VN_CAP:0 "¢° °¥" #GetTitleVN_CAP
+ NACOM_DT_CAP:1 "¬¯³" #GetTitleDT_CAP
+ NACOM_IM_CAP:1 "¬¯" #GetTitleIM_CAP
+ NACOM_PR_CAP:1 "¬¯" #GetTitlePR_CAP
+ NACOM_RD_CAP:1 "¬¯" #GetTitleRD_CAP
+ NACOM_TV_CAP:1 "¬¯¯" #GetTitleTV_CAP
+ NACOM_VN_CAP:1 "¬¯" #GetTitleVN_CAP
+ NAWABZADA_DT_CAP:1 "¡¡©¦³" #GetTitleHeirDT_CAP
+ NAWABZADA_IM_CAP:1 "¡¡©¦" #GetTitleHeirIM_CAP
+ NAWABZADA_PR_CAP:1 "¡¡©¦" #GetTitleHeirPR_CAP
+ NAWABZADA_RD_CAP:1 "¡¡©¦º" #GetTitleHeirRD_CAP
+ NAWABZADA_TV_CAP:1 "¡¡©¦¯" #GetTitleHeirTV_CAP
+ NAWABZADA_VN_CAP:1 "¡¡©¦" #GetTitleHeirVN_CAP
+ NAWAB_BEGUM_DT_CAP:1 "¢¡-¡¥³¯" #GetTitleDT_CAP
+ NAWAB_BEGUM_IM_CAP:1 "¢¡-¡¥³¯" #GetTitleIM_CAP
+ NAWAB_BEGUM_PR_CAP:1 "¢¡-¡¥³¯" #GetTitlePR_CAP
+ NAWAB_BEGUM_RD_CAP:1 "¢¡-¡¥³¯" #GetTitleRD_CAP
+ NAWAB_BEGUM_TV_CAP:1 "¢¡-¡¥³¯" #GetTitleTV_CAP
+ NAWAB_BEGUM_VN_CAP:1 "¢¡-¡¥³¯" #GetTitleVN_CAP
+ NAWAB_DT_CAP:1 "¢¡³" #GetTitleDT_CAP
+ NAWAB_IM_CAP:1 "¢¡" #GetTitleIM_CAP
+ NAWAB_PR_CAP:1 "¢¡" #GetTitlePR_CAP
+ NAWAB_RD_CAP:1 "¢¡" #GetTitleRD_CAP
+ NAWAB_TV_CAP:1 "¢¡¯" #GetTitleTV_CAP
+ NAWAB_VN_CAP:1 "¢¡" #GetTitleVN_CAP
+ NEGUSA_NEGAST_DT_CAP:1 "¥³ °¥²" #GetTitleDT_CAP
+ NEGUSA_NEGAST_IM_CAP:1 "¥³ °¥²" #GetTitleIM_CAP
+ NEGUSA_NEGAST_PR_CAP:1 "¥³ °¥²" #GetTitlePR_CAP
+ NEGUSA_NEGAST_RD_CAP:1 "¥³ °¥²º" #GetTitleRD_CAP
+ NEGUSA_NEGAST_TV_CAP:1 "¥³ °¥²þ" #GetTitleTV_CAP
+ NEGUSA_NEGAST_VN_CAP:1 "¥³ °¥²³" #GetTitleVN_CAP
+ NEGUS_DT_CAP:1 "¥³" #GetTitleDT_CAP
+ NEGUS_IM_CAP:1 "¥³" #GetTitleIM_CAP
+ NEGUS_PR_CAP:1 "¥³" #GetTitlePR_CAP
+ NEGUS_RD_CAP:1 "¥³º" #GetTitleRD_CAP
+ NEGUS_TV_CAP:1 "¥³þ" #GetTitleTV_CAP
+ NEGUS_VN_CAP:1 "¥³³" #GetTitleVN_CAP
+ NIGISTE_NIGIST_DT_CAP:1 "ª¥ª² °ª¥ª²" #GetTitleDT_CAP
+ NIGISTE_NIGIST_IM_CAP:1 "ª¥ª² °ª¥ª²" #GetTitleIM_CAP
+ NIGISTE_NIGIST_PR_CAP:1 "ª¥ª² °ª¥ª²" #GetTitlePR_CAP
+ NIGISTE_NIGIST_RD_CAP:1 "ª¥ª² °ª¥ª²º" #GetTitleRD_CAP
+ NIGISTE_NIGIST_TV_CAP:1 "ª¥ª² °ª¥ª²þ" #GetTitleTV_CAP
+ NIGISTE_NIGIST_VN_CAP:1 "ª¥ª² °ª¥ª²" #GetTitleVN_CAP
+ NIGIST_DT_CAP:1 "ª¥ª²" #GetTitleDT_CAP
+ NIGIST_IM_CAP:1 "ª¥ª²" #GetTitleIM_CAP
+ NIGIST_PR_CAP:1 "ª¥ª²" #GetTitlePR_CAP
+ NIGIST_RD_CAP:1 "ª¥ª²º" #GetTitleRD_CAP
+ NIGIST_TV_CAP:1 "ª¥ª²þ" #GetTitleTV_CAP
+ NIGIST_VN_CAP:1 "ª¥ª²" #GetTitleVN_CAP
+ NIZAMZADA_DT_CAP:1 "ª©¯©¦³" #GetTitleHeirDT_CAP
+ NIZAMZADA_IM_CAP:1 "ª©¯©¦" #GetTitleHeirIM_CAP
+ NIZAMZADA_PR_CAP:1 "ª©¯©¦" #GetTitleHeirPR_CAP
+ NIZAMZADA_RD_CAP:1 "ª©¯©¦º" #GetTitleHeirRD_CAP
+ NIZAMZADA_TV_CAP:1 "ª©¯©¦¯" #GetTitleHeirTV_CAP
+ NIZAMZADA_VN_CAP:1 "ª©¯©¦" #GetTitleHeirVN_CAP
+ NIZAM_BEGUM_DT_CAP:1 "ª©¯-¡¥³¯" #GetTitleDT_CAP
+ NIZAM_BEGUM_IM_CAP:1 "ª©¯-¡¥³¯" #GetTitleIM_CAP
+ NIZAM_BEGUM_PR_CAP:1 "ª©¯-¡¥³¯" #GetTitlePR_CAP
+ NIZAM_BEGUM_RD_CAP:1 "ª©¯-¡¥³¯" #GetTitleRD_CAP
+ NIZAM_BEGUM_TV_CAP:1 "ª©¯-¡¥³¯" #GetTitleTV_CAP
+ NIZAM_BEGUM_VN_CAP:1 "ª©¯-¡¥³¯" #GetTitleVN_CAP
+ NIZAM_DT_CAP:1 "ª©¯³" #GetTitleDT_CAP
+ NIZAM_IM_CAP:1 "ª©¯" #GetTitleIM_CAP
+ NIZAM_PR_CAP:1 "ª©¯" #GetTitlePR_CAP
+ NIZAM_RD_CAP:1 "ª©¯" #GetTitleRD_CAP
+ NIZAM_TV_CAP:1 "ª©¯¯" #GetTitleTV_CAP
+ NIZAM_VN_CAP:1 "ª©¯" #GetTitleVN_CAP
+ NNABAGEREKA_DT_CAP:1 "¡¥¬" #GetTitleDT_CAP
+ NNABAGEREKA_IM_CAP:1 "¡¥¬" #GetTitleIM_CAP
+ NNABAGEREKA_PR_CAP:1 "¡¥¬" #GetTitlePR_CAP
+ NNABAGEREKA_RD_CAP:1 "¡¥¬ª" #GetTitleRD_CAP
+ NNABAGEREKA_TV_CAP:1 "¡¥¬þ" #GetTitleTV_CAP
+ NNABAGEREKA_VN_CAP:1 "¡¥¬³" #GetTitleVN_CAP
+ NOMARCH_DT_CAP:1 "¯³" #GetTitleDT_CAP
+ NOMARCH_IM_CAP:1 "¯" #GetTitleIM_CAP
+ NOMARCH_PR_CAP:1 "¯" #GetTitlePR_CAP
+ NOMARCH_RD_CAP:1 "¯" #GetTitleRD_CAP
+ NOMARCH_TV_CAP:1 "¯¯" #GetTitleTV_CAP
+ NOMARCH_VN_CAP:1 "¯" #GetTitleVN_CAP
+ NUTSAL_DT_CAP:1 "³µ®³" #GetTitleDT_CAP
+ NUTSAL_IM_CAP:1 "³µ®" #GetTitleIM_CAP
+ NUTSAL_PR_CAP:1 "³µ®" #GetTitlePR_CAP
+ NUTSAL_RD_CAP:1 "³µ®" #GetTitleRD_CAP
+ NUTSAL_TV_CAP:1 "³µ®¯" #GetTitleTV_CAP
+ NUTSAL_VN_CAP:1 "³µ®" #GetTitleVN_CAP
+ NUTSAL_fem_DT_CAP:1 "³µ®³" #GetTitleDT_CAP
+ NUTSAL_fem_IM_CAP:1 "³µ®" #GetTitleIM_CAP
+ NUTSAL_fem_PR_CAP:1 "³µ®" #GetTitlePR_CAP
+ NUTSAL_fem_RD_CAP:1 "³µ®º" #GetTitleRD_CAP
+ NUTSAL_fem_TV_CAP:1 "³µ®þ" #GetTitleTV_CAP
+ NUTSAL_fem_VN_CAP:1 "³µ®³" #GetTitleVN_CAP
+ OLDERMAND_DT_CAP:1 "®¿¦¯°³" #GetTitleDT_CAP
+ OLDERMAND_IM_CAP:1 "®¿¦¯°" #GetTitleIM_CAP
+ OLDERMAND_PR_CAP:1 "®¿¦¯°" #GetTitlePR_CAP
+ OLDERMAND_RD_CAP:1 "®¿¦¯°" #GetTitleRD_CAP
+ OLDERMAND_TV_CAP:1 "®¿¦¯°¯" #GetTitleTV_CAP
+ OLDERMAND_VN_CAP:1 "®¿¦¯°" #GetTitleVN_CAP
+ OLDERMAND_fem_DT_CAP:1 "®¿¦¬¢ª°¦" #GetTitleDT_CAP
+ OLDERMAND_fem_IM_CAP:1 "®¿¦¬¢ª°¦" #GetTitleIM_CAP
+ OLDERMAND_fem_PR_CAP:1 "®¿¦¬¢ª°¦" #GetTitlePR_CAP
+ OLDERMAND_fem_RD_CAP:1 "®¿¦¬¢ª°¦º" #GetTitleRD_CAP
+ OLDERMAND_fem_TV_CAP:1 "®¿¦¬¢ª°¦þ" #GetTitleTV_CAP
+ OLDERMAND_fem_VN_CAP:1 "®¿¦¬¢ª°¦³" #GetTitleVN_CAP
+ OMUKAMA_DT_CAP:1 "¯³¬¯" #GetTitleDT_CAP
+ OMUKAMA_IM_CAP:1 "¯³¬¯" #GetTitleIM_CAP
+ OMUKAMA_PR_CAP:1 "¯³¬¯" #GetTitlePR_CAP
+ OMUKAMA_RD_CAP:1 "¯³¬¯º" #GetTitleRD_CAP
+ OMUKAMA_TV_CAP:1 "¯³¬¯" #GetTitleTV_CAP
+ OMUKAMA_VN_CAP:1 "¯³¬¯³" #GetTitleVN_CAP
+ O_KANNUSHI_DT_CAP:1 "'¬°°³ª" #GetTitleDT_CAP
+ O_KANNUSHI_IM_CAP:1 "'¬°°³ª" #GetTitleIM_CAP
+ O_KANNUSHI_PR_CAP:1 "'¬°°³ª" #GetTitlePR_CAP
+ O_KANNUSHI_RD_CAP:1 "'¬°°³ª" #GetTitleRD_CAP
+ O_KANNUSHI_TV_CAP:1 "'¬°°³ª" #GetTitleTV_CAP
+ O_KANNUSHI_VN_CAP:1 "'¬°°³ª" #GetTitleVN_CAP
+ PADISHAH_BEGUM_DT_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortDT_CAP
+ PADISHAH_BEGUM_IM_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortIM_CAP
+ PADISHAH_BEGUM_PR_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortPR_CAP
+ PADISHAH_BEGUM_RD_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortRD_CAP
+ PADISHAH_BEGUM_TV_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortTV_CAP
+ PADISHAH_BEGUM_VN_CAP:1 "‰¦ªŒ-¡¥³¯" #GetTitleConsortVN_CAP
+ PADISHAH_CONSORT_DT_CAP:1 "‰¦ªŒ³-¬°²³" #GetTitleConsortDT_CAP
+ PADISHAH_CONSORT_IM_CAP:1 "‰¦ªŒ-¬°²" #GetTitleConsortIM_CAP
+ PADISHAH_CONSORT_PR_CAP:1 "‰¦ªŒ-¬°²" #GetTitleConsortPR_CAP
+ PADISHAH_CONSORT_RD_CAP:1 "‰¦ªŒ-¬°²" #GetTitleConsortRD_CAP
+ PADISHAH_CONSORT_TV_CAP:1 "‰¦ªŒ¯-¬°²¯" #GetTitleConsortTV_CAP
+ PADISHAH_CONSORT_VN_CAP:1 "‰¦ªŒ-¬°²" #GetTitleConsortVN_CAP
+ PADISHAH_DT_CAP:1 "‰¦ªŒ³" #GetTitleDT_CAP
+ PADISHAH_IM_CAP:1 "‰¦ªŒ" #GetTitleIM_CAP
+ PADISHAH_PR_CAP:1 "‰¦ªŒ" #GetTitlePR_CAP
+ PADISHAH_RD_CAP:1 "‰¦ªŒ" #GetTitleRD_CAP
+ PADISHAH_TV_CAP:1 "‰¦ªŒ¯" #GetTitleTV_CAP
+ PADISHAH_VN_CAP:1 "‰¦ªŒ" #GetTitleVN_CAP
+ PANDITRAO_DT_CAP:1 "‰°¦ª²" #GetTitleDT_CAP
+ PANDITRAO_IM_CAP:1 "‰°¦ª²" #GetTitleIM_CAP
+ PANDITRAO_PR_CAP:1 "‰°¦ª²" #GetTitlePR_CAP
+ PANDITRAO_RD_CAP:1 "‰°¦ª²" #GetTitleRD_CAP
+ PANDITRAO_TV_CAP:1 "‰°¦ª²" #GetTitleTV_CAP
+ PANDITRAO_VN_CAP:1 "‰°¦ª²" #GetTitleVN_CAP
+ PANDIT_DT_CAP:1 "‰°¦ª²" #GetTitleDT_CAP
+ PANDIT_IM_CAP:1 "‰°¦ª²" #GetTitleIM_CAP
+ PANDIT_PR_CAP:1 "‰°¦ª²" #GetTitlePR_CAP
+ PANDIT_RD_CAP:1 "‰°¦ª²" #GetTitleRD_CAP
+ PANDIT_TV_CAP:1 "‰°¦ª²¯" #GetTitleTV_CAP
+ PANDIT_VN_CAP:1 "‰°¦ª²" #GetTitleVN_CAP
+ PARAMOUNT_CHIEFTESS_DT_CAP:1 "‰¢¯³ ¢¨¦½" #GetTitleDT_CAP
+ PARAMOUNT_CHIEFTESS_IM_CAP:1 "‰¢ºþ ¢¨¦¿" #GetTitleIM_CAP
+ PARAMOUNT_CHIEFTESS_PR_CAP:1 "‰¢¯ ¢¨¦" #GetTitlePR_CAP
+ PARAMOUNT_CHIEFTESS_RD_CAP:1 "‰¢¥ ¢¨¦¾" #GetTitleRD_CAP
+ PARAMOUNT_CHIEFTESS_TV_CAP:1 "‰¢º¯ ¢¨¦ž¯" #GetTitleTV_CAP
+ PARAMOUNT_CHIEFTESS_VN_CAP:1 "‰¢¥ ¢¨¦¾" #GetTitleVN_CAP
+ PARAMOUNT_CHIEF_DT_CAP:1 "‰¢¯³ ¢¨¦½" #GetTitleDT_CAP
+ PARAMOUNT_CHIEF_IM_CAP:1 "‰¢ºþ ¢¨¦¿" #GetTitleIM_CAP
+ PARAMOUNT_CHIEF_PR_CAP:1 "‰¢¯ ¢¨¦" #GetTitlePR_CAP
+ PARAMOUNT_CHIEF_RD_CAP:1 "‰¢¥ ¢¨¦¾" #GetTitleRD_CAP
+ PARAMOUNT_CHIEF_TV_CAP:1 "‰¢º¯ ¢¨¦ž¯" #GetTitleTV_CAP
+ PARAMOUNT_CHIEF_VN_CAP:1 "‰¢¥ ¢¨¦¾" #GetTitleVN_CAP
+ PARAMOUNT_ELDER_DT_CAP:1 "Ï¢°¯³ ²þŒª°" #GetTitleDT_CAP
+ PARAMOUNT_ELDER_IM_CAP:1 "Ï¢°ºþ ²þŒª°" #GetTitleIM_CAP
+ PARAMOUNT_ELDER_PR_CAP:1 "Ï¢°¯ ²þŒª°" #GetTitlePR_CAP
+ PARAMOUNT_ELDER_RD_CAP:1 "Ï¢°¥ ²þŒª°º" #GetTitleRD_CAP
+ PARAMOUNT_ELDER_TV_CAP:1 "Ï¢°º¯ ²þŒª°þ" #GetTitleTV_CAP
+ PARAMOUNT_ELDER_VN_CAP:1 "Ï¢°¥ ²þŒª°³" #GetTitleVN_CAP
+ PARAMOUNT_ELDER_fem_DT_CAP:1 "Ï¢°þ ²þŒª°" #GetTitleDT_CAP
+ PARAMOUNT_ELDER_fem_IM_CAP:1 "Ï¢°¾ ²þŒª°" #GetTitleIM_CAP
+ PARAMOUNT_ELDER_fem_PR_CAP:1 "Ï¢°þ ²þŒª°" #GetTitlePR_CAP
+ PARAMOUNT_ELDER_fem_RD_CAP:1 "Ï¢°þ ²þŒª°º" #GetTitleRD_CAP
+ PARAMOUNT_ELDER_fem_TV_CAP:1 "Ï¢°þ ²þŒª°þ" #GetTitleTV_CAP
+ PARAMOUNT_ELDER_fem_VN_CAP:1 "Ï¢°³½ ²þŒª°³" #GetTitleVN_CAP
+ PARAMOUNT_PRIESTESS_DT_CAP:1 "‰¢þ ¨ªµ" #GetTitleDT_CAP
+ PARAMOUNT_PRIESTESS_IM_CAP:1 "‰¢¾ ¨ªµ" #GetTitleIM_CAP
+ PARAMOUNT_PRIESTESS_PR_CAP:1 "‰¢þ ¨ªµ" #GetTitlePR_CAP
+ PARAMOUNT_PRIESTESS_RD_CAP:1 "‰¢þ ¨ªµº" #GetTitleRD_CAP
+ PARAMOUNT_PRIESTESS_TV_CAP:1 "‰¢þ ¨ªµþ" #GetTitleTV_CAP
+ PARAMOUNT_PRIESTESS_VN_CAP:1 "‰¢³½ ¨ªµ³" #GetTitleVN_CAP
+ PARAMOUNT_PRIEST_DT_CAP:1 "‰¢¯³ ¨µ³" #GetTitleDT_CAP
+ PARAMOUNT_PRIEST_IM_CAP:1 "‰¢ºþ ¨µ" #GetTitleIM_CAP
+ PARAMOUNT_PRIEST_PR_CAP:1 "‰¢¯ ¨µ" #GetTitlePR_CAP
+ PARAMOUNT_PRIEST_RD_CAP:1 "‰¢¥ ¨µ" #GetTitleRD_CAP
+ PARAMOUNT_PRIEST_TV_CAP:1 "‰¢º¯ ¨µ¯" #GetTitleTV_CAP
+ PARAMOUNT_PRIEST_VN_CAP:1 "‰¢¥ ¨µ" #GetTitleVN_CAP
+ PASHAZADE_DT_CAP:1 "‰Œ©¦" #GetTitleHeirDT_CAP
+ PASHAZADE_IM_CAP:1 "‰Œ©¦" #GetTitleHeirIM_CAP
+ PASHAZADE_PR_CAP:1 "‰Œ©¦" #GetTitleHeirPR_CAP
+ PASHAZADE_RD_CAP:1 "‰Œ©¦" #GetTitleHeirRD_CAP
+ PASHAZADE_TV_CAP:1 "‰Œ©¦" #GetTitleHeirTV_CAP
+ PASHAZADE_VN_CAP:1 "‰Œ©¦" #GetTitleHeirVN_CAP
+ PASHA_DT_CAP:1 "‰Œ" #GetTitleDT_CAP
+ PASHA_IM_CAP:1 "‰Œ" #GetTitleIM_CAP
+ PASHA_PR_CAP:1 "‰Œ" #GetTitlePR_CAP
+ PASHA_RD_CAP:1 "‰Œª" #GetTitleRD_CAP
+ PASHA_TV_CAP:1 "‰Œþ" #GetTitleTV_CAP
+ PASHA_VN_CAP:1 "‰Œ³" #GetTitleVN_CAP
+ PATRIARCH_DT_CAP:1 "‰²ª³" #GetTitleDT_CAP
+ PATRIARCH_ELECTOR_DT_CAP:1 "‰²ª³-¬³´½²³" #GetTitleDT_CAP
+ PATRIARCH_ELECTOR_IM_CAP:1 "‰²ª-¬³´½²" #GetTitleIM_CAP
+ PATRIARCH_ELECTOR_PR_CAP:1 "‰²ª-¬³´½²" #GetTitlePR_CAP
+ PATRIARCH_ELECTOR_RD_CAP:1 "‰²ª-¬³´½²" #GetTitleRD_CAP
+ PATRIARCH_ELECTOR_TV_CAP:1 "‰²ª¯-¬³´½²¯" #GetTitleTV_CAP
+ PATRIARCH_ELECTOR_VN_CAP:1 "‰²ª-¬³´½²" #GetTitleVN_CAP
+ PATRIARCH_IM_CAP:1 "‰²ª" #GetTitleIM_CAP
+ PATRIARCH_PR_CAP:1 "‰²ª" #GetTitlePR_CAP
+ PATRIARCH_RD_CAP:1 "‰²ª" #GetTitleRD_CAP
+ PATRIARCH_TV_CAP:1 "‰²ª¯" #GetTitleTV_CAP
+ PATRIARCH_VN_CAP:1 "‰²ª" #GetTitleVN_CAP
+ PESHWA_DT_CAP:1 "‰Œ¢" #GetTitleDT_CAP
+ PESHWA_IM_CAP:1 "‰Œ¢" #GetTitleIM_CAP
+ PESHWA_PR_CAP:1 "‰Œ¢" #GetTitlePR_CAP
+ PESHWA_RD_CAP:1 "‰Œ¢º" #GetTitleRD_CAP
+ PESHWA_TV_CAP:1 "‰Œ¢þ" #GetTitleTV_CAP
+ PESHWA_VN_CAP:1 "‰Œ¢³" #GetTitleVN_CAP
+ PESHWIN_DT_CAP:1 "‰Œ¢ª°" #GetTitleConsortDT_CAP
+ PESHWIN_IM_CAP:1 "‰Œ¢ª°" #GetTitleConsortIM_CAP
+ PESHWIN_PR_CAP:1 "‰Œ¢ª°" #GetTitleConsortPR_CAP
+ PESHWIN_RD_CAP:1 "‰Œ¢ª°" #GetTitleConsortRD_CAP
+ PESHWIN_TV_CAP:1 "‰Œ¢ª°" #GetTitleConsortTV_CAP
+ PESHWIN_VN_CAP:1 "‰Œ¢ª°³" #GetTitleConsortVN_CAP
+ PHARAOH_DT_CAP:1 "Ê°³" #GetTitleDT_CAP
+ PHARAOH_IM_CAP:1 "Ê°" #GetTitleIM_CAP
+ PHARAOH_PR_CAP:1 "Ê°" #GetTitlePR_CAP
+ PHARAOH_RD_CAP:1 "Ê°" #GetTitleRD_CAP
+ PHARAOH_TV_CAP:1 "Ê°¯" #GetTitleTV_CAP
+ PHARAOH_VN_CAP:1 "Ê°" #GetTitleVN_CAP
+ PHARAOH_fem_DT_CAP:1 "Ê°³" #GetTitleDT_CAP
+ PHARAOH_fem_IM_CAP:1 "Ê°" #GetTitleIM_CAP
+ PHARAOH_fem_PR_CAP:1 "Ê°³" #GetTitlePR_CAP
+ PHARAOH_fem_RD_CAP:1 "Ê°" #GetTitleRD_CAP
+ PHARAOH_fem_TV_CAP:1 "Ê°¯" #GetTitleTV_CAP
+ PHARAOH_fem_VN_CAP:1 "Ê°" #GetTitleVN_CAP
+ PIRATE_DAIMYO_DT_CAP:1 "ƒþ¯ž-±ª²³" #GetTitleDT_CAP
+ PIRATE_DAIMYO_IM_CAP:1 "ƒþ¯ž-±ª²" #GetTitleIM_CAP
+ PIRATE_DAIMYO_PR_CAP:1 "ƒþ¯ž-±ª²" #GetTitlePR_CAP
+ PIRATE_DAIMYO_RD_CAP:1 "ƒþ¯ž-±ª²" #GetTitleRD_CAP
+ PIRATE_DAIMYO_TV_CAP:1 "ƒþ¯ž-±ª²¯" #GetTitleTV_CAP
+ PIRATE_DAIMYO_VN_CAP:1 "ƒþ¯ž-±ª²" #GetTitleVN_CAP
+ PIRATE_EMPEROR_DT_CAP:1 "†¯±²³ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_EMPEROR_IM_CAP:1 "†¯±² ±ª²¢" #GetTitleIM_CAP
+ PIRATE_EMPEROR_PR_CAP:1 "†¯±² ±ª²¢" #GetTitlePR_CAP
+ PIRATE_EMPEROR_RD_CAP:1 "†¯±² ±ª²¢" #GetTitleRD_CAP
+ PIRATE_EMPEROR_TV_CAP:1 "†¯±²¯ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_EMPEROR_VN_CAP:1 "†¯±² ±ª²¢" #GetTitleVN_CAP
+ PIRATE_EMPRESS_DT_CAP:1 "†¯±²ªµ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_EMPRESS_IM_CAP:1 "†¯±²ªµ ±ª²¢" #GetTitleIM_CAP
+ PIRATE_EMPRESS_PR_CAP:1 "†¯±²ªµ ±ª²¢" #GetTitlePR_CAP
+ PIRATE_EMPRESS_RD_CAP:1 "†¯±²ªµº ±ª²¢" #GetTitleRD_CAP
+ PIRATE_EMPRESS_TV_CAP:1 "†¯±²ªµþ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_EMPRESS_VN_CAP:1 "†¯±²ªµ³ ±ª²¢" #GetTitleVN_CAP
+ PIRATE_KING_DT_CAP:1 "®½ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_KING_IM_CAP:1 "®¿ ±ª²¢" #GetTitleIM_CAP
+ PIRATE_KING_PR_CAP:1 "® ±ª²¢" #GetTitlePR_CAP
+ PIRATE_KING_RD_CAP:1 "®¾ ±ª²¢" #GetTitleRD_CAP
+ PIRATE_KING_TV_CAP:1 "®ž¯ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_KING_VN_CAP:1 "®¾ ±ª²¢" #GetTitleVN_CAP
+ PIRATE_PRINCESS_DT_CAP:1 "‰ª°µ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_PRINCESS_IM_CAP:1 "‰ª°µ ±ª²¢" #GetTitleIM_CAP
+ PIRATE_PRINCESS_PR_CAP:1 "‰ª°µ ±ª²¢" #GetTitlePR_CAP
+ PIRATE_PRINCESS_RD_CAP:1 "‰ª°µº ±ª²¢" #GetTitleRD_CAP
+ PIRATE_PRINCESS_TV_CAP:1 "‰ª°µþ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_PRINCESS_VN_CAP:1 "‰ª°µ³ ±ª²¢" #GetTitleVN_CAP
+ PIRATE_PRINCE_DT_CAP:1 "‰ª°µ³ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_PRINCE_IM_CAP:1 "‰ª°µ ±ª²¢" #GetTitleIM_CAP
+ PIRATE_PRINCE_PR_CAP:1 "‰ª°µ ±ª²¢" #GetTitlePR_CAP
+ PIRATE_PRINCE_RD_CAP:1 "‰ª°µ ±ª²¢" #GetTitleRD_CAP
+ PIRATE_PRINCE_TV_CAP:1 "‰ª°µ¯ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_PRINCE_VN_CAP:1 "‰ª°µ ±ª²¢" #GetTitleVN_CAP
+ PIRATE_QUEEN_DT_CAP:1 "®¢ ±ª²¢" #GetTitleDT_CAP
+ PIRATE_QUEEN_IM_CAP:1 "®¢ ±ª²¢" #GetTitleIM_CAP
+ PIRATE_QUEEN_PR_CAP:1 "®¢ ±ª²¢" #GetTitlePR_CAP
+ PIRATE_QUEEN_RD_CAP:1 "®¢º ±ª²¢" #GetTitleRD_CAP
+ PIRATE_QUEEN_TV_CAP:1 "®¢þ ±ª²¢" #GetTitleTV_CAP
+ PIRATE_QUEEN_VN_CAP:1 "®¢³ ±ª²¢" #GetTitleVN_CAP
+ POPETTE_DT_CAP:1 "‰±" #GetTitleDT_CAP
+ POPETTE_ELECTOR_DT_CAP:1 "‰±-¬³´½²³" #GetTitleDT_CAP
+ POPETTE_ELECTOR_IM_CAP:1 "‰±-¬³´½²" #GetTitleIM_CAP
+ POPETTE_ELECTOR_PR_CAP:1 "‰±-¬³´½²" #GetTitlePR_CAP
+ POPETTE_ELECTOR_RD_CAP:1 "‰±º-¬³´½²" #GetTitleRD_CAP
+ POPETTE_ELECTOR_TV_CAP:1 "‰±þ-¬³´½²¯" #GetTitleTV_CAP
+ POPETTE_ELECTOR_VN_CAP:1 "‰±³-¬³´½²" #GetTitleVN_CAP
+ POPETTE_IM_CAP:1 "‰±" #GetTitleIM_CAP
+ POPETTE_PR_CAP:1 "‰±" #GetTitlePR_CAP
+ POPETTE_RD_CAP:1 "‰±º" #GetTitleRD_CAP
+ POPETTE_TV_CAP:1 "‰±þ" #GetTitleTV_CAP
+ POPETTE_VN_CAP:1 "‰±³" #GetTitleVN_CAP
+ POPE_DT_CAP:1 "‰±" #GetTitleDT_CAP
+ POPE_ELECTOR_DT_CAP:1 "‰±-¬³´½²³" #GetTitleDT_CAP
+ POPE_ELECTOR_IM_CAP:1 "‰±-¬³´½²" #GetTitleIM_CAP
+ POPE_ELECTOR_PR_CAP:1 "‰±-¬³´½²" #GetTitlePR_CAP
+ POPE_ELECTOR_RD_CAP:1 "‰±º-¬³´½²" #GetTitleRD_CAP
+ POPE_ELECTOR_TV_CAP:1 "‰±þ-¬³´½²¯" #GetTitleTV_CAP
+ POPE_ELECTOR_VN_CAP:1 "‰±³-¬³´½²" #GetTitleVN_CAP
+ POPE_IM_CAP:1 "‰±" #GetTitleIM_CAP
+ POPE_PR_CAP:1 "‰±" #GetTitlePR_CAP
+ POPE_RD_CAP:1 "‰±º" #GetTitleRD_CAP
+ POPE_TV_CAP:1 "‰±þ" #GetTitleTV_CAP
+ POPE_VN_CAP:1 "‰±³" #GetTitleVN_CAP
+ POSADNIK_DT_CAP:1 "‰¦°ª¬³" #GetTitleDT_CAP
+ POSADNIK_IM_CAP:1 "‰¦°ª¬" #GetTitleIM_CAP
+ POSADNIK_PR_CAP:1 "‰¦°ª¬" #GetTitlePR_CAP
+ POSADNIK_RD_CAP:1 "‰¦°ª¬" #GetTitleRD_CAP
+ POSADNIK_TV_CAP:1 "‰¦°ª¬¯" #GetTitleTV_CAP
+ POSADNIK_VN_CAP:1 "‰¦°ª¬" #GetTitleVN_CAP
+ POSADNITSA_DT_CAP:1 "‰¦°ªµ" #GetTitleDT_CAP
+ POSADNITSA_IM_CAP:1 "‰¦°ªµ" #GetTitleIM_CAP
+ POSADNITSA_PR_CAP:1 "‰¦°ªµ" #GetTitlePR_CAP
+ POSADNITSA_RD_CAP:1 "‰¦°ªµº" #GetTitleRD_CAP
+ POSADNITSA_TV_CAP:1 "‰¦°ªµþ" #GetTitleTV_CAP
+ POSADNITSA_VN_CAP:1 "‰¦°ªµ³" #GetTitleVN_CAP
+ PRATINIDHI_DT_CAP:1 "‰²ª°ª¦ª" #GetTitleDT_CAP
+ PRATINIDHI_IM_CAP:1 "‰²ª°ª¦ª" #GetTitleIM_CAP
+ PRATINIDHI_PR_CAP:1 "‰²ª°ª¦ª" #GetTitlePR_CAP
+ PRATINIDHI_RD_CAP:1 "‰²ª°ª¦ª" #GetTitleRD_CAP
+ PRATINIDHI_TV_CAP:1 "‰²ª°ª¦ª" #GetTitleTV_CAP
+ PRATINIDHI_VN_CAP:1 "‰²ª°ª¦ª" #GetTitleVN_CAP
+ PRESIDENT_DT_CAP:1 "‰©ª¦°²³" #GetTitleDT_CAP
+ PRESIDENT_IM_CAP:1 "‰©ª¦°²" #GetTitleIM_CAP
+ PRESIDENT_PR_CAP:1 "‰©ª¦°²" #GetTitlePR_CAP
+ PRESIDENT_RD_CAP:1 "‰©ª¦°²" #GetTitleRD_CAP
+ PRESIDENT_TV_CAP:1 "‰©ª¦°²¯" #GetTitleTV_CAP
+ PRESIDENT_VN_CAP:1 "‰©ª¦°²" #GetTitleVN_CAP
+ PRESIDENT_fem_DT_CAP:1 "‰©ª¦°²³" #GetTitleDT_CAP
+ PRESIDENT_fem_IM_CAP:1 "‰©ª¦°²" #GetTitleIM_CAP
+ PRESIDENT_fem_PR_CAP:1 "‰©ª¦°²" #GetTitlePR_CAP
+ PRESIDENT_fem_RD_CAP:1 "‰©ª¦°²" #GetTitleRD_CAP
+ PRESIDENT_fem_TV_CAP:1 "‰©ª¦°²¯" #GetTitleTV_CAP
+ PRESIDENT_fem_VN_CAP:1 "‰©ª¦°²" #GetTitleVN_CAP
+ PRIESTESS_DT_CAP:1 "¨ªµ" #GetTitleDT_CAP
+ PRIESTESS_IM_CAP:1 "¨ªµ" #GetTitleIM_CAP
+ PRIESTESS_PR_CAP:1 "¨ªµ" #GetTitlePR_CAP
+ PRIESTESS_RD_CAP:1 "¨ªµº" #GetTitleRD_CAP
+ PRIESTESS_TV_CAP:1 "¨ªµþ" #GetTitleTV_CAP
+ PRIESTESS_VN_CAP:1 "¨ªµ³" #GetTitleVN_CAP
+ PRIEST_DT_CAP:1 "¨µ³" #GetTitleDT_CAP
+ PRIEST_IM_CAP:1 "¨µ" #GetTitleIM_CAP
+ PRIEST_PR_CAP:1 "¨µ" #GetTitlePR_CAP
+ PRIEST_RD_CAP:1 "¨µ" #GetTitleRD_CAP
+ PRIEST_TV_CAP:1 "¨µ¯" #GetTitleTV_CAP
+ PRIEST_VN_CAP:1 "¨µ" #GetTitleVN_CAP
+ PRINCESS_DT_CAP:1 "°¾¥ª°" #GetTitleDT_CAP
+ PRINCESS_ELECTOR_DT_CAP:1 "‚µ¥ª°-¬³´½²³" #GetTitleDT_CAP
+ PRINCESS_ELECTOR_IM_CAP:1 "‚µ¥ª°¾-¬³´½²" #GetTitleIM_CAP
+ PRINCESS_ELECTOR_PR_CAP:1 "‚µ¥ª°-¬³´½²" #GetTitlePR_CAP
+ PRINCESS_ELECTOR_RD_CAP:1 "‚µ¥ª°ª-¬³´½²" #GetTitleRD_CAP
+ PRINCESS_ELECTOR_TV_CAP:1 "‚µ¥ª°þ-¬³´½²¯" #GetTitleTV_CAP
+ PRINCESS_ELECTOR_VN_CAP:1 "‚µ¥ª°½-¬³´½²" #GetTitleVN_CAP
+ PRINCESS_HERCEGI_DT_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitleDT_CAP
+ PRINCESS_HERCEGI_IM_CAP:1 "Ï®ª¬¾ ¬°¾¥ª°¾" #GetTitleIM_CAP
+ PRINCESS_HERCEGI_PR_CAP:1 "Ï®ª¬þ ¬°¾¥ª°" #GetTitlePR_CAP
+ PRINCESS_HERCEGI_RD_CAP:1 "Ï®ª¬þ ¬°¾¥ª°ª" #GetTitleRD_CAP
+ PRINCESS_HERCEGI_TV_CAP:1 "Ï®ª¬þ ¬°¾¥ª°þ" #GetTitleTV_CAP
+ PRINCESS_HERCEGI_VN_CAP:1 "Ï®ª¬³½ ¬°¾¥ª°½" #GetTitleVN_CAP
+ PRINCESS_IM_CAP:1 "°¾¥ª°¾" #GetTitleIM_CAP
+ PRINCESS_PR_CAP:1 "°¾¥ª°" #GetTitlePR_CAP
+ PRINCESS_RD_CAP:1 "°¾¥ª°ª" #GetTitleRD_CAP
+ PRINCESS_TV_CAP:1 "°¾¥ª°þ" #GetTitleTV_CAP
+ PRINCESS_VN_CAP:1 "°¾¥ª°½" #GetTitleVN_CAP
+ PRINCEZA_DT_CAP:1 "°¾¥ª°" #GetTitleDT_CAP
+ PRINCEZA_IM_CAP:1 "°¾¥ª°¾" #GetTitleIM_CAP
+ PRINCEZA_PR_CAP:1 "°¾¥ª°" #GetTitlePR_CAP
+ PRINCEZA_RD_CAP:1 "°¾¥ª°ª" #GetTitleRD_CAP
+ PRINCEZA_TV_CAP:1 "°¾¥ª°þ" #GetTitleTV_CAP
+ PRINCEZA_VN_CAP:1 "°¾¥ª°½" #GetTitleVN_CAP
+ PRINCE_CONSORT_DT_CAP:1 "‰ª°µ³-¬°²³" #GetTitleConsortDT_CAP
+ PRINCE_CONSORT_IM_CAP:1 "‰ª°µ-¬°²" #GetTitleConsortIM_CAP
+ PRINCE_CONSORT_PR_CAP:1 "‰ª°µ-¬°²" #GetTitleConsortPR_CAP
+ PRINCE_CONSORT_RD_CAP:1 "‰ª°µ-¬°²" #GetTitleConsortRD_CAP
+ PRINCE_CONSORT_TV_CAP:1 "‰ª°µ¯-¬°²¯" #GetTitleConsortTV_CAP
+ PRINCE_CONSORT_VN_CAP:1 "‰ª°µ-¬°²" #GetTitleConsortVN_CAP
+ PRINCE_DT_CAP:1 "°¾©½" #GetTitleDT_CAP
+ PRINCE_ELECTOR_DT_CAP:1 "°¾©½-¬³´½²³" #GetTitleDT_CAP
+ PRINCE_ELECTOR_IM_CAP:1 "°¾©¿-¬³´½²" #GetTitleIM_CAP
+ PRINCE_ELECTOR_PR_CAP:1 "°¾©-¬³´½²" #GetTitlePR_CAP
+ PRINCE_ELECTOR_RD_CAP:1 "°¾©¾-¬³´½²" #GetTitleRD_CAP
+ PRINCE_ELECTOR_TV_CAP:1 "°¾©¯-¬³´½²¯" #GetTitleTV_CAP
+ PRINCE_ELECTOR_VN_CAP:1 "°¾©¾-¬³´½²" #GetTitleVN_CAP
+ PRINCE_HERCEG_DT_CAP:1 "Ï®ª¬¯³ ¬°¾©½" #GetTitleDT_CAP
+ PRINCE_HERCEG_IM_CAP:1 "Ï®ª¬ªþ ¬°¾©¿" #GetTitleIM_CAP
+ PRINCE_HERCEG_PR_CAP:1 "Ï®ª¬¯ ¬°¾©" #GetTitlePR_CAP
+ PRINCE_HERCEG_RD_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleRD_CAP
+ PRINCE_HERCEG_TV_CAP:1 "Ï®ª¬ª¯ ¬°¾©¯" #GetTitleTV_CAP
+ PRINCE_HERCEG_VN_CAP:1 "Ï®ª¬¥ ¬°¾©¾" #GetTitleVN_CAP
+ PRINCE_IM_CAP:1 "°¾©¿" #GetTitleIM_CAP
+ PRINCE_PR_CAP:1 "°¾©" #GetTitlePR_CAP
+ PRINCE_RD_CAP:1 "°¾©¾" #GetTitleRD_CAP
+ PRINCE_TV_CAP:1 "°¾©¯" #GetTitleTV_CAP
+ PRINCE_VN_CAP:1 "°¾©¾" #GetTitleVN_CAP
+ PRINC_DT_CAP:1 "°¾©½" #GetTitleDT_CAP
+ PRINC_IM_CAP:1 "°¾©¿" #GetTitleIM_CAP
+ PRINC_PR_CAP:1 "°¾©" #GetTitlePR_CAP
+ PRINC_RD_CAP:1 "°¾©¾" #GetTitleRD_CAP
+ PRINC_TV_CAP:1 "°¾©¯" #GetTitleTV_CAP
+ PRINC_VN_CAP:1 "°¾©¾" #GetTitleVN_CAP
+ PROTECTOR_DT_CAP:1 "‰²¬²³" #GetTitleDT_CAP
+ PROTECTOR_IM_CAP:1 "‰²¬²" #GetTitleIM_CAP
+ PROTECTOR_PR_CAP:1 "‰²¬²" #GetTitlePR_CAP
+ PROTECTOR_RD_CAP:1 "‰²¬²" #GetTitleRD_CAP
+ PROTECTOR_TV_CAP:1 "‰²¬²¯" #GetTitleTV_CAP
+ PROTECTOR_VN_CAP:1 "‰²¬²" #GetTitleVN_CAP
+ PROTECTOR_fem_DT_CAP:1 "‰²¬²³" #GetTitleDT_CAP
+ PROTECTOR_fem_IM_CAP:1 "‰²¬²" #GetTitleIM_CAP
+ PROTECTOR_fem_PR_CAP:1 "‰²¬²" #GetTitlePR_CAP
+ PROTECTOR_fem_RD_CAP:1 "‰²¬²" #GetTitleRD_CAP
+ PROTECTOR_fem_TV_CAP:1 "‰²¬²¯" #GetTitleTV_CAP
+ PROTECTOR_fem_VN_CAP:1 "‰²¬²" #GetTitleVN_CAP
+ QUEEN_CONSORT_DT_CAP:1 "®¢-¬°²³" #GetTitleConsortDT_CAP
+ QUEEN_CONSORT_IM_CAP:1 "®¢-¬°²" #GetTitleConsortIM_CAP
+ QUEEN_CONSORT_PR_CAP:1 "®¢-¬°²" #GetTitleConsortPR_CAP
+ QUEEN_CONSORT_RD_CAP:1 "®¢º-¬°²" #GetTitleConsortRD_CAP
+ QUEEN_CONSORT_TV_CAP:1 "®¢þ-¬°²¯" #GetTitleConsortTV_CAP
+ QUEEN_CONSORT_VN_CAP:1 "®¢³-¬°²" #GetTitleConsortVN_CAP
+ QUEEN_DT_CAP:1 "®¢" #GetTitleDT_CAP
+ QUEEN_ELECTOR_DT_CAP:1 "®¢-¬³´½²³" #GetTitleDT_CAP
+ QUEEN_ELECTOR_IM_CAP:1 "®¢-¬³´½²" #GetTitleIM_CAP
+ QUEEN_ELECTOR_PR_CAP:1 "®¢-¬³´½²" #GetTitlePR_CAP
+ QUEEN_ELECTOR_RD_CAP:1 "®¢º-¬³´½²" #GetTitleRD_CAP
+ QUEEN_ELECTOR_TV_CAP:1 "®¢þ-¬³´½²¯" #GetTitleTV_CAP
+ QUEEN_ELECTOR_VN_CAP:1 "®¢³-¬³´½²" #GetTitleVN_CAP
+ QUEEN_IM_CAP:1 "®¢" #GetTitleIM_CAP
+ QUEEN_PALATINE_DT_CAP:1 "‰´®¿µ¬ž°ª¥ª°" #GetTitleDT_CAP
+ QUEEN_PALATINE_IM_CAP:1 "‰´®¿µ¬ž°ª¥ª°" #GetTitleIM_CAP
+ QUEEN_PALATINE_PR_CAP:1 "‰´®¿µ¬ž°ª¥ª°" #GetTitlePR_CAP
+ QUEEN_PALATINE_RD_CAP:1 "‰´®¿µ¬ž°ª¥ª°ª" #GetTitleRD_CAP
+ QUEEN_PALATINE_TV_CAP:1 "‰´®¿µ¬ž°ª¥ª°þ" #GetTitleTV_CAP
+ QUEEN_PALATINE_VN_CAP:1 "‰´®¿µ¬ž°ª¥ª°½" #GetTitleVN_CAP
+ QUEEN_PR_CAP:1 "®¢" #GetTitlePR_CAP
+ QUEEN_RD_CAP:1 "®¢º" #GetTitleRD_CAP
+ QUEEN_TV_CAP:1 "®¢þ" #GetTitleTV_CAP
+ QUEEN_VN_CAP:1 "®¢³" #GetTitleVN_CAP
+ RABBI_DT_CAP:1 "Ð¢¢ª°³" #GetTitleDT_CAP
+ RABBI_IM_CAP:1 "Ð¢¢ª°" #GetTitleIM_CAP
+ RABBI_PR_CAP:1 "Ð¢¢ª°" #GetTitlePR_CAP
+ RABBI_RD_CAP:1 "Ð¢¢ª°" #GetTitleRD_CAP
+ RABBI_TV_CAP:1 "Ð¢¢ª°¯" #GetTitleTV_CAP
+ RABBI_VN_CAP:1 "Ð¢¢ª°" #GetTitleVN_CAP
+ RAJA_DT_CAP:1 "Ð¦¨" #GetTitleDT_CAP
+ RAJA_IM_CAP:1 "Ð¦¨" #GetTitleIM_CAP
+ RAJA_PR_CAP:1 "Ð¦¨" #GetTitlePR_CAP
+ RAJA_RD_CAP:1 "Ð¦¨ª" #GetTitleRD_CAP
+ RAJA_TV_CAP:1 "Ð¦¨þ" #GetTitleTV_CAP
+ RAJA_VN_CAP:1 "Ð¦¨³" #GetTitleVN_CAP
+ RAJKUMARI_DT_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirDT_CAP
+ RAJKUMARI_IM_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirIM_CAP
+ RAJKUMARI_PR_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirPR_CAP
+ RAJKUMARI_RD_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirRD_CAP
+ RAJKUMARI_TV_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirTV_CAP
+ RAJKUMARI_VN_CAP:1 "Ð¦¨¬³¯ª" #GetTitleHeirVN_CAP
+ RAJKUMAR_DT_CAP:1 "Ð¦¨¬³¯³" #GetTitleHeirDT_CAP
+ RAJKUMAR_IM_CAP:1 "Ð¦¨¬³¯" #GetTitleHeirIM_CAP
+ RAJKUMAR_PR_CAP:1 "Ð¦¨¬³¯" #GetTitleHeirPR_CAP
+ RAJKUMAR_RD_CAP:1 "Ð¦¨¬³¯" #GetTitleHeirRD_CAP
+ RAJKUMAR_TV_CAP:1 "Ð¦¨¬³¯¯" #GetTitleHeirTV_CAP
+ RAJKUMAR_VN_CAP:1 "Ð¦¨¬³¯" #GetTitleHeirVN_CAP
+ RANA_DT_CAP:1 "Ð°" #GetTitleDT_CAP
+ RANA_IM_CAP:1 "Ð°" #GetTitleIM_CAP
+ RANA_PR_CAP:1 "Ð°" #GetTitlePR_CAP
+ RANA_RD_CAP:1 "Ð°º" #GetTitleRD_CAP
+ RANA_TV_CAP:1 "Ð°þ" #GetTitleTV_CAP
+ RANA_VN_CAP:1 "Ð°³" #GetTitleVN_CAP
+ RANI_DT_CAP:1 "Ð°ª" #GetTitleDT_CAP
+ RANI_IM_CAP:1 "Ð°ª" #GetTitleIM_CAP
+ RANI_PR_CAP:1 "Ð°ª" #GetTitlePR_CAP
+ RANI_RD_CAP:1 "Ð°ª" #GetTitleRD_CAP
+ RANI_TV_CAP:1 "Ð°ª" #GetTitleTV_CAP
+ RANI_VN_CAP:1 "Ð°ª" #GetTitleVN_CAP
+ RAS_title_DT_CAP:1 "Ð" #GetTitleDT_CAP
+ RAS_title_IM_CAP:1 "Ð" #GetTitleIM_CAP
+ RAS_title_PR_CAP:1 "Ð" #GetTitlePR_CAP
+ RAS_title_RD_CAP:1 "Ðº" #GetTitleRD_CAP
+ RAS_title_TV_CAP:1 "Ðþ" #GetTitleTV_CAP
+ RAS_title_VN_CAP:1 "Ð³" #GetTitleVN_CAP
+ RECTORA_DT_CAP:1 "Ð¬²³" #GetTitleDT_CAP
+ RECTORA_IM_CAP:1 "Ð¬²" #GetTitleIM_CAP
+ RECTORA_PR_CAP:1 "Ð¬²" #GetTitlePR_CAP
+ RECTORA_RD_CAP:1 "Ð¬²" #GetTitleRD_CAP
+ RECTORA_TV_CAP:1 "Ð¬²¯" #GetTitleTV_CAP
+ RECTORA_VN_CAP:1 "Ð¬²" #GetTitleVN_CAP
+ RECTOR_DT_CAP:1 "Ð¬²³" #GetTitleDT_CAP
+ RECTOR_IM_CAP:1 "Ð¬²" #GetTitleIM_CAP
+ RECTOR_PR_CAP:1 "Ð¬²" #GetTitlePR_CAP
+ RECTOR_RD_CAP:1 "Ð¬²" #GetTitleRD_CAP
+ RECTOR_TV_CAP:1 "Ð¬²¯" #GetTitleTV_CAP
+ RECTOR_VN_CAP:1 "Ð¬²" #GetTitleVN_CAP
+ REGINA_DT_CAP:1 "Ð¥ª°" #GetTitleDT_CAP
+ REGINA_IM_CAP:1 "Ð¥ª°" #GetTitleIM_CAP
+ REGINA_PR_CAP:1 "Ð¥ª°" #GetTitlePR_CAP
+ REGINA_RD_CAP:1 "Ð¥ª°º" #GetTitleRD_CAP
+ REGINA_TV_CAP:1 "Ð¥ª°þ" #GetTitleTV_CAP
+ REGINA_VN_CAP:1 "Ð¥ª°³" #GetTitleVN_CAP
+ REX_DT_CAP:1 "Ð¬³" #GetTitleDT_CAP
+ REX_IM_CAP:1 "Ð¬" #GetTitleIM_CAP
+ REX_PR_CAP:1 "Ð¬" #GetTitlePR_CAP
+ REX_RD_CAP:1 "Ð¬" #GetTitleRD_CAP
+ REX_TV_CAP:1 "Ð¬¯" #GetTitleTV_CAP
+ REX_VN_CAP:1 "Ð¬" #GetTitleVN_CAP
+ SADR_DT_CAP:1 "Ô¦³" #GetTitleDT_CAP
+ SADR_IM_CAP:1 "Ô¦" #GetTitleIM_CAP
+ SADR_PR_CAP:1 "Ô¦" #GetTitlePR_CAP
+ SADR_RD_CAP:1 "Ô¦" #GetTitleRD_CAP
+ SADR_TV_CAP:1 "Ô¦þ" #GetTitleTV_CAP
+ SADR_VN_CAP:1 "Ô¦" #GetTitleVN_CAP
+ SAOPHA_DT_CAP:1 "Ô´³" #GetTitleDT_CAP
+ SAOPHA_IM_CAP:1 "Ô´" #GetTitleIM_CAP
+ SAOPHA_PR_CAP:1 "Ô´" #GetTitlePR_CAP
+ SAOPHA_RD_CAP:1 "Ô´º" #GetTitleRD_CAP
+ SAOPHA_TV_CAP:1 "Ô´¯" #GetTitleTV_CAP
+ SAOPHA_VN_CAP:1 "Ô´³" #GetTitleVN_CAP
+ SAPA_INKA_DT_CAP:1 "Ô± †°¬" #GetTitleDT_CAP
+ SAPA_INKA_IM_CAP:1 "Ô± †°¬" #GetTitleIM_CAP
+ SAPA_INKA_PR_CAP:1 "Ô± †°¬" #GetTitlePR_CAP
+ SAPA_INKA_RD_CAP:1 "Ô± †°¬ª" #GetTitleRD_CAP
+ SAPA_INKA_TV_CAP:1 "Ô± †°¬þ" #GetTitleTV_CAP
+ SAPA_INKA_VN_CAP:1 "Ô± †°¬³" #GetTitleVN_CAP
+ SARPAY_DT_CAP:0 "Ô±þ" #GetTitleDT_CAP
+ SARPAY_IM_CAP:0 "Ô±þ" #GetTitleIM_CAP
+ SARPAY_PR_CAP:0 "Ô±þ" #GetTitlePR_CAP
+ SARPAY_RD_CAP:0 "Ô±þ" #GetTitleRD_CAP
+ SARPAY_TV_CAP:0 "Ô±þ" #GetTitleTV_CAP
+ SARPAY_VN_CAP:0 "Ô±þ" #GetTitleVN_CAP
+ SERENE_DOGARESSA_DT_CAP:1 "Ô¢²®þŒþ ¦¥" #GetTitleDT_CAP
+ SERENE_DOGARESSA_IM_CAP:1 "Ô¢²®þŒ¾ ¦¥" #GetTitleIM_CAP
+ SERENE_DOGARESSA_PR_CAP:1 "Ô¢²®þŒþ ¦¥" #GetTitlePR_CAP
+ SERENE_DOGARESSA_RD_CAP:1 "Ô¢²®þŒþ ¦¥º" #GetTitleRD_CAP
+ SERENE_DOGARESSA_TV_CAP:1 "Ô¢²®þŒþ ¦¥þ" #GetTitleTV_CAP
+ SERENE_DOGARESSA_VN_CAP:1 "Ô¢²®þŒ³½ ¦¥³" #GetTitleVN_CAP
+ SERENE_DOGE_DT_CAP:1 "Ô¢²®þŒ¯³ ¦¨³" #GetTitleDT_CAP
+ SERENE_DOGE_IM_CAP:1 "Ô¢²®þŒªþ ¦¨" #GetTitleIM_CAP
+ SERENE_DOGE_PR_CAP:1 "Ô¢²®þŒ¯ ¦¨" #GetTitlePR_CAP
+ SERENE_DOGE_RD_CAP:1 "Ô¢²®þŒ¥ ¦¨" #GetTitleRD_CAP
+ SERENE_DOGE_TV_CAP:1 "Ô¢²®þŒª¯ ¦¨¯" #GetTitleTV_CAP
+ SERENE_DOGE_VN_CAP:1 "Ô¢²®þŒ¥ ¦¨" #GetTitleVN_CAP
+ SERENE_MARSHAL_DT_CAP:1 "Ô¢²®þŒ¯³ ¯Œ®³" #GetTitleDT_CAP
+ SERENE_MARSHAL_IM_CAP:1 "Ô¢²®þŒªþ ¯Œ®" #GetTitleIM_CAP
+ SERENE_MARSHAL_PR_CAP:1 "Ô¢²®þŒ¯ ¯Œ®" #GetTitlePR_CAP
+ SERENE_MARSHAL_RD_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleRD_CAP
+ SERENE_MARSHAL_TV_CAP:1 "Ô¢²®þŒª¯ ¯Œ®¯" #GetTitleTV_CAP
+ SERENE_MARSHAL_VN_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleVN_CAP
+ SERENE_MARSHAL_fem_DT_CAP:1 "Ô¢²®þŒ¯³ ¯Œ®³" #GetTitleDT_CAP
+ SERENE_MARSHAL_fem_IM_CAP:1 "Ô¢²®þŒªþ ¯Œ®" #GetTitleIM_CAP
+ SERENE_MARSHAL_fem_PR_CAP:1 "Ô¢²®þŒ¯ ¯Œ®" #GetTitlePR_CAP
+ SERENE_MARSHAL_fem_RD_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleRD_CAP
+ SERENE_MARSHAL_fem_TV_CAP:1 "Ô¢²®þŒª¯ ¯Œ®¯" #GetTitleTV_CAP
+ SERENE_MARSHAL_fem_VN_CAP:1 "Ô¢²®þŒ¥ ¯Œ®" #GetTitleVN_CAP
+ SHAHANSHAH_DT_CAP:1 "÷ª°Œ³" #GetTitleDT_CAP
+ SHAHANSHAH_IM_CAP:1 "÷ª°Œ" #GetTitleIM_CAP
+ SHAHANSHAH_PR_CAP:1 "÷ª°Œ" #GetTitlePR_CAP
+ SHAHANSHAH_RD_CAP:1 "÷ª°Œ" #GetTitleRD_CAP
+ SHAHANSHAH_TV_CAP:1 "÷ª°Œ¯" #GetTitleTV_CAP
+ SHAHANSHAH_VN_CAP:1 "÷ª°Œ" #GetTitleVN_CAP
+ SHAHDOKHT_DT_CAP:1 "÷¦²" #GetTitleHeirDT_CAP
+ SHAHDOKHT_IM_CAP:1 "÷¦²" #GetTitleHeirIM_CAP
+ SHAHDOKHT_PR_CAP:1 "÷¦²" #GetTitleHeirPR_CAP
+ SHAHDOKHT_RD_CAP:1 "÷¦²" #GetTitleHeirRD_CAP
+ SHAHDOKHT_TV_CAP:1 "÷¦²" #GetTitleHeirTV_CAP
+ SHAHDOKHT_VN_CAP:1 "÷¦²" #GetTitleHeirVN_CAP
+ SHAHZADE_DT_CAP:1 "÷©¦" #GetTitleHeirDT_CAP
+ SHAHZADE_IM_CAP:1 "÷©¦" #GetTitleHeirIM_CAP
+ SHAHZADE_PR_CAP:1 "÷©¦" #GetTitleHeirPR_CAP
+ SHAHZADE_RD_CAP:1 "÷©¦" #GetTitleHeirRD_CAP
+ SHAHZADE_TV_CAP:1 "÷©¦" #GetTitleHeirTV_CAP
+ SHAHZADE_VN_CAP:1 "÷©¦" #GetTitleHeirVN_CAP
+ SHAH_CONSORT_DT_CAP:1 "÷³-¬°²³" #GetTitleConsortDT_CAP
+ SHAH_CONSORT_IM_CAP:1 "÷-¬°²" #GetTitleConsortIM_CAP
+ SHAH_CONSORT_PR_CAP:1 "÷-¬°²" #GetTitleConsortPR_CAP
+ SHAH_CONSORT_RD_CAP:1 "÷-¬°²" #GetTitleConsortRD_CAP
+ SHAH_CONSORT_TV_CAP:1 "÷¯-¬°²¯" #GetTitleConsortTV_CAP
+ SHAH_CONSORT_VN_CAP:1 "÷-¬°²" #GetTitleConsortVN_CAP
+ SHAH_DT_CAP:1 "÷³" #GetTitleDT_CAP
+ SHAH_IM_CAP:1 "÷" #GetTitleIM_CAP
+ SHAH_PR_CAP:1 "÷" #GetTitlePR_CAP
+ SHAH_RD_CAP:1 "÷" #GetTitleRD_CAP
+ SHAH_TV_CAP:1 "÷¯" #GetTitleTV_CAP
+ SHAH_VN_CAP:1 "÷" #GetTitleVN_CAP
+ SHARIFA_DT_CAP:1 "÷ª´" #GetTitleDT_CAP
+ SHARIFA_IM_CAP:1 "÷ª´" #GetTitleIM_CAP
+ SHARIFA_PR_CAP:1 "÷ª´" #GetTitlePR_CAP
+ SHARIFA_RD_CAP:1 "÷ª´º" #GetTitleRD_CAP
+ SHARIFA_TV_CAP:1 "÷ª´þ" #GetTitleTV_CAP
+ SHARIFA_VN_CAP:1 "÷ª´º" #GetTitleVN_CAP
+ SHARIFZADE_DT_CAP:0 "÷ª´©¦" #GetTitleHeirDT_CAP
+ SHARIFZADE_IM_CAP:0 "÷ª´©¦" #GetTitleHeirIM_CAP
+ SHARIFZADE_PR_CAP:0 "÷ª´©¦" #GetTitleHeirPR_CAP
+ SHARIFZADE_RD_CAP:0 "÷ª´©¦" #GetTitleHeirRD_CAP
+ SHARIFZADE_TV_CAP:0 "÷ª´©¦" #GetTitleHeirTV_CAP
+ SHARIFZADE_VN_CAP:0 "÷ª´©¦" #GetTitleHeirVN_CAP
+ SHARIF_DT_CAP:1 "÷ª´³" #GetTitleDT_CAP
+ SHARIF_IM_CAP:1 "÷ª´" #GetTitleIM_CAP
+ SHARIF_PR_CAP:1 "÷ª´" #GetTitlePR_CAP
+ SHARIF_RD_CAP:1 "÷ª´" #GetTitleRD_CAP
+ SHARIF_TV_CAP:1 "÷ª´¯" #GetTitleTV_CAP
+ SHARIF_VN_CAP:1 "÷ª´" #GetTitleVN_CAP
+ SHEIKHA_DT_CAP:1 "÷þ" #GetTitleDT_CAP
+ SHEIKHA_IM_CAP:1 "÷þ" #GetTitleIM_CAP
+ SHEIKHA_PR_CAP:1 "÷þ" #GetTitlePR_CAP
+ SHEIKHA_RD_CAP:1 "÷þª" #GetTitleRD_CAP
+ SHEIKHA_TV_CAP:1 "÷þþ" #GetTitleTV_CAP
+ SHEIKHA_VN_CAP:1 "÷þ³" #GetTitleVN_CAP
+ SHEIKH_DT_CAP:1 "÷þ³" #GetTitleDT_CAP
+ SHEIKH_IM_CAP:1 "÷þ" #GetTitleIM_CAP
+ SHEIKH_PR_CAP:1 "÷þ" #GetTitlePR_CAP
+ SHEIKH_RD_CAP:1 "÷þ" #GetTitleRD_CAP
+ SHEIKH_TV_CAP:1 "÷þ¯" #GetTitleTV_CAP
+ SHEIKH_VN_CAP:1 "÷þ" #GetTitleVN_CAP
+ SHINRAN_DT_CAP:1 "Ôª°°³" #GetTitleDT_CAP
+ SHINRAN_IM_CAP:1 "Ôª°°" #GetTitleIM_CAP
+ SHINRAN_PR_CAP:1 "Ôª°°" #GetTitlePR_CAP
+ SHINRAN_RD_CAP:1 "Ôª°°" #GetTitleRD_CAP
+ SHINRAN_TV_CAP:1 "Ôª°°¯" #GetTitleTV_CAP
+ SHINRAN_VN_CAP:1 "Ôª°°" #GetTitleVN_CAP
+ SHOGUNESS_DT_CAP:1 "Ôž¥³°³" #GetTitleDT_CAP
+ SHOGUNESS_IM_CAP:1 "Ôž¥³°" #GetTitleIM_CAP
+ SHOGUNESS_PR_CAP:1 "Ôž¥³°³" #GetTitlePR_CAP
+ SHOGUNESS_RD_CAP:1 "Ôž¥³°" #GetTitleRD_CAP
+ SHOGUNESS_TV_CAP:1 "Ôž¥³°¯" #GetTitleTV_CAP
+ SHOGUNESS_VN_CAP:1 "Ôž¥³°" #GetTitleVN_CAP
+ SHOGUN_DT_CAP:1 "Ôž¥³°³" #GetTitleDT_CAP
+ SHOGUN_IM_CAP:1 "Ôž¥³°" #GetTitleIM_CAP
+ SHOGUN_PR_CAP:1 "Ôž¥³°" #GetTitlePR_CAP
+ SHOGUN_RD_CAP:1 "Ôž¥³°" #GetTitleRD_CAP
+ SHOGUN_TV_CAP:1 "Ôž¥³°¯" #GetTitleTV_CAP
+ SHOGUN_VN_CAP:1 "Ôž¥³°" #GetTitleVN_CAP
+ SISTER_DT_CAP:0 "Ô²" #GetTitleDT_CAP
+ SISTER_IM_CAP:0 "Ô²" #GetTitleIM_CAP
+ SISTER_PR_CAP:0 "Ô²" #GetTitlePR_CAP
+ SISTER_RD_CAP:0 "Ô²º" #GetTitleRD_CAP
+ SISTER_TV_CAP:0 "Ô²þ" #GetTitleTV_CAP
+ SISTER_VN_CAP:0 "Ô²³" #GetTitleVN_CAP
+ SON_OF_HEAVEN_DT_CAP:1 "Ôº°³ ¡" #GetTitleDT_CAP
+ SON_OF_HEAVEN_IM_CAP:1 "Ôº° ¡" #GetTitleIM_CAP
+ SON_OF_HEAVEN_PR_CAP:1 "Ôº° ¡" #GetTitlePR_CAP
+ SON_OF_HEAVEN_RD_CAP:1 "Ôº° ¡" #GetTitleRD_CAP
+ SON_OF_HEAVEN_TV_CAP:1 "Ôº°¯ ¡" #GetTitleTV_CAP
+ SON_OF_HEAVEN_VN_CAP:1 "Ôº° ¡" #GetTitleVN_CAP
+ SPEAKER_DT_CAP:1 "Ô±ª¬³" #GetTitleDT_CAP
+ SPEAKER_IM_CAP:1 "Ô±ª¬" #GetTitleIM_CAP
+ SPEAKER_PR_CAP:1 "Ô±ª¬" #GetTitlePR_CAP
+ SPEAKER_RD_CAP:1 "Ô±ª¬" #GetTitleRD_CAP
+ SPEAKER_TV_CAP:1 "Ô±ª¬¯" #GetTitleTV_CAP
+ SPEAKER_VN_CAP:1 "Ô±ª¬" #GetTitleVN_CAP
+ SPEAKER_fem_DT_CAP:0 "Ô±ª¬³" #GetTitleDT_CAP
+ SPEAKER_fem_IM_CAP:0 "Ô±ª¬" #GetTitleIM_CAP
+ SPEAKER_fem_PR_CAP:0 "Ô±ª¬" #GetTitlePR_CAP
+ SPEAKER_fem_RD_CAP:0 "Ô±ª¬" #GetTitleRD_CAP
+ SPEAKER_fem_TV_CAP:0 "Ô±ª¬¯" #GetTitleTV_CAP
+ SPEAKER_fem_VN_CAP:0 "Ô±ª¬" #GetTitleVN_CAP
+ STADTHOLDERESS_DT_CAP:1 "Ô²²³¦²" #GetTitleDT_CAP
+ STADTHOLDERESS_IM_CAP:1 "Ô²²³¦²" #GetTitleIM_CAP
+ STADTHOLDERESS_PR_CAP:1 "Ô²²³¦²" #GetTitlePR_CAP
+ STADTHOLDERESS_RD_CAP:1 "Ô²²³¦²º" #GetTitleRD_CAP
+ STADTHOLDERESS_TV_CAP:1 "Ô²²³¦²þ" #GetTitleTV_CAP
+ STADTHOLDERESS_VN_CAP:1 "Ô²²³¦²³" #GetTitleVN_CAP
+ STADTHOLDER_DT_CAP:1 "Ô²²³¦³" #GetTitleDT_CAP
+ STADTHOLDER_IM_CAP:1 "Ô²²³¦" #GetTitleIM_CAP
+ STADTHOLDER_PR_CAP:1 "Ô²²³¦" #GetTitlePR_CAP
+ STADTHOLDER_RD_CAP:1 "Ô²²³¦" #GetTitleRD_CAP
+ STADTHOLDER_TV_CAP:1 "Ô²²³¦¯" #GetTitleTV_CAP
+ STADTHOLDER_VN_CAP:1 "Ô²²³¦" #GetTitleVN_CAP
+ STORBONDE_DT_CAP:1 "Ô²³¡°¦³" #GetTitleDT_CAP
+ STORBONDE_IM_CAP:1 "Ô²³¡°¦" #GetTitleIM_CAP
+ STORBONDE_PR_CAP:1 "Ô²³¡°¦" #GetTitlePR_CAP
+ STORBONDE_RD_CAP:1 "Ô²³¡°¦" #GetTitleRD_CAP
+ STORBONDE_TV_CAP:1 "Ô²³¡°¦¯" #GetTitleTV_CAP
+ STORBONDE_VN_CAP:1 "Ô²³¡°¦" #GetTitleVN_CAP
+ STORBONDE_fem_DT_CAP:1 "Ô²³¡°¦" #GetTitleDT_CAP
+ STORBONDE_fem_IM_CAP:1 "Ô²³¡°¦" #GetTitleIM_CAP
+ STORBONDE_fem_PR_CAP:1 "Ô²³¡°¦" #GetTitlePR_CAP
+ STORBONDE_fem_RD_CAP:1 "Ô²³¡°¦º" #GetTitleRD_CAP
+ STORBONDE_fem_TV_CAP:1 "Ô²³¡°¦þ" #GetTitleTV_CAP
+ STORBONDE_fem_VN_CAP:1 "Ô²³¡°¦³" #GetTitleVN_CAP
+ SULTANA_BEGUM_DT_CAP:1 "Ô³®²°-¡¥³¯" #GetTitleConsortDT_CAP
+ SULTANA_BEGUM_IM_CAP:1 "Ô³®²°-¡¥³¯" #GetTitleConsortIM_CAP
+ SULTANA_BEGUM_PR_CAP:1 "Ô³®²°-¡¥³¯" #GetTitleConsortPR_CAP
+ SULTANA_BEGUM_RD_CAP:1 "Ô³®²°º-¡¥³¯" #GetTitleConsortRD_CAP
+ SULTANA_BEGUM_TV_CAP:1 "Ô³®²°þ-¡¥³¯" #GetTitleConsortTV_CAP
+ SULTANA_BEGUM_VN_CAP:1 "Ô³®²°³-¡¥³¯" #GetTitleConsortVN_CAP
+ SULTANA_DT_CAP:1 "Ô³®²°³" #GetTitleDT_CAP
+ SULTANA_IM_CAP:1 "Ô³®²°" #GetTitleIM_CAP
+ SULTANA_PR_CAP:1 "Ô³®²°" #GetTitlePR_CAP
+ SULTANA_RD_CAP:1 "Ô³®²°º" #GetTitleRD_CAP
+ SULTANA_TV_CAP:1 "Ô³®²°þ" #GetTitleTV_CAP
+ SULTANA_VN_CAP:1 "Ô³®²°³" #GetTitleVN_CAP
+ SULTAN_CONSORT_DT_CAP:1 "Ô³®²°³-¬°²³" #GetTitleConsortDT_CAP
+ SULTAN_CONSORT_IM_CAP:1 "Ô³®²°-¬°²" #GetTitleConsortIM_CAP
+ SULTAN_CONSORT_PR_CAP:1 "Ô³®²°-¬°²" #GetTitleConsortPR_CAP
+ SULTAN_CONSORT_RD_CAP:1 "Ô³®²°-¬°²" #GetTitleConsortRD_CAP
+ SULTAN_CONSORT_TV_CAP:1 "Ô³®²°¯-¬°²¯" #GetTitleConsortTV_CAP
+ SULTAN_CONSORT_VN_CAP:1 "Ô³®²°-¬°²" #GetTitleConsortVN_CAP
+ SULTAN_DT_CAP:1 "Ô³®²°³" #GetTitleDT_CAP
+ SULTAN_IM_CAP:1 "Ô³®²°" #GetTitleIM_CAP
+ SULTAN_PR_CAP:1 "Ô³®²°" #GetTitlePR_CAP
+ SULTAN_RD_CAP:1 "Ô³®²°" #GetTitleRD_CAP
+ SULTAN_TV_CAP:1 "Ô³®²°¯" #GetTitleTV_CAP
+ SULTAN_VN_CAP:1 "Ô³®²°" #GetTitleVN_CAP
+ SULTAN_fem_DT_CAP:0 "Ô³®²°³" #GetTitleDT_CAP
+ SULTAN_fem_IM_CAP:0 "Ô³®²°" #GetTitleIM_CAP
+ SULTAN_fem_PR_CAP:0 "Ô³®²°" #GetTitlePR_CAP
+ SULTAN_fem_RD_CAP:0 "Ô³®²°" #GetTitleRD_CAP
+ SULTAN_fem_TV_CAP:0 "Ô³®²°¯" #GetTitleTV_CAP
+ SULTAN_fem_VN_CAP:0 "Ô³®²°" #GetTitleVN_CAP
+ SUPREME_ADMIRAL_DT_CAP:1 "Ï¢°¯³ ¦¯ª®³" #GetTitleDT_CAP
+ SUPREME_ADMIRAL_IM_CAP:1 "Ï¢°ºþ ¦¯ª®" #GetTitleIM_CAP
+ SUPREME_ADMIRAL_PR_CAP:1 "Ï¢°¯ ¦¯ª®" #GetTitlePR_CAP
+ SUPREME_ADMIRAL_RD_CAP:1 "Ï¢°¥ ¦¯ª®" #GetTitleRD_CAP
+ SUPREME_ADMIRAL_TV_CAP:1 "Ï¢°º¯ ¦¯ª®¯" #GetTitleTV_CAP
+ SUPREME_ADMIRAL_VN_CAP:1 "Ï¢°¥ ¦¯ª®" #GetTitleVN_CAP
+ SUPREME_ADMIRAL_fem_DT_CAP:0 "Ï¢°¯³ ¦¯ª®³" #GetTitleDT_CAP
+ SUPREME_ADMIRAL_fem_IM_CAP:0 "Ï¢°ºþ ¦¯ª®" #GetTitleIM_CAP
+ SUPREME_ADMIRAL_fem_PR_CAP:0 "Ï¢°¯ ¦¯ª®" #GetTitlePR_CAP
+ SUPREME_ADMIRAL_fem_RD_CAP:0 "Ï¢°¥ ¦¯ª®" #GetTitleRD_CAP
+ SUPREME_ADMIRAL_fem_TV_CAP:0 "Ï¢°º¯ ¦¯ª®¯" #GetTitleTV_CAP
+ SUPREME_ADMIRAL_fem_VN_CAP:0 "Ï¢°¥ ¦¯ª®" #GetTitleVN_CAP
+ SUPREME_VIZIER_DT_CAP:1 "Ï¢°¯³ ¢ª©ª½" #GetTitleDT_CAP
+ SUPREME_VIZIER_IM_CAP:1 "Ï¢°ºþ ¢ª©ª¿" #GetTitleIM_CAP
+ SUPREME_VIZIER_PR_CAP:1 "Ï¢°¯ ¢ª©ª" #GetTitlePR_CAP
+ SUPREME_VIZIER_RD_CAP:1 "Ï¢°¥ ¢ª©ª¾" #GetTitleRD_CAP
+ SUPREME_VIZIER_TV_CAP:1 "Ï¢°º¯ ¢ª©ª¯" #GetTitleTV_CAP
+ SUPREME_VIZIER_VN_CAP:1 "Ï¢°¥ ¢ª©ª¾" #GetTitleVN_CAP
+ SUPREME_VIZIER_fem_DT_CAP:1 "Ï¢°¯³ ¢ª©ª½" #GetTitleDT_CAP
+ SUPREME_VIZIER_fem_IM_CAP:1 "Ï¢°ºþ ¢ª©ª¿" #GetTitleIM_CAP
+ SUPREME_VIZIER_fem_PR_CAP:1 "Ï¢°¯ ¢ª©ª" #GetTitlePR_CAP
+ SUPREME_VIZIER_fem_RD_CAP:1 "Ï¢°¥ ¢ª©ª¾" #GetTitleRD_CAP
+ SUPREME_VIZIER_fem_TV_CAP:1 "Ï¢°º¯ ¢ª©ª¯" #GetTitleTV_CAP
+ SUPREME_VIZIER_fem_VN_CAP:1 "Ï¢°¥ ¢ª©ª¾" #GetTitleVN_CAP
+ SYMBASILEUS_DT_CAP:0 "Ôª¯¡©ª®¢³" #GetTitleHeirDT_CAP
+ SYMBASILEUS_IM_CAP:0 "Ôª¯¡©ª®¢" #GetTitleHeirIM_CAP
+ SYMBASILEUS_PR_CAP:0 "Ôª¯¡©ª®¢" #GetTitleHeirPR_CAP
+ SYMBASILEUS_RD_CAP:0 "Ôª¯¡©ª®¢" #GetTitleHeirRD_CAP
+ SYMBASILEUS_TV_CAP:0 "Ôª¯¡©ª®¢¯" #GetTitleHeirTV_CAP
+ SYMBASILEUS_VN_CAP:0 "Ôª¯¡©ª®¢" #GetTitleHeirVN_CAP
+ SYMBASILISSA_DT_CAP:0 "Ôª¯¡©ª®ª" #GetTitleHeirDT_CAP
+ SYMBASILISSA_IM_CAP:0 "Ôª¯¡©ª®ª" #GetTitleHeirIM_CAP
+ SYMBASILISSA_PR_CAP:0 "Ôª¯¡©ª®ª" #GetTitleHeirPR_CAP
+ SYMBASILISSA_RD_CAP:0 "Ôª¯¡©ª®ªº" #GetTitleHeirRD_CAP
+ SYMBASILISSA_TV_CAP:0 "Ôª¯¡©ª®ªþ" #GetTitleHeirTV_CAP
+ SYMBASILISSA_VN_CAP:0 "Ôª¯¡©ª®ª³" #GetTitleHeirVN_CAP
+ SYNDIC_DT_CAP:1 "Ôª°¦ª¬³" #GetTitleDT_CAP
+ SYNDIC_IM_CAP:1 "Ôª°¦ª¬" #GetTitleIM_CAP
+ SYNDIC_PR_CAP:1 "Ôª°¦ª¬" #GetTitlePR_CAP
+ SYNDIC_RD_CAP:1 "Ôª°¦ª¬" #GetTitleRD_CAP
+ SYNDIC_TV_CAP:1 "Ôª°¦ª¬¯" #GetTitleTV_CAP
+ SYNDIC_VN_CAP:1 "Ôª°¦ª¬" #GetTitleVN_CAP
+ SYNDIC_fem_DT_CAP:1 "Ôª°¦ª¬³" #GetTitleDT_CAP
+ SYNDIC_fem_IM_CAP:1 "Ôª°¦ª¬" #GetTitleIM_CAP
+ SYNDIC_fem_PR_CAP:1 "Ôª°¦ª¬" #GetTitlePR_CAP
+ SYNDIC_fem_RD_CAP:1 "Ôª°¦ª¬" #GetTitleRD_CAP
+ SYNDIC_fem_TV_CAP:1 "Ôª°¦ª¬¯" #GetTitleTV_CAP
+ SYNDIC_fem_VN_CAP:1 "Ôª°¦ª¬" #GetTitleVN_CAP
+ SYNTH_RULER_MAIN_CONDUIT_DT_CAP:1 "†±®°ª²®½" #GetTitleDT_CAP
+ SYNTH_RULER_MAIN_CONDUIT_IM_CAP:1 "†±®°ª²®¿" #GetTitleIM_CAP
+ SYNTH_RULER_MAIN_CONDUIT_PR_CAP:1 "†±®°ª²®" #GetTitlePR_CAP
+ SYNTH_RULER_MAIN_CONDUIT_RD_CAP:1 "†±®°ª²®¾" #GetTitleRD_CAP
+ SYNTH_RULER_MAIN_CONDUIT_TV_CAP:1 "†±®°ª²®¯" #GetTitleTV_CAP
+ SYNTH_RULER_MAIN_CONDUIT_VN_CAP:1 "†±®°ª²®¾" #GetTitleVN_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_DT_CAP:0 "†±®°ª²®½" #GetTitleDT_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_IM_CAP:0 "†±®°ª²®¿" #GetTitleIM_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_PR_CAP:0 "†±®°ª²®" #GetTitlePR_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_RD_CAP:0 "†±®°ª²®¾" #GetTitleRD_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_TV_CAP:0 "†±®°ª²®¯" #GetTitleTV_CAP
+ SYNTH_RULER_MAIN_CONDUIT_fem_VN_CAP:0 "†±®°ª²®¾" #GetTitleVN_CAP
+ TATKISHO_DT_CAP:1 "Ù²¬ªŒ" #GetTitleDT_CAP
+ TATKISHO_FEM_DT_CAP:1 "Ù²¬ªŒ" #GetTitleDT_CAP
+ TATKISHO_FEM_IM_CAP:1 "Ù²¬ªŒ" #GetTitleIM_CAP
+ TATKISHO_FEM_PR_CAP:1 "Ù²¬ªŒ" #GetTitlePR_CAP
+ TATKISHO_FEM_RD_CAP:1 "Ù²¬ªŒ" #GetTitleRD_CAP
+ TATKISHO_FEM_TV_CAP:1 "Ù²¬ªŒ" #GetTitleTV_CAP
+ TATKISHO_FEM_VN_CAP:1 "Ù²¬ªŒ" #GetTitleVN_CAP
+ TATKISHO_IM_CAP:1 "Ù²¬ªŒ" #GetTitleIM_CAP
+ TATKISHO_PR_CAP:1 "Ù²¬ªŒ" #GetTitlePR_CAP
+ TATKISHO_RD_CAP:1 "Ù²¬ªŒ" #GetTitleRD_CAP
+ TATKISHO_TV_CAP:1 "Ù²¬ªŒ" #GetTitleTV_CAP
+ TATKISHO_VN_CAP:1 "Ù²¬ªŒ" #GetTitleVN_CAP
+ TATO_DT_CAP:1 "Ù²" #GetTitleDT_CAP
+ TATO_FEM_DT_CAP:1 "Ù²" #GetTitleDT_CAP
+ TATO_FEM_IM_CAP:1 "Ù²" #GetTitleIM_CAP
+ TATO_FEM_PR_CAP:1 "Ù²" #GetTitlePR_CAP
+ TATO_FEM_RD_CAP:1 "Ù²" #GetTitleRD_CAP
+ TATO_FEM_TV_CAP:1 "Ù²" #GetTitleTV_CAP
+ TATO_FEM_VN_CAP:1 "Ù²" #GetTitleVN_CAP
+ TATO_IM_CAP:1 "Ù²" #GetTitleIM_CAP
+ TATO_PR_CAP:1 "Ù²" #GetTitlePR_CAP
+ TATO_RD_CAP:1 "Ù²" #GetTitleRD_CAP
+ TATO_TV_CAP:1 "Ù²" #GetTitleTV_CAP
+ TATO_VN_CAP:1 "Ù²" #GetTitleVN_CAP
+ TLATOANI_DT_CAP:1 "Ù®²°ª" #GetTitleDT_CAP
+ TLATOANI_IM_CAP:1 "Ù®²°ª" #GetTitleIM_CAP
+ TLATOANI_PR_CAP:1 "Ù®²°ª" #GetTitlePR_CAP
+ TLATOANI_RD_CAP:1 "Ù®²°ª" #GetTitleRD_CAP
+ TLATOANI_TV_CAP:1 "Ù®²°ª" #GetTitleTV_CAP
+ TLATOANI_VN_CAP:1 "Ù®²°ª" #GetTitleVN_CAP
+ TRAPPISTINE_DT_CAP:1 "Ù±±ª²ª°" #GetTitleDT_CAP
+ TRAPPISTINE_IM_CAP:1 "Ù±±ª²ª°" #GetTitleIM_CAP
+ TRAPPISTINE_PR_CAP:1 "Ù±±ª²ª°" #GetTitlePR_CAP
+ TRAPPISTINE_RD_CAP:1 "Ù±±ª²ª°º" #GetTitleRD_CAP
+ TRAPPISTINE_TV_CAP:1 "Ù±±ª²ª°þ" #GetTitleTV_CAP
+ TRAPPISTINE_VN_CAP:1 "Ù±±ª²ª°³" #GetTitleVN_CAP
+ TRAPPIST_DT_CAP:1 "Ù±±ª²³" #GetTitleDT_CAP
+ TRAPPIST_IM_CAP:1 "Ù±±ª²" #GetTitleIM_CAP
+ TRAPPIST_PR_CAP:1 "Ù±±ª²" #GetTitlePR_CAP
+ TRAPPIST_RD_CAP:1 "Ù±±ª²" #GetTitleRD_CAP
+ TRAPPIST_TV_CAP:1 "Ù±±ª²¯" #GetTitleTV_CAP
+ TRAPPIST_VN_CAP:1 "Ù±±ª²" #GetTitleVN_CAP
+ TRIBAL_LEADER_DT_CAP:1 "‰®¯°°¯³ ®ª¦³" #GetTitleDT_CAP
+ TRIBAL_LEADER_IM_CAP:1 "‰®¯°°þ ®ª¦" #GetTitleIM_CAP
+ TRIBAL_LEADER_PR_CAP:1 "‰®¯°°¯ ®ª¦" #GetTitlePR_CAP
+ TRIBAL_LEADER_RD_CAP:1 "‰®¯°°¥ ®ª¦" #GetTitleRD_CAP
+ TRIBAL_LEADER_TV_CAP:1 "‰®¯°°º¯ ®ª¦¯" #GetTitleTV_CAP
+ TRIBAL_LEADER_VN_CAP:1 "‰®¯°°¥ ®ª¦" #GetTitleVN_CAP
+ TRIBAL_LEADER_fem_DT_CAP:0 "‰®¯°°¯³ ®ª¦³" #GetTitleDT_CAP
+ TRIBAL_LEADER_fem_IM_CAP:0 "‰®¯°°þ ®ª¦" #GetTitleIM_CAP
+ TRIBAL_LEADER_fem_PR_CAP:0 "‰®¯°°¯ ®ª¦" #GetTitlePR_CAP
+ TRIBAL_LEADER_fem_RD_CAP:0 "‰®¯°°¥ ®ª¦" #GetTitleRD_CAP
+ TRIBAL_LEADER_fem_TV_CAP:0 "‰®¯°°º¯ ®ª¦¯" #GetTitleTV_CAP
+ TRIBAL_LEADER_fem_VN_CAP:0 "‰®¯°°¥ ®ª¦" #GetTitleVN_CAP
+ TSAREVICH_DT_CAP:0 "Ë¢ª¶³" #GetTitleHeirDT_CAP
+ TSAREVICH_IM_CAP:0 "Ë¢ª¶" #GetTitleHeirIM_CAP
+ TSAREVICH_PR_CAP:0 "Ë¢ª¶" #GetTitleHeirPR_CAP
+ TSAREVICH_RD_CAP:0 "Ë¢ª¶" #GetTitleHeirRD_CAP
+ TSAREVICH_TV_CAP:0 "Ë¢ª¶¯" #GetTitleHeirTV_CAP
+ TSAREVICH_VN_CAP:0 "Ë¢ª¶³" #GetTitleHeirVN_CAP
+ TSAREVNA_DT_CAP:0 "Ë¢°" #GetTitleHeirDT_CAP
+ TSAREVNA_IM_CAP:0 "Ë¢°" #GetTitleHeirIM_CAP
+ TSAREVNA_PR_CAP:0 "Ë¢°" #GetTitleHeirPR_CAP
+ TSAREVNA_RD_CAP:0 "Ë¢°º" #GetTitleHeirRD_CAP
+ TSAREVNA_TV_CAP:0 "Ë¢°þ" #GetTitleHeirTV_CAP
+ TSAREVNA_VN_CAP:0 "Ë¢°³" #GetTitleHeirVN_CAP
+ TSARITSA_DT_CAP:1 "Ëªµ" #GetTitleDT_CAP
+ TSARITSA_IM_CAP:1 "Ëªµ" #GetTitleIM_CAP
+ TSARITSA_PR_CAP:1 "Ëªµ" #GetTitlePR_CAP
+ TSARITSA_RD_CAP:1 "Ëªµº" #GetTitleRD_CAP
+ TSARITSA_TV_CAP:1 "Ëªµþ" #GetTitleTV_CAP
+ TSARITSA_VN_CAP:1 "Ëªµ³" #GetTitleVN_CAP
+ TSAR_DT_CAP:1 "Ë½" #GetTitleDT_CAP
+ TSAR_IM_CAP:1 "Ë¿" #GetTitleIM_CAP
+ TSAR_PR_CAP:1 "Ë" #GetTitlePR_CAP
+ TSAR_RD_CAP:1 "Ë¾" #GetTitleRD_CAP
+ TSAR_TV_CAP:1 "Ëž¯" #GetTitleTV_CAP
+ TSAR_VN_CAP:1 "Ë¾" #GetTitleVN_CAP
+ TULKU_DT_CAP:1 "Ù³®¬³" #GetTitleDT_CAP
+ TULKU_IM_CAP:1 "Ù³®¬³" #GetTitleIM_CAP
+ TULKU_PR_CAP:1 "Ù³®¬³" #GetTitlePR_CAP
+ TULKU_RD_CAP:1 "Ù³®¬³" #GetTitleRD_CAP
+ TULKU_TV_CAP:1 "Ù³®¬³" #GetTitleTV_CAP
+ TULKU_VN_CAP:1 "Ù³®¬³" #GetTitleVN_CAP
+ TYRANT_DT_CAP:1 "Ùª°³" #GetTitleDT_CAP
+ TYRANT_IM_CAP:1 "Ùª°" #GetTitleIM_CAP
+ TYRANT_PR_CAP:1 "Ùª°" #GetTitlePR_CAP
+ TYRANT_RD_CAP:1 "Ùª°" #GetTitleRD_CAP
+ TYRANT_TV_CAP:1 "Ùª°¯" #GetTitleTV_CAP
+ TYRANT_VN_CAP:1 "Ùª°" #GetTitleVN_CAP
+ TYRANT_fem_DT_CAP:1 "Ùª°" #GetTitleDT_CAP
+ TYRANT_fem_IM_CAP:1 "Ùª°" #GetTitleIM_CAP
+ TYRANT_fem_PR_CAP:1 "Ùª°³" #GetTitlePR_CAP
+ TYRANT_fem_RD_CAP:1 "Ùª°" #GetTitleRD_CAP
+ TYRANT_fem_TV_CAP:1 "Ùª°¯" #GetTitleTV_CAP
+ TYRANT_fem_VN_CAP:1 "Ùª°" #GetTitleVN_CAP
+ UMUGABEKAZI_DT_CAP:1 "³¯³¥¡¬©ª" #GetTitleDT_CAP
+ UMUGABEKAZI_IM_CAP:1 "³¯³¥¡¬©ª" #GetTitleIM_CAP
+ UMUGABEKAZI_PR_CAP:1 "³¯³¥¡¬©ª" #GetTitlePR_CAP
+ UMUGABEKAZI_RD_CAP:1 "³¯³¥¡¬©ª" #GetTitleRD_CAP
+ UMUGABEKAZI_TV_CAP:1 "³¯³¥¡¬©ª" #GetTitleTV_CAP
+ UMUGABEKAZI_VN_CAP:1 "³¯³¥¡¬©ª" #GetTitleVN_CAP
+ VALI_AHAD_DT_CAP:1 "Ï®ª-¦³" #GetTitleHeirDT_CAP
+ VALI_AHAD_IM_CAP:1 "Ï®ª-¦" #GetTitleHeirIM_CAP
+ VALI_AHAD_PR_CAP:1 "Ï®ª-¦" #GetTitleHeirPR_CAP
+ VALI_AHAD_RD_CAP:1 "Ï®ª-¦" #GetTitleHeirRD_CAP
+ VALI_AHAD_TV_CAP:1 "Ï®ª-¦¯" #GetTitleHeirTV_CAP
+ VALI_AHAD_VN_CAP:1 "Ï®ª-¦" #GetTitleHeirVN_CAP
+ VICEREINE_DT_CAP:1 "Ïªµ-¬®¢" #GetTitleDT_CAP
+ VICEREINE_IM_CAP:1 "Ïªµ-¬®¢" #GetTitleIM_CAP
+ VICEREINE_PR_CAP:1 "Ïªµ-¬®¢" #GetTitlePR_CAP
+ VICEREINE_RD_CAP:1 "Ïªµ-¬®¢º" #GetTitleRD_CAP
+ VICEREINE_TV_CAP:1 "Ïªµ-¬®¢þ" #GetTitleTV_CAP
+ VICEREINE_VN_CAP:1 "Ïªµ-¬®¢³" #GetTitleVN_CAP
+ VICEROY_CONSORT_DT_CAP:1 "Ïªµ-¬®½-¬°²³" #GetTitleConsortDT_CAP
+ VICEROY_CONSORT_IM_CAP:1 "Ïªµ-¬®¿-¬°²" #GetTitleConsortIM_CAP
+ VICEROY_CONSORT_PR_CAP:1 "Ïªµ-¬®-¬°²" #GetTitleConsortPR_CAP
+ VICEROY_CONSORT_RD_CAP:1 "Ïªµ-¬®¾-¬°²" #GetTitleConsortRD_CAP
+ VICEROY_CONSORT_TV_CAP:1 "Ïªµ-¬®ž¯-¬°²¯" #GetTitleConsortTV_CAP
+ VICEROY_CONSORT_VN_CAP:1 "Ïªµ-¬®¾-¬°²" #GetTitleConsortVN_CAP
+ VICEROY_DT_CAP:1 "Ïªµ-¬®½" #GetTitleDT_CAP
+ VICEROY_IM_CAP:1 "Ïªµ-¬®¿" #GetTitleIM_CAP
+ VICEROY_PR_CAP:1 "Ïªµ-¬®" #GetTitlePR_CAP
+ VICEROY_RD_CAP:1 "Ïªµ-¬®¾" #GetTitleRD_CAP
+ VICEROY_TV_CAP:1 "Ïªµ-¬®ž¯" #GetTitleTV_CAP
+ VICEROY_VN_CAP:1 "Ïªµ-¬®¾" #GetTitleVN_CAP
+ VIZIER_DT_CAP:1 "Ïª©ª½" #GetTitleDT_CAP
+ VIZIER_IM_CAP:1 "Ïª©ª¿" #GetTitleIM_CAP
+ VIZIER_PR_CAP:1 "Ïª©ª" #GetTitlePR_CAP
+ VIZIER_RD_CAP:1 "Ïª©ª¾" #GetTitleRD_CAP
+ VIZIER_TV_CAP:1 "Ïª©ª¯" #GetTitleTV_CAP
+ VIZIER_VN_CAP:1 "Ïª©ª¾" #GetTitleVN_CAP
+ VOIVODE_DT_CAP:1 "Ï¢¦" #GetTitleDT_CAP
+ VOIVODE_IM_CAP:1 "Ï¢¦" #GetTitleIM_CAP
+ VOIVODE_PR_CAP:1 "Ï¢¦" #GetTitlePR_CAP
+ VOIVODE_RD_CAP:1 "Ï¢¦º" #GetTitleRD_CAP
+ VOIVODE_TV_CAP:1 "Ï¢¦þ" #GetTitleTV_CAP
+ VOIVODE_VN_CAP:1 "Ï¢¦³" #GetTitleVN_CAP
+ VOJVODA_DT_CAP:1 "Ï¢¦" #GetTitleDT_CAP
+ VOJVODA_IM_CAP:1 "Ï¢¦" #GetTitleIM_CAP
+ VOJVODA_PR_CAP:1 "Ï¢¦" #GetTitlePR_CAP
+ VOJVODA_RD_CAP:1 "Ï¢¦º" #GetTitleRD_CAP
+ VOJVODA_TV_CAP:1 "Ï¢¦þ" #GetTitleTV_CAP
+ VOJVODA_VN_CAP:1 "Ï¢¦³" #GetTitleVN_CAP
+ VOJVODKINJA_DT_CAP:1 "Ï¢¦¬ª°" #GetTitleDT_CAP
+ VOJVODKINJA_IM_CAP:1 "Ï¢¦¬ª°" #GetTitleIM_CAP
+ VOJVODKINJA_PR_CAP:1 "Ï¢¦¬ª°" #GetTitlePR_CAP
+ VOJVODKINJA_RD_CAP:1 "Ï¢¦¬ª°º" #GetTitleRD_CAP
+ VOJVODKINJA_TV_CAP:1 "Ï¢¦¬ª°þ" #GetTitleTV_CAP
+ VOJVODKINJA_VN_CAP:1 "Ï¢¦¬ª°³" #GetTitleVN_CAP
+ WANG_DT_CAP:0 "Ï°³" #GetTitleDT_CAP
+ WANG_IM_CAP:0 "Ï°" #GetTitleIM_CAP
+ WANG_PR_CAP:0 "Ï°" #GetTitlePR_CAP
+ WANG_RD_CAP:0 "Ï°" #GetTitleRD_CAP
+ WANG_TV_CAP:0 "Ï°¯" #GetTitleTV_CAP
+ WANG_VN_CAP:0 "Ï°" #GetTitleVN_CAP
+ WILLAQ_UMU_DT_CAP:1 "Ïª®¬ ³¯³" #GetTitleDT_CAP
+ WILLAQ_UMU_IM_CAP:1 "Ïª®¬ ³¯³" #GetTitleIM_CAP
+ WILLAQ_UMU_PR_CAP:1 "Ïª®¬ ³¯³" #GetTitlePR_CAP
+ WILLAQ_UMU_RD_CAP:1 "Ïª®¬ ³¯³" #GetTitleRD_CAP
+ WILLAQ_UMU_TV_CAP:1 "Ïª®¬ ³¯³" #GetTitleTV_CAP
+ WILLAQ_UMU_VN_CAP:1 "Ïª®¬ ³¯³" #GetTitleVN_CAP
+ YEKHE_KHAGAN_DT_CAP:1 "† °³" #GetTitleConsortDT_CAP
+ YEKHE_KHAGAN_IM_CAP:1 "† °" #GetTitleConsortIM_CAP
+ YEKHE_KHAGAN_PR_CAP:1 "† °" #GetTitleConsortPR_CAP
+ YEKHE_KHAGAN_RD_CAP:1 "† °" #GetTitleConsortRD_CAP
+ YEKHE_KHAGAN_TV_CAP:1 "† °¯" #GetTitleConsortTV_CAP
+ YEKHE_KHAGAN_VN_CAP:1 "† °" #GetTitleConsortVN_CAP
+ YEKHE_KHANUM_DT_CAP:1 "† °³¯" #GetTitleConsortDT_CAP
+ YEKHE_KHANUM_IM_CAP:1 "† °³¯" #GetTitleConsortIM_CAP
+ YEKHE_KHANUM_PR_CAP:1 "† °³¯" #GetTitleConsortPR_CAP
+ YEKHE_KHANUM_RD_CAP:1 "† °³¯" #GetTitleConsortRD_CAP
+ YEKHE_KHANUM_TV_CAP:1 "† °³¯" #GetTitleConsortTV_CAP
+ YEKHE_KHANUM_VN_CAP:1 "† °³¯" #GetTitleConsortVN_CAP
+ regent_DT_CAP:1 "Ð¥°²³" #GetTitleDT_CAP
+ regent_IM_CAP:1 "Ð¥°²" #GetTitleIM_CAP
+ regent_PR_CAP:1 "Ð¥°²" #GetTitlePR_CAP
+ regent_RD_CAP:1 "Ð¥°²" #GetTitleRD_CAP
+ regent_TV_CAP:1 "Ð¥°²¯" #GetTitleTV_CAP
+ regent_VN_CAP:1 "Ð¥°²" #GetTitleVN_CAP
+ regent_male_DT_CAP:0 "Ð¥°²³" #GetTitleDT_CAP
+ regent_male_IM_CAP:0 "Ð¥°²" #GetTitleIM_CAP
+ regent_male_PR_CAP:0 "Ð¥°²" #GetTitlePR_CAP
+ regent_male_RD_CAP:0 "Ð¥°²" #GetTitleRD_CAP
+ regent_male_TV_CAP:0 "Ð¥°²¯" #GetTitleTV_CAP
+ regent_male_VN_CAP:0 "Ð¥°²" #GetTitleVN_CAP
+ ARCHQUEEN_DT_CAP:0 "¼µ¬®¢" #GetTitleDT_CAP
+ ARCHQUEEN_IM_CAP:0 "¼µ¬®¢" #GetTitleIM_CAP
+ ARCHQUEEN_PR_CAP:0 "¼µ¬®¢" #GetTitlePR_CAP
+ ARCHQUEEN_RD_CAP:0 "¼µ¬®¢º" #GetTitleRD_CAP
+ ARCHQUEEN_TV_CAP:0 "¼µ¬®¢þ" #GetTitleTV_CAP
+ ARCHQUEEN_VN_CAP:0 "¼µ¬®¢³" #GetTitleVN_CAP
+ CRUSADER_DT_CAP:0 "²°µ³" #GetTitleDT_CAP
+ CRUSADER_IM_CAP:0 "²°µ" #GetTitleIM_CAP
+ CRUSADER_PR_CAP:0 "²°µ" #GetTitlePR_CAP
+ CRUSADER_RD_CAP:0 "²°µ" #GetTitleRD_CAP
+ CRUSADER_TV_CAP:0 "²°µ¯" #GetTitleTV_CAP
+ CRUSADER_VN_CAP:0 "²°µ" #GetTitleVN_CAP
+ GRAND_CRUSADER_DT_CAP:0 "Ï®ª¬¯³ ¬²°µ³" #GetTitleDT_CAP
+ GRAND_CRUSADER_IM_CAP:0 "Ï®ª¬ªþ ¬²°µ" #GetTitleIM_CAP
+ GRAND_CRUSADER_PR_CAP:0 "Ï®ª¬¯ ¬²°µ" #GetTitlePR_CAP
+ GRAND_CRUSADER_RD_CAP:0 "Ï®ª¬¥ ¬²°µ" #GetTitleRD_CAP
+ GRAND_CRUSADER_TV_CAP:0 "Ï®ª¬ª¯ ¬²°µ¯" #GetTitleTV_CAP
+ GRAND_CRUSADER_VN_CAP:0 "Ï®ª¬¥ ¬²°µ" #GetTitleVN_CAP
+ CRUSADER_fem_DT_CAP:0 "²°µ³" #GetTitleDT_CAP
+ CRUSADER_fem_IM_CAP:0 "²°µ" #GetTitleIM_CAP
+ CRUSADER_fem_PR_CAP:0 "²°µ" #GetTitlePR_CAP
+ CRUSADER_fem_RD_CAP:0 "²°µ" #GetTitleRD_CAP
+ CRUSADER_fem_TV_CAP:0 "²°µ¯" #GetTitleTV_CAP
+ CRUSADER_fem_VN_CAP:0 "²°µ" #GetTitleVN_CAP
+ GRAND_CRUSADER_fem_DT_CAP:0 "Ï®ª¬¯³ ¬²°µ³" #GetTitleDT_CAP
+ GRAND_CRUSADER_fem_IM_CAP:0 "Ï®ª¬ªþ ¬²°µ" #GetTitleIM_CAP
+ GRAND_CRUSADER_fem_PR_CAP:0 "Ï®ª¬¯ ¬²°µ" #GetTitlePR_CAP
+ GRAND_CRUSADER_fem_RD_CAP:0 "Ï®ª¬¥ ¬²°µ" #GetTitleRD_CAP
+ GRAND_CRUSADER_fem_TV_CAP:0 "Ï®ª¬ª¯ ¬²°µ¯" #GetTitleTV_CAP
+ GRAND_CRUSADER_fem_VN_CAP:0 "Ï®ª¬¥ ¬²°µ" #GetTitleVN_CAP

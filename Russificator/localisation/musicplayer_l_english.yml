@@ -1,0 +1,31 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ MUSICPLAYER_PREV:0 "‰¦."
+ MUSICPLAYER_PLAY:0 "†¥²¿"
+ MUSICPLAYER_PAUSE:0 "‰³©"
+ MUSICPLAYER_STOP:0 "²°¢ª²¿"
+ MUSICPLAYER_NEXT:0 "Ô®¦."
+ MUSICPLAYER_SHUFFLE_ON:0 "Ï ®³¶þ°¯ ±¾¦¬ ¢¬®"
+ MUSICPLAYER_SHUFFLE_OFF:0 "Ï ®³¶þ°¯ ±¾¦¬ ¢º¬®"
+ MUSICPLAYER_SHUFFLE_WEIGHTS_ON:0 "Ï ®³¶þ°¯ ±¾¦¬  ¢¯ ¢¬®"
+ MUSICPLAYER_SHUFFLE_WEIGHTS_OFF:0 "Ï ®³¶þ°¯ ±¾¦¬  ¢¯ ¢º¬®"
+ MUSICPLAYER_TIME_MIN_SEC:0 "$MIN$:$SEC$"
+ MUSICPLAYER_OPEN_PLAYER:0 "²¬º²¿ ±®"
+ MUSICPLAYER_TOGGLE_CONTROLLER:0 "†©¯°ª²¿ ±¡ ³±¢®°ª¾ ¯³©º¬þ"
+ MUSICPLAYER_PLAY_TRACK:0 "Ï±ª©¢²ª ¬¯±©ªµª½"
+ MUSICPLAYER_DISABLE_TRACK:0 "²¬®½¶ª²¿ ¬¯±©ªµª½"
+ MUSICPLAYER_ENABLE_TRACK:0 "Ï¬®½¶ª²¿ ¬¯±©ªµª½"
+ MUSICPLAYER_REMOVE_TRACK:0 "‹¦®ª²¿ ¬¯±©ªµª½"
+ MUSICPLAYER_CURRENT_TRACK:0 "Ù¬³¸¾ ¬¯±©ªµª¾: $NAME|Y$ $DURATION|Y$"
+ MUSICPLAYER_TRACK_ITEM:0 "$NAME|Y$ $DURATION|Y$"
+ MUSICPLAYER_INCREASE_VOL:0 "‹¢®ª¶ª²¿ ¥¯¬²¿"
+ MUSICPLAYER_DECREASE_VOL:0 "‹¯°¿Œª²¿ ¥¯¬²¿"
+ MUSICPLAYER_ADJUST_VOL:0 "Ð¥³®ª¢¬ ¥¯¬²ª"
+ MUSIC_PLAYER_TITLE:0 "³©º¬®¿°ºþ ±®"
+ OPEN_MUSIC_CONTROL_PANEL:0 "²¬º²¿ ±°®¿ ³±¢®°ª¾ ¯³©º¬þ"

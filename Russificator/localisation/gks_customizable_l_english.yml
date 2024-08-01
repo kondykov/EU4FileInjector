@@ -1,0 +1,1543 @@
+﻿l_english:
+ ###¬°¶°ª¾
+ TCH_REV:0 "." #GetRevEnd
+ AYA_REV:0 "¾" #GetRevEnd
+ YI_REV:0 "ºþ" #GetRevEnd
+ YE_REV:0 "º" #GetRevEnd
+ MALE_ENDING_A:0 "" #GetEndA
+ FEMALE_ENDING_A:0 "" #GetEndA
+ MALE_ENDING_LA:0 "" #GetEndLA
+ FEMALE_ENDING_LA:0 "®" #GetEndLA
+ MALE_ENDING_IY:0 "ªþ" #GetEndAYA
+ FEMALE_ENDING_AYA:0 "¾" #GetEndAYA ª®ª GetEndOYAYA
+ MALE_ENDING_YY:0 "ºþ" #GetEndAYY
+ FEMALE_ENDING_AYY:0 "¾" #GetEndAYY
+ MALE_ENDING_OY:0 "º¯" #GetEndOY
+ FEMALE_ENDING_OY:0 "þ" #GetEndOY ª®ª GetEndOYAYA
+ MALE_ENDING_EY:0 "º¯" #GetEndEY
+ FEMALE_ENDING_EY:0 "þ" #GetEndEY ª®ª GetEndEgoEy 
+ MALE_ENDING_SYA:0 "¾" #GetEndSYA
+ FEMALE_ENDING_SYA:0 "¿" #GetEndSYA
+ MALE_EGO:0 "¥" #GetEgoEyo
+ FEMALE_EYO:0 "ž" #GetEgoEyo
+ MALE_ENDING_EGO:0 "¥" #GetEndEgoEy
+ MALE_EGO_Cap:0 "¥" #GetEgoEyoCap
+ FEMALE_EYO_Cap:0 "ž" #GetEgoEyoCap
+ MALE_EMU:0 "¯³" #GetEmuEy
+ FEMALE_EY:0 "þ" #GetEmuEy
+ MALE_EMU_Cap:0 "¯³" #GetEmuEyCap
+ FEMALE_EY_Cap:0 "þ" #GetEmuEyCap
+ MALE_ENDING_EN:0 "°" #GetEndEnNa
+ FEMALE_ENDING_NA:0 "°" #GetEndEnNa
+ MALE_ENDING_IN:0 "ª°" #GetEndInNa
+ MALE_ENDING_TSAK:0 "¬" #GetEndTsaK
+ FEMALE_ENDING_TSAK:0 "µ" #GetEndTsaK
+ MALE_ENDING_TSAL:0 "" #GetEndTsaL
+ FEMALE_ENDING_TSAL:0 "°ªµ" #GetEndTsaL
+ MALE_ENDING_TSUKA:0 "¬" #GetEndTsuKa
+ FEMALE_ENDING_TSUKA:0 "µ³" #GetEndTsuKa
+ MALE_ENDING_LNA:0 "°" #GetEndLna
+ FEMALE_ENDING_LNA:0 "¿°" #GetEndLna
+ MALE_ENDING_EL:0 "ž®" #GetEndEl
+ FEMALE_ENDING_EL:0 "®" #GetEndEl
+ FEMALE_ENDING_ELA:0 "®" #GetHEndElEla
+ MALE_ENDING_EYEM:0 "ž¯" #GetEndEyEm
+ FEMALE_ENDING_EYEM:0 "þ" #GetEndEyEm
+ MALE_ENDING_IM:0 "ª¯" #GetEndEyIm
+ FEMALE_ENDING_EYIM:0 "þ" #GetEndEyIm
+ MALE_ENDING_EGOY:0 "¥" #GetEndEgoYu ª®ª GetEndEgoU
+ FEMALE_ENDING_EGOY:0 "½" #GetEndEgoYu
+ MALE_ENDING_AU:0 "" #GetEndAU
+ FEMALE_ENDING_AU:0 "³" #GetEndAU ª®ª GetEndEgoU
+ MALE_ENDING_OTA:0 "²" #GetEndOTA
+ FEMALE_ENDING_OTA:0 "" #GetEndOTA
+ MALE_ENDING_OMU:0 "¯³" #GetEndOmu
+ FEMALE_ENDING_OMU:0 "þ" #GetEndOmu
+ MALE_ENDING_UE:0 "³" #GetEndUE
+ FEMALE_ENDING_UE:0 "" #GetEndUE
+ MALE_ENDING_TSAKU:0 "µ" #GetEndTsaKu
+ FEMALE_ENDING_TSAKU:0 "¬³" #GetEndTsaKu
+ MALE_ENDING_OYY:0 "þ" #GetEndOYY
+ FEMALE_ENDING_OYY:0 "¾" #GetEndOYY
+ MALE_ENDING_EZKA:0 "µ" #GetEndEZ
+ FEMALE_ENDING_EZKA:0 "¬" #GetEndEZ
+ MALE_ENDING_OYA:0 "þ" #GetEndOYA
+ FEMALE_ENDING_OYA:0 "¾" #GetEndOYA
+ MALE_ENDING_LAS:0 "¾" #GetEndLAS
+ FEMALE_ENDING_LAS:0 "®¿" #GetEndLAS
+ MALE_ENDING_OGO:0 "¥" #GetEndOgoOy
+ FEMALE_ENDING_OGO:0 "þ" #GetEndOgoOy
+ MALE_ENDING_EMLSOY:0 "¯" #GetEndEmLsoy
+ FEMALE_ENDING_EMLSOY:0 "" #GetEndEmLsoy
+ MALE_ENDING_OYIM:0 "ª¯" #GetEndOyIm
+ FEMALE_ENDING_OYIM:0 "þ" #GetEndOyIm
+ MALE_ENDING_ESSA:0 "" #GetEndEssa
+ FEMALE_ENDING_ESSA:0 "" #GetEndEssa
+ MALE_ENDING_ESSY:0 "" #GetEndEssy
+ FEMALE_ENDING_ESSY:0 "º" #GetEndEssy
+ MALE_ENDING_ESSE:0 "³" #GetEndEsse
+ FEMALE_ENDING_ESSE:0 "" #GetEndEsse
+ MALE_ENDING_EGOUYU:0 "¥" #GetEndEgoUyu
+ FEMALE_ENDING_EGOUYU:0 "³½" #GetEndEgoUyu
+ MALE_ENDING_OGOUYU:0 "¥" #GetEndOgoUyu
+ FEMALE_ENDING_OGOUYU:0 "³½" #GetEndOgoUyu
+ MALE_ENDING_OVAYA:0 "¢" #GetEndOvAya
+ FEMALE_ENDING_OVAYA:0 "¾" #GetEndOvAya
+ MALE_ENDING_ORRIT:0 "" #GetEndOrRit
+ FEMALE_ENDING_ORRIT:0 "ªµ" #GetEndOrRit
+ MALE_ENDING_ORRITA:0 "" #GetEndOrRita
+ FEMALE_ENDING_ORRITA:0 "ªµº" #GetEndOrRita
+ MALE_ENDING_ORRITU:0 "³" #GetEndOrRitu
+ FEMALE_ENDING_ORRITU:0 "ªµ" #GetEndOrRitu
+ MALE_ENDING_KUTSE:0 "¬³" #GetEndKuTse
+ FEMALE_ENDING_KUTSE:0 "µ" #GetEndKuTse
+ MALE_ENDING_KATSY:0 "¬" #GetEndKaTsy
+ FEMALE_ENDING_KATSY:0 "µº" #GetEndKaTsy
+ MALE_SHEHE:0 "°" #GetSheHeCap
+ FEMALE_SHEHE:0 "°" #GetSheHeCap
+ MALE_ENDING_LEVA:0 "¿" #GetEndLEva
+ FEMALE_ENDING_LEVA:0 "¢" #GetEndLEva
+ MALE_ENDING_YATSI:0 "¾" #GetEndYaTsi
+ FEMALE_ENDING_YATSI:0 "¿°ªµº" #GetEndYaTsi
+ MALE_ENDING_OROMRITEY:0 "¯" #GetEndOromRitey
+ FEMALE_ENDING_OROMRITEY:0 "ªµþ" #GetEndOromRitey
+ MALE_ENDING_KOMTSEY:0 "¬¯" #GetEndKomTsey
+ FEMALE_ENDING_KOMTSEY:0 "µþ" #GetEndKomTsey
+ MALE_ENDING_NITSE:0 "½" #GetEndNitse
+ FEMALE_ENDING_NITSE:0 "¿°ªµ" #GetEndNitse
+ FEMALE_ENDING_EZA:0 "ªµ" #GetMEndEZA
+ ###Ð®ª¥ª©°º Œ¬®º
+ #Ð®ª¥ª©°º Œ¬®º ¢ ¦ª°²¢°°¯ ¶ª®
+ hanafi_school_IM:0 "°´ª²" #GetReligiousSchoolIM
+ hanbali_school_IM:0 "°¡®ª²" #GetReligiousSchoolIM
+ maliki_school_IM:0 "¯®ª¬ª²" #GetReligiousSchoolIM
+ shafii_school_IM:0 "Œ´ªª²" #GetReligiousSchoolIM
+ ismaili_school_IM:0 "ª¯ª®ª²" #GetReligiousSchoolIM
+ jafari_school_IM:0 "¦¨´ª²" #GetReligiousSchoolIM
+ zaidi_school_IM:0 "©þ¦ª²" #GetReligiousSchoolIM
+ hanafi_school_RD:0 "°´ª²" #GetReligiousSchoolRD
+ hanbali_school_RD:0 "°¡®ª²" #GetReligiousSchoolRD
+ maliki_school_RD:0 "¯®ª¬ª²" #GetReligiousSchoolRD
+ shafii_school_RD:0 "Œ´ªª²" #GetReligiousSchoolRD
+ ismaili_school_RD:0 "ª¯ª®ª²" #GetReligiousSchoolRD
+ jafari_school_RD:0 "¦¨´ª²" #GetReligiousSchoolRD
+ zaidi_school_RD:0 "©þ¦ª²" #GetReligiousSchoolRD
+ hanafi_school_DT:0 "°´ª²³" #GetReligiousSchoolDT
+ hanbali_school_DT:0 "°¡®ª²³" #GetReligiousSchoolDT
+ maliki_school_DT:0 "¯®ª¬ª²³" #GetReligiousSchoolDT
+ shafii_school_DT:0 "Œ´ªª²³" #GetReligiousSchoolDT
+ ismaili_school_DT:0 "ª¯ª®ª²³" #GetReligiousSchoolDT
+ jafari_school_DT:0 "¦¨´ª²³" #GetReligiousSchoolDT
+ zaidi_school_DT:0 "©þ¦ª²³" #GetReligiousSchoolDT
+ hanafi_school_TV:0 "°´ª²¯" #GetReligiousSchoolTV
+ hanbali_school_TV:0 "°¡®ª²¯" #GetReligiousSchoolTV
+ maliki_school_TV:0 "¯®ª¬ª²¯" #GetReligiousSchoolTV
+ shafii_school_TV:0 "Œ´ªª²¯" #GetReligiousSchoolTV
+ ismaili_school_TV:0 "ª¯ª®ª²¯" #GetReligiousSchoolTV
+ jafari_school_TV:0 "¦¨´ª²¯" #GetReligiousSchoolTV
+ zaidi_school_TV:0 "©þ¦ª²¯" #GetReligiousSchoolTV
+ hanafi_school_PR:0 "°´ª²" #GetReligiousSchoolPR
+ hanbali_school_PR:0 "°¡®ª²" #GetReligiousSchoolPR
+ maliki_school_PR:0 "¯®ª¬ª²" #GetReligiousSchoolPR
+ shafii_school_PR:0 "Œ´ªª²" #GetReligiousSchoolPR
+ ismaili_school_PR:0 "ª¯ª®ª²" #GetReligiousSchoolPR
+ jafari_school_PR:0 "¦¨´ª²" #GetReligiousSchoolPR
+ zaidi_school_PR:0 "©þ¦ª²" #GetReligiousSchoolPR
+ hanafi_school_IM_CAP:0 "Û°´ª²" #GetReligiousSchoolIM_CAP
+ hanbali_school_IM_CAP:0 "Û°¡®ª²" #GetReligiousSchoolIM_CAP
+ maliki_school_IM_CAP:0 "®ª¬ª²" #GetReligiousSchoolIM_CAP
+ shafii_school_IM_CAP:0 "÷´ªª²" #GetReligiousSchoolIM_CAP
+ ismaili_school_IM_CAP:0 "†¯ª®ª²" #GetReligiousSchoolIM_CAP
+ jafari_school_IM_CAP:0 "ƒ¨´ª²" #GetReligiousSchoolIM_CAP
+ zaidi_school_IM_CAP:0 "…þ¦ª²" #GetReligiousSchoolIM_CAP
+ hanafi_school_RD_CAP:0 "Û°´ª²" #GetReligiousSchoolRD_CAP
+ hanbali_school_RD_CAP:0 "Û°¡®ª²" #GetReligiousSchoolRD_CAP
+ maliki_school_RD_CAP:0 "®ª¬ª²" #GetReligiousSchoolRD_CAP
+ shafii_school_RD_CAP:0 "÷´ªª²" #GetReligiousSchoolRD_CAP
+ ismaili_school_RD_CAP:0 "†¯ª®ª²" #GetReligiousSchoolRD_CAP
+ jafari_school_RD_CAP:0 "ƒ¨´ª²" #GetReligiousSchoolRD_CAP
+ zaidi_school_RD_CAP:0 "…þ¦ª²" #GetReligiousSchoolRD_CAP
+ hanafi_school_DT_CAP:0 "Û°´ª²³" #GetReligiousSchoolDT_CAP
+ hanbali_school_DT_CAP:0 "Û°¡®ª²³" #GetReligiousSchoolDT_CAP
+ maliki_school_DT_CAP:0 "®ª¬ª²³" #GetReligiousSchoolDT_CAP
+ shafii_school_DT_CAP:0 "÷´ªª²³" #GetReligiousSchoolDT_CAP
+ ismaili_school_DT_CAP:0 "†¯ª®ª²³" #GetReligiousSchoolDT_CAP
+ jafari_school_DT_CAP:0 "ƒ¨´ª²³" #GetReligiousSchoolDT_CAP
+ zaidi_school_DT_CAP:0 "…þ¦ª²³" #GetReligiousSchoolDT_CAP
+ hanafi_school_TV_CAP:0 "Û°´ª²¯" #GetReligiousSchoolTV_CAP
+ hanbali_school_TV_CAP:0 "Û°¡®ª²¯" #GetReligiousSchoolTV_CAP
+ maliki_school_TV_CAP:0 "®ª¬ª²¯" #GetReligiousSchoolTV_CAP
+ shafii_school_TV_CAP:0 "÷´ªª²¯" #GetReligiousSchoolTV_CAP
+ ismaili_school_TV_CAP:0 "†¯ª®ª²¯" #GetReligiousSchoolTV_CAP
+ jafari_school_TV_CAP:0 "ƒ¨´ª²¯" #GetReligiousSchoolTV_CAP
+ zaidi_school_TV_CAP:0 "…þ¦ª²¯" #GetReligiousSchoolTV_CAP
+ hanafi_school_PR_CAP:0 "Û°´ª²" #GetReligiousSchoolPR_CAP
+ hanbali_school_PR_CAP:0 "Û°¡®ª²" #GetReligiousSchoolPR_CAP
+ maliki_school_PR_CAP:0 "®ª¬ª²" #GetReligiousSchoolPR_CAP
+ shafii_school_PR_CAP:0 "÷´ªª²" #GetReligiousSchoolPR_CAP
+ ismaili_school_PR_CAP:0 "†¯ª®ª²" #GetReligiousSchoolPR_CAP
+ jafari_school_PR_CAP:0 "ƒ¨´ª²" #GetReligiousSchoolPR_CAP
+ zaidi_school_PR_CAP:0 "…þ¦ª²" #GetReligiousSchoolPR_CAP
+ #Ð®ª¥ª©°º Œ¬®º ¢ ¯°¨²¢°°¯ ¶ª®
+ hanafi_school_plural_IM:0 "°´ª²º" #GetReligiousSchoolPluralIM
+ hanbali_school_plural_IM:0 "°¡®ª²º" #GetReligiousSchoolPluralIM
+ maliki_school_plural_IM:0 "¯®ª¬ª²º" #GetReligiousSchoolPluralIM
+ shafii_school_plural_IM:0 "Œ´ªª²º" #GetReligiousSchoolPluralIM
+ ismaili_school_plural_IM:0 "ª¯ª®ª²º" #GetReligiousSchoolPluralIM
+ jafari_school_plural_IM:0 "¦¨´ª²º" #GetReligiousSchoolPluralIM
+ zaidi_school_plural_IM:0 "©þ¦ª²º" #GetReligiousSchoolPluralIM
+ hanafi_school_plural_RD:0 "°´ª²¢" #GetReligiousSchoolPluralRD
+ hanbali_school_plural_RD:0 "°¡®ª²¢" #GetReligiousSchoolPluralRD
+ maliki_school_plural_RD:0 "¯®ª¬ª²¢" #GetReligiousSchoolPluralRD
+ shafii_school_plural_RD:0 "Œ´ªª²¢" #GetReligiousSchoolPluralRD
+ ismaili_school_plural_RD:0 "ª¯ª®ª²¢" #GetReligiousSchoolPluralRD
+ jafari_school_plural_RD:0 "¦¨´ª²¢" #GetReligiousSchoolPluralRD
+ zaidi_school_plural_RD:0 "©þ¦ª²¢" #GetReligiousSchoolPluralRD
+ hanafi_school_plural_DT:0 "°´ª²¯" #GetReligiousSchoolPluralDT
+ hanbali_school_plural_DT:0 "°¡®ª²¯" #GetReligiousSchoolPluralDT
+ maliki_school_plural_DT:0 "¯®ª¬ª²¯" #GetReligiousSchoolPluralDT
+ shafii_school_plural_DT:0 "Œ´ªª²¯" #GetReligiousSchoolPluralDT
+ ismaili_school_plural_DT:0 "ª¯ª®ª²¯" #GetReligiousSchoolPluralDT
+ jafari_school_plural_DT:0 "¦¨´ª²¯" #GetReligiousSchoolPluralDT
+ zaidi_school_plural_DT:0 "©þ¦ª²¯" #GetReligiousSchoolPluralDT
+ hanafi_school_plural_TV:0 "°´ª²¯ª" #GetReligiousSchoolPluralTV
+ hanbali_school_plural_TV:0 "°¡®ª²¯ª" #GetReligiousSchoolPluralTV
+ maliki_school_plural_TV:0 "¯®ª¬ª²¯ª" #GetReligiousSchoolPluralTV
+ shafii_school_plural_TV:0 "Œ´ªª²¯ª" #GetReligiousSchoolPluralTV
+ ismaili_school_plural_TV:0 "ª¯ª®ª²¯ª" #GetReligiousSchoolPluralTV
+ jafari_school_plural_TV:0 "¦¨´ª²¯ª" #GetReligiousSchoolPluralTV
+ zaidi_school_plural_TV:0 "©þ¦ª²¯ª" #GetReligiousSchoolPluralTV
+ hanafi_school_plural_PR:0 "°´ª²" #GetReligiousSchoolPluralPR
+ hanbali_school_plural_PR:0 "°¡®ª²" #GetReligiousSchoolPluralPR
+ maliki_school_plural_PR:0 "¯®ª¬ª²" #GetReligiousSchoolPluralPR
+ shafii_school_plural_PR:0 "Œ´ªª²" #GetReligiousSchoolPluralPR
+ ismaili_school_plural_PR:0 "ª¯ª®ª²" #GetReligiousSchoolPluralPR
+ jafari_school_plural_PR:0 "¦¨´ª²" #GetReligiousSchoolPluralPR
+ zaidi_school_plural_PR:0 "©þ¦ª²" #GetReligiousSchoolPluralPR
+ hanafi_school_plural_IM_CAP:0 "Û°´ª²º" #GetReligiousSchoolPluralIM_CAP
+ hanbali_school_plural_IM_CAP:0 "Û°¡®ª²º" #GetReligiousSchoolPluralIM_CAP
+ maliki_school_plural_IM_CAP:0 "®ª¬ª²º" #GetReligiousSchoolPluralIM_CAP
+ shafii_school_plural_IM_CAP:0 "÷´ªª²º" #GetReligiousSchoolPluralIM_CAP
+ ismaili_school_plural_IM_CAP:0 "†¯ª®ª²º" #GetReligiousSchoolPluralIM_CAP
+ jafari_school_plural_IM_CAP:0 "ƒ¨´ª²º" #GetReligiousSchoolPluralIM_CAP
+ zaidi_school_plural_IM_CAP:0 "…þ¦ª²º" #GetReligiousSchoolPluralIM_CAP
+ hanafi_school_plural_RD_CAP:0 "Û°´ª²¢" #GetReligiousSchoolPluralRD_CAP
+ hanbali_school_plural_RD_CAP:0 "Û°¡®ª²¢" #GetReligiousSchoolPluralRD_CAP
+ maliki_school_plural_RD_CAP:0 "®ª¬ª²¢" #GetReligiousSchoolPluralRD_CAP
+ shafii_school_plural_RD_CAP:0 "÷´ªª²¢" #GetReligiousSchoolPluralRD_CAP
+ ismaili_school_plural_RD_CAP:0 "†¯ª®ª²¢" #GetReligiousSchoolPluralRD_CAP
+ jafari_school_plural_RD_CAP:0 "ƒ¨´ª²¢" #GetReligiousSchoolPluralRD_CAP
+ zaidi_school_plural_RD_CAP:0 "…þ¦ª²¢" #GetReligiousSchoolPluralRD_CAP
+ hanafi_school_plural_DT_CAP:0 "Û°´ª²¯" #GetReligiousSchoolPluralDT_CAP
+ hanbali_school_plural_DT_CAP:0 "Û°¡®ª²¯" #GetReligiousSchoolPluralDT_CAP
+ maliki_school_plural_DT_CAP:0 "®ª¬ª²¯" #GetReligiousSchoolPluralDT_CAP
+ shafii_school_plural_DT_CAP:0 "÷´ªª²¯" #GetReligiousSchoolPluralDT_CAP
+ ismaili_school_plural_DT_CAP:0 "†¯ª®ª²¯" #GetReligiousSchoolPluralDT_CAP
+ jafari_school_plural_DT_CAP:0 "ƒ¨´ª²¯" #GetReligiousSchoolPluralDT_CAP
+ zaidi_school_plural_DT_CAP:0 "…þ¦ª²¯" #GetReligiousSchoolPluralDT_CAP
+ hanafi_school_plural_TV_CAP:0 "Û°´ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ hanbali_school_plural_TV_CAP:0 "Û°¡®ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ maliki_school_plural_TV_CAP:0 "¯®ª¬ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ shafii_school_plural_TV_CAP:0 "÷´ªª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ ismaili_school_plural_TV_CAP:0 "†¯ª®ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ jafari_school_plural_TV_CAP:0 "ƒ¨´ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ zaidi_school_plural_TV_CAP:0 "…þ¦ª²¯ª" #GetReligiousSchoolPluralTV_CAP
+ hanafi_school_plural_PR_CAP:0 "Û°´ª²" #GetReligiousSchoolPluralPR_CAP
+ hanbali_school_plural_PR_CAP:0 "Û°¡®ª²" #GetReligiousSchoolPluralPR_CAP
+ maliki_school_plural_PR_CAP:0 "®ª¬ª²" #GetReligiousSchoolPluralPR_CAP
+ shafii_school_plural_PR_CAP:0 "÷´ªª²" #GetReligiousSchoolPluralPR_CAP
+ ismaili_school_plural_PR_CAP:0 "†¯ª®ª²" #GetReligiousSchoolPluralPR_CAP
+ jafari_school_plural_PR_CAP:0 "ƒ¨´ª²" #GetReligiousSchoolPluralPR_CAP
+ zaidi_school_plural_PR_CAP:0 "…þ¦ª²" #GetReligiousSchoolPluralPR_CAP
+ #‰ª®¥²®¿°º ®ª¥ª©°º Œ¬®
+ hanafi_school_ADJ:0 "°´ª²¬" #GetReligiousSchoolADJ
+ hanbali_school_ADJ:0 "°¡®ª²¬" #GetReligiousSchoolADJ
+ maliki_school_ADJ:0 "¯®ª¬ª²¬" #GetReligiousSchoolADJ
+ shafii_school_ADJ:0 "Œ´ªª²¬" #GetReligiousSchoolADJ
+ ismaili_school_ADJ:0 "ª¯ª®ª²¬" #GetReligiousSchoolADJ
+ jafari_school_ADJ:0 "¦¨´ª²¬" #GetReligiousSchoolADJ
+ zaidi_school_ADJ:0 "©þ¦ª²¬" #GetReligiousSchoolADJ
+ hanafi_school_ADJ_CAP:0 "Û°´ª²¬" #GetReligiousSchoolADJ_CAP
+ hanbali_school_ADJ_CAP:0 "Û°¡®ª²¬" #GetReligiousSchoolADJ_CAP
+ maliki_school_ADJ_CAP:0 "®ª¬ª²¬" #GetReligiousSchoolADJ_CAP
+ shafii_school_ADJ_CAP:0 "÷´ªª²¬" #GetReligiousSchoolADJ_CAP
+ ismaili_school_ADJ_CAP:0 "†¯ª®ª²¬" #GetReligiousSchoolADJ_CAP
+ jafari_school_ADJ_CAP:0 "ƒ¨´ª²¬" #GetReligiousSchoolADJ_CAP
+ zaidi_school_ADJ_CAP:0 "…þ¦ª²¬" #GetReligiousSchoolADJ_CAP
+ ###Ù¢º ª ª ±¯°°º
+ GetTG_wine_IM:0 "¢ª°" #GetTradeGoodsIM
+ GetTG_fish_IM:0 "º¡" #GetTradeGoodsIM
+ GetTG_salt_IM:0 "®¿" #GetTradeGoodsIM
+ GetTG_copper_IM:0 "¯¦¿" #GetTradeGoodsIM
+ GetTG_iron_IM:0 "¨®©" #GetTradeGoodsIM
+ GetTG_tea_IM:0 "¶þ" #GetTradeGoodsIM
+ GetTG_coffee_IM:0 "¬´" #GetTradeGoodsIM
+ GetTG_cotton_IM:0 "®±¬" #GetTradeGoodsIM
+ GetTG_sugar_IM:0 "" #GetTradeGoodsIM
+ GetTG_tobacco_IM:0 "²¡¬" #GetTradeGoodsIM
+ GetTG_cocoa_IM:0 "¬¬" #GetTradeGoodsIM
+ GetTG_wool_IM:0 "Œ²¿" #GetTradeGoodsIM
+ GetTG_silk_IM:0 "Œž®¬" #GetTradeGoodsIM
+ GetTG_gold_IM:0 "©®²" #GetTradeGoodsIM
+ GetTG_ivory_IM:0 "¬²¿" #GetTradeGoodsIM
+ GetTG_slaves_IM:0 "¡º" #GetTradeGoodsIM
+ GetTG_tropical_wood_IM:0 "²±ª¶¬¾ ¦¢ª°" #GetTradeGoodsIM
+ GetTG_grain_IM:0 "©°" #GetTradeGoodsIM
+ GetTG_cloth_IM:0 "³¬°" #GetTradeGoodsIM
+ GetTG_fur_IM:0 "¯" #GetTradeGoodsIM
+ GetTG_naval_supplies_IM:0 "°²ª" #GetTradeGoodsIM
+ GetTG_chinaware_IM:0 "´´" #GetTradeGoodsIM
+ GetTG_spices_IM:0 "±¾°²ª" #GetTradeGoodsIM
+ GetTG_dyes_IM:0 "¬ª²®ª" #GetTradeGoodsIM
+ GetTG_incense_IM:0 "¡®¥¢°ª¾" #GetTradeGoodsIM
+ GetTG_livestock_IM:0 "¦¯Œ°ªþ ¬²" #GetTradeGoodsIM
+ GetTG_glass_IM:0 "²¬®" #GetTradeGoodsIM
+ GetTG_paper_IM:0 "¡³¯¥" #GetTradeGoodsIM
+ GetTG_gems_IM:0 "¯µ¢²º" #GetTradeGoodsIM
+ GetTG_coal_IM:0 "³¥®¿" #GetTradeGoodsIM
+ GetTG_wine_RD:0 "¢ª°" #GetTradeGoodsRD
+ GetTG_fish_RD:0 "º¡º" #GetTradeGoodsRD
+ GetTG_salt_RD:0 "®ª" #GetTradeGoodsRD
+ GetTG_copper_RD:0 "¯¦ª" #GetTradeGoodsRD
+ GetTG_iron_RD:0 "¨®©" #GetTradeGoodsRD
+ GetTG_tea_RD:0 "¶¾" #GetTradeGoodsRD
+ GetTG_coffee_RD:0 "¬´" #GetTradeGoodsRD
+ GetTG_cotton_RD:0 "®±¬" #GetTradeGoodsRD
+ GetTG_sugar_RD:0 "" #GetTradeGoodsRD
+ GetTG_tobacco_RD:0 "²¡¬" #GetTradeGoodsRD
+ GetTG_cocoa_RD:0 "¬¬" #GetTradeGoodsRD
+ GetTG_wool_RD:0 "Œ²ª" #GetTradeGoodsRD
+ GetTG_silk_RD:0 "Œž®¬" #GetTradeGoodsRD
+ GetTG_gold_RD:0 "©®²" #GetTradeGoodsRD
+ GetTG_ivory_RD:0 "¬²ª" #GetTradeGoodsRD
+ GetTG_slaves_RD:0 "¡¢" #GetTradeGoodsRD
+ GetTG_tropical_wood_RD:0 "²±ª¶¬þ ¦¢ª°º" #GetTradeGoodsRD
+ GetTG_grain_RD:0 "©°" #GetTradeGoodsRD
+ GetTG_cloth_RD:0 "³¬°" #GetTradeGoodsRD
+ GetTG_fur_RD:0 "¯" #GetTradeGoodsRD
+ GetTG_naval_supplies_RD:0 "°²þ" #GetTradeGoodsRD
+ GetTG_chinaware_RD:0 "´´" #GetTradeGoodsRD
+ GetTG_spices_RD:0 "±¾°²þ" #GetTradeGoodsRD
+ GetTG_dyes_RD:0 "¬ª²®þ" #GetTradeGoodsRD
+ GetTG_incense_RD:0 "¡®¥¢°ªþ" #GetTradeGoodsRD
+ GetTG_livestock_RD:0 "¦¯Œ°¥ ¬²" #GetTradeGoodsRD
+ GetTG_glass_RD:0 "²¬®" #GetTradeGoodsRD
+ GetTG_paper_RD:0 "¡³¯¥ª" #GetTradeGoodsRD
+ GetTG_gems_RD:0 "¯µ¢²¢" #GetTradeGoodsRD
+ GetTG_coal_RD:0 "³¥®¾" #GetTradeGoodsRD
+ GetTG_wine_DT:0 "¢ª°³" #GetTradeGoodsDT
+ GetTG_fish_DT:0 "º¡" #GetTradeGoodsDT
+ GetTG_salt_DT:0 "®ª" #GetTradeGoodsDT
+ GetTG_copper_DT:0 "¯¦ª" #GetTradeGoodsDT
+ GetTG_iron_DT:0 "¨®©³" #GetTradeGoodsDT
+ GetTG_tea_DT:0 "¶½" #GetTradeGoodsDT
+ GetTG_coffee_DT:0 "¬´" #GetTradeGoodsDT
+ GetTG_cotton_DT:0 "®±¬³" #GetTradeGoodsDT
+ GetTG_sugar_DT:0 "³" #GetTradeGoodsDT
+ GetTG_tobacco_DT:0 "²¡¬³" #GetTradeGoodsDT
+ GetTG_cocoa_DT:0 "¬¬" #GetTradeGoodsDT
+ GetTG_wool_DT:0 "Œ²ª" #GetTradeGoodsDT
+ GetTG_silk_DT:0 "Œž®¬³" #GetTradeGoodsDT
+ GetTG_gold_DT:0 "©®²³" #GetTradeGoodsDT
+ GetTG_ivory_DT:0 "¬²ª" #GetTradeGoodsDT
+ GetTG_slaves_DT:0 "¡¯" #GetTradeGoodsDT
+ GetTG_tropical_wood_DT:0 "²±ª¶¬þ ¦¢ª°" #GetTradeGoodsDT
+ GetTG_grain_DT:0 "©°³" #GetTradeGoodsDT
+ GetTG_cloth_DT:0 "³¬°³" #GetTradeGoodsDT
+ GetTG_fur_DT:0 "¯¯" #GetTradeGoodsDT
+ GetTG_naval_supplies_DT:0 "°²¾¯" #GetTradeGoodsDT
+ GetTG_chinaware_DT:0 "´´³" #GetTradeGoodsDT
+ GetTG_spices_DT:0 "±¾°²¾¯" #GetTradeGoodsDT
+ GetTG_dyes_DT:0 "¬ª²®¾¯" #GetTradeGoodsDT
+ GetTG_incense_DT:0 "¡®¥¢°ª¾¯" #GetTradeGoodsDT
+ GetTG_livestock_DT:0 "¦¯Œ°¯³ ¬²³" #GetTradeGoodsDT
+ GetTG_glass_DT:0 "²¬®³" #GetTradeGoodsDT
+ GetTG_paper_DT:0 "¡³¯¥" #GetTradeGoodsDT
+ GetTG_gems_DT:0 "¯µ¢²¯" #GetTradeGoodsDT
+ GetTG_coal_DT:0 "³¥®½" #GetTradeGoodsDT
+ GetTG_wine_VN:0 "¢ª°" #GetTradeGoodsVN
+ GetTG_fish_VN:0 "º¡³" #GetTradeGoodsVN
+ GetTG_salt_VN:0 "®¿" #GetTradeGoodsVN
+ GetTG_copper_VN:0 "¯¦¿" #GetTradeGoodsVN
+ GetTG_iron_VN:0 "¨®©" #GetTradeGoodsVN
+ GetTG_tea_VN:0 "¶þ" #GetTradeGoodsVN
+ GetTG_coffee_VN:0 "¬´" #GetTradeGoodsVN
+ GetTG_cotton_VN:0 "®±¬" #GetTradeGoodsVN
+ GetTG_sugar_VN:0 "" #GetTradeGoodsVN
+ GetTG_tobacco_VN:0 "²¡¬" #GetTradeGoodsVN
+ GetTG_cocoa_VN:0 "¬¬" #GetTradeGoodsVN
+ GetTG_wool_VN:0 "Œ²¿" #GetTradeGoodsVN
+ GetTG_silk_VN:0 "Œž®¬" #GetTradeGoodsVN
+ GetTG_gold_VN:0 "©®²" #GetTradeGoodsVN
+ GetTG_ivory_VN:0 "¬²¿" #GetTradeGoodsVN
+ GetTG_slaves_VN:0 "¡¢" #GetTradeGoodsVN
+ GetTG_tropical_wood_VN:0 "²±ª¶¬³½ ¦¢ª°³" #GetTradeGoodsVN
+ GetTG_grain_VN:0 "©°" #GetTradeGoodsVN
+ GetTG_cloth_VN:0 "³¬°" #GetTradeGoodsVN
+ GetTG_fur_VN:0 "¯" #GetTradeGoodsVN
+ GetTG_naval_supplies_VN:0 "°²ª" #GetTradeGoodsVN
+ GetTG_chinaware_VN:0 "´´" #GetTradeGoodsVN
+ GetTG_spices_VN:0 "±¾°²ª" #GetTradeGoodsVN
+ GetTG_dyes_VN:0 "¬ª²®ª" #GetTradeGoodsVN
+ GetTG_incense_VN:0 "¡®¥¢°ª¾" #GetTradeGoodsVN
+ GetTG_livestock_VN:0 "¦¯Œ°ªþ ¬²" #GetTradeGoodsVN
+ GetTG_glass_VN:0 "²¬®" #GetTradeGoodsVN
+ GetTG_paper_VN:0 "¡³¯¥³" #GetTradeGoodsVN
+ GetTG_gems_VN:0 "¯µ¢²º" #GetTradeGoodsVN
+ GetTG_coal_VN:0 "³¥®¿" #GetTradeGoodsVN
+ GetTG_wine_TV:0 "¢ª°¯" #GetTradeGoodsTV
+ GetTG_fish_TV:0 "º¡þ" #GetTradeGoodsTV
+ GetTG_salt_TV:0 "®¿½" #GetTradeGoodsTV
+ GetTG_copper_TV:0 "¯¦¿½" #GetTradeGoodsTV
+ GetTG_iron_TV:0 "¨®©¯" #GetTradeGoodsTV
+ GetTG_tea_TV:0 "¶¯" #GetTradeGoodsTV
+ GetTG_coffee_TV:0 "¬´" #GetTradeGoodsTV
+ GetTG_cotton_TV:0 "®±¬¯" #GetTradeGoodsTV
+ GetTG_sugar_TV:0 "¯" #GetTradeGoodsTV
+ GetTG_tobacco_TV:0 "²¡¬¯" #GetTradeGoodsTV
+ GetTG_cocoa_TV:0 "¬¬" #GetTradeGoodsTV
+ GetTG_wool_TV:0 "Œ²¿½" #GetTradeGoodsTV
+ GetTG_silk_TV:0 "Œž®¬¯" #GetTradeGoodsTV
+ GetTG_gold_TV:0 "©®²¯" #GetTradeGoodsTV
+ GetTG_ivory_TV:0 "¬²¿½" #GetTradeGoodsTV
+ GetTG_slaves_TV:0 "¡¯ª" #GetTradeGoodsTV
+ GetTG_tropical_wood_TV:0 "²±ª¶¬þ ¦¢ª°þ" #GetTradeGoodsTV
+ GetTG_grain_TV:0 "©°¯" #GetTradeGoodsTV
+ GetTG_cloth_TV:0 "³¬°¯" #GetTradeGoodsTV
+ GetTG_fur_TV:0 "¯¯" #GetTradeGoodsTV
+ GetTG_naval_supplies_TV:0 "°²¾¯ª" #GetTradeGoodsTV
+ GetTG_chinaware_TV:0 "´´¯" #GetTradeGoodsTV
+ GetTG_spices_TV:0 "±¾°²¾¯ª" #GetTradeGoodsTV
+ GetTG_dyes_TV:0 "¬ª²®¾¯ª" #GetTradeGoodsTV
+ GetTG_incense_TV:0 "¡®¥¢°ª¾¯ª" #GetTradeGoodsTV
+ GetTG_livestock_TV:0 "¦¯Œ°ª¯ ¬²¯" #GetTradeGoodsTV
+ GetTG_glass_TV:0 "²¬®¯" #GetTradeGoodsTV
+ GetTG_paper_TV:0 "¡³¯¥þ" #GetTradeGoodsTV
+ GetTG_gems_TV:0 "¯µ¢²¯ª" #GetTradeGoodsTV
+ GetTG_coal_TV:0 "³¥®ž¯" #GetTradeGoodsTV
+ GetTG_wine_PR:0 "¢ª°" #GetTradeGoodsPR
+ GetTG_fish_PR:0 "º¡" #GetTradeGoodsPR
+ GetTG_salt_PR:0 "®ª" #GetTradeGoodsPR
+ GetTG_copper_PR:0 "¯¦ª" #GetTradeGoodsPR
+ GetTG_iron_PR:0 "¨®©" #GetTradeGoodsPR
+ GetTG_tea_PR:0 "¶" #GetTradeGoodsPR
+ GetTG_coffee_PR:0 "¬´" #GetTradeGoodsPR
+ GetTG_cotton_PR:0 "®±¬" #GetTradeGoodsPR
+ GetTG_sugar_PR:0 "" #GetTradeGoodsPR
+ GetTG_tobacco_PR:0 "²¡¬" #GetTradeGoodsPR
+ GetTG_cocoa_PR:0 "¬¬" #GetTradeGoodsPR
+ GetTG_wool_PR:0 "Œ²ª" #GetTradeGoodsPR
+ GetTG_silk_PR:0 "Œž®¬" #GetTradeGoodsPR
+ GetTG_gold_PR:0 "©®²" #GetTradeGoodsPR
+ GetTG_ivory_PR:0 "¬²ª" #GetTradeGoodsPR
+ GetTG_slaves_PR:0 "¡" #GetTradeGoodsPR
+ GetTG_tropical_wood_PR:0 "²±ª¶¬þ ¦¢ª°" #GetTradeGoodsPR
+ GetTG_grain_PR:0 "©°" #GetTradeGoodsPR
+ GetTG_cloth_PR:0 "³¬°" #GetTradeGoodsPR
+ GetTG_fur_PR:0 "¯" #GetTradeGoodsPR
+ GetTG_naval_supplies_PR:0 "°²þ" #GetTradeGoodsPR
+ GetTG_chinaware_PR:0 "´´" #GetTradeGoodsPR
+ GetTG_spices_PR:0 "±¾°²¾" #GetTradeGoodsPR
+ GetTG_dyes_PR:0 "¬ª²®¾" #GetTradeGoodsPR
+ GetTG_incense_PR:0 "¡®¥¢°ª¾" #GetTradeGoodsPR
+ GetTG_livestock_PR:0 "¦¯Œ°¯ ¬²" #GetTradeGoodsPR
+ GetTG_glass_PR:0 "²¬®" #GetTradeGoodsPR
+ GetTG_paper_PR:0 "¡³¯¥" #GetTradeGoodsPR
+ GetTG_gems_PR:0 "¯µ¢²" #GetTradeGoodsPR
+ GetTG_coal_PR:0 "³¥®" #GetTradeGoodsPR
+ GetTG_wine_IM_CAP:0 "Ïª°" #GetTradeGoodsIM_CAP
+ GetTG_fish_IM_CAP:0 "Ðº¡" #GetTradeGoodsIM_CAP
+ GetTG_salt_IM_CAP:0 "Ô®¿" #GetTradeGoodsIM_CAP
+ GetTG_copper_IM_CAP:0 "¦¿" #GetTradeGoodsIM_CAP
+ GetTG_iron_IM_CAP:0 "„®©" #GetTradeGoodsIM_CAP
+ GetTG_tea_IM_CAP:0 "Ìþ" #GetTradeGoodsIM_CAP
+ GetTG_coffee_IM_CAP:0 "´" #GetTradeGoodsIM_CAP
+ GetTG_cotton_IM_CAP:0 "Û®±¬" #GetTradeGoodsIM_CAP
+ GetTG_sugar_IM_CAP:0 "Ô" #GetTradeGoodsIM_CAP
+ GetTG_tobacco_IM_CAP:0 "Ù¡¬" #GetTradeGoodsIM_CAP
+ GetTG_cocoa_IM_CAP:0 "¬" #GetTradeGoodsIM_CAP
+ GetTG_wool_IM_CAP:0 "÷²¿" #GetTradeGoodsIM_CAP
+ GetTG_silk_IM_CAP:0 "÷ž®¬" #GetTradeGoodsIM_CAP
+ GetTG_gold_IM_CAP:0 "…®²" #GetTradeGoodsIM_CAP
+ GetTG_ivory_IM_CAP:0 "²¿" #GetTradeGoodsIM_CAP
+ GetTG_slaves_IM_CAP:0 "Ð¡º" #GetTradeGoodsIM_CAP
+ GetTG_tropical_wood_IM_CAP:0 "Ù±ª¶¬¾ ¦¢ª°" #GetTradeGoodsIM_CAP
+ GetTG_grain_IM_CAP:0 "…°" #GetTradeGoodsIM_CAP
+ GetTG_cloth_IM_CAP:0 "Ô³¬°" #GetTradeGoodsIM_CAP
+ GetTG_fur_IM_CAP:0 "" #GetTradeGoodsIM_CAP
+ GetTG_naval_supplies_IM_CAP:0 "Ô°²ª" #GetTradeGoodsIM_CAP
+ GetTG_chinaware_IM_CAP:0 "Ê´" #GetTradeGoodsIM_CAP
+ GetTG_spices_IM_CAP:0 "‰¾°²ª" #GetTradeGoodsIM_CAP
+ GetTG_dyes_IM_CAP:0 "ª²®ª" #GetTradeGoodsIM_CAP
+ GetTG_incense_IM_CAP:0 "€®¥¢°ª¾" #GetTradeGoodsIM_CAP
+ GetTG_livestock_IM_CAP:0 "ƒ¯Œ°ªþ ¬²" #GetTradeGoodsIM_CAP
+ GetTG_glass_IM_CAP:0 "Ô²¬®" #GetTradeGoodsIM_CAP
+ GetTG_paper_IM_CAP:0 "€³¯¥" #GetTradeGoodsIM_CAP
+ GetTG_gems_IM_CAP:0 "Ô¯µ¢²º" #GetTradeGoodsIM_CAP
+ GetTG_coal_IM_CAP:0 "‹¥®¿" #GetTradeGoodsIM_CAP
+ GetTG_wine_RD_CAP:0 "Ïª°" #GetTradeGoodsRD_CAP
+ GetTG_fish_RD_CAP:0 "Ðº¡º" #GetTradeGoodsRD_CAP
+ GetTG_salt_RD_CAP:0 "Ô®ª" #GetTradeGoodsRD_CAP
+ GetTG_copper_RD_CAP:0 "¦ª" #GetTradeGoodsRD_CAP
+ GetTG_iron_RD_CAP:0 "„®©" #GetTradeGoodsRD_CAP
+ GetTG_tea_RD_CAP:0 "Ì¾" #GetTradeGoodsRD_CAP
+ GetTG_coffee_RD_CAP:0 "´" #GetTradeGoodsRD_CAP
+ GetTG_cotton_RD_CAP:0 "Û®±¬" #GetTradeGoodsRD_CAP
+ GetTG_sugar_RD_CAP:0 "Ô" #GetTradeGoodsRD_CAP
+ GetTG_tobacco_RD_CAP:0 "Ù¡¬" #GetTradeGoodsRD_CAP
+ GetTG_cocoa_RD_CAP:0 "¬" #GetTradeGoodsRD_CAP
+ GetTG_wool_RD_CAP:0 "÷²ª" #GetTradeGoodsRD_CAP
+ GetTG_silk_RD_CAP:0 "÷ž®¬" #GetTradeGoodsRD_CAP
+ GetTG_gold_RD_CAP:0 "…®²" #GetTradeGoodsRD_CAP
+ GetTG_ivory_RD_CAP:0 "²ª" #GetTradeGoodsRD_CAP
+ GetTG_slaves_RD_CAP:0 "Ð¡¢" #GetTradeGoodsRD_CAP
+ GetTG_tropical_wood_RD_CAP:0 "Ù±ª¶¬þ ¦¢ª°º" #GetTradeGoodsRD_CAP
+ GetTG_grain_RD_CAP:0 "…°" #GetTradeGoodsRD_CAP
+ GetTG_cloth_RD_CAP:0 "Ô³¬°" #GetTradeGoodsRD_CAP
+ GetTG_fur_RD_CAP:0 "" #GetTradeGoodsRD_CAP
+ GetTG_naval_supplies_RD_CAP:0 "Ô°²þ" #GetTradeGoodsRD_CAP
+ GetTG_chinaware_RD_CAP:0 "Ê´" #GetTradeGoodsRD_CAP
+ GetTG_spices_RD_CAP:0 "‰¾°²þ" #GetTradeGoodsRD_CAP
+ GetTG_dyes_RD_CAP:0 "ª²®þ" #GetTradeGoodsRD_CAP
+ GetTG_incense_RD_CAP:0 "€®¥¢°ªþ" #GetTradeGoodsRD_CAP
+ GetTG_livestock_RD_CAP:0 "ƒ¯Œ°¥ ¬²" #GetTradeGoodsRD_CAP
+ GetTG_glass_RD_CAP:0 "Ô²¬®" #GetTradeGoodsRD_CAP
+ GetTG_paper_RD_CAP:0 "€³¯¥ª" #GetTradeGoodsRD_CAP
+ GetTG_gems_RD_CAP:0 "Ô¯µ¢²¢" #GetTradeGoodsRD_CAP
+ GetTG_coal_RD_CAP:0 "‹¥®¾" #GetTradeGoodsRD_CAP
+ GetTG_wine_DT_CAP:0 "Ïª°³" #GetTradeGoodsDT_CAP
+ GetTG_fish_DT_CAP:0 "Ðº¡" #GetTradeGoodsDT_CAP
+ GetTG_salt_DT_CAP:0 "Ô®ª" #GetTradeGoodsDT_CAP
+ GetTG_copper_DT_CAP:0 "¦ª" #GetTradeGoodsDT_CAP
+ GetTG_iron_DT_CAP:0 "„®©³" #GetTradeGoodsDT_CAP
+ GetTG_tea_DT_CAP:0 "Ì½" #GetTradeGoodsDT_CAP
+ GetTG_coffee_DT_CAP:0 "´" #GetTradeGoodsDT_CAP
+ GetTG_cotton_DT_CAP:0 "Û®±¬³" #GetTradeGoodsDT_CAP
+ GetTG_sugar_DT_CAP:0 "Ô³" #GetTradeGoodsDT_CAP
+ GetTG_tobacco_DT_CAP:0 "Ù¡¬³" #GetTradeGoodsDT_CAP
+ GetTG_cocoa_DT_CAP:0 "¬" #GetTradeGoodsDT_CAP
+ GetTG_wool_DT_CAP:0 "÷²ª" #GetTradeGoodsDT_CAP
+ GetTG_silk_DT_CAP:0 "÷ž®¬³" #GetTradeGoodsDT_CAP
+ GetTG_gold_DT_CAP:0 "…®²³" #GetTradeGoodsDT_CAP
+ GetTG_ivory_DT_CAP:0 "²ª" #GetTradeGoodsDT_CAP
+ GetTG_slaves_DT_CAP:0 "Ð¡¯" #GetTradeGoodsDT_CAP
+ GetTG_tropical_wood_DT_CAP:0 "Ù±ª¶¬þ ¦¢ª°" #GetTradeGoodsDT_CAP
+ GetTG_grain_DT_CAP:0 "…°³" #GetTradeGoodsDT_CAP
+ GetTG_cloth_DT_CAP:0 "Ô³¬°³" #GetTradeGoodsDT_CAP
+ GetTG_fur_DT_CAP:0 "¯" #GetTradeGoodsDT_CAP
+ GetTG_naval_supplies_DT_CAP:0 "Ô°²¾¯" #GetTradeGoodsDT_CAP
+ GetTG_chinaware_DT_CAP:0 "Ê´³" #GetTradeGoodsDT_CAP
+ GetTG_spices_DT_CAP:0 "‰¾°²¾¯" #GetTradeGoodsDT_CAP
+ GetTG_dyes_DT_CAP:0 "ª²®¾¯" #GetTradeGoodsDT_CAP
+ GetTG_incense_DT_CAP:0 "€®¥¢°ª¾¯" #GetTradeGoodsDT_CAP
+ GetTG_livestock_DT_CAP:0 "ƒ¯Œ°¯³ ¬²³" #GetTradeGoodsDT_CAP
+ GetTG_glass_DT_CAP:0 "Ô²¬®³" #GetTradeGoodsDT_CAP
+ GetTG_paper_DT_CAP:0 "€³¯¥" #GetTradeGoodsDT_CAP
+ GetTG_gems_DT_CAP:0 "Ô¯µ¢²¯" #GetTradeGoodsDT_CAP
+ GetTG_wine_VN_CAP:0 "Ïª°" #GetTradeGoodsVN_CAP
+ GetTG_fish_VN_CAP:0 "Ðº¡³" #GetTradeGoodsVN_CAP
+ GetTG_salt_VN_CAP:0 "Ô®¿" #GetTradeGoodsVN_CAP
+ GetTG_copper_VN_CAP:0 "¦¿" #GetTradeGoodsVN_CAP
+ GetTG_iron_VN_CAP:0 "„®©" #GetTradeGoodsVN_CAP
+ GetTG_tea_VN_CAP:0 "Ìþ" #GetTradeGoodsVN_CAP
+ GetTG_coffee_VN_CAP:0 "´" #GetTradeGoodsVN_CAP
+ GetTG_cotton_VN_CAP:0 "Û®±¬" #GetTradeGoodsVN_CAP
+ GetTG_sugar_VN_CAP:0 "Ô" #GetTradeGoodsVN_CAP
+ GetTG_tobacco_VN_CAP:0 "Ù¡¬" #GetTradeGoodsVN_CAP
+ GetTG_cocoa_VN_CAP:0 "¬" #GetTradeGoodsVN_CAP
+ GetTG_wool_VN_CAP:0 "÷²¿" #GetTradeGoodsVN_CAP
+ GetTG_silk_VN_CAP:0 "÷ž®¬" #GetTradeGoodsVN_CAP
+ GetTG_gold_VN_CAP:0 "…®²" #GetTradeGoodsVN_CAP
+ GetTG_ivory_VN_CAP:0 "²¿" #GetTradeGoodsVN_CAP
+ GetTG_slaves_VN_CAP:0 "Ð¡¢" #GetTradeGoodsVN_CAP
+ GetTG_tropical_wood_VN_CAP:0 "Ù±ª¶¬³½ ¦¢ª°³" #GetTradeGoodsVN_CAP
+ GetTG_grain_VN_CAP:0 "…°" #GetTradeGoodsVN_CAP
+ GetTG_cloth_VN_CAP:0 "Ô³¬°" #GetTradeGoodsVN_CAP
+ GetTG_fur_VN_CAP:0 "" #GetTradeGoodsVN_CAP
+ GetTG_naval_supplies_VN_CAP:0 "Ô°²ª" #GetTradeGoodsVN_CAP
+ GetTG_chinaware_VN_CAP:0 "Ê´" #GetTradeGoodsVN_CAP
+ GetTG_spices_VN_CAP:0 "‰¾°²ª" #GetTradeGoodsVN_CAP
+ GetTG_dyes_VN_CAP:0 "ª²®ª" #GetTradeGoodsVN_CAP
+ GetTG_incense_VN_CAP:0 "€®¥¢°ª¾" #GetTradeGoodsVN_CAP
+ GetTG_livestock_VN_CAP:0 "ƒ¯Œ°ªþ ¬²" #GetTradeGoodsVN_CAP
+ GetTG_glass_VN_CAP:0 "Ô²¬®" #GetTradeGoodsVN_CAP
+ GetTG_paper_VN_CAP:0 "€³¯¥³" #GetTradeGoodsVN_CAP
+ GetTG_gems_VN_CAP:0 "Ô¯µ¢²º" #GetTradeGoodsVN_CAP
+ GetTG_coal_VN_CAP:0 "‹¥®¿" #GetTradeGoodsVN
+ GetTG_wine_TV_CAP:0 "Ïª°¯" #GetTradeGoodsTV_CAP
+ GetTG_fish_TV_CAP:0 "Ðº¡þ" #GetTradeGoodsTV_CAP
+ GetTG_salt_TV_CAP:0 "Ô®¿½" #GetTradeGoodsTV_CAP
+ GetTG_copper_TV_CAP:0 "¦¿½" #GetTradeGoodsTV_CAP
+ GetTG_iron_TV_CAP:0 "„®©¯" #GetTradeGoodsTV_CAP
+ GetTG_tea_TV_CAP:0 "Ì¯" #GetTradeGoodsTV_CAP
+ GetTG_coffee_TV_CAP:0 "´" #GetTradeGoodsTV_CAP
+ GetTG_cotton_TV_CAP:0 "Û®±¬¯" #GetTradeGoodsTV_CAP
+ GetTG_sugar_TV_CAP:0 "Ô¯" #GetTradeGoodsTV_CAP
+ GetTG_tobacco_TV_CAP:0 "Ù¡¬¯" #GetTradeGoodsTV_CAP
+ GetTG_cocoa_TV_CAP:0 "¬" #GetTradeGoodsTV_CAP
+ GetTG_wool_TV_CAP:0 "÷²¿½" #GetTradeGoodsTV_CAP
+ GetTG_silk_TV_CAP:0 "÷ž®¬¯" #GetTradeGoodsTV_CAP
+ GetTG_gold_TV_CAP:0 "…®²¯" #GetTradeGoodsTV_CAP
+ GetTG_ivory_TV_CAP:0 "²¿½" #GetTradeGoodsTV_CAP
+ GetTG_slaves_TV_CAP:0 "Ð¡¯ª" #GetTradeGoodsTV_CAP
+ GetTG_tropical_wood_TV_CAP:0 "Ù±ª¶¬þ ¦¢ª°þ" #GetTradeGoodsTV_CAP
+ GetTG_grain_TV_CAP:0 "…°¯" #GetTradeGoodsTV_CAP
+ GetTG_cloth_TV_CAP:0 "Ô³¬°¯" #GetTradeGoodsTV_CAP
+ GetTG_fur_TV_CAP:0 "¯" #GetTradeGoodsTV_CAP
+ GetTG_naval_supplies_TV_CAP:0 "Ô°²¾¯ª" #GetTradeGoodsTV_CAP
+ GetTG_chinaware_TV_CAP:0 "Ê´¯" #GetTradeGoodsTV_CAP
+ GetTG_spices_TV_CAP:0 "‰¾°²¾¯ª" #GetTradeGoodsTV_CAP
+ GetTG_dyes_TV_CAP:0 "ª²®¾¯ª" #GetTradeGoodsTV_CAP
+ GetTG_incense_TV_CAP:0 "€®¥¢°ª¾¯ª" #GetTradeGoodsTV_CAP
+ GetTG_livestock_TV_CAP:0 "ƒ¯Œ°ª¯ ¬²¯" #GetTradeGoodsTV_CAP
+ GetTG_glass_TV_CAP:0 "Ô²¬®¯" #GetTradeGoodsTV_CAP
+ GetTG_paper_TV_CAP:0 "€³¯¥þ" #GetTradeGoodsTV_CAP
+ GetTG_gems_TV_CAP:0 "Ô¯µ¢²¯ª" #GetTradeGoodsTV_CAP
+ GetTG_coal_TV_CAP:0 "‹¥®ž¯" #GetTradeGoodsTV_CAP
+ GetTG_wine_PR_CAP:0 "Ïª°" #GetTradeGoodsPR_CAP
+ GetTG_fish_PR_CAP:0 "Ðº¡" #GetTradeGoodsPR_CAP
+ GetTG_salt_PR_CAP:0 "Ô®ª" #GetTradeGoodsPR_CAP
+ GetTG_copper_PR_CAP:0 "¦ª" #GetTradeGoodsPR_CAP
+ GetTG_iron_PR_CAP:0 "„®©" #GetTradeGoodsPR_CAP
+ GetTG_tea_PR_CAP:0 "Ì" #GetTradeGoodsPR_CAP
+ GetTG_coffee_PR_CAP:0 "´" #GetTradeGoodsPR_CAP
+ GetTG_cotton_PR_CAP:0 "Û®±¬" #GetTradeGoodsPR_CAP
+ GetTG_sugar_PR_CAP:0 "Ô" #GetTradeGoodsPR_CAP
+ GetTG_tobacco_PR_CAP:0 "Ù¡¬" #GetTradeGoodsPR_CAP
+ GetTG_cocoa_PR_CAP:0 "¬" #GetTradeGoodsPR_CAP
+ GetTG_wool_PR_CAP:0 "÷²ª" #GetTradeGoodsPR_CAP
+ GetTG_silk_PR_CAP:0 "÷ž®¬" #GetTradeGoodsPR_CAP
+ GetTG_gold_PR_CAP:0 "…®²" #GetTradeGoodsPR_CAP
+ GetTG_ivory_PR_CAP:0 "²ª" #GetTradeGoodsPR_CAP
+ GetTG_slaves_PR_CAP:0 "Ð¡" #GetTradeGoodsPR_CAP
+ GetTG_tropical_wood_PR_CAP:0 "Ù±ª¶¬þ ¦¢ª°" #GetTradeGoodsPR_CAP
+ GetTG_grain_PR_CAP:0 "…°" #GetTradeGoodsPR_CAP
+ GetTG_cloth_PR_CAP:0 "Ô³¬°" #GetTradeGoodsPR_CAP
+ GetTG_fur_PR_CAP:0 "" #GetTradeGoodsPR_CAP
+ GetTG_naval_supplies_PR_CAP:0 "Ô°²þ" #GetTradeGoodsPR_CAP
+ GetTG_chinaware_PR_CAP:0 "Ê´" #GetTradeGoodsPR_CAP
+ GetTG_spices_PR_CAP:0 "‰¾°²¾" #GetTradeGoodsPR_CAP
+ GetTG_dyes_PR_CAP:0 "ª²®¾" #GetTradeGoodsPR_CAP
+ GetTG_incense_PR_CAP:0 "€®¥¢°ª¾" #GetTradeGoodsPR_CAP
+ GetTG_livestock_PR_CAP:0 "ƒ¯Œ°¯ ¬²" #GetTradeGoodsPR_CAP
+ GetTG_glass_PR_CAP:0 "Ô²¬®" #GetTradeGoodsPR_CAP
+ GetTG_paper_PR_CAP:0 "€³¯¥" #GetTradeGoodsPR_CAP
+ GetTG_gems_PR_CAP:0 "Ô¯µ¢²" #GetTradeGoodsPR_CAP
+ GetTG_coal_PR_CAP:0 "‹¥®" #GetTradeGoodsPR_CAP
+ GetTG_cloves_IM:0 "¥¢©¦ª¬ª" #GetTradeGoodsIM
+ GetTG_cloves_RD:0 "¥¢©¦ª¬" #GetTradeGoodsRD
+ GetTG_cloves_DT:0 "¥¢©¦ª¬¯" #GetTradeGoodsDT
+ GetTG_cloves_VN:0 "¥¢©¦ª¬ª" #GetTradeGoodsVN
+ GetTG_cloves_TV:0 "¥¢©¦ª¬¯ª" #GetTradeGoodsTV
+ GetTG_cloves_PR:0 "¥¢©¦ª¬" #GetTradeGoodsPR
+ GetTG_cloves_IM_CAP:0 "‚¢©¦ª¬ª" #GetTradeGoodsIM_CAP
+ GetTG_cloves_RD_CAP:0 "‚¢©¦ª¬" #GetTradeGoodsRD_CAP
+ GetTG_cloves_DT_CAP:0 "‚¢©¦ª¬¯" #GetTradeGoodsDT_CAP
+ GetTG_cloves_VN_CAP:0 "‚¢©¦ª¬ª" #GetTradeGoodsVN_CAP
+ GetTG_cloves_TV_CAP:0 "‚¢©¦ª¬¯ª" #GetTradeGoodsTV_CAP
+ GetTG_cloves_PR_CAP:0 "‚¢©¦ª¬" #GetTradeGoodsPR_CAP
+ #Ùª± ´¯º ±¢®°ª¾ ¢ ¦ª²®¿°¯ ±¦¨
+ string_sublime_porte_RD:0 "€®ª²²®¿°þ ‰²º" #GetStateFormRD
+ string_crown_RD:0 "°º" #GetStateFormRD
+ string_council_RD:0 "Ô¢²" #GetStateFormRD
+ #Ùª± ´¯º ±¢®°ª¾ ¢ ¦²®¿°¯ ±¦¨
+ string_sublime_porte_DT:0 "€®ª²²®¿°þ ‰²" #GetStateFormDT
+ string_crown_DT:0 "°" #GetStateFormDT
+ string_council_DT:0 "Ô¢²³" #GetStateFormDT
+ #Ùª± ´¯º ±¢®°ª¾ ¢ ²¢ª²®¿°¯ ±¦¨
+ string_sublime_porte_TV:0 "€®ª²²®¿°þ ‰²þ" #GetStateFormTV
+ string_crown_TV:0 "°þ" #GetStateFormTV
+ string_council_TV:0 "Ô¢²¯" #GetStateFormTV
+ #Ùª± ´¯º ±¢®°ª¾ ¢ ±¦®¨°¯ ±¦¨
+ string_sublime_porte_PR:0 "€®ª²²®¿°þ ‰²" #GetStateFormPR
+ string_crown_PR:0 "°" #GetStateFormPR
+ string_council_PR:0 "Ô¢²" #GetStateFormPR
+ #Fancy ²¢º ¢ ¦ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ string_OGO_mother_of_pearl:0 "‰®¯³²" #GetFancyTG_OGO
+ string_OGO_cowries:0 "Ð¬³Œ¬" #GetFancyTG_OGO
+ string_OGO_sapphires:0 "Ô±´ª¢" #GetFancyTG_OGO
+ string_OGO_turquoise:0 "€ª½©º" #GetFancyTG_OGO
+ string_OGO_rubies:0 "Ð³¡ª°¢" #GetFancyTG_OGO
+ string_OGO_jade:0 "´ª²" #GetFancyTG_OGO
+ string_OGO_amber:0 "×°²¾" #GetFancyTG_OGO
+ string_OGO_pearls:0 "„¯¶³¥" #GetFancyTG_OGO
+ string_OGO_diamonds:0 "®¯©¢" #GetFancyTG_OGO
+ string_OGO_imperial_eggs:0 "×ªµ Ê¡¨" #GetFancyTG_OGO
+ string_OGO_miniatures:0 "ª°ª²½" #GetFancyTG_OGO
+ string_OGO_republics:0 "Ð±³¡®ª¬" #GetFancyTG_OGO
+ string_OGO_calligraphy:0 "®®ª¥´ªª" #GetFancyTG_OGO
+ string_OGO_book_of_hours:0 "Ì®¢" #GetFancyTG_OGO
+ string_OGO_fustians:0 "Ï®¿¢²" #GetFancyTG_OGO
+ string_OGO_carpets:0 "¢¢" #GetFancyTG_OGO
+ string_OGO_draperies:0 "ƒ±ª¢¬" #GetFancyTG_OGO
+ string_OGO_chintz:0 "Ôª²µ" #GetFancyTG_OGO
+ string_OGO_taffeta:0 "Ù´²º" #GetFancyTG_OGO
+ string_OGO_frankincense:0 "ˆ¦°" #GetFancyTG_OGO
+ string_OGO_cardamom:0 "¦¯°" #GetFancyTG_OGO
+ string_OGO_saffron:0 "÷´°" #GetFancyTG_OGO
+ string_OGO_cinnamon:0 "ªµº" #GetFancyTG_OGO
+ string_OGO_vanilla:0 "Ï°ª®ª" #GetFancyTG_OGO
+ string_OGO_dates:0 "Êª°ª¬¢" #GetFancyTG_OGO
+ string_OGO_opium:0 "±ª³¯" #GetFancyTG_OGO
+ string_OGO_long_pepper:0 "ƒ®ª°°¥ ±µ" #GetFancyTG_OGO
+ string_OGO_nutmeg:0 "³¬²°¥ " #GetFancyTG_OGO
+ string_OGO_perfume:0 "ƒ³¢" #GetFancyTG_OGO
+ string_OGO_pepper:0 "‰µ" #GetFancyTG_OGO
+ string_OGO_satin:0 "Ô²ª°" #GetFancyTG_OGO
+ string_OGO_embroidery:0 "ÏºŒª¢¬ª" #GetFancyTG_OGO
+ string_OGO_ivory_figurines:0 "Ð©°º ª©¦®ªþ" #GetFancyTG_OGO
+ string_OGO_lacquerware:0 "ˆ¬ª¢°°º ª©¦®ªþ" #GetFancyTG_OGO
+ string_OGO_jewellery:0 "›¢®ª°º ª©¦®ªþ" #GetFancyTG_OGO
+ string_OGO_books:0 "°ª¥" #GetFancyTG_OGO
+ string_OGO_crystal:0 "Û³²®¾" #GetFancyTG_OGO
+ string_OGO_ceramics:0 "¯ª¬ª" #GetFancyTG_OGO
+ #Fancy ²¢º ¢ ¢ª°ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ string_VIN_mother_of_pearl:0 "‰®¯³²" #GetFancyTG_VIN
+ string_VIN_cowries:0 "Ð¬³Œ¬ª" #GetFancyTG_VIN
+ string_VIN_sapphires:0 "Ô±´ªº" #GetFancyTG_VIN
+ string_VIN_turquoise:0 "€ª½©³" #GetFancyTG_VIN
+ string_VIN_rubies:0 "Ð³¡ª°º" #GetFancyTG_VIN
+ string_VIN_jade:0 "´ª²" #GetFancyTG_VIN
+ string_VIN_amber:0 "×°²¿" #GetFancyTG_VIN
+ string_VIN_pearls:0 "„¯¶³¥" #GetFancyTG_VIN
+ string_VIN_diamonds:0 "®¯©º" #GetFancyTG_VIN
+ string_VIN_imperial_eggs:0 "×þµ Ê¡¨" #GetFancyTG_VIN
+ string_VIN_miniatures:0 "ª°ª²½º" #GetFancyTG_VIN
+ string_VIN_republics:0 "Ð±³¡®ª¬ª" #GetFancyTG_VIN
+ string_VIN_calligraphy:0 "®®ª¥´ª½" #GetFancyTG_VIN
+ string_VIN_book_of_hours:0 "Ì®¢" #GetFancyTG_VIN
+ string_VIN_fustians:0 "Ï®¿¢²" #GetFancyTG_VIN
+ string_VIN_carpets:0 "¢º" #GetFancyTG_VIN
+ string_VIN_draperies:0 "ƒ±ª¢¬ª" #GetFancyTG_VIN
+ string_VIN_chintz:0 "Ôª²µ" #GetFancyTG_VIN
+ string_VIN_taffeta:0 "Ù´²³" #GetFancyTG_VIN
+ string_VIN_frankincense:0 "ˆ¦°" #GetFancyTG_VIN
+ string_VIN_cardamom:0 "¦¯°" #GetFancyTG_VIN
+ string_VIN_saffron:0 "÷´°" #GetFancyTG_VIN
+ string_VIN_cinnamon:0 "ªµ³" #GetFancyTG_VIN
+ string_VIN_vanilla:0 "Ï°ª®¿" #GetFancyTG_VIN
+ string_VIN_dates:0 "Êª°ª¬ª" #GetFancyTG_VIN
+ string_VIN_opium:0 "±ª³¯" #GetFancyTG_VIN
+ string_VIN_long_pepper:0 "ƒ®ª°°ºþ ±µ" #GetFancyTG_VIN
+ string_VIN_nutmeg:0 "³¬²°ºþ " #GetFancyTG_VIN
+ string_VIN_perfume:0 "ƒ³ª" #GetFancyTG_VIN
+ string_VIN_pepper:0 "‰µ" #GetFancyTG_VIN
+ string_VIN_satin:0 "Ô²ª°" #GetFancyTG_VIN
+ string_VIN_embroidery:0 "ÏºŒª¢¬³" #GetFancyTG_VIN
+ string_VIN_ivory_figurines:0 "Ð©°º ª©¦®ª¾" #GetFancyTG_VIN
+ string_VIN_lacquerware:0 "ˆ¬ª¢°°º ª©¦®ª¾" #GetFancyTG_VIN
+ string_VIN_jewellery:0 "›¢®ª°º ª©¦®ª¾" #GetFancyTG_VIN
+ string_VIN_books:0 "°ª¥ª" #GetFancyTG_VIN
+ string_VIN_crystal:0 "Û³²®¿" #GetFancyTG_VIN
+ string_VIN_ceramics:0 "¯ª¬³" #GetFancyTG_VIN
+ #Fancy ²¢º ¢ ²¢ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ string_TVO_mother_of_pearl:0 "‰®¯³²¯" #GetFancyTG_TVO
+ string_TVO_cowries:0 "Ð¬³Œ¬¯ª" #GetFancyTG_TVO
+ string_TVO_sapphires:0 "Ô±´ª¯ª" #GetFancyTG_TVO
+ string_TVO_turquoise:0 "€ª½©þ" #GetFancyTG_TVO
+ string_TVO_rubies:0 "Ð³¡ª°¯ª" #GetFancyTG_TVO
+ string_TVO_jade:0 "´ª²¯" #GetFancyTG_TVO
+ string_TVO_amber:0 "×°²ž¯" #GetFancyTG_TVO
+ string_TVO_pearls:0 "„¯¶³¥¯" #GetFancyTG_TVO
+ string_TVO_diamonds:0 "®¯©¯ª" #GetFancyTG_TVO
+ string_TVO_imperial_eggs:0 "×þµ¯ª Ê¡¨" #GetFancyTG_TVO
+ string_TVO_miniatures:0 "ª°ª²½¯ª" #GetFancyTG_TVO
+ string_TVO_republics:0 "Ð±³¡®ª¬¯ª" #GetFancyTG_TVO
+ string_TVO_calligraphy:0 "®®ª¥´ªþ" #GetFancyTG_TVO
+ string_TVO_book_of_hours:0 "Ì®¢¯" #GetFancyTG_TVO
+ string_TVO_fustians:0 "Ï®¿¢²¯" #GetFancyTG_TVO
+ string_TVO_carpets:0 "¢¯ª" #GetFancyTG_TVO
+ string_TVO_draperies:0 "ƒ±ª¢¬¯ª" #GetFancyTG_TVO
+ string_TVO_chintz:0 "Ôª²µ¯" #GetFancyTG_TVO
+ string_TVO_taffeta:0 "Ù´²¯ª" #GetFancyTG_TVO
+ string_TVO_frankincense:0 "ˆ¦°¯" #GetFancyTG_TVO
+ string_TVO_cardamom:0 "¦¯°¯" #GetFancyTG_TVO
+ string_TVO_saffron:0 "÷´°¯" #GetFancyTG_TVO
+ string_TVO_cinnamon:0 "ªµþ" #GetFancyTG_TVO
+ string_TVO_vanilla:0 "Ï°ª®¿½" #GetFancyTG_TVO
+ string_TVO_dates:0 "Êª°ª¬¯ª" #GetFancyTG_TVO
+ string_TVO_opium:0 "±ª³¯¯" #GetFancyTG_TVO
+ string_TVO_long_pepper:0 "ƒ®ª°°º¯ ±µ¯" #GetFancyTG_TVO
+ string_TVO_nutmeg:0 "³¬²°º¯ ¯" #GetFancyTG_TVO
+ string_TVO_perfume:0 "ƒ³¯ª" #GetFancyTG_TVO
+ string_TVO_pepper:0 "‰µ¯" #GetFancyTG_TVO
+ string_TVO_satin:0 "Ô²ª°¯" #GetFancyTG_TVO
+ string_TVO_embroidery:0 "ÏºŒª¢¬þ" #GetFancyTG_TVO
+ string_TVO_ivory_figurines:0 "Ð©°º¯ª ª©¦®ª¾¯ª" #GetFancyTG_TVO
+ string_TVO_lacquerware:0 "ˆ¬ª¢°°º¯ª ª©¦®ª¾¯ª" #GetFancyTG_TVO
+ string_TVO_jewellery:0 "›¢®ª°º¯ª ª©¦®ª¾¯ª" #GetFancyTG_TVO
+ string_TVO_books:0 "°ª¥¯ª" #GetFancyTG_TVO
+ string_TVO_crystal:0 "Û³²®¯" #GetFancyTG_TVO
+ string_TVO_ceramics:0 "¯ª¬þ" #GetFancyTG_TVO
+ #Fancy ²¢º ¢ ±¦®¨°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ string_PRE_mother_of_pearl:0 "‰®¯³²" #GetFancyTG_PRE
+ string_PRE_cowries:0 "Ð¬³Œ¬" #GetFancyTG_PRE
+ string_PRE_sapphires:0 "Ô±´ª" #GetFancyTG_PRE
+ string_PRE_turquoise:0 "€ª½©" #GetFancyTG_PRE
+ string_PRE_rubies:0 "Ð³¡ª°" #GetFancyTG_PRE
+ string_PRE_jade:0 "´ª²" #GetFancyTG_PRE
+ string_PRE_amber:0 "×°²" #GetFancyTG_PRE
+ string_PRE_pearls:0 "„¯¶³¥" #GetFancyTG_PRE
+ string_PRE_diamonds:0 "®¯©" #GetFancyTG_PRE
+ string_PRE_imperial_eggs:0 "×þµ Ê¡¨" #GetFancyTG_PRE
+ string_PRE_miniatures:0 "ª°ª²½" #GetFancyTG_PRE
+ string_PRE_republics:0 "Ð±³¡®ª¬" #GetFancyTG_PRE
+ string_PRE_calligraphy:0 "®®ª¥´ªª" #GetFancyTG_PRE
+ string_PRE_book_of_hours:0 "Ì®¢" #GetFancyTG_PRE
+ string_PRE_fustians:0 "Ï®¿¢²" #GetFancyTG_PRE
+ string_PRE_carpets:0 "¢" #GetFancyTG_PRE
+ string_PRE_draperies:0 "ƒ±ª¢¬" #GetFancyTG_PRE
+ string_PRE_chintz:0 "Ôª²µ" #GetFancyTG_PRE
+ string_PRE_taffeta:0 "Ù´²" #GetFancyTG_PRE
+ string_PRE_frankincense:0 "ˆ¦°" #GetFancyTG_PRE
+ string_PRE_cardamom:0 "¦¯°" #GetFancyTG_PRE
+ string_PRE_saffron:0 "÷´°" #GetFancyTG_PRE
+ string_PRE_cinnamon:0 "ªµ" #GetFancyTG_PRE
+ string_PRE_vanilla:0 "Ï°ª®ª" #GetFancyTG_PRE
+ string_PRE_dates:0 "Êª°ª¬" #GetFancyTG_PRE
+ string_PRE_opium:0 "±ª³¯" #GetFancyTG_PRE
+ string_PRE_long_pepper:0 "ƒ®ª°°¯ ±µ" #GetFancyTG_PRE
+ string_PRE_nutmeg:0 "³¬²°¯ " #GetFancyTG_PRE
+ string_PRE_perfume:0 "ƒ³" #GetFancyTG_PRE
+ string_PRE_pepper:0 "‰µ" #GetFancyTG_PRE
+ string_PRE_satin:0 "Ô²ª°" #GetFancyTG_PRE
+ string_PRE_embroidery:0 "ÏºŒª¢¬" #GetFancyTG_PRE
+ string_PRE_ivory_figurines:0 "Ð©°º ª©¦®ª¾" #GetFancyTG_PRE
+ string_PRE_lacquerware:0 "ˆ¬ª¢°°º ª©¦®ª¾" #GetFancyTG_PRE
+ string_PRE_jewellery:0 "›¢®ª°º ª©¦®ª¾" #GetFancyTG_PRE
+ string_PRE_books:0 "°ª¥" #GetFancyTG_PRE
+ string_PRE_crystal:0 "Û³²®" #GetFancyTG_PRE
+ string_PRE_ceramics:0 "¯ª¬" #GetFancyTG_PRE
+ #Fancy ²¢º ¢ ¦ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ stringLOW_OGO_mother_of_pearl:0 "±®¯³²" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cowries:0 "¬³Œ¬" #GetFancyTGLOW_OGO
+ stringLOW_OGO_sapphires:0 "±´ª¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_turquoise:0 "¡ª½©º" #GetFancyTGLOW_OGO
+ stringLOW_OGO_rubies:0 "³¡ª°¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_jade:0 "°´ª²" #GetFancyTGLOW_OGO
+ stringLOW_OGO_amber:0 "¾°²¾" #GetFancyTGLOW_OGO
+ stringLOW_OGO_pearls:0 "¨¯¶³¥" #GetFancyTGLOW_OGO
+ stringLOW_OGO_diamonds:0 "®¯©¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_imperial_eggs:0 "¾ªµ ´¡¨" #GetFancyTGLOW_OGO
+ stringLOW_OGO_miniatures:0 "¯ª°ª²½" #GetFancyTGLOW_OGO
+ stringLOW_OGO_republics:0 "±³¡®ª¬" #GetFancyTGLOW_OGO
+ stringLOW_OGO_calligraphy:0 "¬®®ª¥´ªª" #GetFancyTGLOW_OGO
+ stringLOW_OGO_book_of_hours:0 "¶®¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_fustians:0 "¢®¿¢²" #GetFancyTGLOW_OGO
+ stringLOW_OGO_carpets:0 "¬¢¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_draperies:0 "¦±ª¢¬" #GetFancyTGLOW_OGO
+ stringLOW_OGO_chintz:0 "ª²µ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_taffeta:0 "²´²º" #GetFancyTGLOW_OGO
+ stringLOW_OGO_frankincense:0 "®¦°" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cardamom:0 "¬¦¯°" #GetFancyTGLOW_OGO
+ stringLOW_OGO_saffron:0 "Œ´°" #GetFancyTGLOW_OGO
+ stringLOW_OGO_cinnamon:0 "¬ªµº" #GetFancyTGLOW_OGO
+ stringLOW_OGO_vanilla:0 "¢°ª®ª" #GetFancyTGLOW_OGO
+ stringLOW_OGO_dates:0 "´ª°ª¬¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_opium:0 "±ª³¯" #GetFancyTGLOW_OGO
+ stringLOW_OGO_long_pepper:0 "¦®ª°°¥ ±µ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_nutmeg:0 "¯³¬²°¥ " #GetFancyTGLOW_OGO
+ stringLOW_OGO_perfume:0 "¦³¢" #GetFancyTGLOW_OGO
+ stringLOW_OGO_pepper:0 "±µ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_satin:0 "²ª°" #GetFancyTGLOW_OGO
+ stringLOW_OGO_embroidery:0 "¢ºŒª¢¬ª" #GetFancyTGLOW_OGO
+ stringLOW_OGO_ivory_figurines:0 "©°º ª©¦®ªþ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_lacquerware:0 "®¬ª¢°°º ª©¦®ªþ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_jewellery:0 "½¢®ª°º ª©¦®ªþ" #GetFancyTGLOW_OGO
+ stringLOW_OGO_books:0 "¬°ª¥" #GetFancyTGLOW_OGO
+ stringLOW_OGO_crystal:0 "³²®¾" #GetFancyTGLOW_OGO
+ stringLOW_OGO_ceramics:0 "¬¯ª¬ª" #GetFancyTGLOW_OGO
+ #Fancy ²¢º ¢ ¢ª°ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ stringLOW_VIN_mother_of_pearl:0 "±®¯³²" #GetFancyTGLOW_VIN
+ stringLOW_VIN_cowries:0 "¬³Œ¬ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_sapphires:0 "±´ªº" #GetFancyTGLOW_VIN
+ stringLOW_VIN_turquoise:0 "¡ª½©³" #GetFancyTGLOW_VIN
+ stringLOW_VIN_rubies:0 "³¡ª°º" #GetFancyTGLOW_VIN
+ stringLOW_VIN_jade:0 "°´ª²" #GetFancyTGLOW_VIN
+ stringLOW_VIN_amber:0 "¾°²¿" #GetFancyTGLOW_VIN
+ stringLOW_VIN_pearls:0 "¨¯¶³¥" #GetFancyTGLOW_VIN
+ stringLOW_VIN_diamonds:0 "®¯©º" #GetFancyTGLOW_VIN
+ stringLOW_VIN_imperial_eggs:0 "¾þµ ´¡¨" #GetFancyTGLOW_VIN
+ stringLOW_VIN_miniatures:0 "¯ª°ª²½º" #GetFancyTGLOW_VIN
+ stringLOW_VIN_republics:0 "±³¡®ª¬ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_calligraphy:0 "¬®®ª¥´ª½" #GetFancyTGLOW_VIN
+ stringLOW_VIN_book_of_hours:0 "¶®¢" #GetFancyTGLOW_VIN
+ stringLOW_VIN_fustians:0 "¢®¿¢²" #GetFancyTGLOW_VIN
+ stringLOW_VIN_carpets:0 "¬¢º" #GetFancyTGLOW_VIN
+ stringLOW_VIN_draperies:0 "¦±ª¢¬ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_chintz:0 "ª²µ" #GetFancyTGLOW_VIN
+ stringLOW_VIN_taffeta:0 "²´²³" #GetFancyTGLOW_VIN
+ stringLOW_VIN_frankincense:0 "®¦°" #GetFancyTGLOW_VIN
+ stringLOW_VIN_cardamom:0 "¬¦¯°" #GetFancyTGLOW_VIN
+ stringLOW_VIN_saffron:0 "Œ´°" #GetFancyTGLOW_VIN
+ stringLOW_VIN_cinnamon:0 "¬ªµ³" #GetFancyTGLOW_VIN
+ stringLOW_VIN_vanilla:0 "¢°ª®¿" #GetFancyTGLOW_VIN
+ stringLOW_VIN_dates:0 "´ª°ª¬ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_opium:0 "±ª³¯" #GetFancyTGLOW_VIN
+ stringLOW_VIN_long_pepper:0 "¦®ª°°ºþ ±µ" #GetFancyTGLOW_VIN
+ stringLOW_VIN_nutmeg:0 "¯³¬²°ºþ " #GetFancyTGLOW_VIN
+ stringLOW_VIN_perfume:0 "¦³ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_pepper:0 "±µ" #GetFancyTGLOW_VIN
+ stringLOW_VIN_satin:0 "²ª°" #GetFancyTGLOW_VIN
+ stringLOW_VIN_embroidery:0 "¢ºŒª¢¬³" #GetFancyTGLOW_VIN
+ stringLOW_VIN_ivory_figurines:0 "©°º ª©¦®ª¾" #GetFancyTGLOW_VIN
+ stringLOW_VIN_lacquerware:0 "®¬ª¢°°º ª©¦®ª¾" #GetFancyTGLOW_VIN
+ stringLOW_VIN_jewellery:0 "½¢®ª°º ª©¦®ª¾" #GetFancyTGLOW_VIN
+ stringLOW_VIN_books:0 "¬°ª¥ª" #GetFancyTGLOW_VIN
+ stringLOW_VIN_crystal:0 "³²®¿" #GetFancyTGLOW_VIN
+ stringLOW_VIN_ceramics:0 "¬¯ª¬³" #GetFancyTGLOW_VIN
+ #Fancy ²¢º ¢ ²¢ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ stringLOW_TVO_mother_of_pearl:0 "±®¯³²¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_cowries:0 "¬³Œ¬¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_sapphires:0 "±´ª¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_turquoise:0 "¡ª½©þ" #GetFancyTGLOW_TVO
+ stringLOW_TVO_rubies:0 "³¡ª°¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_jade:0 "°´ª²¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_amber:0 "¾°²ž¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_pearls:0 "¨¯¶³¥¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_diamonds:0 "®¯©¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_imperial_eggs:0 "¾þµ¯ª ´¡¨" #GetFancyTGLOW_TVO
+ stringLOW_TVO_miniatures:0 "¯ª°ª²½¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_republics:0 "±³¡®ª¬¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_calligraphy:0 "¬®®ª¥´ªþ" #GetFancyTGLOW_TVO
+ stringLOW_TVO_book_of_hours:0 "¶®¢¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_fustians:0 "¢®¿¢²¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_carpets:0 "¬¢¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_draperies:0 "¦±ª¢¬¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_chintz:0 "ª²µ¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_taffeta:0 "²´²¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_frankincense:0 "®¦°¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_cardamom:0 "¬¦¯°¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_saffron:0 "Œ´°¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_cinnamon:0 "¬ªµþ" #GetFancyTGLOW_TVO
+ stringLOW_TVO_vanilla:0 "¢°ª®¿½" #GetFancyTGLOW_TVO
+ stringLOW_TVO_dates:0 "´ª°ª¬¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_opium:0 "±ª³¯¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_long_pepper:0 "¦®ª°°º¯ ±µ¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_nutmeg:0 "¯³¬²°º¯ ¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_perfume:0 "¦³¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_pepper:0 "±µ¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_satin:0 "²ª°¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_embroidery:0 "¢ºŒª¢¬þ" #GetFancyTGLOW_TVO
+ stringLOW_TVO_ivory_figurines:0 "©°º¯ª ª©¦®ª¾¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_lacquerware:0 "®¬ª¢°°º¯ª ª©¦®ª¾¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_jewellery:0 "½¢®ª°º¯ª ª©¦®ª¾¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_books:0 "¬°ª¥¯ª" #GetFancyTGLOW_TVO
+ stringLOW_TVO_crystal:0 "³²®¯" #GetFancyTGLOW_TVO
+ stringLOW_TVO_ceramics:0 "¬¯ª¬þ" #GetFancyTGLOW_TVO
+ #Fancy ²¢º ¢ ±¦®¨°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ stringLOW_PRE_mother_of_pearl:0 "±®¯³²" #GetFancyTGLOW_PRE
+ stringLOW_PRE_cowries:0 "¬³Œ¬" #GetFancyTGLOW_PRE
+ stringLOW_PRE_sapphires:0 "±´ª" #GetFancyTGLOW_PRE
+ stringLOW_PRE_turquoise:0 "¡ª½©" #GetFancyTGLOW_PRE
+ stringLOW_PRE_rubies:0 "³¡ª°" #GetFancyTGLOW_PRE
+ stringLOW_PRE_jade:0 "°´ª²" #GetFancyTGLOW_PRE
+ stringLOW_PRE_amber:0 "¾°²" #GetFancyTGLOW_PRE
+ stringLOW_PRE_pearls:0 "¨¯¶³¥" #GetFancyTGLOW_PRE
+ stringLOW_PRE_diamonds:0 "®¯©" #GetFancyTGLOW_PRE
+ stringLOW_PRE_imperial_eggs:0 "¾þµ ´¡¨" #GetFancyTGLOW_PRE
+ stringLOW_PRE_miniatures:0 "¯ª°ª²½" #GetFancyTGLOW_PRE
+ stringLOW_PRE_republics:0 "±³¡®ª¬" #GetFancyTGLOW_PRE
+ stringLOW_PRE_calligraphy:0 "¬®®ª¥´ªª" #GetFancyTGLOW_PRE
+ stringLOW_PRE_book_of_hours:0 "¶®¢" #GetFancyTGLOW_PRE
+ stringLOW_PRE_fustians:0 "¢®¿¢²" #GetFancyTGLOW_PRE
+ stringLOW_PRE_carpets:0 "¬¢" #GetFancyTGLOW_PRE
+ stringLOW_PRE_draperies:0 "¦±ª¢¬" #GetFancyTGLOW_PRE
+ stringLOW_PRE_chintz:0 "ª²µ" #GetFancyTGLOW_PRE
+ stringLOW_PRE_taffeta:0 "²´²" #GetFancyTGLOW_PRE
+ stringLOW_PRE_frankincense:0 "®¦°" #GetFancyTGLOW_PRE
+ stringLOW_PRE_cardamom:0 "¬¦¯°" #GetFancyTGLOW_PRE
+ stringLOW_PRE_saffron:0 "Œ´°" #GetFancyTGLOW_PRE
+ stringLOW_PRE_cinnamon:0 "¬ªµ" #GetFancyTGLOW_PRE
+ stringLOW_PRE_vanilla:0 "¢°ª®ª" #GetFancyTGLOW_PRE
+ stringLOW_PRE_dates:0 "´ª°ª¬" #GetFancyTGLOW_PRE
+ stringLOW_PRE_opium:0 "±ª³¯" #GetFancyTGLOW_PRE
+ stringLOW_PRE_long_pepper:0 "¦®ª°°¯ ±µ" #GetFancyTGLOW_PRE
+ stringLOW_PRE_nutmeg:0 "¯³¬²°¯ " #GetFancyTGLOW_PRE
+ stringLOW_PRE_perfume:0 "¦³" #GetFancyTGLOW_PRE
+ stringLOW_PRE_pepper:0 "±µ" #GetFancyTGLOW_PRE
+ stringLOW_PRE_satin:0 "²ª°" #GetFancyTGLOW_PRE
+ stringLOW_PRE_embroidery:0 "¢ºŒª¢¬" #GetFancyTGLOW_PRE
+ stringLOW_PRE_ivory_figurines:0 "©°º ª©¦®ª¾" #GetFancyTGLOW_PRE
+ stringLOW_PRE_lacquerware:0 "®¬ª¢°°º ª©¦®ª¾" #GetFancyTGLOW_PRE
+ stringLOW_PRE_jewellery:0 "½¢®ª°º ª©¦®ª¾" #GetFancyTGLOW_PRE
+ stringLOW_PRE_books:0 "¬°ª¥" #GetFancyTGLOW_PRE
+ stringLOW_PRE_crystal:0 "³²®" #GetFancyTGLOW_PRE
+ stringLOW_PRE_ceramics:0 "¬¯ª¬" #GetFancyTGLOW_PRE
+ ###‰¯°°º ®¢ªþ
+ #‰¯°°º ¢ ª¯°ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsIM:0 "¡¯°º" #BrahminsIM
+ EST_MarathaIM:0 "¯²ª" #MarathaIM
+ EST_RajputIM:0 "¦¨±³²º" #RajputIM
+ EST_VaisyasIM:0 "¢þŒ¿ª" #VaisyasIM
+ EST_CossacksIM:0 "¬©¬ª" #CossacksIM
+ EST_NomadicIM:0 "¬®°º" #NomadicIM
+ EST_DhimmiIM:0 "©ª¯¯ª" #DhimmiIM
+ EST_JainsIM:0 "¦¨þ°º" #JainsIM
+ EST_churchIM:0 "¢¾¸°°ª¬ª" #ChurchIM
+ EST_monasteriesIM:0 "¯°Œ¬ª ¦°" #ChurchIM
+ EST_babaylanesIM:0 "¡¡þ®°º" #ChurchIM
+ EST_brahminsIM:0 "¡¯°º" #ChurchIM
+ EST_gentryIM:0 "Œªµ©³" #ChurchIM
+ EST_ulemaIM:0 "³®¯º" #ChurchIM
+ EST_tlamacazquehIM:0 "²®¯¬©¬ª" #ChurchIM
+ EST_noblesIM:0 "¦¢¾°" #NoblesIM
+ EST_beysIM:0 "¡ª" #NoblesIM
+ EST_boyarsIM:0 "¡¾" #NoblesIM
+ EST_szlachtaIM:0 "Œ®¾²ª¶ª" #NoblesIM
+ EST_timawaIM:0 "²ª¯¥³" #NoblesIM
+ EST_nayaksIM:0 "°¾¬ª" #NoblesIM
+ EST_samantasIM:0 "¯°²º" #NoblesIM
+ EST_kshatriyasIM:0 "¬Œ²ªª" #NoblesIM
+ EST_qinwangIM:0 "µª°¿¢°" #NoblesIM
+ EST_mansabdarsIM:0 "¯°¡¦º" #NoblesIM
+ EST_tetecuhtinIM:0 "²²¬³²ª°º" #NoblesIM
+ EST_andrianaIM:0 "°¦ª°º" #NoblesIM
+ EST_amirsIM:0 "¼¯ªº" #NoblesIM
+ EST_plantersIM:0 "±®°²²º" #NoblesIM
+ EST_bushiIM:0 "¡³ª" #NoblesIM
+ EST_yangban_administratorsIM:0 "¦¯ª°ª²²º-¾°¡°º" #NoblesIM
+ EST_junkersIM:0 "½°¬º" #NoblesIM
+ EST_burghersIM:0 "¥¨°" #BurghersIM
+ EST_bourgeoisieIM:0 "¡³¨³" #BurghersIM
+ EST_shangbangIM:0 "Œ°¡°" #BurghersIM
+ EST_neoconfucian_reformersIM:0 "°¬°´³µª°¬ª ´¯²º" #BurghersIM
+ EST_guildsIM:0 "¬³±¶¬ª ¥ª®¿¦ªª" #BurghersIM
+ EST_yangban_scholarsIM:0 "³¶ž°º-¾°¡°º" #ChurchIM
+ EST_kahunaIM:1 "¬³°" #ChurchIM
+ EST_tohungaIM:1 "²³°¥" #ChurchIM
+ EST_beteIM:1 "¡²" #ChurchIM
+ EST_taula_otuaIM:1 "²³® ²³" #ChurchIM
+ EST_taula_aituIM:1 "²³® ª²³" #ChurchIM
+ EST_aliiIM:1 "®ª" #NoblesIM
+ EST_rangatiraIM:0 "°¥²ª" #NoblesIM
+ EST_eikiIM:1 "ª¬ª" #NoblesIM
+ EST_ratuIM:1 "²³" #NoblesIM
+ #‰¯°°º ¢ ¦ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsRD:0 "¡¯°¢" #BrahminsRD
+ EST_MarathaRD:0 "¯²¢" #MarathaRD
+ EST_RajputRD:0 "¦¨±³²¢" #RajputRD
+ EST_VaisyasRD:0 "¢þŒ¿ª" #VaisyasRD
+ EST_CossacksRD:0 "¬©¬¢" #CossacksRD
+ EST_NomadicRD:0 "¬®°¢" #NomadicRD
+ EST_DhimmiRD:0 "©ª¯¯ª" #DhimmiRD
+ EST_JainsRD:0 "¦¨þ°¢" #JainsRD
+ EST_churchRD:0 "¢¾¸°°ª¬¢" #ChurchRD
+ EST_monasteriesRD:0 "¯°Œ¬ª ¦°¢" #ChurchRD
+ EST_babaylanesRD:0 "¡¡þ®°¢" #ChurchRD
+ EST_brahminsRD:0 "¡¯°¢" #ChurchRD
+ EST_gentryRD:0 "Œªµ©³" #ChurchRD
+ EST_ulemaRD:0 "³®¯¢" #ChurchRD
+ EST_tlamacazquehRD:0 "²®¯¬©¬¢" #ChurchRD
+ EST_noblesRD:0 "¦¢¾°" #NoblesRD
+ EST_beysRD:0 "¡þ¢" #NoblesRD
+ EST_boyarsRD:0 "¡¾" #NoblesRD
+ EST_szlachtaRD:0 "Œ®¾²ª¶þ" #NoblesRD
+ EST_timawaRD:0 "²ª¯¥³" #NoblesRD
+ EST_nayaksRD:0 "°¾¬¢" #NoblesRD
+ EST_samantasRD:0 "¯°²¢" #NoblesRD
+ EST_kshatriyasRD:0 "¬Œ²ª¢" #NoblesRD
+ EST_qinwangRD:0 "µª°¿¢°" #NoblesRD
+ EST_mansabdarsRD:0 "¯°¡¦¢" #NoblesRD
+ EST_tetecuhtinRD:0 "²²¬³²ª°¢" #NoblesRD
+ EST_andrianaRD:0 "°¦ª°¢" #NoblesRD
+ EST_amirsRD:0 "¼¯ª¢" #NoblesRD
+ EST_plantersRD:0 "±®°²²¢" #NoblesRD
+ EST_bushiRD:0 "¡³ª" #NoblesRD
+ EST_yangban_administratorsRD:0 "¦¯ª°ª²²¢-¾°¡°¢" #NoblesRD
+ EST_junkersRD:0 "½°¬¢" #NoblesRD
+ EST_burghersRD:0 "¥¨°" #BurghersRD
+ EST_bourgeoisieRD:0 "¡³¨³" #BurghersRD
+ EST_shangbangRD:0 "Œ°¡°" #BurghersRD
+ EST_neoconfucian_reformersRD:0 "°¬°´³µª°¬ª ´¯²¢" #BurghersRD
+ EST_guildsRD:0 "¬³±¶¬ª ¥ª®¿¦ªþ" #BurghersRD
+ EST_yangban_scholarsRD:0 "³¶ž°º-¾°¡°¢" #ChurchRD
+ EST_kahunaRD:1 "¬³°" #ChurchRD
+ EST_tohungaRD:1 "²³°¥" #ChurchRD
+ EST_beteRD:1 "¡²" #ChurchRD
+ EST_taula_otuaRD:1 "²³® ²³" #ChurchRD
+ EST_taula_aituRD:1 "²³® ª²³" #ChurchRD
+ EST_aliiRD:1 "®ª" #NoblesRD
+ EST_rangatiraRD:0 "°¥²ª" #NoblesRD
+ EST_eikiRD:1 "ª¬ª" #NoblesRD
+ EST_ratuRD:1 "²³" #Nobles
+ #‰¯°°º ¢ ¦²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsDT:0 "¡¯°¯" #BrahminsDT
+ EST_MarathaDT:0 "¯²¯" #MarathaDT
+ EST_RajputDT:0 "¦¨±³²¯" #RajputDT
+ EST_VaisyasDT:0 "¢þŒ¿ª" #VaisyasDT
+ EST_CossacksDT:0 "¬©¬¯" #CossacksDT
+ EST_NomadicDT:0 "¬®°¯" #NomadicDT
+ EST_DhimmiDT:0 "©ª¯¯ª" #DhimmiDT
+ EST_JainsDT:0 "¦¨þ°¯" #JainsDT
+ EST_churchDT:0 "¢¾¸°°ª¬¯" #ChurchDT
+ EST_monasteriesDT:0 "¯°Œ¬ª¯ ¦°¯" #ChurchDT
+ EST_babaylanesDT:0 "¡¡þ®°¯" #ChurchDT
+ EST_brahminsDT:0 "¡¯°¯" #ChurchDT
+ EST_gentryDT:0 "Œªµ©³" #ChurchDT
+ EST_ulemaDT:0 "³®¯¯" #ChurchDT
+ EST_tlamacazquehDT:0 "²®¯¬©¬¯" #ChurchDT
+ EST_noblesDT:0 "¦¢¾°¯" #NoblesDT
+ EST_beysDT:0 "¡þ¾¯" #NoblesDT
+ EST_boyarsDT:0 "¡¾¯" #NoblesDT
+ EST_szlachtaDT:0 "Œ®¾²ª¶¯" #NoblesDT
+ EST_timawaDT:0 "²ª¯¥³" #NoblesDT
+ EST_nayaksDT:0 "°¾¬¯" #NoblesDT
+ EST_samantasDT:0 "¯°²¯" #NoblesDT
+ EST_kshatriyasDT:0 "¬Œ²ª¾¯" #NoblesDT
+ EST_qinwangDT:0 "µª°¿¢°" #NoblesDT
+ EST_mansabdarsDT:0 "¯°¡¦¯" #NoblesDT
+ EST_tetecuhtinDT:0 "²²¬³²ª°¯" #NoblesDT
+ EST_andrianaDT:0 "°¦ª°¯" #NoblesDT
+ EST_amirsDT:0 "¼¯ª¯" #NoblesDT
+ EST_plantersDT:0 "±®°²²¯" #NoblesDT
+ EST_bushiDT:0 "¡³ª" #NoblesDT
+ EST_yangban_administratorsDT:0 "¦¯ª°ª²²¯-¾°¡°¯" #NoblesDT
+ EST_junkersDT:0 "½°¬¯" #NoblesDT
+ EST_burghersDT:0 "¥¨°¯" #BurghersDT
+ EST_bourgeoisieDT:0 "¡³¨³" #BurghersDT
+ EST_shangbangDT:0 "Œ°¡°" #BurghersDT
+ EST_neoconfucian_reformersDT:0 "°¬°´³µª°¬ª¯ ´¯²¯" #BurghersDT
+ EST_guildsDT:0 "¬³±¶¬ª¯ ¥ª®¿¦ª¾¯" #BurghersDT
+ EST_yangban_scholarsDT:0 "³¶ž°º¯-¾°¡°¯" #ChurchDT
+ EST_kahunaDT:1 "¬³°" #ChurchDT
+ EST_tohungaDT:1 "²³°¥" #ChurchDT
+ EST_beteDT:1 "¡²" #ChurchDT
+ EST_taula_otuaDT:1 "²³® ²³" #ChurchDT
+ EST_taula_aituDT:1 "²³® ª²³" #ChurchDT
+ EST_aliiDT:1 "®ª" #NoblesDT
+ EST_rangatiraDT:0 "°¥²ª" #NoblesDT
+ EST_eikiDT:1 "ª¬ª" #NoblesDT
+ EST_ratuDT:1 "²³" #NoblesDT
+ #‰¯°°º ¢ ¢ª°ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsVN:0 "¡¯°¢" #BrahminsVN
+ EST_MarathaVN:0 "¯²¢" #MarathaVN
+ EST_RajputVN:0 "¦¨±³²¢" #RajputVN
+ EST_VaisyasVN:0 "¢þŒ¿ª" #VaisyasVN
+ EST_CossacksVN:0 "¬©¬¢" #CossacksVN
+ EST_NomadicVN:0 "¬®°º" #NomadicVN
+ EST_DhimmiVN:0 "©ª¯¯ª" #DhimmiVN
+ EST_JainsVN:0 "¦¨þ°¢" #JainsVN
+ EST_churchVN:0 "¢¾¸°°ª¬¢" #ChurchVN
+ EST_monasteriesVN:0 "¯°Œ¬ª ¦°" #ChurchVN
+ EST_babaylanesVN:0 "¡¡þ®°¢" #ChurchVN
+ EST_brahminsVN:0 "¡¯°¢" #ChurchVN
+ EST_gentryVN:0 "Œªµ©³" #ChurchVN
+ EST_ulemaVN:0 "³®¯º" #ChurchVN
+ EST_tlamacazquehVN:0 "²®¯¬©¬¢" #ChurchVN
+ EST_noblesVN:0 "¦¢¾°" #NoblesVN
+ EST_beysVN:0 "¡þ¢" #NoblesVN
+ EST_boyarsVN:0 "¡¾" #NoblesVN
+ EST_szlachtaVN:0 "Œ®¾²ª¶þ" #NoblesVN
+ EST_timawaVN:0 "²ª¯¥³" #NoblesVN
+ EST_nayaksVN:0 "°¾¬¢" #NoblesVN
+ EST_samantasVN:0 "¯°²¢" #NoblesVN
+ EST_kshatriyasVN:0 "¬Œ²ª¢" #NoblesVN
+ EST_qinwangVN:0 "µª°¿¢°" #NoblesVN
+ EST_mansabdarsVN:0 "¯°¡¦¢" #NoblesVN
+ EST_tetecuhtinVN:0 "²²¬³²ª°¢" #NoblesVN
+ EST_andrianaVN:0 "°¦ª°¢" #NoblesVN
+ EST_amirsVN:0 "¼¯ª¢" #NoblesVN
+ EST_plantersVN:0 "±®°²²¢" #NoblesVN
+ EST_bushiVN:0 "¡³ª" #NoblesVN
+ EST_yangban_administratorsVN:0 "¦¯ª°ª²²¢-¾°¡°¢" #NoblesVN
+ EST_junkersVN:0 "½°¬¢" #NoblesVN
+ EST_burghersVN:0 "¥¨°" #BurghersVN
+ EST_bourgeoisieVN:0 "¡³¨³" #BurghersVN
+ EST_shangbangVN:0 "Œ°¡°" #BurghersVN
+ EST_neoconfucian_reformersVN:0 "°¬°´³µª°¬ª ´¯²¢" #BurghersVN
+ EST_guildsVN:0 "¬³±¶¬ª ¥ª®¿¦ªª" #BurghersVN
+ EST_yangban_scholarsVN:0 "³¶ž°º-¾°¡°¢" #ChurchVN
+ EST_kahunaVN:1 "¬³°" #ChurchVN
+ EST_tohungaVN:1 "²³°¥" #ChurchVN
+ EST_beteVN:1 "¡²" #ChurchVN
+ EST_taula_otuaVN:1 "²³® ²³" #ChurchVN
+ EST_taula_aituVN:1 "²³® ª²³" #ChurchVN
+ EST_aliiVN:1 "®ª" #NoblesVN
+ EST_rangatiraVN:0 "°¥²ª" #NoblesVN
+ EST_eikiVN:1 "ª¬ª" #NoblesVN
+ EST_ratuVN:1 "²³" #NoblesVN
+ #‰¯°°º ¢ ²¢ª²®¿°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsTV:0 "¡¯°¯ª" #BrahminsTV
+ EST_MarathaTV:0 "¯²¯ª" #MarathaTV
+ EST_RajputTV:0 "¦¨±³²¯ª" #RajputTV
+ EST_VaisyasTV:0 "¢þŒ¿ª" #VaisyasTV
+ EST_CossacksTV:0 "¬©¬¯ª" #CossacksTV
+ EST_NomadicTV:0 "¬®°¯ª" #NomadicTV
+ EST_DhimmiTV:0 "©ª¯¯ª" #DhimmiTV
+ EST_JainsTV:0 "¦¨þ°¯ª" #JainsTV
+ EST_churchTV:0 "¢¾¸°°ª¬¯ª" #ChurchTV
+ EST_monasteriesTV:0 "¯°Œ¬ª¯ª ¦°¯ª" #ChurchTV
+ EST_babaylanesTV:0 "¡¡þ®°¯ª" #ChurchTV
+ EST_brahminsTV:0 "¡¯°¯ª" #ChurchTV
+ EST_gentryTV:0 "Œªµ©³" #ChurchTV
+ EST_ulemaTV:0 "³®¯¯ª" #ChurchTV
+ EST_tlamacazquehTV:0 "²®¯¬©¬¯ª" #ChurchTV
+ EST_noblesTV:0 "¦¢¾°¯ª" #NoblesTV
+ EST_beysTV:0 "¡þ¾¯ª" #NoblesTV
+ EST_boyarsTV:0 "¡¾¯ª" #NoblesTV
+ EST_szlachtaTV:0 "Œ®¾²ª¶¯ª" #NoblesTV
+ EST_timawaTV:0 "²ª¯¥³" #NoblesTV
+ EST_nayaksTV:0 "°¾¬¯ª" #NoblesTV
+ EST_samantasTV:0 "¯°²¯ª" #NoblesTV
+ EST_kshatriyasTV:0 "¬Œ²ª¾¯ª" #NoblesTV
+ EST_qinwangTV:0 "µª°¿¢°" #NoblesTV
+ EST_mansabdarsTV:0 "¯°¡¦¯ª" #NoblesTV
+ EST_tetecuhtinTV:0 "²²¬³²ª°¯ª" #NoblesTV
+ EST_andrianaTV:0 "°¦ª°¯ª" #NoblesTV
+ EST_amirsTV:0 "¼¯ª¯ª" #NoblesTV
+ EST_plantersTV:0 "±®°²²¯ª" #NoblesTV
+ EST_bushiTV:0 "¡³ª" #NoblesTV
+ EST_yangban_administratorsTV:0 "¦¯ª°ª²²¯ª-¾°¡°¯ª" #NoblesTV
+ EST_junkersTV:0 "½°¬¯ª" #NoblesTV
+ EST_burghersTV:0 "¥¨°¯ª" #BurghersTV
+ EST_bourgeoisieTV:0 "¡³¨³" #BurghersTV
+ EST_shangbangTV:0 "Œ°¡°" #BurghersTV
+ EST_neoconfucian_reformersTV:0 "°¬°´³µª°¬ª¯ª ´¯²¯ª" #BurghersTV
+ EST_guildsTV:0 "¬³±¶¬ª¯ª ¥ª®¿¦ª¾¯ª" #BurghersTV
+ EST_yangban_scholarsTV:0 "³¶ž°º¯ª-¾°¡°¯ª" #ChurchTV
+ EST_kahunaTV:1 "¬³°" #ChurchTV
+ EST_tohungaTV:1 "²³°¥" #ChurchTV
+ EST_beteTV:1 "¡²" #ChurchTV
+ EST_taula_otuaTV:1 "²³® ²³" #ChurchTV
+ EST_taula_aituTV:1 "²³® ª²³" #ChurchTV
+ EST_aliiTV:1 "®ª" #NoblesTV
+ EST_rangatiraTV:0 "°¥²ª" #NoblesTV
+ EST_eikiTV:1 "ª¬ª" #NoblesTV
+ EST_ratuTV:1 "²³" #NoblesTV
+ #‰¯°°º ¢ ±¦®¨°¯ ±¦¨  ¯®°¿¬þ ¡³¬¢º
+ EST_BrahminsPR:0 "¡¯°" #BrahminsPR
+ EST_MarathaPR:0 "¯²" #MarathaPR
+ EST_RajputPR:0 "¦¨±³²" #RajputPR
+ EST_VaisyasPR:0 "¢þŒ¿ª" #VaisyasPR
+ EST_CossacksPR:0 "¬©¬" #CossacksPR
+ EST_NomadicPR:0 "¬®°" #NomadicPR
+ EST_DhimmiPR:0 "©ª¯¯ª" #DhimmiPR
+ EST_JainsPR:0 "¦¨þ°" #JainsPR
+ EST_churchPR:0 "¢¾¸°°ª¬" #ChurchPR
+ EST_monasteriesPR:0 "¯°Œ¬ª ¦°" #ChurchPR
+ EST_babaylanesPR:0 "¡¡þ®°" #ChurchPR
+ EST_brahminsPR:0 "¡¯°" #ChurchPR
+ EST_gentryPR:0 "Œªµ©³" #ChurchPR
+ EST_ulemaPR:0 "³®¯" #ChurchPR
+ EST_tlamacazquehPR:0 "²®¯¬©¬" #ChurchPR
+ EST_noblesPR:0 "¦¢¾°" #NoblesPR
+ EST_beysPR:0 "¡þ¾" #NoblesPR
+ EST_boyarsPR:0 "¡¾" #NoblesPR
+ EST_szlachtaPR:0 "Œ®¾²ª¶" #NoblesPR
+ EST_timawaPR:0 "²ª¯¥³" #NoblesPR
+ EST_nayaksPR:0 "°¾¬" #NoblesPR
+ EST_samantasPR:0 "¯°²" #NoblesPR
+ EST_kshatriyasPR:0 "¬Œ²ª¾" #NoblesPR
+ EST_qinwangPR:0 "µª°¿¢°" #NoblesPR
+ EST_mansabdarsPR:0 "¯°¡¦" #NoblesPR
+ EST_tetecuhtinPR:0 "²²¬³²ª°" #NoblesPR
+ EST_andrianaPR:0 "°¦ª°" #NoblesPR
+ EST_amirsPR:0 "¼¯ª" #NoblesPR
+ EST_plantersPR:0 "±®°²²" #NoblesPR
+ EST_bushiPR:0 "¡³ª" #NoblesPR
+ EST_yangban_administratorsPR:0 "¦¯ª°ª²²-¾°¡°" #NoblesPR
+ EST_junkersPR:0 "½°¬" #NoblesPR
+ EST_burghersPR:0 "¥¨°" #BurghersPR
+ EST_bourgeoisiePR:0 "¡³¨³" #BurghersPR
+ EST_shangbangPR:0 "Œ°¡°" #BurghersPR
+ EST_neoconfucian_reformersPR:0 "°¬°´³µª°¬ª ´¯²" #BurghersPR
+ EST_guildsPR:0 "¬³±¶¬ª ¥ª®¿¦ª¾" #BurghersPR
+ EST_yangban_scholarsPR:0 "³¶ž°º-¾°¡°" #ChurchPR
+ EST_kahunaPR:1 "¬³°" #ChurchPR
+ EST_tohungaPR:1 "²³°¥" #ChurchPR
+ EST_betePR:1 "¡²" #ChurchPR
+ EST_taula_otuaPR:1 "²³® ²³" #ChurchPR
+ EST_taula_aituPR:1 "²³® ª²³" #ChurchPR
+ EST_aliiPR:1 "®ª" #NoblesPR
+ EST_rangatiraPR:0 "°¥²ª" #NoblesPR
+ EST_eikiPR:1 "ª¬ª" #NoblesPR
+ EST_ratuPR:1 "²³" #NoblesPR
+ #‰¯°°º ¢ ª¯°ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsIM_CAP:0 "€¯°º" #BrahminsIM_CAP
+ EST_MarathaIM_CAP:0 "²ª" #MarathaIM_CAP
+ EST_RajputIM_CAP:0 "Ð¦¨±³²º" #RajputIM_CAP
+ EST_VaisyasIM_CAP:0 "ÏþŒ¿ª" #VaisyasIM_CAP
+ EST_CossacksIM_CAP:0 "©¬ª" #CossacksIM_CAP
+ EST_NomadicIM_CAP:0 "®°º" #NomadicIM_CAP
+ EST_DhimmiIM_CAP:0 "…ª¯¯ª" #DhimmiIM_CAP
+ EST_JainsIM_CAP:0 "ƒ¨þ°º" #JainsIM_CAP
+ EST_churchIM_CAP:0 "Ô¢¾¸°°ª¬ª" #ChurchIM_CAP
+ EST_monasteriesIM_CAP:0 "°Œ¬ª ¦°" #ChurchIM_CAP
+ EST_babaylanesIM_CAP:0 "€¡þ®°º" #ChurchIM_CAP
+ EST_brahminsIM_CAP:0 "€¯°º" #ChurchIM_CAP
+ EST_gentryIM_CAP:0 "÷ªµ©³" #ChurchIM_CAP
+ EST_ulemaIM_CAP:0 "‹®¯º" #ChurchIM_CAP
+ EST_tlamacazquehIM_CAP:0 "Ù®¯¬©¬ª" #ChurchIM_CAP
+ EST_noblesIM_CAP:0 "ƒ¢¾°" #NoblesIM_CAP
+ EST_beysIM_CAP:0 "€ª" #NoblesIM_CAP
+ EST_boyarsIM_CAP:0 "€¾" #NoblesIM_CAP
+ EST_szlachtaIM_CAP:0 "÷®¾²ª¶ª" #NoblesIM_CAP
+ EST_timawaIM_CAP:0 "Ùª¯¥³" #NoblesIM_CAP
+ EST_nayaksIM_CAP:0 "¾¬ª" #NoblesIM_CAP
+ EST_samantasIM_CAP:0 "Ô¯°²º" #NoblesIM_CAP
+ EST_kshatriyasIM_CAP:0 "Œ²ªª" #NoblesIM_CAP
+ EST_qinwangIM_CAP:0 "Ëª°¿¢°" #NoblesIM_CAP
+ EST_mansabdarsIM_CAP:0 "°¡¦º" #NoblesIM_CAP
+ EST_tetecuhtinIM_CAP:0 "Ù²¬³²ª°º" #NoblesIM_CAP
+ EST_andrianaIM_CAP:0 "°¦ª°º" #NoblesIM_CAP
+ EST_amirsIM_CAP:0 "™¯ªº" #NoblesIM_CAP
+ EST_plantersIM_CAP:0 "‰®°²²º" #NoblesIM_CAP
+ EST_bushiIM_CAP:0 "€³ª" #NoblesIM_CAP
+ EST_yangban_administratorsIM_CAP:0 "¦¯ª°ª²²º-¾°¡°º" #NoblesIM_CAP
+ EST_junkersIM_CAP:0 "›°¬º" #NoblesIM_CAP
+ EST_burghersIM_CAP:0 "‚¨°" #BurghersIM_CAP
+ EST_bourgeoisieIM_CAP:0 "€³¨³" #BurghersIM_CAP
+ EST_shangbangIM_CAP:0 "÷°¡°" #BurghersIM_CAP
+ EST_neoconfucian_reformersIM_CAP:0 "¬°´³µª°¬ª ´¯²º" #BurghersIM_CAP
+ EST_guildsIM_CAP:0 "³±¶¬ª ¥ª®¿¦ªª" #BurghersIM_CAP
+ EST_yangban_scholarsIM_CAP:0 "‹¶ž°º-¾°¡°º" #ChurchIM_CAP
+ EST_kahunaIM_CAP:1 "³°" #ChurchIM_CAP
+ EST_tohungaIM_CAP:1 "Ù³°¥" #ChurchIM_CAP
+ EST_beteIM_CAP:1 "€²" #ChurchIM_CAP
+ EST_taula_otuaIM_CAP:1 "Ù³® ²³" #ChurchIM_CAP
+ EST_taula_aituIM_CAP:1 "Ù³® ª²³" #ChurchIM_CAP
+ EST_aliiIM_CAP:1 "®ª" #NoblesIM_CAP
+ EST_rangatiraIM_CAP:0 "Ð°¥²ª" #NoblesIM_CAP
+ EST_eikiIM_CAP:1 "ª¬ª" #NoblesIM_CAP
+ EST_ratuIM_CAP:1 "Ð²³" #NoblesIM_CAP
+ #‰¯°°º ¢ ¦ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsRD_CAP:0 "€¯°¢" #BrahminsRD_CAP
+ EST_MarathaRD_CAP:0 "²¢" #MarathaRD_CAP
+ EST_RajputRD_CAP:0 "Ð¦¨±³²¢" #RajputRD_CAP
+ EST_VaisyasRD_CAP:0 "ÏþŒ¿ª" #VaisyasRD_CAP
+ EST_CossacksRD_CAP:0 "©¬¢" #CossacksRD_CAP
+ EST_NomadicRD_CAP:0 "®°¢" #NomadicRD_CAP
+ EST_DhimmiRD_CAP:0 "…ª¯¯ª" #DhimmiRD_CAP
+ EST_JainsRD_CAP:0 "ƒ¨þ°¢" #JainsRD_CAP
+ EST_churchRD_CAP:0 "Ô¢¾¸°°ª¬¢" #ChurchRD_CAP
+ EST_monasteriesRD_CAP:0 "°Œ¬ª ¦°¢" #ChurchRD_CAP
+ EST_babaylanesRD_CAP:0 "€¡þ®°¢" #ChurchRD_CAP
+ EST_brahminsRD_CAP:0 "€¯°¢" #ChurchRD_CAP
+ EST_gentryRD_CAP:0 "÷ªµ©³" #ChurchRD_CAP
+ EST_ulemaRD_CAP:0 "‹®¯¢" #ChurchRD_CAP
+ EST_tlamacazquehRD_CAP:0 "Ù®¯¬©¬¢" #ChurchRD_CAP
+ EST_noblesRD_CAP:0 "ƒ¢¾°" #NoblesRD_CAP
+ EST_beysRD_CAP:0 "€þ¢" #NoblesRD_CAP
+ EST_boyarsRD_CAP:0 "€¾" #NoblesRD_CAP
+ EST_szlachtaRD_CAP:0 "÷®¾²ª¶þ" #NoblesRD_CAP
+ EST_timawaRD_CAP:0 "Ùª¯¥³" #NoblesRD_CAP
+ EST_nayaksRD_CAP:0 "¾¬¢" #NoblesRD_CAP
+ EST_samantasRD_CAP:0 "Ô¯°²¢" #NoblesRD_CAP
+ EST_kshatriyasRD_CAP:0 "Œ²ª¢" #NoblesRD_CAP
+ EST_qinwangRD_CAP:0 "Ëª°¿¢°" #NoblesRD_CAP
+ EST_mansabdarsRD_CAP:0 "°¡¦¢" #NoblesRD_CAP
+ EST_tetecuhtinRD_CAP:0 "Ù²¬³²ª°¢" #NoblesRD_CAP
+ EST_andrianaRD_CAP:0 "°¦ª°¢" #NoblesRD_CAP
+ EST_amirsRD_CAP:0 "™¯ª¢" #NoblesRD_CAP
+ EST_plantersRD_CAP:0 "‰®°²²¢" #NoblesRD_CAP
+ EST_bushiRD_CAP:0 "€³ª" #NoblesRD_CAP
+ EST_yangban_administratorsRD_CAP:0 "¦¯ª°ª²²¢-¾°¡°¢" #NoblesRD_CAP
+ EST_junkersRD_CAP:0 "›°¬¢" #NoblesRD_CAP
+ EST_burghersRD_CAP:0 "‚¨°" #BurghersRD_CAP
+ EST_bourgeoisieRD_CAP:0 "€³¨³" #BurghersRD_CAP
+ EST_shangbangRD_CAP:0 "÷°¡°" #BurghersRD_CAP
+ EST_neoconfucian_reformersRD_CAP:0 "¬°´³µª°¬ª ´¯²¢" #BurghersRD_CAP
+ EST_guildsRD_CAP:0 "³±¶¬ª ¥ª®¿¦ªþ" #BurghersRD_CAP
+ EST_yangban_scholarsRD_CAP:0 "‹¶ž°º-¾°¡°¢" #ChurchRD_CAP
+ EST_kahunaRD_CAP:1 "³°" #ChurchRD_CAP
+ EST_tohungaRD_CAP:1 "Ù³°¥" #ChurchRD_CAP
+ EST_beteRD_CAP:1 "€²" #ChurchRD_CAP
+ EST_taula_otuaRD_CAP:1 "Ù³® ²³" #ChurchRD_CAP
+ EST_taula_aituRD_CAP:1 "Ù³® ª²³" #ChurchRD_CAP
+ EST_aliiRD_CAP:1 "®ª" #NoblesRD_CAP
+ EST_rangatiraRD_CAP:0 "Ð°¥²ª" #NoblesRD_CAP
+ EST_eikiRD_CAP:1 "ª¬ª" #NoblesRD_CAP
+ EST_ratuRD_CAP:1 "Ð²³" #NoblesRD_CAP
+ #‰¯°°º ¢ ¦²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsDT_CAP:0 "€¯°¯" #BrahminsDT_CAP
+ EST_MarathaDT_CAP:0 "²¯" #MarathaDT_CAP
+ EST_RajputDT_CAP:0 "Ð¦¨±³²¯" #RajputDT_CAP
+ EST_VaisyasDT_CAP:0 "ÏþŒ¿ª" #VaisyasDT_CAP
+ EST_CossacksDT_CAP:0 "©¬¯" #CossacksDT_CAP
+ EST_NomadicDT_CAP:0 "®°¯" #NomadicDT_CAP
+ EST_DhimmiDT_CAP:0 "…ª¯¯ª" #DhimmiDT_CAP
+ EST_JainsDT_CAP:0 "ƒ¨þ°¯" #JainsDT_CAP
+ EST_churchDT_CAP:0 "Ô¢¾¸°°ª¬¯" #ChurchDT_CAP
+ EST_monasteriesDT_CAP:0 "°Œ¬ª¯ ¦°¯" #ChurchDT_CAP
+ EST_babaylanesDT_CAP:0 "€¡þ®°¯" #ChurchDT_CAP
+ EST_brahminsDT_CAP:0 "€¯°¯" #ChurchDT_CAP
+ EST_gentryDT_CAP:0 "÷ªµ©³" #ChurchDT_CAP
+ EST_ulemaDT_CAP:0 "‹®¯¯" #ChurchDT_CAP
+ EST_tlamacazquehDT_CAP:0 "Ù®¯¬©¬¯" #ChurchDT_CAP
+ EST_noblesDT_CAP:0 "ƒ¢¾°¯" #NoblesDT_CAP
+ EST_beysDT_CAP:0 "€þ¾¯" #NoblesDT_CAP
+ EST_boyarsDT_CAP:0 "€¾¯" #NoblesDT_CAP
+ EST_szlachtaDT_CAP:0 "÷®¾²ª¶¯" #NoblesDT_CAP
+ EST_timawaDT_CAP:0 "Ùª¯¥³" #NoblesDT_CAP
+ EST_nayaksDT_CAP:0 "¾¬¯" #NoblesDT_CAP
+ EST_samantasDT_CAP:0 "Ô¯°²¯" #NoblesDT_CAP
+ EST_kshatriyasDT_CAP:0 "Œ²ª¾¯" #NoblesDT_CAP
+ EST_qinwangDT_CAP:0 "Ëª°¿¢°" #NoblesDT_CAP
+ EST_mansabdarsDT_CAP:0 "°¡¦¯" #NoblesDT_CAP
+ EST_tetecuhtinDT_CAP:0 "Ù²¬³²ª°¯" #NoblesDT_CAP
+ EST_andrianaDT_CAP:0 "°¦ª°¯" #NoblesDT_CAP
+ EST_amirsDT_CAP:0 "™¯ª¯" #NoblesDT_CAP
+ EST_plantersDT_CAP:0 "‰®°²²¯" #NoblesDT_CAP
+ EST_bushiDT_CAP:0 "€³ª" #NoblesDT_CAP
+ EST_yangban_administratorsDT_CAP:0 "¦¯ª°ª²²¯-¾°¡°¯" #NoblesDT_CAP
+ EST_junkersDT_CAP:0 "›°¬¯" #NoblesDT_CAP
+ EST_burghersDT_CAP:0 "‚¨°¯" #BurghersDT_CAP
+ EST_bourgeoisieDT_CAP:0 "€³¨³" #BurghersDT_CAP
+ EST_shangbangDT_CAP:0 "÷°¡°" #BurghersDT_CAP
+ EST_neoconfucian_reformersDT_CAP:0 "¬°´³µª°¬ª¯ ´¯²¯" #BurghersDT_CAP
+ EST_guildsDT_CAP:0 "³±¶¬ª¯ ¥ª®¿¦ª¾¯" #BurghersDT_CAP
+ EST_yangban_scholarsDT_CAP:0 "‹¶ž°º¯-¾°¡°¯" #ChurchDT_CAP
+ EST_kahunaDT_CAP:1 "³°" #ChurchDT_CAP
+ EST_tohungaDT_CAP:1 "Ù³°¥" #ChurchDT_CAP
+ EST_beteDT_CAP:1 "€²" #ChurchDT_CAP
+ EST_taula_otuaDT_CAP:1 "Ù³® ²³" #ChurchDT_CAP
+ EST_taula_aituDT_CAP:1 "Ù³® ª²³" #ChurchDT_CAP
+ EST_aliiDT_CAP:1 "®ª" #NoblesDT_CAP
+ EST_rangatiraDT_CAP:0 "Ð°¥²ª" #NoblesDT_CAP
+ EST_eikiDT_CAP:1 "ª¬ª" #NoblesDT_CAP
+ EST_ratuDT_CAP:1 "Ð²³" #NoblesDT_CAP
+ #‰¯°°º ¢ ¢ª°ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsVN_CAP:0 "€¯°¢" #BrahminsVN_CAP
+ EST_MarathaVN_CAP:0 "²¢" #MarathaVN_CAP
+ EST_RajputVN_CAP:0 "Ð¦¨±³²¢" #RajputVN_CAP
+ EST_VaisyasVN_CAP:0 "ÏþŒ¿ª" #VaisyasVN_CAP
+ EST_CossacksVN_CAP:0 "©¬¢" #CossacksVN_CAP
+ EST_NomadicVN_CAP:0 "®°º" #NomadicVN_CAP
+ EST_DhimmiVN_CAP:0 "…ª¯¯ª" #DhimmiVN_CAP
+ EST_JainsVN_CAP:0 "ƒ¨þ°¢" #JainsVN_CAP
+ EST_churchVN_CAP:0 "Ô¢¾¸°°ª¬¢" #ChurchVN_CAP
+ EST_monasteriesVN_CAP:0 "°Œ¬ª ¦°" #ChurchVN_CAP
+ EST_babaylanesVN_CAP:0 "€¡þ®°¢" #ChurchVN_CAP
+ EST_brahminsVN_CAP:0 "€¯°¢" #ChurchVN_CAP
+ EST_gentryVN_CAP:0 "÷ªµ©³" #ChurchVN_CAP
+ EST_ulemaVN_CAP:0 "‹®¯º" #ChurchVN_CAP
+ EST_tlamacazquehVN_CAP:0 "Ù®¯¬©¬¢" #ChurchVN_CAP
+ EST_noblesVN_CAP:0 "ƒ¢¾°" #NoblesVN_CAP
+ EST_beysVN_CAP:0 "€þ¢" #NoblesVN_CAP
+ EST_boyarsVN_CAP:0 "€¾" #NoblesVN_CAP
+ EST_szlachtaVN_CAP:0 "÷®¾²ª¶þ" #NoblesVN_CAP
+ EST_timawaVN_CAP:0 "Ùª¯¥³" #NoblesVN_CAP
+ EST_nayaksVN_CAP:0 "¾¬¢" #NoblesVN_CAP
+ EST_samantasVN_CAP:0 "Ô¯°²¢" #NoblesVN_CAP
+ EST_kshatriyasVN_CAP:0 "Œ²ª¢" #NoblesVN_CAP
+ EST_qinwangVN_CAP:0 "Ëª°¿¢°" #NoblesVN_CAP
+ EST_mansabdarsVN_CAP:0 "°¡¦¢" #NoblesVN_CAP
+ EST_tetecuhtinVN_CAP:0 "Ù²¬³²ª°¢" #NoblesVN_CAP
+ EST_andrianaVN_CAP:0 "°¦ª°¢" #NoblesVN_CAP
+ EST_amirsVN_CAP:0 "™¯ª¢" #NoblesVN_CAP
+ EST_plantersVN_CAP:0 "‰®°²²¢" #NoblesVN_CAP
+ EST_bushiVN_CAP:0 "€³ª" #NoblesVN_CAP
+ EST_yangban_administratorsVN_CAP:0 "¦¯ª°ª²²¢-¾°¡°¢" #NoblesVN_CAP
+ EST_junkersVN_CAP:0 "›°¬¢" #NoblesVN_CAP
+ EST_burghersVN_CAP:0 "‚¨°" #BurghersVN_CAP
+ EST_bourgeoisieVN_CAP:0 "€³¨³" #BurghersVN_CAP
+ EST_shangbangVN_CAP:0 "÷°¡°" #BurghersVN_CAP
+ EST_neoconfucian_reformersVN_CAP:0 "¬°´³µª°¬ª ´¯²¢" #BurghersVN_CAP
+ EST_guildsVN_CAP:0 "³±¶¬ª ¥ª®¿¦ªª" #BurghersVN_CAP
+ EST_yangban_scholarsVN_CAP:0 "‹¶ž°º-¾°¡°¢" #ChurchVN_CAP
+ EST_kahunaVN_CAP:1 "³°" #ChurchVN_CAP
+ EST_tohungaVN_CAP:1 "Ù³°¥" #ChurchVN_CAP
+ EST_beteVN_CAP:1 "€²" #ChurchVN_CAP
+ EST_taula_otuaVN_CAP:1 "Ù³® ²³" #ChurchVN_CAP
+ EST_taula_aituVN_CAP:1 "Ù³® ª²³" #ChurchVN_CAP
+ EST_aliiVN_CAP:1 "®ª" #NoblesVN_CAP
+ EST_rangatiraVN_CAP:0 "Ð°¥²ª" #NoblesVN_CAP
+ EST_eikiVN_CAP:1 "ª¬ª" #NoblesVN_CAP
+ EST_ratuVN_CAP:1 "Ð²³" #NoblesVN_CAP
+ #‰¯°°º ¢ ²¢ª²®¿°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsTV_CAP:0 "€¯°¯ª" #BrahminsTV_CAP
+ EST_MarathaTV_CAP:0 "²¯ª" #MarathaTV_CAP
+ EST_RajputTV_CAP:0 "Ð¦¨±³²¯ª" #RajputTV_CAP
+ EST_VaisyasTV_CAP:0 "ÏþŒ¿ª" #VaisyasTV_CAP
+ EST_CossacksTV_CAP:0 "©¬¯ª" #CossacksTV_CAP
+ EST_NomadicTV_CAP:0 "®°¯ª" #NomadicTV_CAP
+ EST_DhimmiTV_CAP:0 "…ª¯¯ª" #DhimmiTV_CAP
+ EST_JainsTV_CAP:0 "ƒ¨þ°¯ª" #JainsTV_CAP
+ EST_churchTV_CAP:0 "Ô¢¾¸°°ª¬¯ª" #ChurchTV_CAP
+ EST_monasteriesTV_CAP:0 "°Œ¬ª¯ª ¦°¯ª" #ChurchTV_CAP
+ EST_babaylanesTV_CAP:0 "€¡þ®°¯ª" #ChurchTV_CAP
+ EST_brahminsTV_CAP:0 "€¯°¯ª" #ChurchTV_CAP
+ EST_gentryTV_CAP:0 "÷ªµ©³" #ChurchTV_CAP
+ EST_ulemaTV_CAP:0 "‹®¯¯ª" #ChurchTV_CAP
+ EST_tlamacazquehTV_CAP:0 "Ù®¯¬©¬¯ª" #ChurchTV_CAP
+ EST_noblesTV_CAP:0 "ƒ¢¾°¯ª" #NoblesTV_CAP
+ EST_beysTV_CAP:0 "€þ¾¯ª" #NoblesTV_CAP
+ EST_boyarsTV_CAP:0 "€¾¯ª" #NoblesTV_CAP
+ EST_szlachtaTV_CAP:0 "÷®¾²ª¶¯ª" #NoblesTV_CAP
+ EST_timawaTV_CAP:0 "Ùª¯¥³" #NoblesTV_CAP
+ EST_nayaksTV_CAP:0 "¾¬¯ª" #NoblesTV_CAP
+ EST_samantasTV_CAP:0 "Ô¯°²¯ª" #NoblesTV_CAP
+ EST_kshatriyasTV_CAP:0 "Œ²ª¾¯ª" #NoblesTV_CAP
+ EST_qinwangTV_CAP:0 "Ëª°¿¢°" #NoblesTV_CAP
+ EST_mansabdarsTV_CAP:0 "°¡¦¯ª" #NoblesTV_CAP
+ EST_tetecuhtinTV_CAP:0 "Ù²¬³²ª°¯ª" #NoblesTV_CAP
+ EST_andrianaTV_CAP:0 "°¦ª°¯ª" #NoblesTV_CAP
+ EST_amirsTV_CAP:0 "™¯ª¯ª" #NoblesTV_CAP
+ EST_plantersTV_CAP:0 "‰®°²²¯ª" #NoblesTV_CAP
+ EST_bushiTV_CAP:0 "€³ª" #NoblesTV_CAP
+ EST_yangban_administratorsTV_CAP:0 "¦¯ª°ª²²¯ª-¾°¡°¯ª" #NoblesTV_CAP
+ EST_junkersTV_CAP:0 "›°¬¯ª" #NoblesTV_CAP
+ EST_burghersTV_CAP:0 "‚¨°¯ª" #BurghersTV_CAP
+ EST_bourgeoisieTV_CAP:0 "€³¨³" #BurghersTV_CAP
+ EST_shangbangTV_CAP:0 "÷°¡°" #BurghersTV_CAP
+ EST_neoconfucian_reformersTV_CAP:0 "¬°´³µª°¬ª¯ª ´¯²¯ª" #BurghersTV_CAP
+ EST_guildsTV_CAP:0 "³±¶¬ª¯ª ¥ª®¿¦ª¾¯ª" #BurghersTV_CAP
+ EST_yangban_scholarsTV_CAP:0 "‹¶ž°º¯ª-¾°¡°¯ª" #ChurchTV_CAP
+ EST_kahunaTV_CAP:1 "³°" #ChurchTV_CAP
+ EST_tohungaTV_CAP:1 "Ù³°¥" #ChurchTV_CAP
+ EST_beteTV_CAP:1 "€²" #ChurchTV_CAP
+ EST_taula_otuaTV_CAP:1 "Ù³® ²³" #ChurchTV_CAP
+ EST_taula_aituTV_CAP:1 "Ù³® ª²³" #ChurchTV_CAP
+ EST_aliiTV_CAP:1 "®ª" #NoblesTV_CAP
+ EST_rangatiraTV_CAP:0 "Ð°¥²ª" #NoblesTV_CAP
+ EST_eikiTV_CAP:1 "ª¬ª" #NoblesTV_CAP
+ EST_ratuTV_CAP:1 "Ð²³" #NoblesTV_CAP
+ #‰¯°°º ¢ ±¦®¨°¯ ±¦¨  ¡®¿Œþ ¡³¬¢º
+ EST_BrahminsPR_CAP:0 "€¯°" #BrahminsPR_CAP
+ EST_MarathaPR_CAP:0 "²" #MarathaPR_CAP
+ EST_RajputPR_CAP:0 "Ð¦¨±³²" #RajputPR_CAP
+ EST_VaisyasPR_CAP:0 "ÏþŒ¿ª" #VaisyasPR_CAP
+ EST_CossacksPR_CAP:0 "©¬" #CossacksPR_CAP
+ EST_NomadicPR_CAP:0 "®°" #NomadicPR_CAP
+ EST_DhimmiPR_CAP:0 "…ª¯¯ª" #DhimmiPR_CAP
+ EST_JainsPR_CAP:0 "ƒ¨þ°" #JainsPR_CAP
+ EST_churchPR_CAP:0 "Ô¢¾¸°°ª¬" #ChurchPR_CAP
+ EST_monasteriesPR_CAP:0 "°Œ¬ª ¦°" #ChurchPR_CAP
+ EST_babaylanesPR_CAP:0 "€¡þ®°" #ChurchPR_CAP
+ EST_brahminsPR_CAP:0 "€¯°" #ChurchPR_CAP
+ EST_gentryPR_CAP:0 "÷ªµ©³" #ChurchPR_CAP
+ EST_ulemaPR_CAP:0 "‹®¯" #ChurchPR_CAP
+ EST_tlamacazquehPR_CAP:0 "Ù®¯¬©¬" #ChurchPR_CAP
+ EST_noblesPR_CAP:0 "ƒ¢¾°" #NoblesPR_CAP
+ EST_beysPR_CAP:0 "€þ¾" #NoblesPR_CAP
+ EST_boyarsPR_CAP:0 "€¾" #NoblesPR_CAP
+ EST_szlachtaPR_CAP:0 "÷®¾²ª¶" #NoblesPR_CAP
+ EST_timawaPR_CAP:0 "Ùª¯¥³" #NoblesPR_CAP
+ EST_nayaksPR_CAP:0 "¾¬" #NoblesPR_CAP
+ EST_samantasPR_CAP:0 "Ô¯°²" #NoblesPR_CAP
+ EST_kshatriyasPR_CAP:0 "Œ²ª¾" #NoblesPR_CAP
+ EST_qinwangPR_CAP:0 "Ëª°¿¢°" #NoblesPR_CAP
+ EST_mansabdarsPR_CAP:0 "°¡¦" #NoblesPR_CAP
+ EST_tetecuhtinPR_CAP:0 "Ù²¬³²ª°" #NoblesPR_CAP
+ EST_andrianaPR_CAP:0 "°¦ª°" #NoblesPR_CAP
+ EST_amirsPR_CAP:0 "™¯ª" #NoblesPR_CAP
+ EST_plantersPR_CAP:0 "‰®°²²" #NoblesPR_CAP
+ EST_bushiPR_CAP:0 "€³ª" #NoblesPR_CAP
+ EST_yangban_administratorsPR_CAP:0 "¦¯ª°ª²²-¾°¡°" #NoblesPR_CAP
+ EST_junkersPR_CAP:0 "›°¬" #NoblesPR_CAP
+ EST_burghersPR_CAP:0 "‚¨°" #BurghersPR_CAP
+ EST_bourgeoisiePR_CAP:0 "€³¨³" #BurghersPR_CAP
+ EST_shangbangPR_CAP:0 "÷°¡°" #BurghersPR_CAP
+ EST_neoconfucian_reformersPR_CAP:0 "¬°´³µª°¬ª ´¯²" #BurghersPR_CAP
+ EST_guildsPR_CAP:0 "³±¶¬ª ¥ª®¿¦ª¾" #BurghersPR_CAP
+ EST_yangban_scholarsPR_CAP:0 "‹¶ž°º-¾°¡°¢" #ChurchPR_CAP
+ EST_kahunaPR_CAP:1 "³°" #ChurchPR_CAP
+ EST_tohungaPR_CAP:1 "Ù³°¥" #ChurchPR_CAP
+ EST_betePR_CAP:1 "€²" #ChurchPR_CAP
+ EST_taula_otuaPR_CAP:1 "Ù³® ²³" #ChurchPR_CAP
+ EST_taula_aituPR_CAP:1 "Ù³® ª²³" #ChurchPR_CAP
+ EST_aliiPR_CAP:1 "®ª" #NoblesPR_CAP
+ EST_rangatiraPR_CAP:0 "Ð°¥²ª" #NoblesPR_CAP
+ EST_eikiPR_CAP:1 "ª¬ª" #NoblesPR_CAP
+ EST_ratuPR_CAP:1 "Ð²³" #NoblesPR_CAP

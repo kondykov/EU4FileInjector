@@ -1,0 +1,94 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ #Bavarian Missions
+ #Bavarian Mission Events
+ #Bavarian Mission Modifiers
+ #Saxon Missions
+ #Saxon Mission Modifiers
+ #Saxon Mission Events
+ #Milan Missions
+ #GetTier2GovernmentType
+ #Milan Mission Events
+ #Milan Modifiers
+ #Savoyard-Piedmontese Missions
+ #Savoyard Mission Modifiers
+ #Savoyard Mission Events
+ #Austrian Missions
+ #Austrian Mission Modifiers
+ #Austrian Mission Reward Govt
+ #Austrian Mission Events
+ #Hungarian Missions
+ #Hungarian Mission Modifiers
+ #Hungarian Mission Events
+ #Genoese Missions
+ #Genoese Mission Modifiers etc
+ # Burgundian Missions
+ #Burgundy Mission Events
+ #GetBurHREAscensionText
+ #Burgundy Mission Modifiers
+ #Palatinate Missions
+ #German Theocracy Missions
+ #Bishop Elector Missions
+ # Dutch missions
+ # Florentine Missions
+ # Serbian Missions
+ # Italian missions
+ emp_ita_continue_the_renaissance_desc: "†²®ª¾ ª©¦¢° ¡º® ¬®º¡®¿½ ª°²®®¬²³®¿°þ ¯º®ª ª ³¦¨²¢°°º ¦²ª¨°ªþ. º ¦®¨°º ¦®²¿ ¢ ¢©¯¨°, ¶²¡º ±¦¦¨²¿ ¼²ª ±¬°º ²¦ªµªª ª Œªª²¿ ¡©¢²®¿°º µ°²º ¡³¶°ª¾, ¬²º ²¬ ¯°¥ ¦®®ª ¦®¾ ±²°°ª¾ °¢º ª¦þ ª ¢¦°¢°ª¾ °¢º ±¬®°ªþ ¯º®ª²®þ ª ³¦¨°ª¬¢."
+ emp_ita_africa_proconsulare_title: "‰¬°³®¿¬¾ ´ª¬"
+ # Venetian missions
+ # Papal missions
+ # Provence missions
+ emp_pro_occitania_desc: "¬ª²°ª¾ ±²¦® ±¦ ¢®²¿½ Ê°µªª. ±³²Œ°°ºþ ¢ ¢¯¾ ®¿¡ª¥þ¬¥ ¬²¢¥ ±¦,  ²±¿ ±¦¢¥Œªþ¾ Ô²®²°þ ¢þ°  °¥®ªþ, °¦ ª ©°²¿ ¦ª°¬¢ ³²®ª ² ´°µ³©¬¥ ±¢®°ª¾. º ¦®¨°º ¢¡¦ª²¿ ª ² Ê°µªª ª ±¦¶ª°ª²¿ ‰¢°³."
+ # Provence Mission Modifiers
+ # French Missions
+ # French mission modifiers
+ # French mission events
+ # Swiss missions
+ # Swiss mission modifiers
+ # Swiss mission events
+ # Crusader States missions
+ # Knights mission events
+ # Knights mission modifiers
+ # Bohemian Missions
+ # Bohemian modifiers
+ # Bohemian mission events
+ # Prussian Missions
+ # Prussian Mission Modifiers
+ # Neapolitan Missions
+ # Naples mission modifiers
+ # German Missions
+ # German mission modifiers
+ EST_VAL_GER_URBAN: "¯µ¬¾ ³¡°ª©µª¾: §G$VAL$§!"
+ # Albanian Missions
+ # Albanian Mission Modifiers
+ # Bulgarian missions
+ # Peasant Missions
+ # Peasant modifiers
+ # Croatian missions
+ # Croatian Mission Modifiers
+ # French minors missions
+ EST_VAL_GERMAN_JUNKERS: "Ï°º ›°¬º:"
+ emp_ita_develop_the_south_tt2: "Ï ±ª°¦®¨¸ª ±¢ª°µªª ¢ §Y±®§!, §YÏ²¶°þ Ôªµª®ªª§!, §Y…±¦°þ Ôªµª®ªª§!, §Y¡®²ª ®¡ªª§! ª §Y±³®ªª§!:"
+ #Swabian Missions
+ #Swabian Mission Modifiers
+ #Swabian Mission Events
+ #Franconian Missions
+ #Franconian Mission Modifiers
+ #Addition to Milanese missions
+ #Hannoverian Missions
+ #Hannoverian Mission Modifiers
+ #Various
+ #Palatinate
+ #Brittany Missions
+ #HRE Republics
+
+ #Lubeck Missions
+ # Modifiers
+ # Events
+ # Custom Tooltips
+ # Tag

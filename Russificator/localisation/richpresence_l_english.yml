@@ -1,0 +1,17 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ SOCIAL_DSTATUS_IN_MAIN_MENU:0 "Ï ¥®¢°¯ ¯°½"
+ SOCIAL_DSTATUS_IN_SP_LOBBY:0 "¶ª°² ¦ª°¶°³½ ª¥³"
+ SOCIAL_DSTATUS_IN_MP_LOBBY:0 "¶ª°² ²¢³½ ª¥³"
+ SOCIAL_DSTATUS_PLAYING_AS:0 "$TITLE$ ¦¨¢º $COUNTRY$ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_ATWARWITH:0 "$TITLE$ ¦¨¢º $COUNTRY$, ¢½²  ¦¨¢þ $ENEMY$ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_OBSERVING:0 "¡®½¦² © ¯ª¢ ¢ $YEAR$ ¥."
+ SOCIAL_DSTATUS_PLAYING_GAME:0 "†¥² ¢ $GAME$"
+ SOCIAL_DSTATUS_PLAYING_SOME_GAME:0 "†¥² ¢ ¦³¥³½ ª¥³"
+ SOCIAL_DSTATUS_BLOCKED_STATUS:0 " "

@@ -1,0 +1,10 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ completed_incan_missions: "…¢Œª² ¦¢ ¯ªªþ ª°¬¢ (© ª¬®½¶°ª¯ ¯ªªþ ¢²¨°ª¾ ° ©¬²)."
+ achievement_baborg_tooltip: "ª¯ª®ª¢²¿ ° ¯° §Y12§! ¬³®¿²³°º ¥³±± (§Y[Root.GetNumAssimilatedCultureGroups]§!/§Y 12§!)"
+ achievement_the_hungarian_games_tooltip: "Ïºª¥þ² §Y23§! ¨°ª¾ ®ª¡ © §YÌ°³½ ¯ª½§!, ®ª¡ © §YÐ©¢º Ì°þ ¯ªª§! ²³ °¯°ª¬¢. ¬¬ ¯ª°ª¯³¯ ¢ ²°Œ°ªª §Y12§! ©°º ²° (§Y[Root.GetBlackArmyBattleVictories]§!/§Y 23§!)."

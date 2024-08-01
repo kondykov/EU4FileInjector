@@ -1,0 +1,1058 @@
+
+######################################################################################################################################################
+###																																				   ###
+###															Прилагательные религий																   ###
+###											 Т.к. православие имеет уникальные окончания (ый, ым и др.), 										   ###
+###								 То рекомендуется использовать двойную переменную для исключений, указанных ниже.								   ###
+###												 В иных случаях использовать стандартную форму:													   ###
+###																																				   ###
+###																																				   ###
+###															  Строчными буквами																	   ###
+###												   Пример: "[SER.ReligionADJ]ая держава"						 								   ###
+###										 Отображение: "православная держава", "католическая держава"											   ###
+###																																				   ###
+###															  С прописной буквы						 											   ###
+###												  Пример: "[SER.ReligionADJ_CAP]ая держава"						 								   ###
+###										 Отображение: "Православная держава", "Католическая держава"											   ###
+###																																				   ###
+###																  Мужской род																	   ###
+###						 Именительный (Кто, что?) - "[SER.ReligionADJ][SER.ReligionEndIY]" : "православный", "католический" 	 				   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим"  					   ###
+###																																				   ###
+###																  Средний род																	   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим"  					   ###
+###																																				   ###
+###															  Множественное число																   ###
+###						 Именительный (Кто, что?) - "[SER.ReligionADJ][SER.ReligionEndIE]" : "православные", "католические" 	 				   ###
+###						 Родительный (Кого, чего?) - "[SER.ReligionADJ][SER.ReligionEndIH]" : "православных", "католических" 	 				   ###
+###						 Дательный (Кому, чему?) - "[SER.ReligionADJ][SER.ReligionEndIM]" : "православным", "католическим" 	 					   ###
+###						 Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ 																			   ###
+###						 Творительный (Кем, чем?) - "[SER.ReligionADJ][SER.ReligionEndIMI]" : "православными", "католическими"  				   ###
+###						 Предложный (О ком, о чём?) - "[SER.ReligionADJ][SER.ReligionEndIH]" : "православных", "католических" 	 				   ###
+###																																				   ###
+###												 Локализация в: gks_religion, gks_converter														   ###
+###																																				   ###
+######################################################################################################################################################
+
+######################################################################################################################################################
+###																																				   ###
+###													    Прилагательные религиозных групп														   ###
+###											 Т.к. восточные верования имеют уникальные окончания (ый, ым и др.), 								   ###
+###								 То рекомендуется использовать двойную переменную для исключений, указанных ниже.								   ###
+###												 В иных случаях использовать стандартную форму:													   ###
+###																																				   ###
+###																																				   ###
+###															  Строчными буквами																	   ###
+###												 Пример: "[SER.ReligionGroupADJ]ая держава"						 								   ###
+###										 Отображение: "восточная держава", "Христианская держава"												   ###
+###																																				   ###
+###															  С прописной буквы						 											   ###
+###												Пример: "[SER.ReligionGroupADJ_CAP]ая держава"						 							   ###
+###										 Отображение: "Восточная держава", "Христианская держава"												   ###
+###																																				   ###
+###																  Мужской род																	   ###
+###					 Именительный (Кто, что?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIY]" : "восточный", "христианский" 	 				   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским"  				   ###
+###																																				   ###
+###																  Средний род																	   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским"  				   ###
+###																																				   ###
+###															  Множественное число																   ###
+###					 Именительный (Кто, что?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIE]" : "восточные", "христианские" 	 				   ###
+###					 Родительный (Кого, чего?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIH]" : "восточных", "христианских" 	 			   ###
+###					 Дательный (Кому, чему?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIM]" : "восточным", "христианским" 	 				   ###
+###					 Винительный (Кого, что?) - НЕ ИСПОЛЬЗУЕТСЯ 																				   ###
+###					 Творительный (Кем, чем?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIMI]" : "восточными", "христианскими"  				   ###
+###					 Предложный (О ком, о чём?) - "[SER.ReligionGroupADJ][SER.ReligionGroupEndIH]" : "восточных", "христианских" 	 			   ###
+###																																				   ###
+###												 Локализация в: gks_religion, gks_converter														   ###
+###																																				   ###
+######################################################################################################################################################
+
+defined_text = {
+    name = ReligionADJ
+    text = {
+        localisation_key = catholic_ADJ
+        trigger = {
+				religion = catholic
+		}
+	}
+    text = {
+        localisation_key = orthodox_ADJ
+        trigger = {
+				religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = protestant_ADJ
+        trigger = {
+				religion = protestant
+		}
+	}
+    text = {
+        localisation_key = reformed_ADJ
+        trigger = {
+				religion = reformed
+		}
+	}
+    text = {
+        localisation_key = coptic_ADJ
+        trigger = {
+				religion = coptic
+		}
+	}
+    text = {
+        localisation_key = anglican_ADJ
+        trigger = {
+				religion = anglican
+		}
+	}
+    text = {
+        localisation_key = sunni_ADJ
+        trigger = {
+				religion = sunni
+		}
+	}
+    text = {
+        localisation_key = shiite_ADJ
+        trigger = {
+				religion = shiite
+		}
+	}
+    text = {
+        localisation_key = ibadi_ADJ
+        trigger = {
+				religion = ibadi
+		}
+	}
+    text = {
+        localisation_key = buddhism_ADJ
+        trigger = {
+				religion = buddhism
+		}
+	}
+    text = {
+        localisation_key = vajrayana_ADJ
+        trigger = {
+				religion = vajrayana
+		}
+	}
+    text = {
+        localisation_key = mahayana_ADJ
+        trigger = {
+				religion = mahayana
+		}
+	}
+    text = {
+        localisation_key = confucianism_ADJ
+        trigger = {
+				religion = confucianism
+		}
+	}
+    text = {
+        localisation_key = shinto_ADJ
+        trigger = {
+				religion = shinto
+		}
+	}
+    text = {
+        localisation_key = hinduism_ADJ
+        trigger = {
+				religion = hinduism
+		}
+	}
+    text = {
+        localisation_key = sikhism_ADJ
+        trigger = {
+				religion = sikhism
+		}
+	}
+    text = {
+        localisation_key = animism_ADJ
+        trigger = {
+				religion = animism
+		}
+	}
+    text = {
+        localisation_key = shamanism_ADJ
+        trigger = {
+				religion = shamanism
+		}
+	}
+    text = {
+        localisation_key = totemism_ADJ
+        trigger = {
+				religion = totemism
+		}
+	}
+    text = {
+        localisation_key = inti_ADJ
+        trigger = {
+				religion = inti
+		}
+	}
+    text = {
+        localisation_key = nahuatl_ADJ
+        trigger = {
+				religion = nahuatl
+		}
+	}
+    text = {
+        localisation_key = mesoamerican_religion_ADJ
+        trigger = {
+				religion = mesoamerican_religion
+		}
+	}
+    text = {
+        localisation_key = norse_pagan_reformed_ADJ
+        trigger = {
+				religion = norse_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = tengri_pagan_reformed_ADJ
+        trigger = {
+				religion = tengri_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = jewish_ADJ
+        trigger = {
+				religion = jewish
+		}
+	}
+    text = {
+        localisation_key = zoroastrian_ADJ
+        trigger = {
+				religion = zoroastrian
+		}
+	}
+    text = {
+        localisation_key = noreligion_ADJ
+        trigger = {
+				religion = noreligion
+		}
+	}
+    text = {
+        localisation_key = baltic_pagan_reformed_ADJ
+        trigger = {
+				religion = baltic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = finnish_pagan_reformed_ADJ
+        trigger = {
+				religion = finnish_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = slavic_pagan_reformed_ADJ
+        trigger = {
+				religion = slavic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = hellenic_pagan_ADJ
+        trigger = {
+				religion = hellenic_pagan
+		}
+	}
+    text = {
+        localisation_key = hellenic_pagan_reformed_ADJ
+        trigger = {
+				religion = hellenic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = zun_pagan_reformed_ADJ
+        trigger = {
+				religion = zun_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = bon_ADJ
+        trigger = {
+				religion = bon
+		}
+	}
+    text = {
+        localisation_key = bon_reformed_ADJ
+        trigger = {
+				religion = bon_reformed
+		}
+	}
+    text = {
+        localisation_key = nestorian_ADJ
+        trigger = {
+				religion = nestorian
+		}
+	}
+    text = {
+        localisation_key = jain_ADJ
+        trigger = {
+				religion = jain
+		}
+	}
+    text = {
+        localisation_key = cathar_ADJ
+        trigger = {
+				religion = cathar
+		}
+	}
+    text = {
+        localisation_key = fraticelli_ADJ
+        trigger = {
+				religion = fraticelli
+		}
+	}
+    text = {
+        localisation_key = waldensian_ADJ
+        trigger = {
+				religion = waldensian
+		}
+	}
+    text = {
+        localisation_key = lollard_ADJ
+        trigger = {
+				religion = lollard
+		}
+	}
+    text = {
+        localisation_key = monophysite_ADJ
+        trigger = {
+				religion = monophysite
+		}
+	}
+    text = {
+        localisation_key = bogomilist_ADJ
+        trigger = {
+				religion = bogomilist
+		}
+	}
+    text = {
+        localisation_key = monothelite_ADJ
+        trigger = {
+				religion = monothelite
+		}
+	}
+    text = {
+        localisation_key = iconoclast_ADJ
+        trigger = {
+				religion = iconoclast
+		}
+	}
+    text = {
+        localisation_key = paulician_ADJ
+        trigger = {
+				religion = paulician
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ
+        trigger = {
+				religion = messalian
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ
+        trigger = {
+				religion = zikri
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ
+        trigger = {
+				religion = yazidi
+		}
+	}
+    text = {
+        localisation_key = kharijite_ADJ
+        trigger = {
+				religion = kharijite
+		}
+	}
+    text = {
+        localisation_key = druze_ADJ
+        trigger = {
+				religion = druze
+		}
+	}
+    text = {
+        localisation_key = hurufi_ADJ
+        trigger = {
+				religion = hurufi
+		}
+	}
+    text = {
+        localisation_key = mazdaki_ADJ
+        trigger = {
+				religion = mazdaki
+		}
+	}
+    text = {
+        localisation_key = manichean_ADJ
+        trigger = {
+				religion = manichean
+		}
+	}
+    text = {
+        localisation_key = khurmazta_ADJ
+        trigger = {
+				religion = khurmazta
+		}
+	}
+    text = {
+        localisation_key = samaritan_faith_ADJ
+        trigger = {
+				religion = samaritan_faith
+		}
+	}
+    text = {
+        localisation_key = karaite_faith_ADJ
+        trigger = {
+				religion = karaite_faith
+		}
+	}
+    text = {
+        localisation_key = hussite_ADJ
+        trigger = {
+			religion = hussite
+		}
+	}
+	text = {
+        localisation_key = dreamtime_ADJ
+        trigger = {
+			religion = dreamtime
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionADJ_CAP
+    text = {
+        localisation_key = catholic_ADJ_CAP
+        trigger = {
+				religion = catholic
+		}
+	}
+    text = {
+        localisation_key = orthodox_ADJ_CAP
+        trigger = {
+				religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = protestant_ADJ_CAP
+        trigger = {
+				religion = protestant
+		}
+	}
+    text = {
+        localisation_key = reformed_ADJ_CAP
+        trigger = {
+				religion = reformed
+		}
+	}
+    text = {
+        localisation_key = coptic_ADJ_CAP
+        trigger = {
+				religion = coptic
+		}
+	}
+    text = {
+        localisation_key = anglican_ADJ_CAP
+        trigger = {
+				religion = anglican
+		}
+	}
+    text = {
+        localisation_key = sunni_ADJ_CAP
+        trigger = {
+				religion = sunni
+		}
+	}
+    text = {
+        localisation_key = shiite_ADJ_CAP
+        trigger = {
+				religion = shiite
+		}
+	}
+    text = {
+        localisation_key = ibadi_ADJ_CAP
+        trigger = {
+				religion = ibadi
+		}
+	}
+    text = {
+        localisation_key = buddhism_ADJ_CAP
+        trigger = {
+				religion = buddhism
+		}
+	}
+    text = {
+        localisation_key = vajrayana_ADJ_CAP
+        trigger = {
+				religion = vajrayana
+		}
+	}
+    text = {
+        localisation_key = mahayana_ADJ_CAP
+        trigger = {
+				religion = mahayana
+		}
+	}
+    text = {
+        localisation_key = confucianism_ADJ_CAP
+        trigger = {
+				religion = confucianism
+		}
+	}
+    text = {
+        localisation_key = shinto_ADJ_CAP
+        trigger = {
+				religion = shinto
+		}
+	}
+    text = {
+        localisation_key = hinduism_ADJ_CAP
+        trigger = {
+				religion = hinduism
+		}
+	}
+    text = {
+        localisation_key = sikhism_ADJ_CAP
+        trigger = {
+				religion = sikhism
+		}
+	}
+    text = {
+        localisation_key = animism_ADJ_CAP
+        trigger = {
+				religion = animism
+		}
+	}
+    text = {
+        localisation_key = shamanism_ADJ_CAP
+        trigger = {
+				religion = shamanism
+		}
+	}
+    text = {
+        localisation_key = totemism_ADJ_CAP
+        trigger = {
+				religion = totemism
+		}
+	}
+    text = {
+        localisation_key = inti_ADJ_CAP
+        trigger = {
+				religion = inti
+		}
+	}
+    text = {
+        localisation_key = nahuatl_ADJ_CAP
+        trigger = {
+				religion = nahuatl
+		}
+	}
+    text = {
+        localisation_key = mesoamerican_religion_ADJ_CAP
+        trigger = {
+				religion = mesoamerican_religion
+		}
+	}
+    text = {
+        localisation_key = norse_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = norse_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = tengri_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = tengri_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = jewish_ADJ_CAP
+        trigger = {
+				religion = jewish
+		}
+	}
+    text = {
+        localisation_key = zoroastrian_ADJ_CAP
+        trigger = {
+				religion = zoroastrian
+		}
+	}
+    text = {
+        localisation_key = noreligion_ADJ_CAP
+        trigger = {
+				religion = noreligion
+		}
+	}
+    text = {
+        localisation_key = baltic_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = baltic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = finnish_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = finnish_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = slavic_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = slavic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = hellenic_pagan_ADJ_CAP
+        trigger = {
+				religion = hellenic_pagan
+		}
+	}
+    text = {
+        localisation_key = hellenic_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = hellenic_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = zun_pagan_reformed_ADJ_CAP
+        trigger = {
+				religion = zun_pagan_reformed
+		}
+	}
+    text = {
+        localisation_key = bon_ADJ_CAP
+        trigger = {
+				religion = bon
+		}
+	}
+    text = {
+        localisation_key = bon_reformed_ADJ_CAP
+        trigger = {
+				religion = bon_reformed
+		}
+	}
+    text = {
+        localisation_key = nestorian_ADJ_CAP
+        trigger = {
+				religion = nestorian
+		}
+	}
+    text = {
+        localisation_key = jain_ADJ_CAP
+        trigger = {
+				religion = jain
+		}
+	}
+    text = {
+        localisation_key = cathar_ADJ_CAP
+        trigger = {
+				religion = cathar
+		}
+	}
+    text = {
+        localisation_key = fraticelli_ADJ_CAP
+        trigger = {
+				religion = fraticelli
+		}
+	}
+    text = {
+        localisation_key = waldensian_ADJ_CAP
+        trigger = {
+				religion = waldensian
+		}
+	}
+    text = {
+        localisation_key = lollard_ADJ_CAP
+        trigger = {
+				religion = lollard
+		}
+	}
+    text = {
+        localisation_key = monophysite_ADJ_CAP
+        trigger = {
+				religion = monophysite
+		}
+	}
+    text = {
+        localisation_key = bogomilist_ADJ_CAP
+        trigger = {
+				religion = bogomilist
+		}
+	}
+    text = {
+        localisation_key = monothelite_ADJ_CAP
+        trigger = {
+				religion = monothelite
+		}
+	}
+    text = {
+        localisation_key = iconoclast_ADJ_CAP
+        trigger = {
+				religion = iconoclast
+		}
+	}
+    text = {
+        localisation_key = paulician_ADJ_CAP
+        trigger = {
+				religion = paulician
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ_CAP
+        trigger = {
+				religion = messalian
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ_CAP
+        trigger = {
+				religion = zikri
+		}
+	}
+    text = {
+        localisation_key = messalian_ADJ_CAP
+        trigger = {
+				religion = yazidi
+		}
+	}
+    text = {
+        localisation_key = kharijite_ADJ_CAP
+        trigger = {
+				religion = kharijite
+		}
+	}
+    text = {
+        localisation_key = druze_ADJ_CAP
+        trigger = {
+				religion = druze
+		}
+	}
+    text = {
+        localisation_key = hurufi_ADJ_CAP
+        trigger = {
+				religion = hurufi
+		}
+	}
+    text = {
+        localisation_key = mazdaki_ADJ_CAP
+        trigger = {
+				religion = mazdaki
+		}
+	}
+    text = {
+        localisation_key = manichean_ADJ_CAP
+        trigger = {
+				religion = manichean
+		}
+	}
+    text = {
+        localisation_key = khurmazta_ADJ_CAP
+        trigger = {
+				religion = khurmazta
+		}
+	}
+    text = {
+        localisation_key = samaritan_faith_ADJ_CAP
+        trigger = {
+				religion = samaritan_faith
+		}
+	}
+    text = {
+        localisation_key = karaite_faith_ADJ_CAP
+        trigger = {
+				religion = karaite_faith
+		}
+	}
+    text = {
+        localisation_key = hussite_ADJ_CAP
+        trigger = {
+			religion = hussite
+		}
+	}
+	text = {
+        localisation_key = dreamtime_ADJ_CAP
+        trigger = {
+			religion = dreamtime
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionEndIY
+    text = {
+        localisation_key = RELIGION_ENDING_IY
+        trigger = {
+			religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IY
+        trigger = {
+			NOT = {
+				religion = orthodox
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionEndIM
+    text = {
+        localisation_key = RELIGION_ENDING_IM
+        trigger = {
+			religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IM
+        trigger = {
+			NOT = {
+				religion = orthodox
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionEndIE
+    text = {
+        localisation_key = RELIGION_ENDING_IE
+        trigger = {
+			religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IE
+        trigger = {
+			NOT = {
+				religion = orthodox
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionEndIH
+    text = {
+        localisation_key = RELIGION_ENDING_IH
+        trigger = {
+			religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IH
+        trigger = {
+			NOT = {
+				religion = orthodox
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionEndIMI
+    text = {
+        localisation_key = RELIGION_ENDING_IMI
+        trigger = {
+			religion = orthodox
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IMI
+        trigger = {
+			NOT = {
+				religion = orthodox
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupADJ
+    text = {
+        localisation_key = christian_ADJ
+        trigger = {
+				religion_group = christian
+		}
+	}
+    text = {
+        localisation_key = muslim_ADJ
+        trigger = {
+				religion_group = muslim
+		}
+	}
+    text = {
+        localisation_key = eastern_ADJ
+        trigger = {
+				religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = dharmic_ADJ
+        trigger = {
+				religion_group = dharmic
+		}
+	}
+    text = {
+        localisation_key = pagan_ADJ
+        trigger = {
+				religion_group = pagan
+		}
+	}
+    text = {
+        localisation_key = jewish_group_ADJ
+        trigger = {
+				religion_group = jewish_group
+		}
+	}
+    text = {
+        localisation_key = zoroastrian_group_ADJ
+        trigger = {
+				religion_group = zoroastrian_group
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupADJ_CAP
+    text = {
+        localisation_key = christian_ADJ_CAP
+        trigger = {
+				religion_group = christian
+		}
+	}
+    text = {
+        localisation_key = muslim_ADJ_CAP
+        trigger = {
+				religion_group = muslim
+		}
+	}
+    text = {
+        localisation_key = eastern_ADJ_CAP
+        trigger = {
+				religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = dharmic_ADJ_CAP
+        trigger = {
+				religion_group = dharmic
+		}
+	}
+    text = {
+        localisation_key = pagan_ADJ_CAP
+        trigger = {
+				religion_group = pagan
+		}
+	}
+    text = {
+        localisation_key = jewish_group_ADJ_CAP
+        trigger = {
+				religion_group = jewish_group
+		}
+	}
+    text = {
+        localisation_key = zoroastrian_group_ADJ_CAP
+        trigger = {
+				religion_group = zoroastrian_group
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupEndIY
+    text = {
+        localisation_key = RELIGION_ENDING_IY
+        trigger = {
+			religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IY
+        trigger = {
+			NOT = {
+				religion_group = eastern
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupEndIM
+    text = {
+        localisation_key = RELIGION_ENDING_IM
+        trigger = {
+			religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IM
+        trigger = {
+			NOT = {
+				religion_group = eastern
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupEndIE
+    text = {
+        localisation_key = RELIGION_ENDING_IE
+        trigger = {
+			religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IE
+        trigger = {
+			NOT = {
+				religion_group = eastern
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupEndIH
+    text = {
+        localisation_key = RELIGION_ENDING_IH
+        trigger = {
+			religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IH
+        trigger = {
+			NOT = {
+				religion_group = eastern
+			}
+		}
+	}
+}
+
+defined_text = {
+    name = ReligionGroupEndIMI
+    text = {
+        localisation_key = RELIGION_ENDING_IMI
+        trigger = {
+			religion_group = eastern
+		}
+	}
+    text = {
+        localisation_key = OTHER_RELIGION_ENDING_IMI
+        trigger = {
+			NOT = {
+				religion_group = eastern
+			}
+		}
+	}
+}

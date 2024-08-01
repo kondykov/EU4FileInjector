@@ -1,0 +1,14 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ demand_dummy_title:0 "‰²¡¢²¿ ²²¿ ¯°¬°¯"
+ demand_dummy_desc:0 "‰²¡¢²¿, ¶²¡º [From.Monarch.GetName] [From.GetTagRD] ²®[From.GetMEndA] °Œª¯ ¯°¬°¯. ™² ³¢®ª¶ª² °Œ ¦¢ª!"
+ demand_dummy_tooltip:0 "‰²¡¢²¿, ¶²¡º °ª ²®ª °Œª¯ ¯°¬°¯."
+ demand_dummy_dialog:0 "ƒ¨¢ [This.GetName] ±²¡¢®, ¶²¡º ¯º ²®ª ª ¯°¬°¯. ™² ³¢®ª¶ª² °Œ ¦¢ª!"
+ demand_dummy_alert_tooltip:0 "Ù¡¢°ª ²²¿ ¯°¬°¯"
+ HAS_MORE_MANPOWER:0 "ƒ¨¢ [This.GetName] ª¯² ¡®¿Œ ¬³²¢, ¶¯ [From.GetName].\n"

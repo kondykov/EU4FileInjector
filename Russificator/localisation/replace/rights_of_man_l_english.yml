@@ -1,0 +1,10 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ #Ottoman Government
+ #African Cults
+ consort_events.56.d: "ƒª°²ª¾ °Œª ¦¢¾° [Root.Monarch.GetTitle], ¡©³®¢°, ¯¥³¸²¢°°¾. Ì© [Root.Monarch.GetName] °ª ±¢¾² °Œþ ²°þ ª ¡³¦³² ¦®²¿ ¼² ¸ ¦®¥ª ¥¦º. ¦°¬ ¦¨ ¢®ª¬ª ®½¦ª ª°¥¦ °³¨¦½²¾ ¢ ±¯¸ª.  ¶²¿½, ¯¿¾ °Œ¥ ¥®¢º ¥³¦²¢ ª¯² ±¶°º ¢¾©ª  ¦³¥ª¯ª ¢®ª¬ª¯ª ¦¨¢¯ª, ²¬ª¯ª ¬¬ ¦¯ [marriage_partner.Monarch.Dynasty.GetName], ¢©¥®¢®¾¯ºþ ° ¬¯ ª°º¯, ¬¬ [marriage_partner.Monarch.GetName], [marriage_partner.Monarch.GetTitle] ª© [marriage_partner.GetName]. [marriage_partner.Monarch.GetHerHisCap] ®½¡©° [marriage_partner.Consort.GetWifeHusband] [marriage_partner.Consort.GetName] — ¼² [marriage_partner.Consort.GetDaughterSon] °Œ¥ ¬®¢¬¥ ¦¯ ª ¡µ°°ºþ ¬°²¬². Ï©¯¨°, ¯º ±ª¯ [marriage_partner.Consort.GetHerHim], ¯¨² ®ª [marriage_partner.Consort.GetSheHe] ¢®ª¾²¿ ° [marriage_partner.Consort.GetHerHis] [marriage_partner.Monarch.GetWifeHusband] ±¯¶¿ °¯?"

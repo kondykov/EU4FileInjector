@@ -1,0 +1,59 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ FEDERATION_STRENGTH_MANPOWER:0 "² $MANPOWER|Y0$ ¬ª¯®¿°¥ ¶ª® ¬³²¢: $SCORE|Y$"
+ MAX_PRIVILEGES_BASE:0 "€©¢ ©°¶°ª: $VALUE|Y0$"
+ START_OPTION_HISTORIC:0 "§Y†²ª¶¬ °¶®§!"
+ START_OPTION_SAVEGAME:0 "§Y…±³¬ °°ª¾§!"
+ START_OPTION_LESSON:0 "§Y¶® ³¬§!"
+ START_OPTION_NOT_HOST:0 "ƒ²³±° ²®¿¬ ¦®¾ ²"
+ GAMESETUP_OPEN_MUSIC_PLAYER:0 "²¬º²¿ ¯³©º¬®¿°ºþ ±ª¥º¢²®¿"
+ MUSIC_PLAYER_MUSIC:0 "³©º¬"
+ MUSIC_PLAYER_LESSONS:0 "‹¬ª"
+ CHANNEL_music_conquestofconstantinople:0 "…¢¢°ª °²°²ª°±®¾"
+ CHANNEL_music_songsofthenewworld:0 "‰°ª ¢¥ Ô¢²"
+ CHANNEL_music_songs_of_yuletide:0 "Ð¨¦²¢°¬ª ±°ª"
+ CHANNEL_music_republicanmusic:0 "Ð±³¡®ª¬°¬¾ ¯³©º¬"
+ CHANNEL_music_songsofwar:0 "‰°ª ¢þ°º"
+ CHANNEL_music_031_songs:0 "Ð³¨¿¾, ¡¡°º ª ²®¿"
+ CHANNEL_music_songsofexploration:0 "‰°ª ª®¦¢°ª¾"
+ CHANNEL_music_037_songs:0 "Ð³¨¿¾, ¡¡°º ª ²®¿ II"
+ CHANNEL_music_kairismusic:1 "Ô³°¦²¬ þª"
+ CHANNEL_music_europauniversalissabatonsoundtrack:0 "Ô¡²° Ô³°¦²¬"
+ CHANNEL_music_kairismusicp2:0 "Ô³°¦²¬ þª II"
+ CHANNEL_music_songsofregency:0 "‰°ª Ð¥°²²¢"
+ CHANNEL_music_065_music:0 "‰®°ª¾ Ê¦¯°"
+ CHANNEL_music_064_music:0 "‰®°ª¾ Ê¦¯°"
+ CHANNEL_music_therusawaken:0 "‰¡³¨¦°ª Ð³ª"
+ CHANNEL_music_ottomantunes:0 "Ô³°¦²¬ þª III - ²²¯°¬ª ¯®¦ªª"
+ CHANNEL_music_rulebritannia:0 "‰¢¿ €ª²°ª¾ ³©º¬"
+ CHANNEL_music_dharmamusic:0 "ƒ¯ ³©º¬"
+ CHANNEL_music_goldencenturymusic:0 "³©º¬ …®²¥ ¢¬"
+ CHANNEL_music_emperormusic:0 "†¯±² ³©º¬"
+ CHANNEL_music_north_america_music:0 "³©º¬ Ô¢°þ ¯ª¬ª"
+ CHANNEL_music_south_east_asia_music:0 "³©º¬ ›¥-Ï²¶°þ ©ªª"
+ CHANNEL_music_westafricanmusic:0 "…±¦°´ª¬°¬¾ ¯³©º¬"
+ CHANNEL_music_eastafricanmusic:0 "Ï²¶°´ª¬°¬¾ ¯³©º¬"
+ CHANNEL_music_songsdlc114:0 "Ð³¨¿¾, ¡¡°º ª ²®¿ III"
+ CHANNEL_music_balticmusic:0 "€®²ªþ¬¾ ¯³©º¬"
+ CHANNEL_music_chinesemusic:0 "ª²þ¬¾ ¯³©º¬"
+ CHANNEL_music_dominationmusic:1 "Œ ª®º ¯³©º¬ª"
+ CHANNEL_music_francemusic:0 "Ê°µ³©¬¾ ¯³©º¬"
+ CHANNEL_music_ottomanmusic:0 "¯°¬¾ ¯³©º¬"
+ CHANNEL_music_scandinavianmusic:0 "Ô¬°¦ª°¢¬¾ ¯³©º¬"
+ CHANNEL_music_songs:0 "¡¸¾ ¯³©º¬"
+ LESSON_CHANNEL_CLICK_TO_EXPAND:0 "$NAME$\n§G¨¯ª², ¶²¡º ©¢°³²¿§!"
+ LESSON_CHANNEL_CLICK_TO_MINIMIZE:0 "$NAME$\n§G¨¯ª², ¶²¡º ¢°³²¿§!"
+ LESSON_ENTRY_TOOLTIP_HEADER:0 "$NAME|Y$\n"
+ LESSON_ENTRY_TOOLTIP_DATE:0 "†©¯°¾² ¦²³ ° $DATE|Y$"
+ LESSON_ENTRY_TOOLTIP_TAG:0 "Ïº¡ª² $TAG|Y$"
+ LESSON_ENTRY_TOOLTIP_FOOTER:0 "§G¨¯ª², ¶²¡º ¢±ª©¢²ª§!"
+ CHANNEL_music_caucasianmusic: "¢¬©¬¾ ¯³©º¬"
+ CHANNEL_music_egyptianmusic: "¥ª±²¬¾ ¯³©º¬"
+ CHANNEL_music_persianmusic: "‰ª¦¬¾ ¯³©º¬"
+ CHANNEL_music_utopiahre: "³©º¬ Ô¢¾¸°°þ Ðª¯¬þ †¯±ªª"

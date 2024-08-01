@@ -1,0 +1,787 @@
+
+####################################################################################################
+###																								 ###
+###								 Падежи товаров с прописной буквы								 ###
+###																								 ###
+###																								 ###
+###						   Падежи прописаны с уже готовыми окончаниями!							 ###
+###																								 ###
+###										 С прописной буквы										 ###
+###					Именительный (Кто, что?) - "[326.GetTradeGoodsIM_CAP]" : "Сукно"  			 ###
+###					Родительный (Кого, чего?) - "[326.GetTradeGoodsRD_CAP]" : "Сукна"		  	 ###
+###					Дательный (Кому, чему?) - "[326.GetTradeGoodsDT_CAP]" : "Сукну"  			 ###
+###					Винительный (Кого, что?) - [326.GetTradeGoodsVN_CAP]" : "Сукно"  			 ###
+###					Творительный (Кем, чем?) - "[326.GetTradeGoodsTV_CAP]" : "Сукном"  			 ###
+###					Предложный (О ком, о чём?) - "[326.GetTradeGoodsPR_CAP]" : "Сукне"  		 ###
+###																								 ###
+###						  			 Локализация в: gks_customizable							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+	name = GetTradeGoodsIM_CAP
+	text = {
+		localisation_key = GetTG_wine_IM_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_IM_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_IM_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_IM_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_IM_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_IM_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_IM_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_IM_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_IM_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_IM_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_IM_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_IM_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_IM_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_IM_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_IM_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_IM_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_IM_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_IM_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_IM_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_IM_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_IM_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_IM_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_IM_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_IM_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_IM_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_IM_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_IM_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_IM_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_IM_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_IM_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_IM_CAP
+		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetTradeGoodsRD_CAP
+	text = {
+		localisation_key = GetTG_wine_RD_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_RD_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_RD_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_RD_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_RD_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_RD_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_RD_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_RD_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_RD_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_RD_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_RD_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_RD_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_RD_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_RD_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_RD_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_RD_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_RD_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_RD_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_RD_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_RD_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_RD_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_RD_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_RD_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_RD_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_RD_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_RD_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_RD_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_RD_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_RD_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_RD_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_RD_CAP
+		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetTradeGoodsDT_CAP
+	text = {
+		localisation_key = GetTG_wine_DT_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_DT_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_DT_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_DT_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_DT_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_DT_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_DT_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_DT_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_DT_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_DT_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_DT_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_DT_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_DT_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_DT_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_DT_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_DT_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_DT_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_DT_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_DT_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_DT_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_DT_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_DT_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_DT_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_DT_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_DT_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_DT_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_DT_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_DT_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_DT_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_DT_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_DT_CAP
+		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetTradeGoodsVN_CAP
+	text = {
+		localisation_key = GetTG_wine_VN_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_VN_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_VN_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_VN_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_VN_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_VN_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_VN_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_VN_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_VN_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_VN_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_VN_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_VN_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_VN_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_VN_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_VN_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_VN_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_VN_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_VN_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_VN_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_VN_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_VN_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_VN_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_VN_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_VN_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_VN_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_VN_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_VN_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_VN_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_VN_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_VN_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_VN_CAP
+		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetTradeGoodsTV_CAP
+	text = {
+		localisation_key = GetTG_wine_TV_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_TV_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_TV_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_TV_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_TV_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_TV_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_TV_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_TV_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_TV_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_TV_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_TV_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_TV_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_TV_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_TV_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_TV_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_TV_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_TV_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_TV_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_TV_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_TV_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_TV_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_TV_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_TV_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_TV_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_TV_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_TV_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_TV_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_TV_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_TV_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_TV_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_TV_CAP
+		trigger = { trade_goods = cloves }
+	}
+}
+
+defined_text = {
+	name = GetTradeGoodsPR_CAP
+	text = {
+		localisation_key = GetTG_wine_PR_CAP
+		trigger = { trade_goods = wine }
+	}
+	text = {
+		localisation_key = GetTG_fish_PR_CAP
+		trigger = { trade_goods = fish }
+	}
+	text = {
+		localisation_key = GetTG_salt_PR_CAP
+		trigger = { trade_goods = salt }
+	}
+	text = {
+		localisation_key = GetTG_copper_PR_CAP
+		trigger = { trade_goods = copper }
+	}
+	text = {
+		localisation_key = GetTG_iron_PR_CAP
+		trigger = { trade_goods = iron }
+	}
+	text = {
+		localisation_key = GetTG_tea_PR_CAP
+		trigger = { trade_goods = tea }
+	}
+	text = {
+		localisation_key = GetTG_coffee_PR_CAP
+		trigger = { trade_goods = coffee }
+	}
+	text = {
+		localisation_key = GetTG_cotton_PR_CAP
+		trigger = { trade_goods = cotton }
+	}
+	text = {
+		localisation_key = GetTG_sugar_PR_CAP
+		trigger = { trade_goods = sugar }
+	}
+	text = {
+		localisation_key = GetTG_tobacco_PR_CAP
+		trigger = { trade_goods = tobacco }
+	}
+	text = {
+		localisation_key = GetTG_cocoa_PR_CAP
+		trigger = { trade_goods = cocoa }
+	}
+	text = {
+		localisation_key = GetTG_wool_PR_CAP
+		trigger = { trade_goods = wool }
+	}
+	text = {
+		localisation_key = GetTG_silk_PR_CAP
+		trigger = { trade_goods = silk }
+	}
+	text = {
+		localisation_key = GetTG_gold_PR_CAP
+		trigger = { trade_goods = gold }
+	}
+	text = {
+		localisation_key = GetTG_ivory_PR_CAP
+		trigger = { trade_goods = ivory }
+	}
+	text = {
+		localisation_key = GetTG_slaves_PR_CAP
+		trigger = { trade_goods = slaves }
+	}
+	text = {
+		localisation_key = GetTG_tropical_wood_PR_CAP
+		trigger = { trade_goods = tropical_wood }
+	}
+	text = {
+		localisation_key = GetTG_grain_PR_CAP
+		trigger = { trade_goods = grain }
+	}
+	text = {
+		localisation_key = GetTG_cloth_PR_CAP
+		trigger = { trade_goods = cloth }
+	}
+	text = {
+		localisation_key = GetTG_fur_PR_CAP
+		trigger = { trade_goods = fur }
+	}
+	text = {
+		localisation_key = GetTG_naval_supplies_PR_CAP
+		trigger = { trade_goods = naval_supplies }
+	}
+	text = {
+		localisation_key = GetTG_chinaware_PR_CAP
+		trigger = { trade_goods = chinaware }
+	}
+	text = {
+		localisation_key = GetTG_spices_PR_CAP
+		trigger = { trade_goods = spices }
+	}
+	text = {
+		localisation_key = GetTG_dyes_PR_CAP
+		trigger = { trade_goods = dyes }
+	}
+	text = {
+		localisation_key = GetTG_incense_PR_CAP
+		trigger = { trade_goods = incense }
+	}
+	text = {
+		localisation_key = GetTG_livestock_PR_CAP
+		trigger = { trade_goods = livestock }
+	}
+	text = {
+		localisation_key = GetTG_glass_PR_CAP
+		trigger = { trade_goods = glass }
+	}
+	text = {
+		localisation_key = GetTG_paper_PR_CAP
+		trigger = { trade_goods = paper }
+	}
+	text = {
+		localisation_key = GetTG_gems_PR_CAP
+		trigger = { trade_goods = gems }
+	}
+	text = {
+		localisation_key = GetTG_coal_PR_CAP
+		trigger = { trade_goods = coal }
+	}
+	text = {
+		localisation_key = GetTG_cloves_PR_CAP
+		trigger = { trade_goods = cloves }
+	}
+}

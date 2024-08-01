@@ -1,0 +1,29 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ #
+ # Hegemon
+ # Coastal Fortresses
+ # Marines
+ # Imperial CB loc
+ # Assign Heir
+ # Military Access Mapmode
+ # Expand Administration
+ # Council of Trent
+ # Curia tithe
+ # Call ecumenical council
+ # Buy Indulgence
+ # Appoint Cardinal diplomatic action
+ # Golden Bulls
+ # Provoke revolts
+ # Cardinal mapmode
+ # Revolution
+ SPREAD_REVOLUTION_TREATY_DESC: "Ð¢®½µª°°º ª¦ª ±²°¾²¾ ° ¢ $GIVER_ADJECTIVE|Y$ ±¢ª°µªª. $TAKER|Y$ ±®³¶ª² $POWER|G$ ª®º ¬¨¦¥ ¯°,  $GIVER|Y$ ±²¾² $POWER|R$ ¬¨¦þ ¦¨¢º ¯°."
+ # Curia
+ # DotF
+ # Macrobuilder
+ # Imperial Diet Rework

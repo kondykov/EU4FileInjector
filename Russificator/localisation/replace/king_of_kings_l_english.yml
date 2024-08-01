@@ -1,0 +1,150 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ ###BYZ###
+ BYZ_coast_desc: "Û²¾ ©±¦°º ¬ª°º °²®ªª ³¨ ¦¢° ©¢¢°º ª ©®°º ²³¬¯ª-¯°¯ª, °ª ±-±¨°¯³ ²½²¾ °Œþ °¢°þ ²ª²ªþ. ‰¬®¿¬³ ¯°¥ª ¥¬ª ¨ª¢³² ¢ ¥¦ ª ±ª¡¨°º ±®¬, ©¢¢°ª ¼²ª ²ª²ªþ ¯¨² ¬©²¿¾ ±®©°º¯ ¦®¾ ³¬±®°ª¾ °Œþ ¯¬þ ²¥¢®ª ª ¡¸þ ¯¸ª."
+
+ BYZ_inheriting_pronoia_will_now_give_5_crownland: "®¦¢°ª §Y‰°þª§! ²±¿ ¦² §G 1,0%§! ®¢¬³½ ©¯®½. ™²² ¼´´¬² ¯¨² ¡²º¢²¿ ²®¿¬ ¬¨¦º §Y5 ®²§!."
+
+ BYZ_extra_forcelimit_for_pronoiars_tt: "‰¢®ª²®¿ ³®³¶Œª® §Y‰¦® ª®º§! ‰°¾."
+ BYZ_army_trad_tt: "‰¢®ª²®¿ ³®³¶Œª® §Y¯þ¬³½ ²¦ªµª½§! ‰°¾¢."
+ BYZ_discipline_tt: "‰¢®ª²®¿ ³®³¶Œª® §Yƒªµª±®ª°³§! ‰°¾."
+ BYZ_pronoia_land_forcelimit_penalty_tt: "‰¢®ª²®¿ Œª® ³¦®ª²¿ §Y‰¦¦¨°ª ®ª¯ª² ³±³²°º ¢þ¬§! ª© ‰°."
+ BYZ_revoke_exkousseiai_title: "‰¬°¶ª²¿  ®²ª°¬ª¯ ´¢ª²ª©¯¯"
+ #Gov Reforms
+ #DUMMY
+ YEM_win_10_wars_against_heretics: "§YÏºª¥®§! ° ¯° §Y10§! ¢þ° ±²ª¢ §Y²ª¬¢§!. (Ï °²¾¸ ¢¯¾: §Y[Root.GetNumWarsAgainstHeretics]§!.)"
+ ###QIZILBASH AGENDAS###
+ ###GHULAMS AGENDAS###
+ ###QIZILBASH PRIVILEGES###
+ estate_qizilbash_establish_the_qizilbash_regiments: "Ô©¦²¿ ±®¬ª [Root.GetQizilbashName]"
+ estate_qizilbash_expand_the_qizilbash_regiments: "Ð©¢°ª² [Root.GetQizilbashName] ±®¬ª"
+ estate_qizilbash_protected_communities_mod: "…¸ª¸°° ¡¸²¢"
+ desc_estate_qizilbash_protected_communities_mod: "™² ±¢ª°µª¾ ¾¢®¾²¾ ¶²¿½ ¢°°þ ¼®ª²º ¢¥ ±¢®ª²®¾. Ù¬ª¯ ¡©¯, °ª ª ª ¯²°¾ ¬³®¿²³ °¦¾²¾ ±¦ °¦¨°þ ©¸ª²þ."
+ estate_qizilbash_protected_communities_rt: "‹¦®ª² ¯¦ª´ª¬² §Y…¸ª¸°° ¡¸²¢§! ª© ¢ ±¢ª°µªþ."
+ estate_qizilbash_supremacy_over_the_aristocracy: "[Root.GetQizilbashSupremacyOverAristoPrivilegeName]"
+ estate_qizilbash_supremacy_over_the_aristocracy_qizilbash_name: "‚±¦²¢ °¦ ª²¬²ªþ"
+ estate_qizilbash_supremacy_over_the_aristocracy_aswaran_name: "[Root.GetQizilbashOrFallbackName] ‰¢"
+ estate_qizilbash_supremacy_over_the_aristocracy_desc: "[Root.GetQizilbashSupremacyOverAristoPrivilegeDesc]"
+ estate_qizilbash_supremacy_over_the_aristocracy_desc_qizilbash: "[Root.GetQizilbashOrFallbackName], [Root.GetNobilityOrFallbackName] ª [Root.GetGhulamsOrFallbackName] ±²ª¢¶² ¦³¥ ¦³¥³, ±¬®¿¬³ ±¦²¢®¾½² ¢°°¾ ¯¸¿ ¢°³²ª °Œ¥ ¥³¦²¢. Ù®¿¬ ¦° ®¢ª ¡³¦² ª¯²¿ ±¢ ¡©©¦®¿° ±¢ª²¿ ª ©¢¢²¿ ±®¨°ª [Root.GovernmentName]."
+ estate_qizilbash_supremacy_over_the_aristocracy_desc_aswaran: "[Root.GetQizilbashOrFallbackName] ¯¨² ¡º²¿ ¶²¿½ °Œ¥ [Root.GetNobilityOrFallbackName], ° ° ¬¨¦ºþ ¶®° [Root.GetNobilityOrFallbackName] °²¾¸ªþ ¢ª° [Root.GetQizilbashOrFallbackName]. ²°º° ¬¨¦ºþ ¦¢¾°ª° ¦®¨° ±¢¾²ª²¿ ¡¾ ¦®³ [Root.GetQizilbashOrFallbackName] ª®ª ©±®²ª²¿ Œ²´ [Root.GetQizilbashOrFallbackName], ¶²¡º ª©¡¨²¿ ¢°°þ ®³¨¡º. ."
+ ###GHULAMS PRIVILEGES###
+ ###ESTATE REBELS###
+ ###ESTATE DISASTER###
+ ###ESTATE DISASTER EVENT###
+ ###GOVERNMENT REFORMS###
+ ###WAR GOALS ANC CBS###
+ ###PEACE TREATIES###
+ ###ESTATE###
+ estate_aswaran_desc: "Ï©¦ª¢Œª¾ ª© ±±® ±Œ®¥ ª ®ª¢Œª¾  °¬¥¦ ¯¥³¸²¢°°þ ´¬µªþ Œªª²¢ º©º®¡Œ, ¢°º °¢ ²®ª ¬¢®ªþ¬þ ª®þ ª °¢þ °Œþ ¯ªª. Û²¾ ±ª¾¥ ° ¢°²¿ ª²ª°°þ ¢ ©²ª©¯, ª®¯¬ ª ²³¬¯°¬ ¢®ª¾°ª,  ²¬¨ ±®ª²ª¶¬¾ ¢®²¿ ¢°³²ª °Œ¥ ¥³¦²¢ ±¢¸½² °¬¥¦ ¶ª² ¢°°³½ ¥³±±³ ¢ ©°¶ª²®¿°³½ ´¬µª½ ¢ °Œþ ²°."
+ ###MODIFIERS###
+ ###GOVERNMENT MECHANICS###
+ ###PERSIAN INFLUENCE EVENTS###
+ ###DIPLOMATIC ACTIONS###
+ invite_to_zoroastrian_community_desc: "Û²ª² ±²²ª²¿ §R1§! ª© §Y…²ªþ¬ª ±ª¥®Œ°ªþ§! (° ¦°°ºþ ¯¯°²: §Y[Root.GetZoroastrianInvitationValue]§!) ±ª¥®ª²¿ §Y[From.GetName]§! ¢ §Y[Root.Religion.GetName]§! ¡¸²¢, ¬°¢²ª³¯ ª §Y[Root.Religion.GetName]§!?[Root.GetFreeAshaVahistCostTooltip]"
+ ###OPINION MODIFIERS###
+ ###DECISIONS###
+ ###MISC FLAVOR###
+ ###SCRIPTED EFFECTS###
+ select_grand_vizier_from_estate_estate_brahmins_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetBrahminsOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Y¦¯ª°ª²²ª¢°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_burghers_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetBurghersOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Yƒª±®¯²ª¶¬ªþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_church_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetChurchOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Y¦¯ª°ª²²ª¢°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_cossacks_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetCossacksOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_dhimmi_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetDhimmiOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Yƒª±®¯²ª¶¬ªþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_jains_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetJainsOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Yƒª±®¯²ª¶¬ªþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_maratha_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetMarathaOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_nomadic_tribes_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetTribesOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_rajput_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetRajputOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_janissaries_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetJanissariesOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_eunuchs_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetEunuchsOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §Y¦¯ª°ª²²ª¢°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_qizilbash_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetQizilbashOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ select_grand_vizier_from_estate_estate_ghulams_tt: "§YÏ®ª¬ªþ ¢ª©ª¿§! ª© §Y[Root.GetGhulamsOrFallbackName]§! ¡³¦² °°¾² ¢ ¬¶²¢ °Œ¥ §YÏ°°ºþ§! ¢²°ª¬."
+ ###TRADING POLICIES###
+ improve_inland_routes_upgraded_desc: "ÏŒ Ù¥¢µ ¡² ©°°ª¾  ¯²°²ª ¢ ¼²¯ ³©®, ¶² ±ª°² ±®¿©³ ¢Œª¯ ¯ª¾¯."
+ establish_communities_upgraded_desc: "ÏŒ Ù¥¢µ ¡³¦² ²¯ª²¿¾ ³®³¶Œª²¿ ²°Œ°ª¾  ¦³¥ª¯ª ²°¯ª, ¬²ª¢°º¯ª ¢ Node."
+ ###SCRIPTED TRIGGERS###
+ HAS_CONVERTED_45_PROVINCES_TT: "‰¡©¢® ¬¬ ¯ª°ª¯³¯ §Y45§! ±¢ª°µªþ (§Y[This.GetNumConvertedProvinces]§!/§Y 30§!)"
+ ###PERSIAN INFLUENCE MECHANICS###
+ ###ZOROASTRIAN MECHANICS###
+ zoroastrian_invitation_charges_value: "[zoroastrian_invitation_charges.GetValue]"
+ adur_burzhen_mihr_interaction_at: "‰¦²¢ª²¿ §G 1§! §Y…²ªþ¬ ±ª¥®Œ°ª§! (¢ °²¾¸ ¢¯¾: §Y[Root.GetZoroastrianInvitationValue]§!), ¶² ±©¢®¾² °¯ ©±ª²¿ µ®¢³½ ²°³ ¦®¾ ±¡©¢°ª¾ ¢ §Y[Root.Religion.GetName]§!."
+ ###HOLY ORDER###
+ ###PERSIAN MODIFIERS###
+ just_asked_to_convert_timer: "‰² ±±ª® ¬°¢²ª¢²¿"
+ ###ESTATE PRIVILEGES###
+ ###PERSIAN EVENTS###
+ flavor_per.38.desc: "[151.GetName]: ¬±ª²®º ²®¿¬ª ±°ª¬¢ °¦¾²¾ ¢ ³¬ [Root.GetName]. ² ¦¢°þ Ðª¯¬þ ª¯±ªª ¦ Ù³µ¬þ ª¯±ªª, ³±¢®¾¯þ ƒ¯¯ ¯°, [151.GetName] ¢¥¦ ¡º® ¢®ª¬ª¯ ¥¦¯, ª¯½¸ª¯ ²²¥ª¶¬ ª ¬³®¿²³° ©°¶°ª ¬¬ ¦®¾ ¢±þ¬¥, ²¬ ª ¦®¾ ª®¯¬¥ ¯ª. Ù±¿ ¼²² ¯ºþ ±²ª¨°ºþ ¯¥±®ª °¦ª²¾ ¢ ³¬ [Root.GetAdjective].\n¬²º ¢ °Œ¯ ³¦ ³²¢¨¦½², ¶² [151.GetName] ¯¨° ±¢²ª²¿ ¢ °Œ³ «Ï²³½ ²®ªµ³». ° ¢±þ¬þ ©¯®, ¢ ² ¢¯¾ ¬¬ ¦³¥ª ±ª¦¨ª¢½²¾ ¯°°ª¾, ¶² ¢¯² ¼²¥ °¯ ®¦³² ±¯²ª²¿ ¡¥²²¢ [151.GetName] ¢ [Root.Capital.GetName]."
+ #
+ ###CUSTOM LOC###
+ ###REFORMATION CENTER###
+ ###PERSIA MISSIONS###
+ ###SCRIPTED MODIFIERS###
+ ###GRAND VIZIER MODIFIERS###
+ ###MISC AND FUN STUFF###
+ SELJUK_EMPIRE: "Ô®¿¦¨³¬¬¾ ª¯±ª¾"
+ SELJUK_EMPIRE_ADJ: "Ô®¿¦¨³¬¬"
+ ERS_ADJ: "™°¬"
+ ERANSHAHR_STRING_ADJ: "™°¬"
+ ERANSHAHR_ideas: "™°¬ª ª¦ª"
+ ERANSHAHR_ideas_start: "™°¬ª ²¦ªµªª"
+ ERANSHAHR_ideas_bonus: "™°¬ª ¯¡ªµªª"
+ ers_reform_the_savaran_cavalry_desc: "Ô¢¬¾ ¬¢®ª¾ ¬¥¦-² ¡º® °¢þ Ô°ª¦¬þ ª¯±ªª. † ³¨ª ª ¦±ª ¦®®ª ª ±°º¯ª ¢¥¯ª ° ±® ¡¾,  ª ¯þ ¼®ª²þ ¡º® ¬® ¢ ¡²¢°°¯ °ª¦¬¯ ¡¸²¢. ‰ªŒ® ¢¯¾ ¢°³²¿ ¼²³ ±²ª¨°³½ ¥³±±³ ¢¦°ª¬¢ ° ±® ¡¾, ¶²¡º °¢ ©¸ª²ª²¿ ™°Œ ² ¢¥¢."
+ ers_rebuild_the_caspian_gates_desc: "‰¦°ª Ô°ª¦¬þ ª¯±ªª ±¦ ¯³³®¿¯°¯ª — ¼² ¢©¯¨°²¿ ±³¶ª²¿¾ ¦®¾ °Œ¥ ¥³¦²¢. ‹¬±®°ª °Œþ ¡°º ª ¢²°¢®°ª ±ªþ¬ª ¢², ¶²¡º ¦¨ª¢²¿ ©®³¯ºŒ®°°ª¬¢, ¡³¦² ª¯²¿ ¥¯°³½ µ°°²¿ ¦®¾ ²³¸þ ©²ªþ¬þ ª¯±ªª."
+
+
+
+
+
+ ###SUBJECT TYPES###
+ ###BASIC STRINGS###
+ #Ardabil Content 
+ #Missions
+ #Tooltips
+ #Events
+ #Modifier
+ #Egypt ideas
+ #Mamluks
+ #Georgia#
+ #Localised Government
+ #Privilege
+ estate_nobles_highland_fortifications_revoke: "Ï §Y¥°º§! ±¢ª°µªª  §Y´²¯§! ²¾½² ¯¦ª´ª¬² §YÐ©¢ª²ª ¥°þ ª°´²³¬²³º§!"
+ #Tooltips & Modifiers
+ georgian_new: "¥¬-¥³©ª°¬¾"
+ #Disaster
+ #Decisions
+ #Armenia
+ #GreatArmenianIdeas
+ flavor_arm.1.b: "Œ ±¡¦ ° ¯¨² ²²¿ °Œª ¬°ª!"
+ #Reforms
+ #Modifiers
+ #Turkomen
+ #Aq Qoyunlu Missions
+ #Cultures
+ #SLOT 1
+ #SLOT 2
+ #SLOT 3
+ #SLOT 4
+ #SLOT 5 
+ #Tooltips 
+ mam_reward_alliance_yes_tt_no_dlc: "£yes£ ¥¦ © ±ª°¾²ª ±©ªµªª ²³¦°ª¶²¢ ± ²°Œ°ª½ ¬ @VEN Venice:"
+ mam_reward_alliance_no_tt_no_dlc: "£no£ ¥¦ © ±ª°¾²ª ±©ªµªª ²³¦°ª¶²¢ ± ²°Œ°ª½ ¬ @VEN Venice:"
+ #Egyptian Westernization Spaghetti
+ #ADM
+ #DIP
+ #MIL 
+ #Government Reforms
+ #Estate Privileges
+ #Naval Doctrines
+ #Local Organizations
+ #Diplomatic Actions for the Mamluks
+ ################
+ #Estate Agendas 
+ #Mercenaries
+ #Event Insights for the Mamluks
+ #Achievement Tooltips
+ #Misc localisation
+ has_unified_all_culture_fr_fr_tt: "Ï ±¢ª°µªª §Y[Root.Culture.GetGroupName]§! ±ª°¦®¨² °¯, °Œª¯ ¬®°ª¾¯ ª®ª ¬®°ª¾¯ °Œª ±¦¦°°º."

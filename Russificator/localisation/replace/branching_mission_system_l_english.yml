@@ -1,0 +1,27 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ ###CUSTOM GUI###
+ ###PATH NAMES###
+ hab_hre_branch: "‰³²¿ Ô¢¾¸°°þ Ðª¯¬þ †¯±ªª"
+ hab_germany_branch: "‰³²¿ ‚¯°ªª"
+ boh_catholic_missions: "²®ª¶¬ªþ ±³²¿"
+ boh_hussite_missions: "‚³ª²¬ªþ ±³²¿"
+ hsn_anatolian_conquest_missions: "°²®ªþ¬ªþ ±³²¿ ©¢¢°ª¾"
+ hsn_anatolian_alliance_missions: "‰³²¿ °²®ªþ¬þ ¦ª±®¯²ªª"
+ hsn_persian_conquest_missions: "‰ª¦¬ªþ ±³²¿ ©¢¢°ª¾"
+ hsn_persian_alliance_missions: "‰³²¿ ±ª¦¬þ ¦ª±®¯²ªª"
+ feo_russian_conquest_branch: "‰³²¿ ©¢¢°ª¾ Ðªª"
+ feo_russian_alliance_branch: "‰³²¿ ªþ¬þ ¦ª±®¯²ªª"
+ TIM_persian_missions: "‰ª¦¬ªþ ±³²¿"
+ TIM_nomad_missions: "‰³²¿ ¬¶¢°ª¬"
+ ven_standing_army_missions: "‰³²¿ ±²¾°°þ ¯ªª"
+ ven_mercenary_army_missions: "‰³²¿ °¯°ª¬"
+ ven_navy_missions: "Ï°°-¯¬þ ±³²¿"
+ hordes_tolerance_branch_flag: "‰³²¿ ²®°²°²ª"
+ hordes_devout_branch_flag: "€®¥¶²ª¢ºþ ±³²¿"
+ hordes_confucian_branch_flag: "°´³µª°¬ªþ ±³²¿"

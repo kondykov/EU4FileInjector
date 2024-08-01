@@ -1,0 +1,6170 @@
+
+####################################################################################################
+###																								 ###
+###						   Прилагательные государств строчными буквами							 ###
+###																								 ###
+###																								 ###
+###						Прилагательные в локализации записаны без окончаний,					 ###
+###					 Поэтому для корректного написания необходимо их добавлять.					 ###
+###																								 ###
+###						   Пример: "[RUS.GetAdjectiveSmall]ая держава"							 ###
+###								 Отображение: "русская держава"									 ###
+###																								 ###
+###						   Локализация в: gks_adjective, gks_converter							 ###
+###																								 ###
+####################################################################################################
+
+defined_text = {
+	name = GetAdjectiveSmall
+	text = {
+		localisation_key = ADJ_SWE
+		trigger = {
+				tag = SWE
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAN
+		trigger = {
+				tag = DAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_FIN
+		trigger = {
+				tag = FIN
+		}
+	}
+	text = {
+		localisation_key = ADJ_GOT
+		trigger = {
+				tag = GOT
+		}
+	}
+	text = {
+		localisation_key = ADJ_NOR
+		trigger = {
+				tag = NOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHL
+		trigger = {
+				tag = SHL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SCA
+		trigger = {
+				tag = SCA
+		}
+	}
+	text = {
+		localisation_key = ADJ_EST
+		trigger = {
+				tag = EST
+		}
+	}
+	text = {
+		localisation_key = ADJ_LVA
+		trigger = {
+				tag = LVA
+		}
+	}
+	text = {
+		localisation_key = ADJ_SMI
+		trigger = {
+				tag = SMI
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRL
+		trigger = {
+				tag = KRL
+		}
+	}
+	text = {
+		localisation_key = ADJ_ICE
+		trigger = {
+				tag = ICE
+		}
+	}
+	text = {
+		localisation_key = ADJ_ACH
+		trigger = {
+				tag = ACH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALB
+		trigger = {
+				tag = ALB
+		}
+	}
+	text = {
+		localisation_key = ADJ_ATH
+		trigger = {
+				tag = ATH
+		}
+	}
+	text = {
+		localisation_key = ADJ_BOS
+		trigger = {
+				tag = BOS
+		}
+	}
+	text = {
+		localisation_key = ADJ_BUL
+		trigger = {
+				tag = BUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_BYZ
+		trigger = {
+				tag = BYZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_CEP
+		trigger = {
+				tag = CEP
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRO
+		trigger = {
+				tag = CRO
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRT
+		trigger = {
+				tag = CRT
+		}
+	}
+	text = {
+		localisation_key = ADJ_CYP
+		trigger = {
+				tag = CYP
+		}
+	}
+	text = {
+		localisation_key = ADJ_EPI
+		trigger = {
+				tag = EPI
+		}
+	}
+	text = {
+		localisation_key = ADJ_GRE
+		trigger = {
+				tag = GRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_KNI
+		trigger = {
+				tag = KNI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOE
+		trigger = {
+				tag = MOE
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOL
+		trigger = {
+				tag = MOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_MON
+		trigger = {
+				tag = MON
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAX
+		trigger = {
+				tag = NAX
+		}
+	}
+	text = {
+		localisation_key = ADJ_RAG
+		trigger = {
+				tag = RAG
+		}
+	}
+	text = {
+		localisation_key = ADJ_RMN
+		trigger = {
+				tag = RMN
+		}
+	}
+	text = {
+		localisation_key = ADJ_SER
+		trigger = {
+				tag = SER
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRA
+		trigger = {
+				tag = TRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_WAL
+		trigger = {
+				tag = WAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_HUN
+		trigger = {
+				tag = HUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_SLO
+		trigger = {
+				tag = SLO
+		}
+	}
+	text = {
+		localisation_key = ADJ_TUR
+		trigger = {
+				tag = TUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_CNN
+		trigger = {
+				tag = CNN
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRN
+		trigger = {
+				tag = CRN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ENG
+		trigger = {
+				tag = ENG
+		}
+	}
+	text = {
+		localisation_key = ADJ_LEI
+		trigger = {
+				tag = LEI
+		}
+	}
+	text = {
+		localisation_key = ADJ_IRE
+		trigger = {
+				tag = IRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_MNS
+		trigger = {
+				tag = MNS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SCO
+		trigger = {
+				tag = SCO
+		}
+	}
+	text = {
+		localisation_key = ADJ_TYR
+		trigger = {
+				tag = TYR
+		}
+	}
+	text = {
+		localisation_key = ADJ_WLS
+		trigger = {
+				tag = WLS
+		}
+	}
+	text = {
+		localisation_key = ADJ_NOL
+		trigger = {
+				tag = NOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_GBR
+		trigger = {
+				tag = GBR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MTH
+		trigger = {
+				tag = MTH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ULS
+		trigger = {
+				tag = ULS
+		}
+	}
+	text = {
+		localisation_key = ADJ_DMS
+		trigger = {
+				tag = DMS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SLN
+		trigger = {
+				tag = SLN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KID
+		trigger = {
+				tag = KID
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSC
+		trigger = {
+				tag = HSC
+		}
+	}
+	text = {
+		localisation_key = ADJ_ORD
+		trigger = {
+				tag = ORD
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRY
+		trigger = {
+				tag = TRY
+		}
+	}
+	text = {
+		localisation_key = ADJ_FLY
+		trigger = {
+				tag = FLY
+		}
+	}
+	text = {
+		localisation_key = ADJ_MCM
+		trigger = {
+				tag = MCM
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOI
+		trigger = {
+				tag = KOI
+		}
+	}
+	text = {
+		localisation_key = ADJ_LOI
+		trigger = {
+				tag = LOI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRZ
+		trigger = {
+				tag = BRZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAN
+		trigger = {
+				tag = CAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHL
+		trigger = {
+				tag = CHL
+		}
+	}
+	text = {
+		localisation_key = ADJ_COL
+		trigger = {
+				tag = COL
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAT
+		trigger = {
+				tag = HAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAP
+		trigger = {
+				tag = LAP
+		}
+	}
+	text = {
+		localisation_key = ADJ_LOU
+		trigger = {
+				tag = LOU
+		}
+	}
+	text = {
+		localisation_key = ADJ_MEX
+		trigger = {
+				tag = MEX
+		}
+	}
+	text = {
+		localisation_key = ADJ_PEU
+		trigger = {
+				tag = PEU
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRG
+		trigger = {
+				tag = PRG
+		}
+	}
+	text = {
+		localisation_key = ADJ_QUE
+		trigger = {
+				tag = QUE
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAM
+		trigger = {
+				tag = CAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_USA
+		trigger = {
+				tag = USA
+		}
+	}
+	text = {
+		localisation_key = ADJ_VNZ
+		trigger = {
+				tag = VNZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_AUS
+		trigger = {
+				tag = AUS
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAL
+		trigger = {
+				tag = CAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEX
+		trigger = {
+				tag = TEX
+		}
+	}
+	text = {
+		localisation_key = ADJ_DNZ
+		trigger = {
+				tag = DNZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRA
+		trigger = {
+				tag = KRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIT
+		trigger = {
+				tag = LIT
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIV
+		trigger = {
+				tag = LIV
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAZ
+		trigger = {
+				tag = MAZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_POL
+		trigger = {
+				tag = POL
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRU
+		trigger = {
+				tag = PRU
+		}
+	}
+	text = {
+		localisation_key = ADJ_KUR
+		trigger = {
+				tag = KUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_RIG
+		trigger = {
+				tag = RIG
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEU
+		trigger = {
+				tag = TEU
+		}
+	}
+	text = {
+		localisation_key = ADJ_PLC
+		trigger = {
+				tag = PLC
+		}
+	}
+	text = {
+		localisation_key = ADJ_VOL
+		trigger = {
+				tag = VOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_KIE
+		trigger = {
+				tag = KIE
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHR
+		trigger = {
+				tag = CHR
+		}
+	}
+	text = {
+		localisation_key = ADJ_OKA
+		trigger = {
+				tag = OKA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALE
+		trigger = {
+				tag = ALE
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALS
+		trigger = {
+				tag = ALS
+		}
+	}
+	text = {
+		localisation_key = ADJ_AMG
+		trigger = {
+				tag = AMG
+		}
+	}
+	text = {
+		localisation_key = ADJ_AUV
+		trigger = {
+				tag = AUV
+		}
+	}
+	text = {
+		localisation_key = ADJ_AVI
+		trigger = {
+				tag = AVI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BOU
+		trigger = {
+				tag = BOU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRI
+		trigger = {
+				tag = BRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BUR
+		trigger = {
+				tag = BUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHP
+		trigger = {
+				tag = CHP
+		}
+	}
+	text = {
+		localisation_key = ADJ_COR
+		trigger = {
+				tag = COR
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAU
+		trigger = {
+				tag = DAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_FOI
+		trigger = {
+				tag = FOI
+		}
+	}
+	text = {
+		localisation_key = ADJ_FRA
+		trigger = {
+				tag = FRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_GUY
+		trigger = {
+				tag = GUY
+		}
+	}
+	text = {
+		localisation_key = ADJ_NEV
+		trigger = {
+				tag = NEV
+		}
+	}
+	text = {
+		localisation_key = ADJ_NRM
+		trigger = {
+				tag = NRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_ORL
+		trigger = {
+				tag = ORL
+		}
+	}
+	text = {
+		localisation_key = ADJ_PIC
+		trigger = {
+				tag = PIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRO
+		trigger = {
+				tag = PRO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SPI
+		trigger = {
+				tag = SPI
+		}
+	}
+	text = {
+		localisation_key = ADJ_TOU
+		trigger = {
+				tag = TOU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BER
+		trigger = {
+				tag = BER
+		}
+	}
+	text = {
+		localisation_key = ADJ_AAC
+		trigger = {
+				tag = AAC
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANH
+		trigger = {
+				tag = ANH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANS
+		trigger = {
+				tag = ANS
+		}
+	}
+	text = {
+		localisation_key = ADJ_AUG
+		trigger = {
+				tag = AUG
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAD
+		trigger = {
+				tag = BAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAV
+		trigger = {
+				tag = BAV
+		}
+	}
+	text = {
+		localisation_key = ADJ_BOH
+		trigger = {
+				tag = BOH
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRA
+		trigger = {
+				tag = BRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRE
+		trigger = {
+				tag = BRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRU
+		trigger = {
+				tag = BRU
+		}
+	}
+	text = {
+		localisation_key = ADJ_EFR
+		trigger = {
+				tag = EFR
+		}
+	}
+	text = {
+		localisation_key = ADJ_FRN
+		trigger = {
+				tag = FRN
+		}
+	}
+	text = {
+		localisation_key = ADJ_GER
+		trigger = {
+				tag = GER
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAB
+		trigger = {
+				tag = HAB
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAM
+		trigger = {
+				tag = HAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAN
+		trigger = {
+				tag = HAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_HES
+		trigger = {
+				tag = HES
+		}
+	}
+	text = {
+		localisation_key = ADJ_HLR
+		trigger = {
+				tag = HLR
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLE
+		trigger = {
+				tag = KLE
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOL
+		trigger = {
+				tag = KOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAU
+		trigger = {
+				tag = LAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_LOR
+		trigger = {
+				tag = LOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUN
+		trigger = {
+				tag = LUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAG
+		trigger = {
+				tag = MAG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAI
+		trigger = {
+				tag = MAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MEI
+		trigger = {
+				tag = MEI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MKL
+		trigger = {
+				tag = MKL
+		}
+	}
+	text = {
+		localisation_key = ADJ_MUN
+		trigger = {
+				tag = MUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MVA
+		trigger = {
+				tag = MVA
+		}
+	}
+	text = {
+		localisation_key = ADJ_OLD
+		trigger = {
+				tag = OLD
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAL
+		trigger = {
+				tag = PAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_POM
+		trigger = {
+				tag = POM
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAX
+		trigger = {
+				tag = SAX
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIL
+		trigger = {
+				tag = SIL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SLZ
+		trigger = {
+				tag = SLZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_STY
+		trigger = {
+				tag = STY
+		}
+	}
+	text = {
+		localisation_key = ADJ_SWI
+		trigger = {
+				tag = SWI
+		}
+	}
+	text = {
+		localisation_key = ADJ_THU
+		trigger = {
+				tag = THU
+		}
+	}
+	text = {
+		localisation_key = ADJ_TIR
+		trigger = {
+				tag = TIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRI
+		trigger = {
+				tag = TRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_ULM
+		trigger = {
+				tag = ULM
+		}
+	}
+	text = {
+		localisation_key = ADJ_WBG
+		trigger = {
+				tag = WBG
+		}
+	}
+	text = {
+		localisation_key = ADJ_WES
+		trigger = {
+				tag = WES
+		}
+	}
+	text = {
+		localisation_key = ADJ_WUR
+		trigger = {
+				tag = WUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_NUM
+		trigger = {
+				tag = NUM
+		}
+	}
+	text = {
+		localisation_key = ADJ_MEM
+		trigger = {
+				tag = MEM
+		}
+	}
+	text = {
+		localisation_key = ADJ_VER
+		trigger = {
+				tag = VER
+		}
+	}
+	text = {
+		localisation_key = ADJ_NSA
+		trigger = {
+				tag = NSA
+		}
+	}
+	text = {
+		localisation_key = ADJ_RVA
+		trigger = {
+				tag = RVA
+		}
+	}
+	text = {
+		localisation_key = ADJ_DTT
+		trigger = {
+				tag = DTT
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARA
+		trigger = {
+				tag = ARA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAS
+		trigger = {
+				tag = CAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAT
+		trigger = {
+				tag = CAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_GRA
+		trigger = {
+				tag = GRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAV
+		trigger = {
+				tag = NAV
+		}
+	}
+	text = {
+		localisation_key = ADJ_POR
+		trigger = {
+				tag = POR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SPA
+		trigger = {
+				tag = SPA
+		}
+	}
+	text = {
+		localisation_key = ADJ_GAL
+		trigger = {
+				tag = GAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_LON
+		trigger = {
+				tag = LON
+		}
+	}
+	text = {
+		localisation_key = ADJ_ADU
+		trigger = {
+				tag = ADU
+		}
+	}
+	text = {
+		localisation_key = ADJ_VAL
+		trigger = {
+				tag = VAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASU
+		trigger = {
+				tag = ASU
+		}
+	}
+	text = {
+		localisation_key = ADJ_MJO
+		trigger = {
+				tag = MJO
+		}
+	}
+	text = {
+		localisation_key = ADJ_AQU
+		trigger = {
+				tag = AQU
+		}
+	}
+	text = {
+		localisation_key = ADJ_ETR
+		trigger = {
+				tag = ETR
+		}
+	}
+	text = {
+		localisation_key = ADJ_FER
+		trigger = {
+				tag = FER
+		}
+	}
+	text = {
+		localisation_key = ADJ_GEN
+		trigger = {
+				tag = GEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ITA
+		trigger = {
+				tag = ITA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAN
+		trigger = {
+				tag = MAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLO
+		trigger = {
+				tag = MLO
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOD
+		trigger = {
+				tag = MOD
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAP
+		trigger = {
+				tag = NAP
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAP
+		trigger = {
+				tag = PAP
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAR
+		trigger = {
+				tag = PAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_PIS
+		trigger = {
+				tag = PIS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAR
+		trigger = {
+				tag = SAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAV
+		trigger = {
+				tag = SAV
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIC
+		trigger = {
+				tag = SIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIE
+		trigger = {
+				tag = SIE
+		}
+	}
+	text = {
+		localisation_key = ADJ_TUS
+		trigger = {
+				tag = TUS
+		}
+	}
+	text = {
+		localisation_key = ADJ_URB
+		trigger = {
+				tag = URB
+		}
+	}
+	text = {
+		localisation_key = ADJ_VEN
+		trigger = {
+				tag = VEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MFA
+		trigger = {
+				tag = MFA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUC
+		trigger = {
+				tag = LUC
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAN
+		trigger = {
+				tag = LAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_JAI
+		trigger = {
+				tag = JAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRB
+		trigger = {
+				tag = BRB
+		}
+	}
+	text = {
+		localisation_key = ADJ_FLA
+		trigger = {
+				tag = FLA
+		}
+	}
+	text = {
+		localisation_key = ADJ_FRI
+		trigger = {
+				tag = FRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_GEL
+		trigger = {
+				tag = GEL
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAI
+		trigger = {
+				tag = HAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_HOL
+		trigger = {
+				tag = HOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIE
+		trigger = {
+				tag = LIE
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUX
+		trigger = {
+				tag = LUX
+		}
+	}
+	text = {
+		localisation_key = ADJ_NED
+		trigger = {
+				tag = NED
+		}
+	}
+	text = {
+		localisation_key = ADJ_UTR
+		trigger = {
+				tag = UTR
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARM
+		trigger = {
+				tag = ARM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AST
+		trigger = {
+				tag = AST
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRI
+		trigger = {
+				tag = CRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_GEO
+		trigger = {
+				tag = GEO
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAZ
+		trigger = {
+				tag = KAZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOS
+		trigger = {
+				tag = MOS
+		}
+	}
+	text = {
+		localisation_key = ADJ_NOV
+		trigger = {
+				tag = NOV
+		}
+	}
+	text = {
+		localisation_key = ADJ_PSK
+		trigger = {
+				tag = PSK
+		}
+	}
+	text = {
+		localisation_key = ADJ_QAS
+		trigger = {
+				tag = QAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_RUS
+		trigger = {
+				tag = RUS
+		}
+	}
+	text = {
+		localisation_key = ADJ_RYA
+		trigger = {
+				tag = RYA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TVE
+		trigger = {
+				tag = TVE
+		}
+	}
+	text = {
+		localisation_key = ADJ_UKR
+		trigger = {
+				tag = UKR
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAR
+		trigger = {
+				tag = YAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZAZ
+		trigger = {
+				tag = ZAZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_NOG
+		trigger = {
+				tag = NOG
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIB
+		trigger = {
+				tag = SIB
+		}
+	}
+	text = {
+		localisation_key = ADJ_PLT
+		trigger = {
+				tag = PLT
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRM
+		trigger = {
+				tag = PRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_FEO
+		trigger = {
+				tag = FEO
+		}
+	}
+	text = {
+		localisation_key = ADJ_BSH
+		trigger = {
+				tag = BSH
+		}
+	}
+	text = {
+		localisation_key = ADJ_BLO
+		trigger = {
+				tag = BLO
+		}
+	}
+	text = {
+		localisation_key = ADJ_RSO
+		trigger = {
+				tag = RSO
+		}
+	}
+	text = {
+		localisation_key = ADJ_GOL
+		trigger = {
+				tag = GOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_GLH
+		trigger = {
+				tag = GLH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ADE
+		trigger = {
+				tag = ADE
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALH
+		trigger = {
+				tag = ALH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANZ
+		trigger = {
+				tag = ANZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARB
+		trigger = {
+				tag = ARB
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARD
+		trigger = {
+				tag = ARD
+		}
+	}
+	text = {
+		localisation_key = ADJ_BHT
+		trigger = {
+				tag = BHT
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAW
+		trigger = {
+				tag = DAW
+		}
+	}
+	text = {
+		localisation_key = ADJ_ERE
+		trigger = {
+				tag = ERE
+		}
+	}
+	text = {
+		localisation_key = ADJ_FAD
+		trigger = {
+				tag = FAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_GRM
+		trigger = {
+				tag = GRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HDR
+		trigger = {
+				tag = HDR
+		}
+	}
+	text = {
+		localisation_key = ADJ_HED
+		trigger = {
+				tag = HED
+		}
+	}
+	text = {
+		localisation_key = ADJ_LEB
+		trigger = {
+				tag = LEB
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAK
+		trigger = {
+				tag = MAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_MDA
+		trigger = {
+				tag = MDA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MFL
+		trigger = {
+				tag = MFL
+		}
+	}
+	text = {
+		localisation_key = ADJ_MHR
+		trigger = {
+				tag = MHR
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAJ
+		trigger = {
+				tag = NAJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_NJR
+		trigger = {
+				tag = NJR
+		}
+	}
+	text = {
+		localisation_key = ADJ_OMA
+		trigger = {
+				tag = OMA
+		}
+	}
+	text = {
+		localisation_key = ADJ_RAS
+		trigger = {
+				tag = RAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHM
+		trigger = {
+				tag = SHM
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHM
+		trigger = {
+				tag = SHR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SRV
+		trigger = {
+				tag = SRV
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAS
+		trigger = {
+				tag = YAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_YEM
+		trigger = {
+				tag = YEM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSN
+		trigger = {
+				tag = HSN
+		}
+	}
+	text = {
+		localisation_key = ADJ_BTL
+		trigger = {
+				tag = BTL
+		}
+	}
+	text = {
+		localisation_key = ADJ_AKK
+		trigger = {
+				tag = AKK
+		}
+	}
+	text = {
+		localisation_key = ADJ_AKK
+		trigger = {
+				tag = AYD
+		}
+	}
+	text = {
+		localisation_key = ADJ_CND
+		trigger = {
+				tag = CND
+		}
+	}
+	text = {
+		localisation_key = ADJ_DUL
+		trigger = {
+				tag = DUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_IRQ
+		trigger = {
+				tag = IRQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAR
+		trigger = {
+				tag = KAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SYR
+		trigger = {
+				tag = SYR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRE
+		trigger = {
+				tag = TRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_SRU
+		trigger = {
+				tag = SRU
+		}
+	}
+	text = {
+		localisation_key = ADJ_MEN
+		trigger = {
+				tag = MEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_RAM
+		trigger = {
+				tag = RAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AVR
+		trigger = {
+				tag = AVR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLK
+		trigger = {
+				tag = MLK
+		}
+	}
+	text = {
+		localisation_key = ADJ_SME
+		trigger = {
+				tag = SME
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARL
+		trigger = {
+				tag = ARL
+		}
+	}
+	text = {
+		localisation_key = ADJ_MSY
+		trigger = {
+				tag = MSY
+		}
+	}
+	text = {
+		localisation_key = ADJ_RUM
+		trigger = {
+				tag = RUM
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALG
+		trigger = {
+				tag = ALG
+		}
+	}
+	text = {
+		localisation_key = ADJ_FEZ
+		trigger = {
+				tag = FEZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAM
+		trigger = {
+				tag = MAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOR
+		trigger = {
+				tag = MOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRP
+		trigger = {
+				tag = TRP
+		}
+	}
+	text = {
+		localisation_key = ADJ_TUN
+		trigger = {
+				tag = TUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_EGY
+		trigger = {
+				tag = EGY
+		}
+	}
+	text = {
+		localisation_key = ADJ_KBA
+		trigger = {
+				tag = KBA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TFL
+		trigger = {
+				tag = TFL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOS
+		trigger = {
+				tag = SOS
+		}
+	}
+	text = {
+		localisation_key = ADJ_TLC
+		trigger = {
+				tag = TLC
+		}
+	}
+	text = {
+		localisation_key = ADJ_TGT
+		trigger = {
+				tag = TGT
+		}
+	}
+	text = {
+		localisation_key = ADJ_GHD
+		trigger = {
+				tag = GHD
+		}
+	}
+	text = {
+		localisation_key = ADJ_FZA
+		trigger = {
+				tag = FZA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MZB
+		trigger = {
+				tag = MZB
+		}
+	}
+	text = {
+		localisation_key = ADJ_SLE
+		trigger = {
+				tag = SLE
+		}
+	}
+	text = {
+		localisation_key = ADJ_TET
+		trigger = {
+				tag = TET
+		}
+	}
+	text = {
+		localisation_key = ADJ_KZH
+		trigger = {
+				tag = KZH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KHI
+		trigger = {
+				tag = KHI
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHY
+		trigger = {
+				tag = SHY
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOK
+		trigger = {
+				tag = KOK
+		}
+	}
+	text = {
+		localisation_key = ADJ_BUK
+		trigger = {
+				tag = BUK
+		}
+	}
+	text = {
+		localisation_key = ADJ_AFG
+		trigger = {
+				tag = AFG
+		}
+	}
+	text = {
+		localisation_key = ADJ_KHO
+		trigger = {
+				tag = KHO
+		}
+	}
+	text = {
+		localisation_key = ADJ_PER
+		trigger = {
+				tag = PER
+		}
+	}
+	text = {
+		localisation_key = ADJ_QAR
+		trigger = {
+				tag = QAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TIM
+		trigger = {
+				tag = TIM
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRS
+		trigger = {
+				tag = TRS
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRY
+		trigger = {
+				tag = KRY
+		}
+	}
+	text = {
+		localisation_key = ADJ_CIR
+		trigger = {
+				tag = CIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_GAZ
+		trigger = {
+				tag = GAZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_IME
+		trigger = {
+				tag = IME
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAB
+		trigger = {
+				tag = TAB
+		}
+	}
+	text = {
+		localisation_key = ADJ_ORM
+		trigger = {
+				tag = ORM
+		}
+	}
+	text = {
+		localisation_key = ADJ_LRI
+		trigger = {
+				tag = LRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIS
+		trigger = {
+				tag = SIS
+		}
+	}
+	text = {
+		localisation_key = ADJ_BPI
+		trigger = {
+				tag = BPI
+		}
+	}
+	text = {
+		localisation_key = ADJ_FRS
+		trigger = {
+				tag = FRS
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRM
+		trigger = {
+				tag = KRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_YZD
+		trigger = {
+				tag = YZD
+		}
+	}
+	text = {
+		localisation_key = ADJ_ISF
+		trigger = {
+				tag = ISF
+		}
+	}
+	text = {
+		localisation_key = ADJ_TBR
+		trigger = {
+				tag = TBR
+		}
+	}
+	text = {
+		localisation_key = ADJ_BSR
+		trigger = {
+				tag = BSR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MGR
+		trigger = {
+				tag = MGR
+		}
+	}
+	text = {
+		localisation_key = ADJ_QOM
+		trigger = {
+				tag = QOM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AZT
+		trigger = {
+				tag = AZT
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHE
+		trigger = {
+				tag = CHE
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHM
+		trigger = {
+				tag = CHM
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRE
+		trigger = {
+				tag = CRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_HUR
+		trigger = {
+				tag = HUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_INC
+		trigger = {
+				tag = INC
+		}
+	}
+	text = {
+		localisation_key = ADJ_IRO
+		trigger = {
+				tag = IRO
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAY
+		trigger = {
+				tag = MAY
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHA
+		trigger = {
+				tag = SHA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZAP
+		trigger = {
+				tag = ZAP
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASH
+		trigger = {
+				tag = ASH
+		}
+	}
+	text = {
+		localisation_key = ADJ_BEN
+		trigger = {
+				tag = BEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ETH
+		trigger = {
+				tag = ETH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KON
+		trigger = {
+				tag = KON
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAL
+		trigger = {
+				tag = MAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_NUB
+		trigger = {
+				tag = NUB
+		}
+	}
+	text = {
+		localisation_key = ADJ_SON
+		trigger = {
+				tag = SON
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZAN
+		trigger = {
+				tag = ZAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZIM
+		trigger = {
+				tag = ZIM
+		}
+	}
+	text = {
+		localisation_key = ADJ_ADA
+		trigger = {
+				tag = ADA
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAU
+		trigger = {
+				tag = HAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_KBO
+		trigger = {
+				tag = KBO
+		}
+	}
+	text = {
+		localisation_key = ADJ_LOA
+		trigger = {
+				tag = LOA
+		}
+	}
+	text = {
+		localisation_key = ADJ_OYO
+		trigger = {
+				tag = OYO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOF
+		trigger = {
+				tag = SOF
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOK
+		trigger = {
+				tag = SOK
+		}
+	}
+	text = {
+		localisation_key = ADJ_JOL
+		trigger = {
+				tag = JOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SFA
+		trigger = {
+				tag = SFA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MBA
+		trigger = {
+				tag = MBA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLI
+		trigger = {
+				tag = MLI
+		}
+	}
+	text = {
+		localisation_key = ADJ_AJU
+		trigger = {
+				tag = AJU
+		}
+	}
+	text = {
+		localisation_key = ADJ_MDI
+		trigger = {
+				tag = MDI
+		}
+	}
+	text = {
+		localisation_key = ADJ_ENA
+		trigger = {
+				tag = ENA
+		}
+	}
+	text = {
+		localisation_key = ADJ_AFA
+		trigger = {
+				tag = AFA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALO
+		trigger = {
+				tag = ALO
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAR
+		trigger = {
+				tag = DAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_GLE
+		trigger = {
+				tag = GLE
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAR
+		trigger = {
+				tag = HAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_HOB
+		trigger = {
+				tag = HOB
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAF
+		trigger = {
+				tag = KAF
+		}
+	}
+	text = {
+		localisation_key = ADJ_MED
+		trigger = {
+				tag = MED
+		}
+	}
+	text = {
+		localisation_key = ADJ_MJE
+		trigger = {
+				tag = MJE
+		}
+	}
+	text = {
+		localisation_key = ADJ_MRE
+		trigger = {
+				tag = MRE
+		}
+	}
+	text = {
+		localisation_key = ADJ_PTE
+		trigger = {
+				tag = PTE
+		}
+	}
+	text = {
+		localisation_key = ADJ_WAR
+		trigger = {
+				tag = WAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_BTI
+		trigger = {
+				tag = BTI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BEJ
+		trigger = {
+				tag = BEJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_JIM
+		trigger = {
+				tag = JIM
+		}
+	}
+	text = {
+		localisation_key = ADJ_WLY
+		trigger = {
+				tag = WLY
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAM
+		trigger = {
+				tag = DAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HDY
+		trigger = {
+				tag = HDY
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOA
+		trigger = {
+				tag = SOA
+		}
+	}
+	text = {
+		localisation_key = ADJ_JJI
+		trigger = {
+				tag = JJI
+		}
+	}
+	text = {
+		localisation_key = ADJ_ABB
+		trigger = {
+				tag = ABB
+		}
+	}
+	text = {
+		localisation_key = ADJ_TYO
+		trigger = {
+				tag = TYO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SYO
+		trigger = {
+				tag = SYO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SYO
+		trigger = {
+				tag = KSJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUB
+		trigger = {
+				tag = LUB
+		}
+	}
+	text = {
+		localisation_key = ADJ_LND
+		trigger = {
+				tag = LND
+		}
+	}
+	text = {
+		localisation_key = ADJ_LND
+		trigger = {
+				tag = CKW
+		}
+	}
+	text = {
+		localisation_key = ADJ_KIK
+		trigger = {
+				tag = KIK
+		}
+	}
+	text = {
+		localisation_key = ADJ_KZB
+		trigger = {
+				tag = KZB
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAK
+		trigger = {
+				tag = YAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLD
+		trigger = {
+				tag = KLD
+		}
+	}
+	text = {
+		localisation_key = ADJ_KUB
+		trigger = {
+				tag = KUB
+		}
+	}
+	text = {
+		localisation_key = ADJ_RWA
+		trigger = {
+				tag = RWA
+		}
+	}
+	text = {
+		localisation_key = ADJ_BUU
+		trigger = {
+				tag = BUU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BUG
+		trigger = {
+				tag = BUG
+		}
+	}
+	text = {
+		localisation_key = ADJ_NKO
+		trigger = {
+				tag = NKO
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRW
+		trigger = {
+				tag = KRW
+		}
+	}
+	text = {
+		localisation_key = ADJ_BNY
+		trigger = {
+				tag = BNY
+		}
+	}
+	text = {
+		localisation_key = ADJ_BSG
+		trigger = {
+				tag = BSG
+		}
+	}
+	text = {
+		localisation_key = ADJ_UBH
+		trigger = {
+				tag = UBH
+		}
+	}
+	text = {
+		localisation_key = ADJ_MRA
+		trigger = {
+				tag = MRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LDU
+		trigger = {
+				tag = LDU
+		}
+	}
+	text = {
+		localisation_key = ADJ_TBK
+		trigger = {
+				tag = TBK
+		}
+	}
+	text = {
+		localisation_key = ADJ_MKU
+		trigger = {
+				tag = MKU
+		}
+	}
+	text = {
+		localisation_key = ADJ_RZW
+		trigger = {
+				tag = RZW
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIR
+		trigger = {
+				tag = MIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SKA
+		trigger = {
+				tag = SKA
+		}
+	}
+	text = {
+		localisation_key = ADJ_BTS
+		trigger = {
+				tag = BTS
+		}
+	}
+	text = {
+		localisation_key = ADJ_MFY
+		trigger = {
+				tag = MFY
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANT
+		trigger = {
+				tag = ANT
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANN
+		trigger = {
+				tag = ANN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARK
+		trigger = {
+				tag = ARK
+		}
+	}
+	text = {
+		localisation_key = ADJ_ATJ
+		trigger = {
+				tag = ATJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_AYU
+		trigger = {
+				tag = AYU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BLI
+		trigger = {
+				tag = BLI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAN
+		trigger = {
+				tag = BAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_BEI
+		trigger = {
+				tag = BEI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHA
+		trigger = {
+				tag = CHA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHG
+		trigger = {
+				tag = CHG
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHK
+		trigger = {
+				tag = CHK
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAI
+		trigger = {
+				tag = DAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_JAP
+		trigger = {
+				tag = JAP
+		}
+	}
+	text = {
+		localisation_key = ADJ_AMA
+		trigger = {
+				tag = AMA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASA
+		trigger = {
+				tag = ASA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CSK
+		trigger = {
+				tag = CSK
+		}
+	}
+	text = {
+		localisation_key = ADJ_DTE
+		trigger = {
+				tag = DTE
+		}
+	}
+	text = {
+		localisation_key = ADJ_HJO
+		trigger = {
+				tag = HJO
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSK
+		trigger = {
+				tag = HSK
+		}
+	}
+	text = {
+		localisation_key = ADJ_HTK
+		trigger = {
+				tag = HTK
+		}
+	}
+	text = {
+		localisation_key = ADJ_IKE
+		trigger = {
+				tag = IKE
+		}
+	}
+	text = {
+		localisation_key = ADJ_IMG
+		trigger = {
+				tag = IMG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAE
+		trigger = {
+				tag = MAE
+		}
+	}
+	text = {
+		localisation_key = ADJ_MRI
+		trigger = {
+				tag = MRI
+		}
+	}
+	text = {
+		localisation_key = ADJ_ODA
+		trigger = {
+				tag = ODA
+		}
+	}
+	text = {
+		localisation_key = ADJ_OTM
+		trigger = {
+				tag = OTM
+		}
+	}
+	text = {
+		localisation_key = ADJ_OUC
+		trigger = {
+				tag = OUC
+		}
+	}
+	text = {
+		localisation_key = ADJ_SBA
+		trigger = {
+				tag = SBA
+		}
+	}
+	text = {
+		localisation_key = ADJ_SMZ
+		trigger = {
+				tag = SMZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_TKD
+		trigger = {
+				tag = TKD
+		}
+	}
+	text = {
+		localisation_key = ADJ_TKG
+		trigger = {
+				tag = TKG
+		}
+	}
+	text = {
+		localisation_key = ADJ_UES
+		trigger = {
+				tag = UES
+		}
+	}
+	text = {
+		localisation_key = ADJ_YMN
+		trigger = {
+				tag = YMN
+		}
+	}
+	text = {
+		localisation_key = ADJ_RFR
+		trigger = {
+				tag = RFR
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASK
+		trigger = {
+				tag = ASK
+		}
+	}
+	text = {
+		localisation_key = ADJ_KTB
+		trigger = {
+				tag = KTB
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANU
+		trigger = {
+				tag = ANU
+		}
+	}
+	text = {
+		localisation_key = ADJ_AKM
+		trigger = {
+				tag = AKM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AKT
+		trigger = {
+				tag = AKT
+		}
+	}
+	text = {
+		localisation_key = ADJ_CBA
+		trigger = {
+				tag = CBA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ISK
+		trigger = {
+				tag = ISK
+		}
+	}
+	text = {
+		localisation_key = ADJ_ITO
+		trigger = {
+				tag = ITO
+		}
+	}
+	text = {
+		localisation_key = ADJ_KKC
+		trigger = {
+				tag = KKC
+		}
+	}
+	text = {
+		localisation_key = ADJ_KNO
+		trigger = {
+				tag = KNO
+		}
+	}
+	text = {
+		localisation_key = ADJ_OGS
+		trigger = {
+				tag = OGS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHN
+		trigger = {
+				tag = SHN
+		}
+	}
+	text = {
+		localisation_key = ADJ_STK
+		trigger = {
+				tag = STK
+		}
+	}
+	text = {
+		localisation_key = ADJ_TKI
+		trigger = {
+				tag = TKI
+		}
+	}
+	text = {
+		localisation_key = ADJ_UTN
+		trigger = {
+				tag = UTN
+		}
+	}
+	text = {
+		localisation_key = ADJ_TTI
+		trigger = {
+				tag = TTI
+		}
+	}
+	text = {
+		localisation_key = ADJ_KHM
+		trigger = {
+				tag = KHM
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOR
+		trigger = {
+				tag = KOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_LNA
+		trigger = {
+				tag = LNA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUA
+		trigger = {
+				tag = LUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LXA
+		trigger = {
+				tag = LXA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAJ
+		trigger = {
+				tag = MAJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_MCH
+		trigger = {
+				tag = MCH
+		}
+	}
+	text = {
+		localisation_key = ADJ_MKS
+		trigger = {
+				tag = MKS
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLC
+		trigger = {
+				tag = MLC
+		}
+	}
+	text = {
+		localisation_key = ADJ_MNG
+		trigger = {
+				tag = MNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MTR
+		trigger = {
+				tag = MTR
+		}
+	}
+	text = {
+		localisation_key = ADJ_OIR
+		trigger = {
+				tag = OIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAT
+		trigger = {
+				tag = PAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_PEG
+		trigger = {
+				tag = PEG
+		}
+	}
+	text = {
+		localisation_key = ADJ_QNG
+		trigger = {
+				tag = QNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_RYU
+		trigger = {
+				tag = RYU
+		}
+	}
+	text = {
+		localisation_key = ADJ_SST
+		trigger = {
+				tag = SST
+		}
+	}
+	text = {
+		localisation_key = ADJ_SUK
+		trigger = {
+				tag = SUK
+		}
+	}
+	text = {
+		localisation_key = ADJ_SUL
+		trigger = {
+				tag = SUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAU
+		trigger = {
+				tag = TAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_TIB
+		trigger = {
+				tag = TIB
+		}
+	}
+	text = {
+		localisation_key = ADJ_TOK
+		trigger = {
+				tag = TOK
+		}
+	}
+	text = {
+		localisation_key = ADJ_VIE
+		trigger = {
+				tag = VIE
+		}
+	}
+	text = {
+		localisation_key = ADJ_CZH
+		trigger = {
+				tag = CZH
+		}
+	}
+	text = {
+		localisation_key = ADJ_CSH
+		trigger = {
+				tag = CSH
+		}
+	}
+	text = {
+		localisation_key = ADJ_CXI
+		trigger = {
+				tag = CXI
+		}
+	}
+	text = {
+		localisation_key = ADJ_YUA
+		trigger = {
+				tag = YUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ILK
+		trigger = {
+				tag = ILK
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLM
+		trigger = {
+				tag = KLM
+		}
+	}
+	text = {
+		localisation_key = ADJ_MGE
+		trigger = {
+				tag = MGE
+		}
+	}
+	text = {
+		localisation_key = ADJ_MYR
+		trigger = {
+				tag = MYR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MHX
+		trigger = {
+				tag = MHX
+		}
+	}
+	text = {
+		localisation_key = ADJ_MJZ
+		trigger = {
+				tag = MJZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRC
+		trigger = {
+				tag = KRC
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLK
+		trigger = {
+				tag = KLK
+		}
+	}
+	text = {
+		localisation_key = ADJ_HMI
+		trigger = {
+				tag = HMI
+		}
+	}
+	text = {
+		localisation_key = ADJ_HMI
+		trigger = {
+				tag = ZUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAS
+		trigger = {
+				tag = KAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHH
+		trigger = {
+				tag = CHH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KSD
+		trigger = {
+				tag = KSD
+		}
+	}
+	text = {
+		localisation_key = ADJ_SYG
+		trigger = {
+				tag = SYG
+		}
+	}
+	text = {
+		localisation_key = ADJ_UTS
+		trigger = {
+				tag = UTS
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAM
+		trigger = {
+				tag = KAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_GUG
+		trigger = {
+				tag = GUG
+		}
+	}
+	text = {
+		localisation_key = ADJ_PHA
+		trigger = {
+				tag = PHA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CDL
+		trigger = {
+				tag = CDL
+		}
+	}
+	text = {
+		localisation_key = ADJ_CYI
+		trigger = {
+				tag = CYI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CMI
+		trigger = {
+				tag = CMI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIN
+		trigger = {
+				tag = MIN
+		}
+	}
+	text = {
+		localisation_key = ADJ_YUE
+		trigger = {
+				tag = YUE
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHU
+		trigger = {
+				tag = SHU
+		}
+	}
+	text = {
+		localisation_key = ADJ_NNG
+		trigger = {
+				tag = NNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHC
+		trigger = {
+				tag = CHC
+		}
+	}
+	text = {
+		localisation_key = ADJ_TNG
+		trigger = {
+				tag = TNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_WUU
+		trigger = {
+				tag = WUU
+		}
+	}
+	text = {
+		localisation_key = ADJ_QIC
+		trigger = {
+				tag = QIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAN
+		trigger = {
+				tag = YAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_JIN
+		trigger = {
+				tag = JIN
+		}
+	}
+	text = {
+		localisation_key = ADJ_LNG
+		trigger = {
+				tag = LNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_QIN
+		trigger = {
+				tag = QIN
+		}
+	}
+	text = {
+		localisation_key = ADJ_HUA
+		trigger = {
+				tag = HUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CGS
+		trigger = {
+				tag = CGS
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAL
+		trigger = {
+				tag = BAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_BNG
+		trigger = {
+				tag = BNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_BIJ
+		trigger = {
+				tag = BIJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAH
+		trigger = {
+				tag = BAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_DLH
+		trigger = {
+				tag = DLH
+		}
+	}
+	text = {
+		localisation_key = ADJ_GOC
+		trigger = {
+				tag = GOC
+		}
+	}
+	text = {
+		localisation_key = ADJ_DEC
+		trigger = {
+				tag = DEC
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAR
+		trigger = {
+				tag = MAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MUG
+		trigger = {
+				tag = MUG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MYS
+		trigger = {
+				tag = MYS
+		}
+	}
+	text = {
+		localisation_key = ADJ_VIJ
+		trigger = {
+				tag = VIJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_AHM
+		trigger = {
+				tag = AHM
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASS
+		trigger = {
+				tag = ASS
+		}
+	}
+	text = {
+		localisation_key = ADJ_GUJ
+		trigger = {
+				tag = GUJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_JNP
+		trigger = {
+				tag = JNP
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAD
+		trigger = {
+				tag = MAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLW
+		trigger = {
+				tag = MLW
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAW
+		trigger = {
+				tag = MAW
+		}
+	}
+	text = {
+		localisation_key = ADJ_MER
+		trigger = {
+				tag = MER
+		}
+	}
+	text = {
+		localisation_key = ADJ_MUL
+		trigger = {
+				tag = MUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAG
+		trigger = {
+				tag = NAG
+		}
+	}
+	text = {
+		localisation_key = ADJ_NPL
+		trigger = {
+				tag = NPL
+		}
+	}
+	text = {
+		localisation_key = ADJ_ORI
+		trigger = {
+				tag = ORI
+		}
+	}
+	text = {
+		localisation_key = ADJ_PUN
+		trigger = {
+				tag = PUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_SND
+		trigger = {
+				tag = SND
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRR
+		trigger = {
+				tag = BRR
+		}
+	}
+	text = {
+		localisation_key = ADJ_JAN
+		trigger = {
+				tag = JAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KRK
+		trigger = {
+				tag = KRK
+		}
+	}
+	text = {
+		localisation_key = ADJ_GDW
+		trigger = {
+				tag = GDW
+		}
+	}
+	text = {
+		localisation_key = ADJ_GRJ
+		trigger = {
+				tag = GRJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_GWA
+		trigger = {
+				tag = GWA
+		}
+	}
+	text = {
+		localisation_key = ADJ_DHU
+		trigger = {
+				tag = DHU
+		}
+	}
+	text = {
+		localisation_key = ADJ_KSH
+		trigger = {
+				tag = KSH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLN
+		trigger = {
+				tag = KLN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KHD
+		trigger = {
+				tag = KHD
+		}
+	}
+	text = {
+		localisation_key = ADJ_ODH
+		trigger = {
+				tag = ODH
+		}
+	}
+	text = {
+		localisation_key = ADJ_VND
+		trigger = {
+				tag = VND
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAB
+		trigger = {
+				tag = MAB
+		}
+	}
+	text = {
+		localisation_key = ADJ_MEW
+		trigger = {
+				tag = MEW
+		}
+	}
+	text = {
+		localisation_key = ADJ_BDA
+		trigger = {
+				tag = BDA
+		}
+	}
+	text = {
+		localisation_key = ADJ_BST
+		trigger = {
+				tag = BST
+		}
+	}
+	text = {
+		localisation_key = ADJ_BHU
+		trigger = {
+				tag = BHU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BND
+		trigger = {
+				tag = BND
+		}
+	}
+	text = {
+		localisation_key = ADJ_CEY
+		trigger = {
+				tag = CEY
+		}
+	}
+	text = {
+		localisation_key = ADJ_JSL
+		trigger = {
+				tag = JSL
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAC
+		trigger = {
+				tag = KAC
+		}
+	}
+	text = {
+		localisation_key = ADJ_KMT
+		trigger = {
+				tag = KMT
+		}
+	}
+	text = {
+		localisation_key = ADJ_KGR
+		trigger = {
+				tag = KGR
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAT
+		trigger = {
+				tag = KAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOC
+		trigger = {
+				tag = KOC
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLB
+		trigger = {
+				tag = MLB
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAD
+		trigger = {
+				tag = HAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_NGA
+		trigger = {
+				tag = NGA
+		}
+	}
+	text = {
+		localisation_key = ADJ_RMP
+		trigger = {
+				tag = RMP
+		}
+	}
+	text = {
+		localisation_key = ADJ_LDK
+		trigger = {
+				tag = LDK
+		}
+	}
+	text = {
+		localisation_key = ADJ_BGL
+		trigger = {
+				tag = BGL
+		}
+	}
+	text = {
+		localisation_key = ADJ_JFN
+		trigger = {
+				tag = JFN
+		}
+	}
+	text = {
+		localisation_key = ADJ_PTA
+		trigger = {
+				tag = PTA
+		}
+	}
+	text = {
+		localisation_key = ADJ_GHR
+		trigger = {
+				tag = GHR
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHD
+		trigger = {
+				tag = CHD
+		}
+	}
+	text = {
+		localisation_key = ADJ_NGP
+		trigger = {
+				tag = NGP
+		}
+	}
+	text = {
+		localisation_key = ADJ_JAJ
+		trigger = {
+				tag = JAJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRT
+		trigger = {
+				tag = TRT
+		}
+	}
+	text = {
+		localisation_key = ADJ_CMP
+		trigger = {
+				tag = CMP
+		}
+	}
+	text = {
+		localisation_key = ADJ_BGA
+		trigger = {
+				tag = BGA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TPR
+		trigger = {
+				tag = TPR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SDY
+		trigger = {
+				tag = SDY
+		}
+	}
+	text = {
+		localisation_key = ADJ_BHA
+		trigger = {
+				tag = BHA
+		}
+	}
+	text = {
+		localisation_key = ADJ_YOR
+		trigger = {
+				tag = YOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_DGL
+		trigger = {
+				tag = DGL
+		}
+	}
+	text = {
+		localisation_key = ADJ_MBL
+		trigger = {
+				tag = MBL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SKK
+		trigger = {
+				tag = SKK
+		}
+	}
+	text = {
+		localisation_key = ADJ_IDR
+		trigger = {
+				tag = IDR
+		}
+	}
+	text = {
+		localisation_key = ADJ_JLV
+		trigger = {
+				tag = JLV
+		}
+	}
+	text = {
+		localisation_key = ADJ_PTL
+		trigger = {
+				tag = PTL
+		}
+	}
+	text = {
+		localisation_key = ADJ_NVR
+		trigger = {
+				tag = NVR
+		}
+	}
+	text = {
+		localisation_key = ADJ_RJK
+		trigger = {
+				tag = RJK
+		}
+	}
+	text = {
+		localisation_key = ADJ_JGD
+		trigger = {
+				tag = JGD
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRB
+		trigger = {
+				tag = PRB
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAN
+		trigger = {
+				tag = PAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLP
+		trigger = {
+				tag = KLP
+		}
+	}
+	text = {
+		localisation_key = ADJ_SBP
+		trigger = {
+				tag = SBP
+		}
+	}
+	text = {
+		localisation_key = ADJ_PTT
+		trigger = {
+				tag = PTT
+		}
+	}
+	text = {
+		localisation_key = ADJ_RTT
+		trigger = {
+				tag = RTT
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLH
+		trigger = {
+				tag = KLH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KJH
+		trigger = {
+				tag = KJH
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRD
+		trigger = {
+				tag = PRD
+		}
+	}
+	text = {
+		localisation_key = ADJ_JPR
+		trigger = {
+				tag = JPR
+		}
+	}
+	text = {
+		localisation_key = ADJ_SRG
+		trigger = {
+				tag = SRG
+		}
+	}
+	text = {
+		localisation_key = ADJ_KND
+		trigger = {
+				tag = KND
+		}
+	}
+	text = {
+		localisation_key = ADJ_TLG
+		trigger = {
+				tag = TLG
+		}
+	}
+	text = {
+		localisation_key = ADJ_KLT
+		trigger = {
+				tag = KLT
+		}
+	}
+	text = {
+		localisation_key = ADJ_DNG
+		trigger = {
+				tag = DNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_DTI
+		trigger = {
+				tag = DTI
+		}
+	}
+	text = {
+		localisation_key = ADJ_GRK
+		trigger = {
+				tag = GRK
+		}
+	}
+	text = {
+		localisation_key = ADJ_JML
+		trigger = {
+				tag = JML
+		}
+	}
+	text = {
+		localisation_key = ADJ_LWA
+		trigger = {
+				tag = LWA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MKP
+		trigger = {
+				tag = MKP
+		}
+	}
+	text = {
+		localisation_key = ADJ_SRM
+		trigger = {
+				tag = SRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_KTU
+		trigger = {
+				tag = KTU
+		}
+	}
+	text = {
+		localisation_key = ADJ_KMN
+		trigger = {
+				tag = KMN
+		}
+	}
+	text = {
+		localisation_key = ADJ_GNG
+		trigger = {
+				tag = GNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_TNJ
+		trigger = {
+				tag = TNJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_SRH
+		trigger = {
+				tag = SRH
+		}
+	}
+	text = {
+		localisation_key = ADJ_RJP
+		trigger = {
+				tag = RJP
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAR
+		trigger = {
+				tag = BAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSA
+		trigger = {
+				tag = HSA
+		}
+	}
+	text = {
+		localisation_key = ADJ_SMO
+		trigger = {
+				tag = SMO
+		}
+	}
+	text = {
+		localisation_key = ADJ_NZH
+		trigger = {
+				tag = NZH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOJ
+		trigger = {
+				tag = KOJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_MSA
+		trigger = {
+				tag = MSA
+		}
+	}
+	text = {
+		localisation_key = ADJ_HIN
+		trigger = {
+				tag = HIN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ABE
+		trigger = {
+				tag = ABE
+		}
+	}
+	text = {
+		localisation_key = ADJ_APA
+		trigger = {
+				tag = APA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ASI
+		trigger = {
+				tag = ASI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BLA
+		trigger = {
+				tag = BLA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAD
+		trigger = {
+				tag = CAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHI
+		trigger = {
+				tag = CHI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHO
+		trigger = {
+				tag = CHO
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHY
+		trigger = {
+				tag = CHY
+		}
+	}
+	text = {
+		localisation_key = ADJ_COM
+		trigger = {
+				tag = COM
+		}
+	}
+	text = {
+		localisation_key = ADJ_FOX
+		trigger = {
+				tag = FOX
+		}
+	}
+	text = {
+		localisation_key = ADJ_ILL
+		trigger = {
+				tag = ILL
+		}
+	}
+	text = {
+		localisation_key = ADJ_LEN
+		trigger = {
+				tag = LEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAH
+		trigger = {
+				tag = MAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIK
+		trigger = {
+				tag = MIK
+		}
+	}
+	text = {
+		localisation_key = ADJ_MMI
+		trigger = {
+				tag = MMI
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAH
+		trigger = {
+				tag = NAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_OJI
+		trigger = {
+				tag = OJI
+		}
+	}
+	text = {
+		localisation_key = ADJ_OSA
+		trigger = {
+				tag = OSA
+		}
+	}
+	text = {
+		localisation_key = ADJ_OTT
+		trigger = {
+				tag = OTT
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAW
+		trigger = {
+				tag = PAW
+		}
+	}
+	text = {
+		localisation_key = ADJ_PEQ
+		trigger = {
+				tag = PEQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_PIM
+		trigger = {
+				tag = PIM
+		}
+	}
+	text = {
+		localisation_key = ADJ_POT
+		trigger = {
+				tag = POT
+		}
+	}
+	text = {
+		localisation_key = ADJ_POW
+		trigger = {
+				tag = POW
+		}
+	}
+	text = {
+		localisation_key = ADJ_PUE
+		trigger = {
+				tag = PUE
+		}
+	}
+	text = {
+		localisation_key = ADJ_SHO
+		trigger = {
+				tag = SHO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIO
+		trigger = {
+				tag = SIO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SUS
+		trigger = {
+				tag = SUS
+		}
+	}
+	text = {
+		localisation_key = ADJ_WCR
+		trigger = {
+				tag = WCR
+		}
+	}
+	text = {
+		localisation_key = ADJ_AIR
+		trigger = {
+				tag = AIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_BON
+		trigger = {
+				tag = BON
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAH
+		trigger = {
+				tag = DAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_DGB
+		trigger = {
+				tag = DGB
+		}
+	}
+	text = {
+		localisation_key = ADJ_FUL
+		trigger = {
+				tag = FUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_JNN
+		trigger = {
+				tag = JNN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAN
+		trigger = {
+				tag = KAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KBU
+		trigger = {
+				tag = KBU
+		}
+	}
+	text = {
+		localisation_key = ADJ_KNG
+		trigger = {
+				tag = KNG
+		}
+	}
+	text = {
+		localisation_key = ADJ_KTS
+		trigger = {
+				tag = KTS
+		}
+	}
+	text = {
+		localisation_key = ADJ_MSI
+		trigger = {
+				tag = MSI
+		}
+	}
+	text = {
+		localisation_key = ADJ_NUP
+		trigger = {
+				tag = NUP
+		}
+	}
+	text = {
+		localisation_key = ADJ_TMB
+		trigger = {
+				tag = TMB
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAO
+		trigger = {
+				tag = YAO
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAT
+		trigger = {
+				tag = YAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZAF
+		trigger = {
+				tag = ZAF
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZZZ
+		trigger = {
+				tag = ZZZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_NDO
+		trigger = {
+				tag = NDO
+		}
+	}
+	text = {
+		localisation_key = ADJ_AVA
+		trigger = {
+				tag = AVA
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSE
+		trigger = {
+				tag = HSE
+		}
+	}
+	text = {
+		localisation_key = ADJ_JOH
+		trigger = {
+				tag = JOH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KED
+		trigger = {
+				tag = KED
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIG
+		trigger = {
+				tag = LIG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MPH
+		trigger = {
+				tag = MPH
+		}
+	}
+	text = {
+		localisation_key = ADJ_MYA
+		trigger = {
+				tag = MYA
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRK
+		trigger = {
+				tag = PRK
+		}
+	}
+	text = {
+		localisation_key = ADJ_MMA
+		trigger = {
+				tag = MMA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MKA
+		trigger = {
+				tag = MKA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MPA
+		trigger = {
+				tag = MPA
+		}
+	}
+	text = {
+		localisation_key = ADJ_MNI
+		trigger = {
+				tag = MNI
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAL
+		trigger = {
+				tag = KAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_HSI
+		trigger = {
+				tag = HSI
+		}
+	}
+	text = {
+		localisation_key = ADJ_BPR
+		trigger = {
+				tag = BPR
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHU
+		trigger = {
+				tag = CHU
+		}
+	}
+	text = {
+		localisation_key = ADJ_HOD
+		trigger = {
+				tag = HOD
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHV
+		trigger = {
+				tag = CHV
+		}
+	}
+	text = {
+		localisation_key = ADJ_KMC
+		trigger = {
+				tag = KMC
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRT
+		trigger = {
+				tag = BRT
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARP
+		trigger = {
+				tag = ARP
+		}
+	}
+	text = {
+		localisation_key = ADJ_CLM
+		trigger = {
+				tag = CLM
+		}
+	}
+	text = {
+		localisation_key = ADJ_CNK
+		trigger = {
+				tag = CNK
+		}
+	}
+	text = {
+		localisation_key = ADJ_COC
+		trigger = {
+				tag = COC
+		}
+	}
+	text = {
+		localisation_key = ADJ_HDA
+		trigger = {
+				tag = HDA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ITZ
+		trigger = {
+				tag = ITZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_KIC
+		trigger = {
+				tag = KIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_KIO
+		trigger = {
+				tag = KIO
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIX
+		trigger = {
+				tag = MIX
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAL
+		trigger = {
+				tag = SAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAR
+		trigger = {
+				tag = TAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TLA
+		trigger = {
+				tag = TLA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TLX
+		trigger = {
+				tag = TLX
+		}
+	}
+	text = {
+		localisation_key = ADJ_TOT
+		trigger = {
+				tag = TOT
+		}
+	}
+	text = {
+		localisation_key = ADJ_WIC
+		trigger = {
+				tag = WIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_XIU
+		trigger = {
+				tag = XIU
+		}
+	}
+	text = {
+		localisation_key = ADJ_BLM
+		trigger = {
+				tag = BLM
+		}
+	}
+	text = {
+		localisation_key = ADJ_BTN
+		trigger = {
+				tag = BTN
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRB
+		trigger = {
+				tag = CRB
+		}
+	}
+	text = {
+		localisation_key = ADJ_DMK
+		trigger = {
+				tag = DMK
+		}
+	}
+	text = {
+		localisation_key = ADJ_PGR
+		trigger = {
+				tag = PGR
+		}
+	}
+	text = {
+		localisation_key = ADJ_PLB
+		trigger = {
+				tag = PLB
+		}
+	}
+	text = {
+		localisation_key = ADJ_PSA
+		trigger = {
+				tag = PSA
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAK
+		trigger = {
+				tag = SAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_SUN
+		trigger = {
+				tag = SUN
+		}
+	}
+	text = {
+		localisation_key = ADJ_KUT
+		trigger = {
+				tag = KUT
+		}
+	}
+	text = {
+		localisation_key = ADJ_BNJ
+		trigger = {
+				tag = BNJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_LFA
+		trigger = {
+				tag = LFA
+		}
+	}
+	text = {
+		localisation_key = ADJ_LNO
+		trigger = {
+				tag = LNO
+		}
+	}
+	text = {
+		localisation_key = ADJ_LUW
+		trigger = {
+				tag = LUW
+		}
+	}
+	text = {
+		localisation_key = ADJ_MGD
+		trigger = {
+				tag = MGD
+		}
+	}
+	text = {
+		localisation_key = ADJ_TER
+		trigger = {
+				tag = TER
+		}
+	}
+	text = {
+		localisation_key = ADJ_TID
+		trigger = {
+				tag = TID
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAS
+		trigger = {
+				tag = MAS
+		}
+	}
+	text = {
+		localisation_key = ADJ_PGS
+		trigger = {
+				tag = PGS
+		}
+	}
+	text = {
+		localisation_key = ADJ_TDO
+		trigger = {
+				tag = TDO
+		}
+	}
+	text = {
+		localisation_key = ADJ_MNA
+		trigger = {
+				tag = MNA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CEB
+		trigger = {
+				tag = CEB
+		}
+	}
+	text = {
+		localisation_key = ADJ_BTU
+		trigger = {
+				tag = BTU
+		}
+	}
+	text = {
+		localisation_key = ADJ_CSU
+		trigger = {
+				tag = CSU
+		}
+	}
+	text = {
+		localisation_key = ADJ_CCQ
+		trigger = {
+				tag = CCQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_MPC
+		trigger = {
+				tag = MPC
+		}
+	}
+	text = {
+		localisation_key = ADJ_MCA
+		trigger = {
+				tag = MCA
+		}
+	}
+	text = {
+		localisation_key = ADJ_QTO
+		trigger = {
+				tag = QTO
+		}
+	}
+	text = {
+		localisation_key = ADJ_CJA
+		trigger = {
+				tag = CJA
+		}
+	}
+	text = {
+		localisation_key = ADJ_HJA
+		trigger = {
+				tag = HJA
+		}
+	}
+	text = {
+		localisation_key = ADJ_PTG
+		trigger = {
+				tag = PTG
+		}
+	}
+	text = {
+		localisation_key = ADJ_TPQ
+		trigger = {
+				tag = TPQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_TPA
+		trigger = {
+				tag = TPA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TUA
+		trigger = {
+				tag = TUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_GUA
+		trigger = {
+				tag = GUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CUA
+		trigger = {
+				tag = CUA
+		}
+	}
+	text = {
+		localisation_key = ADJ_WKA
+		trigger = {
+				tag = WKA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CYA
+		trigger = {
+				tag = CYA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CLA
+		trigger = {
+				tag = CLA
+		}
+	}
+	text = {
+		localisation_key = ADJ_CRA
+		trigger = {
+				tag = CRA
+		}
+	}
+	text = {
+		localisation_key = ADJ_PCJ
+		trigger = {
+				tag = PCJ
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARW
+		trigger = {
+				tag = ARW
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAB
+		trigger = {
+				tag = CAB
+		}
+	}
+	text = {
+		localisation_key = ADJ_ICM
+		trigger = {
+				tag = ICM
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAT
+		trigger = {
+				tag = MAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_COI
+		trigger = {
+				tag = COI
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEO
+		trigger = {
+				tag = TEO
+		}
+	}
+	text = {
+		localisation_key = ADJ_XAL
+		trigger = {
+				tag = XAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_GAM
+		trigger = {
+				tag = GAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HST
+		trigger = {
+				tag = HST
+		}
+	}
+	text = {
+		localisation_key = ADJ_CCM
+		trigger = {
+				tag = CCM
+		}
+	}
+	text = {
+		localisation_key = ADJ_OTO
+		trigger = {
+				tag = OTO
+		}
+	}
+	text = {
+		localisation_key = ADJ_YOK
+		trigger = {
+				tag = YOK
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAC
+		trigger = {
+				tag = LAC
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAQ
+		trigger = {
+				tag = KAQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_CTM
+		trigger = {
+				tag = CTM
+		}
+	}
+	text = {
+		localisation_key = ADJ_KER
+		trigger = {
+				tag = KER
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZNI
+		trigger = {
+				tag = ZNI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MSC
+		trigger = {
+				tag = MSC
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIP
+		trigger = {
+				tag = LIP
+		}
+	}
+	text = {
+		localisation_key = ADJ_CHT
+		trigger = {
+				tag = CHT
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIS
+		trigger = {
+				tag = MIS
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAI
+		trigger = {
+				tag = TAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CNP
+		trigger = {
+				tag = CNP
+		}
+	}
+	text = {
+		localisation_key = ADJ_TON
+		trigger = {
+				tag = TON
+		}
+	}
+	text = {
+		localisation_key = ADJ_YAQ
+		trigger = {
+				tag = YAQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_YKT
+		trigger = {
+				tag = YKT
+		}
+	}
+	text = {
+		localisation_key = ADJ_JMN
+		trigger = {
+				tag = JMN
+		}
+	}
+	text = {
+		localisation_key = ADJ_ROM
+		trigger = {
+				tag = ROM
+		}
+	}
+	text = {
+		localisation_key = ADJ_SYN
+		trigger = {
+				tag = SYN
+		}
+	}
+	text = {
+		localisation_key = ADJ_PIR
+		trigger = {
+				tag = PIR
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAT
+		trigger = {
+				tag = NAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_DYN
+		trigger = {
+				is_dynamic_tag = yes
+		}
+	}
+	text = {
+		localisation_key = ADJ_NSS
+		trigger = {
+				tag = NSS
+		}
+	}
+	text = {
+		localisation_key = ADJ_PRY
+		trigger = {
+				tag = PRY
+		}
+	}
+	text = {
+		localisation_key = ADJ_LIB
+		trigger = {
+				tag = LIB
+		}
+	}
+	text = {
+		localisation_key = ADJ_TOR
+		trigger = {
+				tag = TOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_MRK
+		trigger = {
+				tag = MRK
+		}
+	}
+	text = {
+		localisation_key = ADJ_JOM
+		trigger = {
+				tag = JOM
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAH
+		trigger = {
+				tag = HAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ISR
+		trigger = {
+				tag = ISR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEM
+		trigger = {
+				tag = TEM
+		}
+	}
+	text = {
+		localisation_key = ADJ_TRL
+		trigger = {
+				tag = TRL
+		}
+	}
+	text = {
+		localisation_key = ADJ_FRM
+		trigger = {
+				tag = FRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOO
+		trigger = {
+				tag = SOO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOL
+		trigger = {
+				tag = SOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_NVK
+		trigger = {
+				tag = NVK
+		}
+	}
+	text = {
+		localisation_key = ADJ_EJZ
+		trigger = {
+				tag = EJZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_NHX
+		trigger = {
+				tag = NHX
+		}
+	}
+	text = {
+		localisation_key = ADJ_CONVCK2
+		trigger = {
+			OR = {
+				tag = X00
+				tag = X01
+				tag = X02
+				tag = X03
+				tag = X04
+				tag = X05
+				tag = X06
+				tag = X07
+				tag = X08
+				tag = X09
+				tag = X10
+				tag = X11
+				tag = X12
+				tag = X13
+				tag = X14
+				tag = X15
+				tag = X16
+				tag = X17
+				tag = X18
+				tag = X19
+				tag = X20
+				tag = X21
+				tag = X22
+				tag = X23
+				tag = X24
+				tag = X25
+				tag = X26
+				tag = X27
+				tag = X28
+				tag = X29
+				tag = X30
+				tag = X31
+				tag = X32
+				tag = X33
+				tag = X34
+				tag = X35
+				tag = X36
+				tag = X37
+				tag = X38
+				tag = X39
+				tag = X40
+				tag = X41
+				tag = X42
+				tag = X43
+				tag = X44
+				tag = X45
+				tag = X46
+				tag = X47
+				tag = X48
+				tag = X49
+				tag = X50
+				tag = X51
+				tag = X52
+				tag = X53
+				tag = X54
+				tag = X55
+				tag = X56
+				tag = X57
+				tag = X58
+				tag = X59
+				tag = X60
+				tag = X61
+				tag = X62
+				tag = X63
+				tag = X64
+				tag = X65
+				tag = X66
+				tag = X67
+				tag = X68
+				tag = X69
+				tag = X70
+				tag = X71
+				tag = X72
+				tag = X73
+				tag = X74
+				tag = X75
+				tag = X76
+				tag = X77
+				tag = X78
+				tag = X79
+				tag = X80
+				tag = X81
+				tag = X82
+				tag = X83
+				tag = X84
+				tag = X85
+				tag = X86
+				tag = X87
+				tag = X88
+				tag = X89
+				tag = X90
+				tag = X91
+				tag = X92
+				tag = X93
+				tag = X94
+				tag = X95
+				tag = X96
+				tag = X97
+				tag = X98
+				tag = X99
+				tag = Y00
+				tag = Y01
+				tag = Y02
+				tag = Y03
+				tag = Y04
+				tag = Y05
+				tag = Y06
+				tag = Y07
+				tag = Y08
+				tag = Y09
+				tag = Y10
+				tag = Y11
+				tag = Y12
+				tag = Y13
+				tag = Y14
+				tag = Y15
+				tag = Y16
+				tag = Y17
+				tag = Y18
+				tag = Y19
+				tag = Y20
+				tag = Y21
+				tag = Y22
+				tag = Y23
+				tag = Y24
+				tag = Y25
+				tag = Y26
+				tag = Y27
+				tag = Y28
+				tag = Y29
+				tag = Y30
+				tag = Y31
+				tag = Y32
+				tag = Y33
+				tag = Y34
+				tag = Y35
+				tag = Y36
+				tag = Y37
+				tag = Y38
+				tag = Y39
+				tag = Y40
+				tag = Y41
+				tag = Y42
+				tag = Y43
+				tag = Y44
+				tag = Y45
+				tag = Y46
+				tag = Y47
+				tag = Y48
+				tag = Y49
+				tag = Y50
+				tag = Y51
+				tag = Y52
+				tag = Y53
+				tag = Y54
+				tag = Y55
+				tag = Y56
+				tag = Y57
+				tag = Y58
+				tag = Y59
+				tag = Y60
+				tag = Y61
+				tag = Y62
+				tag = Y63
+				tag = Y64
+				tag = Y65
+				tag = Y66
+				tag = Y67
+				tag = Y68
+				tag = Y69
+				tag = Y70
+				tag = Y71
+				tag = Y72
+				tag = Y73
+				tag = Y74
+				tag = Y75
+				tag = Y76
+				tag = Y77
+				tag = Y78
+				tag = Y79
+				tag = Y80
+				tag = Y81
+				tag = Y82
+				tag = Y83
+				tag = Y84
+				tag = Y85
+				tag = Y86
+				tag = Y87
+				tag = Y88
+				tag = Y89
+				tag = Y90
+				tag = Y91
+				tag = Y92
+				tag = Y93
+				tag = Y94
+				tag = Y95
+				tag = Y96
+				tag = Y97
+				tag = Y98
+				tag = Y99
+				tag = Z00
+				tag = Z01
+				tag = Z02
+				tag = Z03
+				tag = Z04
+				tag = Z05
+				tag = Z06
+				tag = Z07
+				tag = Z08
+				tag = Z09
+				tag = Z10
+				tag = Z11
+				tag = Z12
+				tag = Z13
+				tag = Z14
+				tag = Z15
+				tag = Z16
+				tag = Z17
+				tag = Z18
+				tag = Z19
+				tag = Z20
+				tag = Z21
+				tag = Z22
+				tag = Z23
+				tag = Z24
+				tag = Z25
+				tag = Z26
+				tag = Z27
+				tag = Z28
+				tag = Z29
+				tag = Z30
+				tag = Z31
+				tag = Z32
+				tag = Z33
+				tag = Z34
+				tag = Z35
+				tag = Z36
+				tag = Z37
+				tag = Z38
+				tag = Z39
+				tag = Z40
+				tag = Z41
+				tag = Z42
+				tag = Z43
+				tag = Z44
+				tag = Z45
+				tag = Z46
+				tag = Z47
+				tag = Z48
+				tag = Z49
+				tag = Z50
+				tag = Z51
+				tag = Z52
+				tag = Z53
+				tag = Z54
+				tag = Z55
+				tag = Z56
+				tag = Z57
+				tag = Z58
+				tag = Z59
+				tag = Z60
+				tag = Z61
+				tag = Z62
+				tag = Z63
+				tag = Z64
+				tag = Z65
+				tag = Z66
+				tag = Z67
+				tag = Z68
+				tag = Z69
+				tag = Z70
+				tag = Z71
+				tag = Z72
+				tag = Z73
+				tag = Z74
+				tag = Z75
+				tag = Z76
+				tag = Z77
+				tag = Z78
+				tag = Z79
+				tag = Z80
+				tag = Z81
+				tag = Z82
+				tag = Z83
+				tag = Z84
+				tag = Z85
+				tag = Z86
+				tag = Z87
+				tag = Z88
+				tag = Z89
+				tag = Z90
+				tag = Z91
+				tag = Z92
+				tag = Z93
+				tag = Z94
+				tag = Z95
+				tag = Z96
+				tag = Z97
+				tag = Z98
+				tag = Z99
+			}
+		}
+	}
+	text = {
+		localisation_key = ADJ_DAL
+		trigger = {
+			tag = DAL
+		}
+	}
+	text = {
+		localisation_key = ADJ_CSC
+		trigger = {
+			tag = CSC
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALA
+		trigger = {
+			tag = ALA
+		}
+	}
+	text = {
+		localisation_key = ADJ_NZL
+		trigger = {
+			tag = NZL
+		}
+	}
+	text = {
+		localisation_key = ADJ_ILI
+		trigger = {
+			tag = ILI
+		}
+	}
+	text = {
+		localisation_key = ADJ_FLO
+		trigger = {
+			tag = FLO
+		}
+	}
+	text = {
+		localisation_key = ADJ_VRM
+		trigger = {
+			tag = VRM
+		}
+	}
+	text = {
+		localisation_key = ADJ_SNA
+		trigger = {
+			tag = SNA
+		}
+	}
+	text = {
+		localisation_key = ADJ_WSI
+		trigger = {
+			tag = WSI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CUB
+		trigger = {
+			tag = CUB
+		}
+	}
+	text = {
+		localisation_key = ADJ_UBV
+		trigger = {
+			tag = UBV
+		}
+	}
+	text = {
+		localisation_key = ADJ_LBV
+		trigger = {
+			tag = LBV
+		}
+	}
+	text = {
+		localisation_key = ADJ_ING
+		trigger = {
+			tag = ING
+		}
+	}
+	text = {
+		localisation_key = ADJ_PSS
+		trigger = {
+			tag = PSS
+		}
+	}
+	text = {
+		localisation_key = ADJ_MBZ
+		trigger = {
+			tag = MBZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_KNZ
+		trigger = {
+			tag = KNZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_ROT
+		trigger = {
+			tag = ROT
+		}
+	}
+	text = {
+		localisation_key = ADJ_BYT
+		trigger = {
+			tag = BYT
+		}
+	}
+	text = {
+		localisation_key = ADJ_REG
+		trigger = {
+			tag = REG
+		}
+	}
+	text = {
+		localisation_key = ADJ_GNV
+		trigger = {
+			tag = GNV
+		}
+	}
+	text = {
+		localisation_key = ADJ_TTL
+		trigger = {
+			tag = TTL
+		}
+	}
+	text = {
+		localisation_key = ADJ_OPL
+		trigger = {
+			tag = OPL
+		}
+	}
+	text = {
+		localisation_key = ADJ_GLG
+		trigger = {
+			tag = GLG
+		}
+	}
+	text = {
+		localisation_key = ADJ_BLG
+		trigger = {
+			tag = BLG
+		}
+	}
+	text = {
+		localisation_key = ADJ_PDV
+		trigger = {
+			tag = PDV
+		}
+	}
+	text = {
+		localisation_key = ADJ_SZO
+		trigger = {
+			tag = SZO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SPL
+		trigger = {
+			tag = SPL
+		}
+	}
+	text = {
+		localisation_key = ADJ_WOL
+		trigger = {
+			tag = WOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_STE
+		trigger = {
+			tag = STE
+		}
+	}
+	text = {
+		localisation_key = ADJ_GOS
+		trigger = {
+			tag = GOS
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOR
+		trigger = {
+			tag = SOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_RUG
+		trigger = {
+			tag = RUG
+		}
+	}
+	text = {
+		localisation_key = ADJ_CLI
+		trigger = {
+			tag = CLI
+		}
+	}
+	text = {
+		localisation_key = ADJ_HRZ
+		trigger = {
+			tag = HRZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_TNT
+		trigger = {
+			tag = TNT
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRG
+		trigger = {
+			tag = BRG
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLH
+		trigger = {
+			tag = MLH
+		}
+	}
+	text = {
+		localisation_key = ADJ_BAM
+		trigger = {
+			tag = BAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_RUP
+		trigger = {
+			tag = RUP
+		}
+	}
+	text = {
+		localisation_key = ADJ_LPP
+		trigger = {
+			tag = LPP
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAD
+		trigger = {
+			tag = PAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_CLB
+		trigger = {
+			tag = CLB
+		}
+	}
+	text = {
+		localisation_key = ADJ_DWT
+		trigger = {
+			tag = DWT
+		}
+	}
+	text = {
+		localisation_key = ADJ_OSN
+		trigger = {
+			tag = OSN
+		}
+	}
+	text = {
+		localisation_key = ADJ_VRN
+		trigger = {
+			tag = VRN
+		}
+	}
+	text = {
+		localisation_key = ADJ_COB
+		trigger = {
+			tag = COB
+		}
+	}
+	text = {
+		localisation_key = ADJ_LOT
+		trigger = {
+			tag = LOT
+		}
+	}
+	text = {
+		localisation_key = ADJ_PGA
+		trigger = {
+			tag = PGA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TTS
+		trigger = {
+			tag = TTS
+		}
+	}
+	text = {
+		localisation_key = ADJ_FKN
+		trigger = {
+			tag = FKN
+		}
+	}
+	text = {
+		localisation_key = ADJ_SWA
+		trigger = {
+			tag = SWA
+		}
+	}
+	text = {
+		localisation_key = ADJ_BNE
+		trigger = {
+			tag = BNE
+		}
+	}
+	text = {
+		localisation_key = ADJ_BEU
+		trigger = {
+			tag = BEU
+		}
+	}
+	text = {
+		localisation_key = ADJ_SMB
+		trigger = {
+			tag = SMB
+		}
+	}
+	text = {
+		localisation_key = ADJ_BRS
+		trigger = {
+			tag = BRS
+		}
+	}
+	text = {
+		localisation_key = ADJ_DLI
+		trigger = {
+			tag = DLI
+		}
+	}
+	text = {
+		localisation_key = ADJ_JMB
+		trigger = {
+			tag = JMB
+		}
+	}
+	text = {
+		localisation_key = ADJ_PAH
+		trigger = {
+			tag = PAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KEL
+		trigger = {
+			tag = KEL
+		}
+	}
+	text = {
+		localisation_key = ADJ_IND
+		trigger = {
+			tag = IND
+		}
+	}
+	text = {
+		localisation_key = ADJ_JAR
+		trigger = {
+			tag = JAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_RHA
+		trigger = {
+			tag = RHA
+		}
+	}
+	text = {
+		localisation_key = ADJ_KOH
+		trigger = {
+			tag = KOH
+		}
+	}
+	text = {
+		localisation_key = ADJ_SIA
+		trigger = {
+			tag = SIA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TIW
+		trigger = {
+			tag = TIW
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAR
+		trigger = {
+			tag = LAR
+		}
+	}
+	text = {
+		localisation_key = ADJ_YOL
+		trigger = {
+			tag = YOL
+		}
+	}
+	text = {
+		localisation_key = ADJ_YNU
+		trigger = {
+			tag = YNU
+		}
+	}
+	text = {
+		localisation_key = ADJ_AWN
+		trigger = {
+			tag = AWN
+		}
+	}
+	text = {
+		localisation_key = ADJ_GMI
+		trigger = {
+			tag = GMI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MIA
+		trigger = {
+			tag = MIA
+		}
+	}
+	text = {
+		localisation_key = ADJ_EOR
+		trigger = {
+			tag = EOR
+		}
+	}
+	text = {
+		localisation_key = ADJ_KUL
+		trigger = {
+			tag = KUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAU
+		trigger = {
+			tag = KAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_PLW
+		trigger = {
+			tag = PLW
+		}
+	}
+	text = {
+		localisation_key = ADJ_WRU
+		trigger = {
+			tag = WRU
+		}
+	}
+	text = {
+		localisation_key = ADJ_NOO
+		trigger = {
+			tag = NOO
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLG
+		trigger = {
+			tag = MLG
+		}
+	}
+	text = {
+		localisation_key = ADJ_AOT
+		trigger = {
+			tag = AOT
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAA
+		trigger = {
+			tag = MAA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAN
+		trigger = {
+			tag = TAN
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAK
+		trigger = {
+			tag = TAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_TNK
+		trigger = {
+			tag = TNK
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEA
+		trigger = {
+			tag = TEA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TTT
+		trigger = {
+			tag = TTT
+		}
+	}
+	text = {
+		localisation_key = ADJ_WAI
+		trigger = {
+			tag = WAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_UHW
+		trigger = {
+			tag = UHW
+		}
+	}
+	text = {
+		localisation_key = ADJ_HAW
+		trigger = {
+			tag = HAW
+		}
+	}
+	text = {
+		localisation_key = ADJ_MAU
+		trigger = {
+			tag = MAU
+		}
+	}
+	text = {
+		localisation_key = ADJ_OAH
+		trigger = {
+			tag = OAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_KAA
+		trigger = {
+			tag = KAA
+		}
+	}
+	text = {
+		localisation_key = ADJ_TOG
+		trigger = {
+			tag = TOG
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAM
+		trigger = {
+			tag = SAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_VIT
+		trigger = {
+			tag = VIT
+		}
+	}
+	text = {
+		localisation_key = ADJ_VIL
+		trigger = {
+			tag = VIL
+		}
+	}
+	text = {
+		localisation_key = ADJ_VNL
+		trigger = {
+			tag = VNL
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAI
+		trigger = {
+			tag = LAI
+		}
+	}
+	text = {
+		localisation_key = ADJ_ALT
+		trigger = {
+			tag = ALT
+		}
+	}
+	text = {
+		localisation_key = ADJ_ICH
+		trigger = {
+			tag = ICH
+		}
+	}
+	text = {
+		localisation_key = ADJ_COF
+		trigger = {
+			tag = COF
+		}
+	}
+	text = {
+		localisation_key = ADJ_JOA
+		trigger = {
+			tag = JOA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ETO
+		trigger = {
+			tag = ETO
+		}
+	}
+	text = {
+		localisation_key = ADJ_SAT
+		trigger = {
+			tag = SAT
+		}
+	}
+	text = {
+		localisation_key = ADJ_CIA
+		trigger = {
+			tag = CIA
+		}
+	}
+	text = {
+		localisation_key = ADJ_COO
+		trigger = {
+			tag = COO
+		}
+	}
+	text = {
+		localisation_key = ADJ_ABI
+		trigger = {
+			tag = ABI
+		}
+	}
+	text = {
+		localisation_key = ADJ_COW
+		trigger = {
+			tag = COW
+		}
+	}
+	text = {
+		localisation_key = ADJ_NTZ
+		trigger = {
+			tag = NTZ
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAQ
+		trigger = {
+			tag = CAQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_PCH
+		trigger = {
+			tag = PCH
+		}
+	}
+	text = {
+		localisation_key = ADJ_QUI
+		trigger = {
+			tag = QUI
+		}
+	}
+	text = {
+		localisation_key = ADJ_CCA
+		trigger = {
+			tag = CCA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ATA
+		trigger = {
+			tag = ATA
+		}
+	}
+	text = {
+		localisation_key = ADJ_KSI
+		trigger = {
+			tag = KSI
+		}
+	}
+	text = {
+		localisation_key = ADJ_OEO
+		trigger = {
+			tag = OEO
+		}
+	}
+	text = {
+		localisation_key = ADJ_ANL
+		trigger = {
+			tag = ANL
+		}
+	}
+	text = {
+		localisation_key = ADJ_NTC
+		trigger = {
+			tag = NTC
+		}
+	}
+	text = {
+		localisation_key = ADJ_HNI
+		trigger = {
+			tag = HNI
+		}
+	}
+	text = {
+		localisation_key = ADJ_MOH
+		trigger = {
+			tag = MOH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ONE
+		trigger = {
+			tag = ONE
+		}
+	}
+	text = {
+		localisation_key = ADJ_ONO
+		trigger = {
+			tag = ONO
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAY
+		trigger = {
+			tag = CAY
+		}
+	}
+	text = {
+		localisation_key = ADJ_SEN
+		trigger = {
+			tag = SEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_TAH
+		trigger = {
+			tag = TAH
+		}
+	}
+	text = {
+		localisation_key = ADJ_ATT
+		trigger = {
+			tag = ATT
+		}
+	}
+	text = {
+		localisation_key = ADJ_AGG
+		trigger = {
+			tag = AGG
+		}
+	}
+	text = {
+		localisation_key = ADJ_ATW
+		trigger = {
+			tag = ATW
+		}
+	}
+	text = {
+		localisation_key = ADJ_ARN
+		trigger = {
+			tag = ARN
+		}
+	}
+	text = {
+		localisation_key = ADJ_TIO
+		trigger = {
+			tag = TIO
+		}
+	}
+	text = {
+		localisation_key = ADJ_OSH
+		trigger = {
+			tag = OSH
+		}
+	}
+	text = {
+		localisation_key = ADJ_STA
+		trigger = {
+			tag = STA
+		}
+	}
+	text = {
+		localisation_key = ADJ_ERI
+		trigger = {
+			tag = ERI
+		}
+	}
+	text = {
+		localisation_key = ADJ_WEN
+		trigger = {
+			tag = WEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_TSC
+		trigger = {
+			tag = TSC
+		}
+	}
+	text = {
+		localisation_key = ADJ_OHK
+		trigger = {
+			tag = OHK
+		}
+	}
+	text = {
+		localisation_key = ADJ_ISL
+		trigger = {
+			tag = ISL
+		}
+	}
+	text = {
+		localisation_key = ADJ_ACO
+		trigger = {
+			tag = ACO
+		}
+	}
+	text = {
+		localisation_key = ADJ_CAO
+		trigger = {
+			tag = CAO
+		}
+	}
+	text = {
+		localisation_key = ADJ_PEO
+		trigger = {
+			tag = PEO
+		}
+	}
+	text = {
+		localisation_key = ADJ_KSK
+		trigger = {
+			tag = KSK
+		}
+	}
+	text = {
+		localisation_key = ADJ_PEN
+		trigger = {
+			tag = PEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_MLS
+		trigger = {
+			tag = MLS
+		}
+	}
+	text = {
+		localisation_key = ADJ_NEH
+		trigger = {
+			tag = NEH
+		}
+	}
+	text = {
+		localisation_key = ADJ_NAK
+		trigger = {
+			tag = NAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_HWK
+		trigger = {
+			tag = HWK
+		}
+	}
+	text = {
+		localisation_key = ADJ_CLG
+		trigger = {
+			tag = CLG
+		}
+	}
+	text = {
+		localisation_key = ADJ_KSP
+		trigger = {
+			tag = KSP
+		}
+	}
+	text = {
+		localisation_key = ADJ_MSG
+		trigger = {
+			tag = MSG
+		}
+	}
+	text = {
+		localisation_key = ADJ_WCY
+		trigger = {
+			tag = WCY
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAK
+		trigger = {
+			tag = LAK
+		}
+	}
+	text = {
+		localisation_key = ADJ_INN
+		trigger = {
+			tag = INN
+		}
+	}
+	text = {
+		localisation_key = ADJ_WAM
+		trigger = {
+			tag = WAM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AGQ
+		trigger = {
+			tag = AGQ
+		}
+	}
+	text = {
+		localisation_key = ADJ_WGD
+		trigger = {
+			tag = WGD
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZND
+		trigger = {
+			tag = ZND
+		}
+	}
+	text = {
+		localisation_key = ADJ_GUR
+		trigger = {
+			tag = GUR
+		}
+	}
+	text = {
+		localisation_key = ADJ_TEN
+		trigger = {
+			tag = TEN
+		}
+	}
+	text = {
+		localisation_key = ADJ_OGD
+		trigger = {
+			tag = OGD
+		}
+	}
+	text = {
+		localisation_key = ADJ_ZUL
+		trigger = {
+			tag = ZUL
+		}
+	}
+	text = {
+		localisation_key = ADJ_SOM
+		trigger = {
+			tag = SOM
+		}
+	}
+	text = {
+		localisation_key = ADJ_AKS
+		trigger = {
+			tag = AKS
+		}
+	}
+	text = {
+		localisation_key = ADJ_GZI
+		trigger = {
+			tag = GZI
+		}
+	}
+	text = {
+		localisation_key = ADJ_NBI
+		trigger = {
+			tag = NBI
+		}
+	}
+	text = {
+		localisation_key = ADJ_RZI
+		trigger = {
+			tag = RZI
+		}
+	}
+	text = {
+		localisation_key = ADJ_KIT
+		trigger = {
+			tag = KIT
+		}
+	}
+	text = {
+		localisation_key = ADJ_WAD
+		trigger = {
+			tag = WAD
+		}
+	}
+	text = {
+		localisation_key = ADJ_ISR
+		trigger = {
+			tag = ISR
+		}
+	}
+	text = {
+		localisation_key = ADJ_LTG
+		trigger = {
+			tag = LTG
+		}
+	}
+	text = {
+		localisation_key = ADJ_AVE
+		trigger = {
+			tag = AVE
+		}
+	}
+	text = {
+		localisation_key = ADJ_EIC
+		trigger = {
+			tag = EIC
+		}
+	}
+	text = {
+		localisation_key = ADJ_LAE
+		trigger = {
+			tag = LAE
+		}
+	}
+}

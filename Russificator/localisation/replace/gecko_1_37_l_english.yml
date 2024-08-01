@@ -1,0 +1,19 @@
+﻿l_english:
+########################################
+# CBT_9.0: GOTOVIM_9.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:32:36
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+
+
+ INSTITUTION_DEVELOPMENT_REQUIRES_REFORMED_RELIGION: "†°²ª²³µª°®¿° ©¢ª²ª ²¡³² ´¯ª¢°ª¾ ®ª¥ªª"
+ discord_button_tooltip: "‰þ²ª ° ²°ªµ³ EUIV Discord"
+ instagram_button_tooltip: "‰þ²ª ° ²°ªµ³ EUIV ¢ Instagram"
+ youtube_button_tooltip: "‰þ²ª ° ²°ªµ³ EUIV ° YouTube"
+ wiki_button_tooltip: "‰þ²ª ° ¢ª¬ª EUIV"
+ HAS_ACTIVE_FERVOR_SPECIFIC: "$WHO|Y$ ª¯² ¬²ª¢°ºþ ¼´´¬² $NAME|Y$ Fervor."
+ HAS_NOT_ACTIVE_FERVOR_SPECIFIC: "$WHO|Y$  ª¯² ¬²ª¢°¥ ¼´´¬² $NAME|Y$ Fervor."
+ ADD_ACTIVE_FERVOR_EFFECT: "¬²ª¢ª³² ¼´´¬² $NAME|Y$ Fervor."
+ REMOVE_ACTIVE_FERVOR_EFFECT: "ƒ¬²ª¢ª³² ¼´´¬² $NAME|Y$ Fervor."
+ REGENCY_ENDING_DESC_NOEXTENSION_POSSIBLE: "ÏŒ Ð¥°²²¢ ¬ ©¬°¶ª²¾, ª ° ²° ¢©þ¦² ¢Œ ®¦°ª¬.\nÙ¬³¸¾ ª® ±²°©ªþ: $CLAIM$.\n¨¯ª², ¶²¡º ±¯²²¿ ¢þ ³¦."
+ BUILD_GREAT_PROJECT_COST: "™² ¡³¦² ²ª²¿ $COST|Y$¤"
+ BUILD_GREAT_PROJECT_TIME: "™² ©þ¯² $DAYS|Y$ ¦°þ."

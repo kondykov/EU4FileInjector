@@ -1,0 +1,44 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ qizilbash:0 "º©º®¡Œ"
+ QIZILBASH_NAME:0 "º©º®¡Œ $NAME$"
+ MODIFIER_ALLOWED_QIZILBASH_FRACTION:0 "‰¦®¿°¾ ¦®¾ ª®º º©º®¡Œ"
+ MODIFIER_LOCAL_HAS_QIZILBASH:0 "‰¢ª°µª¾ ©Œ² º©º®¡Œ"
+ QIZILBASH_FORCELIMIT:0 "º ¯¨¯ ©¢¡¢²¿ ¦ $LIMIT|Y$ §Gº©º®¡Œ§! ¡®¥¦¾:\n$FLAMOUNT|Y$ ª© $PERC|%Y$ °Œª ³±³²°º ¢þ¬ — ®ª¯ª² $FL$:\n"
+ QIZILBASH_LIMIT_CULTURE:0 "$PROVINCE$ ° ¾¢®¾²¾ °ª §Y²³µ¬ª¯§!, §Y©¡þ¦¨°¬ª¯§! °ª §Y²³¬¯°¬ª¯ §! ¬³®¿²³º ª ° ¾¢®¾²¾ ¶²¿½ °Œþ §Y²®ªµº§!, ±¼²¯³ ¢º ° ¯¨² °°¾²¿ º©º®¡Œ ©¦¿."
+ ADD_QIZILBASH_SUB_UNIT_EFFECT:0 "‰®³¶ª² «§GQizilbash§!» $UNIT$ ¢ $WHERE|Y$."
+ QIZILBASH_DESC:0 "º©º®¡Œª — ¢ª°º-Œªª²º ²³¬¯°¬¥ ±ª¨¦°ª¾ ª© ©¡þ¦¨°¾©º¶°º ±®¯°. °¢°°º ³´ªþ¬ª¯ ¦°¯ Ô´¢ªþ¾, °ª ±¦²¢®¾½² ¡þ ¼®ª²°³½ ±²³ ª ¬¢®ª½ ¥³¦²¢, ¬²º ±ª¡®ª ±®ª²ª¶¬³½ ¢®²¿ ª ²®ª ±¾¯º¯ ¬°¬³°²¯ ©°²ª. €³¦³¶ª Œªª²¬þ ¡¢þ ª®þ, º©º®¡Œª ±ª¦¨ª¢½²¾ Œªª²¬ª ¦¬²ª° ª ±¼²¯³ ±²ª¢²¾² ®½¡º¯ °²ªŒªª²¬ª¯ °²°ª¾¯  ²°º ¥³¦²¢.\n®ª¶²¢ º©º®¡Œþ, ¬² ¯¨° ±²ª²¿, ©¢ªª² ² ¢Œª ±ª¢ª®¥ªþ ±¯²¿¾ ¦®¾ §Y º©º®¡Œ§! ®¢ª ª ¯¨² ¡º²¿ °¡° ¢ ±¢ª°µª¾, ¬²º ¾¢®¾½²¾ ®ª¡ §Y²³µ¬ª¯ª§!, §Y©¡þ¦¨°¬ª¯ª§! ª®ª §Y²³¬¯°¬þ§! ¬³®¿²³º ª®ª ¾¢®¾½²¾ ¶²¿½ §Y²®ª¶°¥ ¥³¦²¢§!."
+ REGCAT_qizilbash:0 "º©º®¡Œ"
+ QIZILBASH_REGIMENT:0 "º©º®¡Œ¬ªþ ±®¬\n$EFFECT$"
+ HAVE_LESS_QIZILBASH_THAN:0 "†¯þ² ¯°¿Œ Qizilbash, ¶¯ §Y$VALUE$§!.\n"
+ qizilbash_modifier:0 "º©º®¡Œ °°¾²"
+ HAVE_AT_LEAST_QIZILBASH_THAN:0 "†¯²¿ ¬¬ ¯ª°ª¯³¯ §Y$VALUE$§! º©º®¡Œ.\n"
+ MODIFIER_AMOUNT_OF_QIZILBASH:0 "‰¦® ª®º º©º®¡Œ"
+ MODIFIER_HAS_QIZILBASH:0 "Ô²° ±©¢®¾² º©º®¡Œ"
+ qizilbash_regiment:0 "€°³ ² º©º®¡Œ"
+ ONLY_QIZILBASH_MODIFIER:0 "§YÏ®ª¾² ²®¿¬ ° º©º®¡Œ¬ª ±®¬ª§!"
+ mamluks:0 "¯¯®½¬ª"
+ MAMLUKS_NAME:0 "¯®½¬ª $NAME$"
+ MODIFIER_ALLOWED_MAMLUKS_FRACTION:0 "‰¦®¿°¾ ¦®¾ ª®º ¯¯®½¬¢"
+ MODIFIER_LOCAL_HAS_MAMLUKS:0 "‰¢ª°µª¾ ©Œ² ¯¯®½¬¯"
+ MAMLUKS_FORCELIMIT:0 "º ¯¨¯ ©¢¡¢²¿ ¦ $LIMIT|Y$ §G¯¯®½¬¢§! ¡®¥¦¾:\n$FLAMOUNT|Y$ ª© $PERC|%Y$ °Œª ³±³²°º ¢þ¬ — ®ª¯ª² $FL$:\n"
+ MAMLUKS_LIMIT_CULTURE:0 "$PROVINCE$ ° ª¯² ±¢ °°ª¯²¿ ©¦¿ ¯¯®½¬¢."
+ ADD_MAMLUKS_SUB_UNIT_EFFECT:0 "‰®³¶ª² «§G¯¯®½¬¢§!» $UNIT$ ¢ $WHERE|Y$."
+ MAMLUKS_DESC:0 "¯®½¬ª — ®¦²º-¡º, ¨½¸ª¾ ±Œª ª ¬°°º."
+ REGCAT_mamluks:0 "¯¯®½¬ª"
+ MAMLUKS_REGIMENT:0 "¯®½¬¬ªþ ±®¬\n$EFFECT$"
+ HAVE_LESS_MAMLUKS_THAN:0 "†¯þ² ¯°¿Œ ¯¯®½¬¢, ¶¯ §Y$VALUE$§!.\n"
+ mamluks_modifier:0 "¯®½¬ª °°¾²º"
+ HAVE_AT_LEAST_MAMLUKS_THAN:0 "†¯²¿ ¬¬ ¯ª°ª¯³¯ §Y$VALUE$§! ¯¯®½¬¢.\n"
+ MODIFIER_AMOUNT_OF_MAMLUKS:0 "‰¦® ª®º ¯¯®½¬¢"
+ MODIFIER_HAS_MAMLUKS:0 "Ô²° ©Œ² ¯¯®½¬¢"
+ mamluks_regiment:0 "€°³ ² ¯¯®½¬¢"
+ ONLY_MAMLUKS_MODIFIER:0 "§YÏ®ª¾² ²®¿¬ ° ¯¯®½¬¬ª ±®¬ª§!"
+ mechanic_is_eligible_for_hre_emperor_no:0 " ª¯² ±¢ ° §Y†¯±²²¢ ÔÐ†§!"
+ mechanic_is_eligible_for_hre_emperor_yes:0 "†¯² ±¢ ° §Y†¯±²²¢ ÔÐ†§!"

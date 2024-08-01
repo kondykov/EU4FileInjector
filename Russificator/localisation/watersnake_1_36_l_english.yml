@@ -1,0 +1,32 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ NO_NATIVES_BLACK_FLAG:1 "§R¢©¯¨° ²¬¢²¿ ²³©¯µ¢, °¦¾¿ ¢ ª©¥°°ªª§!"
+ NO_SELECT_LEADER_SHIP:1 "§R™²² ®ª¦ ©¥³¨° ° ¬¡®¿ ª ° ¯¨² ¡º²¿ ±°©°¶°.§!"
+ NATIVE_TRIBE_VAL:0 "™² ²° ° ª±®¿©³² ¯°ª¬³ ®¥ª²ª¯°²ª"
+ DIPLO_RIVAL_ENEMIES_TOO_FAR_AWAY:0 "ƒ®¬¾ ¢þ° ±²ª¢ ±°ª¬:"
+ can_upgrade_trade_centre_instant:0 "§YÙ¥¢ºþ µ°²(º) ¯¨° ³®³¶Œª²¿§!"
+ can_upgrade_trade_centre_delayed:0 "Ô®¦³½¸ª µ°²º ²¥¢®ª ¯¥³² ¡º²¿ ³®³¶Œ°º:\n$LIST$"
+ TRADE_CENTRE_UP_WHERE:1 "$NAME|Y$ (‹¢°¿ $LEVEL$)"
+ can_estate_interaction_instant:0 "§Yƒ²³±° ¢©ª¯¦þ²¢ª  °¦¢ª¨ª¯²¿½§!"
+ can_estate_interaction_delayed:0 "ƒ²³±°º ®¦³½¸ª ¢©ª¯¦þ²¢ª¾  °¦¢ª¨ª¯²¿½:\n$LIST|Y$"
+ COUNTRIES_CAUSING_CALL_TO_PEACE:0 "Ô®¦³½¸ª ²°º ¢º©º¢½² ³¢®ª¶°ª ¢°°¥ ª²¸°ª¾:\n$LIST|Y$"
+ can_estate_seize_land_instant:0 "§YÏº ¯¨² ©¢²ª²¿ ©¯®½§!"
+ can_estate_seize_land_delayed:0 "Ïº ¯¨² ©¢²ª²¿ ©¯®½ ³ ±¯²ªþ, ¶²¡º µ°²®ª©¢²¿ ¬®¢²¢."
+ can_estate_call_diet_instant:0 "§YÏº ¯¨² ¢º©¢²¿ ƒª²³§!"
+ can_estate_call_diet_delayed:0 "Ïº ¯¨² ¡²¿ þ¯, ¶²¡º ±®³¶²¿ ±¦®¨°ª¾ ®¢ªþ."
+ can_estate_sell_land_instant:0 "§YÏº ¯¨² ±¦¢²¿ ²ª²³®º§!"
+ can_estate_sell_land_delayed:0 "Ïº ¯¨² ±¦²¿ Crownland ¬¯±°ªª Estates ¢ ¡¯° ° ¦³¬²º."
+ NAVAL_DOCTRINE_CHANGE_COST:0 "™² ¡³¦² ²ª²¿ ¢¯ $COST|Y2$¤, ±¬®¿¬³ ¢¯²ª¯²¿ ¢Œ¥ ´®² ²¢®¾² $SAILORS|Y0$ ¯¾¬¢, ª ¦² ¢¯ ®¦³½¸ªþ ±²¾°°ºþ ¼´´¬²:"
+ SHIFT_SPEND_MANPOWER_TO_BOOST_PROGRESS:0 "§YShift ¨¯ª² §!, ¶²¡º ª±®¿©¢²¿ $NUMBER|Y$ ¡¶³½ ª®³ ¦®¾ ±¦¢ª¨°ª¾ ±¬² ° $DAYS|Y$ ¦°þ."
+ SHIFT_SPEND_MONEY_TO_BOOST_PROGRESS:0 "§Y¨¯ª² ¬®¢ªŒ³ Shift§!, ¶²¡º  ±¯¸¿½ $COST|Y$¤ ±°²ª ±¬² ° $DAYS|Y$ ¦°þ."
+ THREATENED_ATTITUDE_CANNOT_SET_TOOFAR:0 "§R$COUNTRY|Y$ °¦ª²¾ ®ªŒ¬¯ ¦®¬, ¶²¡º ³¥¨²¿ $PLAYER|Y$.§!"
+ LIBERTY_DESIRE_MAX:0 "§R- $SUBJECT$ °¢©¯¨° ¡®¿Œ ³±¬ª²¿.§!"
+ GOTO_TRADENODE_DISABLED:0 "§RÏº ¸ ° ¡°³¨ª®ª $NAME$ ²¥¢ºþ ³©®§!"
+ want_your_and_subject_provinces:0 "Û¶² ±¢ª°µªª ¢Œª ª ¢Œª ±¦¦°°º"
+ HAVE_CORE_PROVINCE_IN: "†¯²¿ ¾¦ ° $PROVINCE$"

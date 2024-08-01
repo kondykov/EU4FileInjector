@@ -1,0 +1,21 @@
+﻿########################################
+# LOC_VER: SKLEYKA_8.0 CP: UTF-8-BOM
+# TIMESTAMP: 07.05.2024 16:12:25
+# YML PARSER 0.4.1 FOR GEKS © Spectrum
+########################################
+
+l_english:
+
+ HAS_LEADER_TRIGGER_YES:0 "²¿ ®ª¦"
+ HAS_LEADER_TRIGGER_NO:0 "² ®ª¦"
+ MODIFIER_YEARS_TO_INTEGRATE_PERSONAL_UNION:0 "ˆ² ¦ ª°²¥µªª ®ª¶°þ ³°ªª"
+ 031_battleoflepanto:0 "Battle of Lepanto - Metal Version"
+ 031_kingscourt:0 "King's Court - Metal Version"
+ 031_maintheme:0 "Main Theme - Metal Version"
+ 031_rideforthvictoriously:0 "Ride Forth Victoriously - Metal Version"
+ 031_thestageisset:0 "The Stage is Set - Metal Version"
+ 037_commerceinthepeninsula:0 "Commerce in the Peninsula - Metal Version"
+ 037_eire:0 "Eire - Metal Version"
+ 037_mykingdom:0 "My Kingdom - Metal Version"
+ 037_theageofdiscovery:0 "The Age of Discovery - Metal Version"
+ 037_thestonemasons:0 "The Stonemasons - Metal Version"
