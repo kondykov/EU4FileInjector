@@ -2,28 +2,35 @@
 
 public static class Menu
 {
-    public static void WriteMenu(List<Option> options, Option selectedOption)
+    private static void WriteMenu(List<Option> options, Option selectedOption)
     {
-        Console.Clear();
-        Console.WriteLine($"{Program.AppName}. Version {Program.Version}\n");
-        
+        Console.SetCursorPosition(0, 0);
+        Program.WriteAppInfo();
         foreach (var option in options)
-        {
-            Console.Write(option == selectedOption ? "> " : " ");
-            Console.WriteLine(option.Name);
-        }
+            if (option == selectedOption)
+            {
+                Console.BackgroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.WriteLine($"{option.Name}");
+                Console.ResetColor();
+            }
+            else
+            {
+                Console.WriteLine(option.Name, 30);
+            }
     }
 
     public static void Run(List<Option> options)
     {
         if (options.Count <= 0) return;
-        
+        Console.Clear();
+        Console.CursorVisible = false;
         var index = 0;
         WriteMenu(options, options[index]);
         ConsoleKeyInfo keyInfo;
         do
         {
-            keyInfo = Console.ReadKey();
+            keyInfo = Console.ReadKey(true);
             switch (keyInfo.Key)
             {
                 case ConsoleKey.DownArrow:
@@ -32,6 +39,7 @@ public static class Menu
                         index++;
                         WriteMenu(options, options[index]);
                     }
+
                     break;
                 case ConsoleKey.UpArrow:
                     if (index - 1 >= 0)
@@ -39,6 +47,7 @@ public static class Menu
                         index--;
                         WriteMenu(options, options[index]);
                     }
+
                     break;
                 case ConsoleKey.Enter:
                     options[index].Selected.Invoke();

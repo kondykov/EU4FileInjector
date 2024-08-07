@@ -4,9 +4,8 @@ namespace EU4FileInjector;
 
 public class Injector
 {
-    private static readonly string WorkDirectory = Environment.CurrentDirectory;
-    public static string Path { set; get; } = null!;
     private const string ExecutableFileName = "eu4.exe";
+    private static readonly string WorkDirectory = Environment.CurrentDirectory;
 
     private static readonly string AppdataLocalPath =
         Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
@@ -16,27 +15,33 @@ public class Injector
         @"Injection\cream_api.ini",
         @"Injection\steam_api.dll",
         @"Injection\steam_api64.dll",
-        @"Injection\steam_api64_o.dll",
+        @"Injection\steam_api64_o.dll"
     ];
 
     private readonly List<string> _localAppDataLauncherFolders = [];
+    public static string Path { set; get; } = null!;
 
     private bool CheckExistsInjectionFiles()
     {
         if (Path == null!)
         {
             Console.Clear();
+            Program.WriteAppInfo();
             Console.WriteLine("The path is not chosen.");
             Thread.Sleep(3000);
             return false;
         }
+
         if (_injectionFilesPaths.Select(File.Exists).Any(e => e == false))
         {
             Console.Clear();
+            Program.WriteAppInfo();
             Console.WriteLine("The injection folder is empty. Aborted.");
             Thread.Sleep(3000);
             return false;
-        };
+        }
+
+        ;
         return true;
     }
 
@@ -64,11 +69,12 @@ public class Injector
                 File.Copy($@"{WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}", true);
             Console.WriteLine($"File {filePath.Split(System.IO.Path.DirectorySeparatorChar).Last()} injected.");
         }
+
         Menu.Run(Program.DefaultOptions);
     }
 
     public void Run()
-    {        
+    {
         if (!CheckExistsInjectionFiles()) Menu.Run(Program.DefaultOptions);
         FindLocalAppdataLauncherFolders();
         var files = Directory.GetFiles(Path);

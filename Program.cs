@@ -4,9 +4,10 @@ namespace EU4FileInjector;
 
 public static class Program
 {
-    public const string AppName = "EU4Injector";
-    public const string Version = "v1.0"; 
-    public static readonly List<Option> DefaultOptions = 
+    private const string AppName = "EU4Injector";
+    private const string Version = "v1.1";
+
+    public static readonly List<Option> DefaultOptions =
     [
         new Option("About", WriteAboutMessage),
         new Option("Select game folder", ReadGameRootFolder),
@@ -23,8 +24,14 @@ public static class Program
             Inject();
             return;
         }
+
         Menu.Run(DefaultOptions);
         Console.ReadKey();
+    }
+
+    public static void WriteAppInfo()
+    {
+        Console.WriteLine($"{AppName}. Version {Version}\n");
     }
 
     private static void Inject()
@@ -37,16 +44,20 @@ public static class Program
     private static void WriteAboutMessage()
     {
         Console.Clear();
+        WriteAppInfo();
         Console.WriteLine("Program for injecting files into EU4.");
         Thread.Sleep(3000);
-        Menu.WriteMenu(DefaultOptions, DefaultOptions.First());
+        Menu.Run(DefaultOptions);
     }
-    
+
     private static void ReadGameRootFolder()
     {
         Console.Clear();
+        WriteAppInfo();
+        Console.CursorVisible = true;
         Console.Write("Write path to root folder: ");
         var path = Console.ReadLine();
+        Console.CursorVisible = false;
         if (Directory.Exists(path))
         {
             if (!Directory.GetFiles(path).Contains("eu4.exe"))
@@ -58,6 +69,7 @@ public static class Program
                 if (key != "yes") Menu.Run(DefaultOptions);
                 Injector.Path = path;
             }
+
             Inject();
         }
         else
