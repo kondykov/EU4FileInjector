@@ -1,10 +1,11 @@
-﻿namespace EU4FileInjector;
+﻿using EU4FileInjector.Interface;
+
+namespace EU4FileInjector;
 
 public class Injector
 {
-    //private const string DebugGamePath = @"L:\Steam\steamapps\common\Europa Universalis IV";
     private static readonly string WorkDirectory = Environment.CurrentDirectory;
-    private const string DebugGamePath = @"C:\Users\kondy\OneDrive\Рабочий стол\Новая папка";
+    public static string Path { set; get; } = null!;
     private const string ExecutableFileName = "eu4.exe";
 
     private static readonly string AppdataLocalPath =
@@ -20,10 +21,23 @@ public class Injector
 
     private readonly List<string> _localAppDataLauncherFolders = [];
 
-    private void CheckExistsInjectionFiles()
+    private bool CheckExistsInjectionFiles()
     {
+        if (Path == null!)
+        {
+            Console.Clear();
+            Console.WriteLine("The path is not chosen.");
+            Thread.Sleep(3000);
+            return false;
+        }
         if (_injectionFilesPaths.Select(File.Exists).Any(e => e == false))
-            throw new FileNotFoundException();
+        {
+            Console.Clear();
+            Console.WriteLine("The injection folder is empty. Aborted.");
+            Thread.Sleep(3000);
+            return false;
+        };
+        return true;
     }
 
     private void FindLocalAppdataLauncherFolders()
@@ -36,27 +50,31 @@ public class Injector
 
     private void Inject()
     {
-        CheckExistsInjectionFiles();
-        FindLocalAppdataLauncherFolders();
         if (_localAppDataLauncherFolders.Count <= 0)
-            throw new DirectoryNotFoundException();
+        {
+            Console.WriteLine("");
+            return;
+        }
 
         foreach (var filePath in _injectionFilesPaths)
         {
-            var last = filePath.Split(Path.DirectorySeparatorChar).Last();
-            File.Copy($@"{WorkDirectory}\{filePath}", $@"{DebugGamePath}\{last}", true);
+            var last = filePath.Split(System.IO.Path.DirectorySeparatorChar).Last();
+            File.Copy($@"{WorkDirectory}\{filePath}", $@"{Path}\{last}", true);
             foreach (var launcherFolder in _localAppDataLauncherFolders)
                 File.Copy($@"{WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}", true);
-            Console.WriteLine($"File {filePath.Split(Path.DirectorySeparatorChar).Last() } injected.");
+            Console.WriteLine($"File {filePath.Split(System.IO.Path.DirectorySeparatorChar).Last()} injected.");
         }
+        Menu.Run(Program.DefaultOptions);
     }
 
     public void Run()
-    {
-        var files = Directory.GetFiles(DebugGamePath);
+    {        
+        if (!CheckExistsInjectionFiles()) Menu.Run(Program.DefaultOptions);
+        FindLocalAppdataLauncherFolders();
+        var files = Directory.GetFiles(Path);
         foreach (var file in files)
         {
-            var last = file.Split(Path.DirectorySeparatorChar).Last();
+            var last = file.Split(System.IO.Path.DirectorySeparatorChar).Last();
             if (last != ExecutableFileName) continue;
             Console.WriteLine($"Executable file {last} found.");
             Inject();
