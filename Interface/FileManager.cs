@@ -5,7 +5,7 @@ public static class FileManager
     public static readonly List<Option> Options =
     [
         new Option("Select game folder", Program.ReadGameRootFolder),
-        new Option("Open file manager", () => GenerateOptions(@"C:\")),
+        new Option("Open file manager", GetDriversOptions),
         new Option("Back", () => Menu.Handle(Program.DefaultOptions))
     ];
 
@@ -13,7 +13,8 @@ public static class FileManager
     {
         Console.Clear();
         Program.WriteAppInfo();
-        Console.WriteLine($"\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");
+        Console.WriteLine(
+            "\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");
         Console.WriteLine();
         var last = options[0].Name.Split(Path.DirectorySeparatorChar).Last();
         var path = options[0].Name.Remove(options[0].Name.Length - last.Length);
@@ -99,6 +100,7 @@ public static class FileManager
                             Console.SetCursorPosition(cursorPos.Left, cursorPos.Top);
                             break;
                         }
+
                         SelectPath(options[index].Name);
                     }
 
@@ -160,12 +162,17 @@ public static class FileManager
         }
         catch
         {
-            List<Option> options = [];
-            options.AddRange(GetDrivers().Select(driver => new Option(driver.Name, () => OpenFolder(driver.Name))));
-            Handle(options);
+            GetDriversOptions();
         }
     }
-    
+
+    private static void GetDriversOptions()
+    {
+        List<Option> options = [];
+        options.AddRange(GetDrivers().Select(driver => new Option(driver.Name, () => OpenFolder(driver.Name))));
+        Handle(options);
+    }
+
     private static void GenerateOptions(string? path)
     {
         var folders = Directory.GetDirectories(path);
