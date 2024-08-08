@@ -11,9 +11,8 @@ public static class FileManager
 
     private static void WriteMenu(List<Option> options, Option selectedOption)
     {
-        Console.SetCursorPosition(0, 0);
+        Console.Clear();
         Program.WriteAppInfo();
-
         Console.WriteLine($"\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");
         Console.WriteLine();
         var last = options[0].Name.Split(Path.DirectorySeparatorChar).Last();
