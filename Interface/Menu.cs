@@ -2,6 +2,8 @@
 
 public static class Menu
 {
+    
+    
     private static void WriteMenu(List<Option> options, Option selectedOption)
     {
         Console.SetCursorPosition(0, 0);
@@ -9,8 +11,7 @@ public static class Menu
         foreach (var option in options)
             if (option == selectedOption)
             {
-                Console.BackgroundColor = ConsoleColor.Yellow;
-                Console.ForegroundColor = ConsoleColor.Black;
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"{option.Name}");
                 Console.ResetColor();
             }
@@ -20,7 +21,7 @@ public static class Menu
             }
     }
 
-    public static void Run(List<Option> options)
+    public static void Handle(List<Option> options, bool isFileManager = false)
     {
         if (options.Count <= 0) return;
         Console.Clear();

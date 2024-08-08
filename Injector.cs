@@ -70,12 +70,12 @@ public class Injector
             Console.WriteLine($"File {filePath.Split(System.IO.Path.DirectorySeparatorChar).Last()} injected.");
         }
 
-        Menu.Run(Program.DefaultOptions);
+        Menu.Handle(Program.DefaultOptions);
     }
 
     public void Run()
     {
-        if (!CheckExistsInjectionFiles()) Menu.Run(Program.DefaultOptions);
+        if (!CheckExistsInjectionFiles()) Menu.Handle(Program.DefaultOptions);
         FindLocalAppdataLauncherFolders();
         var files = Directory.GetFiles(Path);
         foreach (var file in files)

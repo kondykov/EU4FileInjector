@@ -12,6 +12,7 @@ public static class Program
         new Option("About", WriteAboutMessage),
         new Option("Select game folder", ReadGameRootFolder),
         new Option("Execute injection", Inject),
+        new Option("File manager (BETA)", () => Menu.Handle(FileManager.Options)),
         new Option("Exit", () => Environment.Exit(0))
     ];
 
@@ -25,7 +26,7 @@ public static class Program
             return;
         }
 
-        Menu.Run(DefaultOptions);
+        Menu.Handle(DefaultOptions);
         Console.ReadKey();
     }
 
@@ -47,7 +48,7 @@ public static class Program
         WriteAppInfo();
         Console.WriteLine("Program for injecting files into EU4.");
         Thread.Sleep(3000);
-        Menu.Run(DefaultOptions);
+        Menu.Handle(DefaultOptions);
     }
 
     private static void ReadGameRootFolder()
@@ -66,7 +67,7 @@ public static class Program
                 Console.WriteLine($"Path: \"{path}\".");
                 Console.WriteLine("File \"eu4.exe\" not found. Continue? (yes/no)");
                 var key = Console.ReadLine();
-                if (key != "yes") Menu.Run(DefaultOptions);
+                if (key != "yes") Menu.Handle(DefaultOptions);
                 Injector.Path = path;
             }
 
@@ -76,7 +77,7 @@ public static class Program
         {
             Console.WriteLine("Invalid path!");
             Thread.Sleep(3000);
-            Menu.Run(DefaultOptions);
+            Menu.Handle(DefaultOptions);
         }
     }
 }
