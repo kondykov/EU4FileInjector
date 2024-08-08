@@ -13,7 +13,7 @@ public static class Program
         new Option("About", WriteAboutMessage),
         new Option("Execute injection", Inject),
         new Option("Show selected path", Injector.ShowSelectedPath),
-        new Option("File manager (BETA)", () => Menu.Handle(FileManager.Options)),
+        new Option("File manager", () => Menu.Handle(FileManager.Options)),
         new Option("Exit", () => Environment.Exit(0))
     ];
 
