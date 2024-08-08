@@ -11,7 +11,8 @@ public static class FileManager
 
     private static void WriteMenu(List<Option> options, Option selectedOption)
     {
-        Console.Clear();
+        if (options.Count >= Console.BufferHeight - 5) Console.Clear();
+        Console.SetCursorPosition(0, 0);
         Program.WriteAppInfo();
         Console.WriteLine(
             "\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");

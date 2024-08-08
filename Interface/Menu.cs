@@ -6,6 +6,7 @@ public static class Menu
     
     private static void WriteMenu(List<Option> options, Option selectedOption)
     {
+        if (options.Count >= Console.BufferHeight - 5) Console.Clear();
         Console.SetCursorPosition(0, 0);
         Program.WriteAppInfo();
         foreach (var option in options)
