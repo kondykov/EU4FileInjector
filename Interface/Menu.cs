@@ -21,12 +21,13 @@ public static class Menu
             }
     }
 
-    public static void Handle(List<Option> options, bool isFileManager = false)
+    public static void Handle(List<Option> options, string message = null!)
     {
         if (options.Count <= 0) return;
         Console.Clear();
         Console.CursorVisible = false;
         var index = 0;
+        Console.WriteLine(message);
         WriteMenu(options, options[index]);
         ConsoleKeyInfo keyInfo;
         do

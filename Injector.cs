@@ -5,7 +5,6 @@ namespace EU4FileInjector;
 public class Injector
 {
     private const string ExecutableFileName = "eu4.exe";
-    private static readonly string WorkDirectory = Environment.CurrentDirectory;
 
     private static readonly string AppdataLocalPath =
         Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
@@ -40,17 +39,27 @@ public class Injector
             Thread.Sleep(3000);
             return false;
         }
-
-        ;
+        PathRepository.SavePath(Path);
         return true;
     }
 
     private void FindLocalAppdataLauncherFolders()
     {
-        var directories = Directory.GetDirectories($@"{AppdataLocalPath}\Programs\Paradox Interactive\launcher");
-        foreach (var directory in directories)
-            if (directory.Contains("launcher-v"))
-                _localAppDataLauncherFolders.Add(directory);
+        try
+        {
+            var directories = Directory.GetDirectories($@"{AppdataLocalPath}\Programs\Paradox Interactive\launcher");
+            foreach (var directory in directories)
+                if (directory.Contains("launcher-v"))
+                    _localAppDataLauncherFolders.Add(directory);
+        }
+        catch (Exception e)
+        {
+            Console.Clear();
+            Program.WriteAppInfo();
+            Console.WriteLine(e.Message);
+            Thread.Sleep(5000);
+            Menu.Handle(Program.DefaultOptions);
+        }
     }
 
     private void Inject()
@@ -64,15 +73,16 @@ public class Injector
         foreach (var filePath in _injectionFilesPaths)
         {
             var last = filePath.Split(System.IO.Path.DirectorySeparatorChar).Last();
-            File.Copy($@"{WorkDirectory}\{filePath}", $@"{Path}\{last}", true);
+            File.Copy($@"{Program.WorkDirectory}\{filePath}", $@"{Path}\{last}", true);
             foreach (var launcherFolder in _localAppDataLauncherFolders)
-                File.Copy($@"{WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}", true);
+                File.Copy($@"{Program.WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}", true);
             Console.WriteLine($"File {filePath.Split(System.IO.Path.DirectorySeparatorChar).Last()} injected.");
         }
 
         Menu.Handle(Program.DefaultOptions);
     }
 
+    // TODO: Доделать ijnection
     public void Run()
     {
         if (!CheckExistsInjectionFiles()) Menu.Handle(Program.DefaultOptions);
@@ -85,5 +95,10 @@ public class Injector
             Console.WriteLine($"Executable file {last} found.");
             Inject();
         }
+        Console.Clear();
+        Program.WriteAppInfo();
+        Console.WriteLine("Finished!");
+        Thread.Sleep(3000);
+        Menu.Handle(Program.DefaultOptions);
     }
 }

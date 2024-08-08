@@ -1,10 +1,11 @@
 ﻿namespace EU4FileInjector.Interface;
 
-public class FileManager
+public static class FileManager
 {
     public static readonly List<Option> Options =
     [
-        new Option("Test option", () => GenerateOptions(@"C:\Users\kondy\Desktop\goodbyedpi-0.2.2")),
+        new Option("Select game folder", Program.ReadGameRootFolder),
+        new Option("Open file manager", () => GenerateOptions(@"C:\")),
         new Option("Back", () => Menu.Handle(Program.DefaultOptions))
     ];
 
@@ -13,14 +14,16 @@ public class FileManager
         Console.SetCursorPosition(0, 0);
         Program.WriteAppInfo();
 
-        Console.WriteLine($"Left arrow \"exit from folder\" | Enter \"select folder or file\"");
-        Console.WriteLine($"Path \"{options[0].Name}\"");
+        Console.WriteLine($"\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");
+        Console.WriteLine();
+        var last = options[0].Name.Split(Path.DirectorySeparatorChar).Last();
+        var path = options[0].Name.Remove(options[0].Name.Length - last.Length);
+        Console.WriteLine(options[0].Name.Length <= 3 ? "Select driver: " : $"Path \"{path}\"");
 
         foreach (var option in options)
             if (option == selectedOption)
             {
-                Console.BackgroundColor = ConsoleColor.Yellow;
-                Console.ForegroundColor = ConsoleColor.Black;
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 try
                 {
                     if (option.Name.Split(Path.DirectorySeparatorChar)[1] == string.Empty)
@@ -87,18 +90,37 @@ public class FileManager
                         Directory.GetDirectories(options[index].Name);
                         OpenFolder(options[index].Name);
                     }
-                    catch
+                    catch (Exception e)
                     {
-                        SelectFile(options[index].Name);
+                        if (e.Message.Contains("is denied"))
+                        {
+                            var cursorPos = Console.GetCursorPosition();
+                            Console.SetCursorPosition(0, 3);
+                            Console.WriteLine(e.Message);
+                            Console.SetCursorPosition(cursorPos.Left, cursorPos.Top);
+                            break;
+                        }
+                        SelectPath(options[index].Name);
                     }
 
                     break;
                 case ConsoleKey.Enter:
-                    options[index].Selected.Invoke();
+                    if (!IsAvailable(options[index].Name)) break;
+                    SelectPath(options[index].Name);
                     index = 0;
                     break;
             }
         } while (keyInfo.Key != ConsoleKey.X);
+    }
+
+    private static void SelectPath(string path)
+    {
+        Injector.Path = path;
+        Console.Clear();
+        Program.WriteAppInfo();
+        Console.WriteLine($"\nSelected {path}.");
+        Thread.Sleep(3000);
+        Menu.Handle(Program.DefaultOptions);
     }
 
     private static DriveInfo[] GetDrivers()
@@ -106,9 +128,21 @@ public class FileManager
         return DriveInfo.GetDrives();
     }
 
+    private static bool IsAvailable(string path)
+    {
+        try
+        {
+            var tmp = Directory.GetDirectories(path);
+            return true;
+        }
+        catch
+        {
+            return File.Exists(path);
+        }
+    }
+
     private static void OpenFolder(string path, bool isDriver = false)
     {
-        Console.WriteLine($"Folder {path.Split(Path.DirectorySeparatorChar).Last()}");
         GenerateOptions(path);
     }
 
@@ -132,29 +166,13 @@ public class FileManager
             Handle(options);
         }
     }
-
-    private static void SelectFile(string path)
-    {
-        Console.WriteLine($"File {path.Split(Path.DirectorySeparatorChar).Last()}");
-    }
-
+    
     private static void GenerateOptions(string? path)
     {
         var folders = Directory.GetDirectories(path);
-        var files = Directory.GetFiles(path);
         var options = folders.Select(folder => new Option(folder, () => OpenFolder(folder))).ToList();
-        options.AddRange(files.Select(file => new Option(file, () => SelectFile(file))));
+        //var files = Directory.GetFiles(path);
+        //options.AddRange(files.Select(file => new Option(file, () => SelectPath(file))));
         Handle(options);
-        /*try
-        {
-            if (path?.Split(Path.DirectorySeparatorChar)[1] == string.Empty)
-                throw new Exception();
-        }
-        catch
-        {
-            List<Option> options = [];
-            options.AddRange(GetDrivers().Select(driver => new Option(driver.Name, () => OpenFolder(driver.Name))));
-            Handle(options, true);
-        }*/
     }
 }
