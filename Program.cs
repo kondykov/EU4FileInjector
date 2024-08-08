@@ -5,17 +5,18 @@ namespace EU4FileInjector;
 public static class Program
 {
     private const string AppName = "EU4Injector";
-    private const string Version = "Beta v1.2";
+    private const string Version = "v1.2";
     public static readonly string WorkDirectory = Environment.CurrentDirectory;
 
     public static readonly List<Option> DefaultOptions =
     [
         new Option("About", WriteAboutMessage),
         new Option("Execute injection", Inject),
+        new Option("Show selected path", Injector.ShowSelectedPath),
         new Option("File manager (BETA)", () => Menu.Handle(FileManager.Options)),
         new Option("Exit", () => Environment.Exit(0))
     ];
-    
+
 
     private static void Main(string[] args)
     {
@@ -23,10 +24,10 @@ public static class Program
         foreach (var arg in args)
         {
             if (!arg.Contains("--path?")) continue;
-            Injector.Path = arg.Remove(0,7);
+            Injector.Path = arg.Remove(0, 7);
             Console.WriteLine(arg.Remove(7));
         }
-        
+
         if (args.Contains("--run"))
         {
             Inject();
@@ -71,9 +72,10 @@ public static class Program
             if (Directory.GetFiles(path).Contains("eu4.exe")) return;
             Console.Clear();
             Console.WriteLine($"Path: \"{path}\".");
-            Console.WriteLine("File \"eu4.exe\" not found. Continue? (yes/no)");
-            var key = Console.ReadLine();
-            if (key != "yes") Menu.Handle(DefaultOptions);
+            /*Console.WriteLine("File \"eu4.exe\" not found. Continue? (yes/no)");
+
+            var keyInfo = Console.ReadLine();
+            if (keyInfo == "yes" || keyInfo == "y") Menu.Handle(DefaultOptions);*/
             Injector.Path = path;
             Console.WriteLine($"Path \"{path}\" selected.");
         }
@@ -83,5 +85,8 @@ public static class Program
             Thread.Sleep(3000);
             Menu.Handle(DefaultOptions);
         }
+
+        Thread.Sleep(3000);
+        Menu.Handle(DefaultOptions);
     }
 }

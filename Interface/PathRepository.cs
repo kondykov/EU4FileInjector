@@ -16,7 +16,7 @@ public static class PathRepository
         return file.Result;
     }
 
-    public static void SavePath(string path)
+    public static void SavePath(string? path)
     {
         if (File.Exists(path))
         {

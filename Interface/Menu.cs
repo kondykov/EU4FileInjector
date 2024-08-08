@@ -2,8 +2,6 @@
 
 public static class Menu
 {
-    
-    
     private static void WriteMenu(List<Option> options, Option selectedOption)
     {
         if (options.Count >= Console.BufferHeight - 5) Console.Clear();

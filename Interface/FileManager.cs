@@ -4,7 +4,7 @@ public static class FileManager
 {
     public static readonly List<Option> Options =
     [
-        new Option("Select game folder", Program.ReadGameRootFolder),
+        new Option("Input path", Program.ReadGameRootFolder),
         new Option("Open file manager", GetDriversOptions),
         new Option("Back", () => Menu.Handle(Program.DefaultOptions))
     ];
@@ -15,7 +15,7 @@ public static class FileManager
         Console.SetCursorPosition(0, 0);
         Program.WriteAppInfo();
         Console.WriteLine(
-            "\"Left arrow\" exit from folder | \"Enter\" into folder or select file | \"Right arrow\" select folder or file");
+            "\"Left arrow\" exit from the folder | \"Enter\" select the folder | \"Right arrow\" enter the folder");
         Console.WriteLine();
         var last = options[0].Name.Split(Path.DirectorySeparatorChar).Last();
         var path = options[0].Name.Remove(options[0].Name.Length - last.Length);
@@ -115,7 +115,7 @@ public static class FileManager
         } while (keyInfo.Key != ConsoleKey.X);
     }
 
-    private static void SelectPath(string path)
+    private static void SelectPath(string? path)
     {
         Injector.Path = path;
         Console.Clear();
@@ -176,6 +176,7 @@ public static class FileManager
 
     private static void GenerateOptions(string? path)
     {
+        if (path == null) return;
         var folders = Directory.GetDirectories(path);
         var options = folders.Select(folder => new Option(folder, () => OpenFolder(folder))).ToList();
         //var files = Directory.GetFiles(path);

@@ -10,6 +10,7 @@ public class Injector
         Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
 
     private readonly List<string> _injectionFilesPaths =
+
     [
         @"Injection\cream_api.ini",
         @"Injection\steam_api.dll",
@@ -18,14 +19,30 @@ public class Injector
     ];
 
     private readonly List<string> _localAppDataLauncherFolders = [];
-    public static string Path { set; get; } = null!;
+    public static string? Path { set; get; } = null!;
+
+    public static void ShowSelectedPath()
+    {
+        Console.Clear();
+        Program.WriteAppInfo();
+        if (PathRepository.SavedPathExists()) Path = PathRepository.GetSavedPathOrNull();
+        Console.WriteLine($"Selected path: \"{Path}\".");
+        Thread.Sleep(3000);
+        Menu.Handle(Program.DefaultOptions);
+    }
 
     private bool CheckExistsInjectionFiles()
     {
+        Console.Clear();
+        Program.WriteAppInfo();
         if (Path == null!)
         {
-            Console.Clear();
-            Program.WriteAppInfo();
+            if (PathRepository.SavedPathExists())
+            {
+                Path = PathRepository.GetSavedPathOrNull();
+                Thread.Sleep(3000);
+                return true;
+            }
             Console.WriteLine("The path is not chosen.");
             Thread.Sleep(3000);
             return false;
@@ -33,12 +50,11 @@ public class Injector
 
         if (_injectionFilesPaths.Select(File.Exists).Any(e => e == false))
         {
-            Console.Clear();
-            Program.WriteAppInfo();
             Console.WriteLine("The injection folder is empty. Aborted.");
             Thread.Sleep(3000);
             return false;
         }
+
         PathRepository.SavePath(Path);
         return true;
     }
@@ -75,26 +91,40 @@ public class Injector
             var last = filePath.Split(System.IO.Path.DirectorySeparatorChar).Last();
             File.Copy($@"{Program.WorkDirectory}\{filePath}", $@"{Path}\{last}", true);
             foreach (var launcherFolder in _localAppDataLauncherFolders)
-                File.Copy($@"{Program.WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}", true);
+                File.Copy($@"{Program.WorkDirectory}\{filePath}", $@"{launcherFolder}\resources\app\dist\main\{last}",
+                    true);
             Console.WriteLine($"File {filePath.Split(System.IO.Path.DirectorySeparatorChar).Last()} injected.");
         }
 
+        Console.WriteLine("Finished!");
+        Thread.Sleep(3000);
         Menu.Handle(Program.DefaultOptions);
     }
 
-    // TODO: Доделать ijnection
     public void Run()
     {
+        Program.WriteAppInfo();
         if (!CheckExistsInjectionFiles()) Menu.Handle(Program.DefaultOptions);
         FindLocalAppdataLauncherFolders();
         var files = Directory.GetFiles(Path);
+        var found = false;
         foreach (var file in files)
         {
             var last = file.Split(System.IO.Path.DirectorySeparatorChar).Last();
             if (last != ExecutableFileName) continue;
+            found = true;
             Console.WriteLine($"Executable file {last} found.");
             Inject();
         }
+
+        if (!found)
+        {
+            Console.WriteLine("File \"eu4.exe\" not found. Continue? (yes/no)");
+            var key = Console.ReadLine();
+            if (key != "yes" || key != "y") Menu.Handle(Program.DefaultOptions);
+            Inject();
+        }
+
         Console.Clear();
         Program.WriteAppInfo();
         Console.WriteLine("Finished!");
